@@ -88,7 +88,7 @@
             {
                 "owner": false, 
                 "login": "fgregg", 
-                "avatar_url": "https://0.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
                 "contributions": 469, 
                 "html_url": "https://github.com/fgregg"
             }, 
@@ -109,14 +109,14 @@
             {
                 "owner": false, 
                 "login": "markhuberty", 
-                "avatar_url": "https://0.gravatar.com/avatar/6e61955679ebcff24e6ab8be500ba631?d=https%3A%2F%2Fidenticons.github.com%2F7c8892cbf5bc14abf187b64f967e2606.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/6e61955679ebcff24e6ab8be500ba631?d=https%3A%2F%2Fidenticons.github.com%2F7c8892cbf5bc14abf187b64f967e2606.png&r=x", 
                 "contributions": 35, 
                 "html_url": "https://github.com/markhuberty"
             }, 
             {
                 "owner": false, 
                 "login": "mekarpeles", 
-                "avatar_url": "https://0.gravatar.com/avatar/7ca82283af0b65b163dde4f5f5e3fb41?d=https%3A%2F%2Fidenticons.github.com%2F6a124bf58bdfe197a2f33a2a1ac7355a.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/7ca82283af0b65b163dde4f5f5e3fb41?d=https%3A%2F%2Fidenticons.github.com%2F6a124bf58bdfe197a2f33a2a1ac7355a.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/mekarpeles"
             }, 
@@ -148,7 +148,7 @@
         "updated_at": "2013-11-23T23:58:19Z", 
         "owner": {
             "login": "open-city", 
-            "avatar_url": "https://1.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/open-city"
         }, 
@@ -231,7 +231,7 @@
         "updated_at": "2013-11-02T17:22:32Z", 
         "owner": {
             "login": "harperreed", 
-            "avatar_url": "https://2.gravatar.com/avatar/b7a96b3d5b5cfed5228396104cd67b38?d=https%3A%2F%2Fidenticons.github.com%2F2f810d47ed84f11f7009b39ddc3bed95.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/b7a96b3d5b5cfed5228396104cd67b38?d=https%3A%2F%2Fidenticons.github.com%2F2f810d47ed84f11f7009b39ddc3bed95.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/harperreed"
         }, 
@@ -310,7 +310,7 @@
             {
                 "owner": false, 
                 "login": "chadwpry", 
-                "avatar_url": "https://2.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
                 "contributions": 18, 
                 "html_url": "https://github.com/chadwpry"
             }
@@ -515,7 +515,7 @@
         "updated_at": "2013-11-19T17:48:59Z", 
         "owner": {
             "login": "osintegrators", 
-            "avatar_url": "https://0.gravatar.com/avatar/a1b3242b2dc08b943a4467fddd0b7abb?d=https%3A%2F%2Fidenticons.github.com%2F8e1eddca5eb1a092a8ee5089092f8f25.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/a1b3242b2dc08b943a4467fddd0b7abb?d=https%3A%2F%2Fidenticons.github.com%2F8e1eddca5eb1a092a8ee5089092f8f25.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/osintegrators"
         }, 
@@ -598,7 +598,7 @@
         "updated_at": "2013-10-15T00:16:56Z", 
         "owner": {
             "login": "jpfahrenbach", 
-            "avatar_url": "https://0.gravatar.com/avatar/9ce92f8f5608c3acd8d217dc8fd76ed8?d=https%3A%2F%2Fidenticons.github.com%2F276e892c57f54e6a961a28741490ddd4.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/9ce92f8f5608c3acd8d217dc8fd76ed8?d=https%3A%2F%2Fidenticons.github.com%2F276e892c57f54e6a961a28741490ddd4.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/jpfahrenbach"
         }, 
@@ -670,21 +670,21 @@
             {
                 "owner": false, 
                 "login": "aronwc", 
-                "avatar_url": "https://1.gravatar.com/avatar/4d678a66d4dfad69b6eaeece74948522?d=https%3A%2F%2Fidenticons.github.com%2F70d9774f6c34c86664d841edc944cb97.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/4d678a66d4dfad69b6eaeece74948522?d=https%3A%2F%2Fidenticons.github.com%2F70d9774f6c34c86664d841edc944cb97.png&r=x", 
                 "contributions": 73, 
                 "html_url": "https://github.com/aronwc"
             }, 
             {
                 "owner": false, 
                 "login": "johnbyron", 
-                "avatar_url": "https://1.gravatar.com/avatar/bea3560ce61846cd6de72e779a9e2392?d=https%3A%2F%2Fidenticons.github.com%2F916f8e539f570288fdf2ebb67a1d0401.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/bea3560ce61846cd6de72e779a9e2392?d=https%3A%2F%2Fidenticons.github.com%2F916f8e539f570288fdf2ebb67a1d0401.png&r=x", 
                 "contributions": 43, 
                 "html_url": "https://github.com/johnbyron"
             }, 
             {
                 "owner": false, 
                 "login": "JohnHBrock", 
-                "avatar_url": "https://0.gravatar.com/avatar/1e9b07d4042705913c5e31bf94fb4286?d=https%3A%2F%2Fidenticons.github.com%2Fb12dc5e22fce5fad675f71c900667b36.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/1e9b07d4042705913c5e31bf94fb4286?d=https%3A%2F%2Fidenticons.github.com%2Fb12dc5e22fce5fad675f71c900667b36.png&r=x", 
                 "contributions": 14, 
                 "html_url": "https://github.com/JohnHBrock"
             }, 
@@ -698,7 +698,7 @@
             {
                 "owner": false, 
                 "login": "atqamar", 
-                "avatar_url": "https://2.gravatar.com/avatar/8118e3bd48de1183dff9db14a8c7745c?d=https%3A%2F%2Fidenticons.github.com%2F826da45603ac4086e43aaa24c17cb670.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/8118e3bd48de1183dff9db14a8c7745c?d=https%3A%2F%2Fidenticons.github.com%2F826da45603ac4086e43aaa24c17cb670.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/atqamar"
             }, 
@@ -712,7 +712,7 @@
             {
                 "owner": false, 
                 "login": "yokkay", 
-                "avatar_url": "https://2.gravatar.com/avatar/f1484964a87b2a99a2e06c8911905568?d=https%3A%2F%2Fidenticons.github.com%2F5de0b507d400c46cf32b056c679ac97c.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/f1484964a87b2a99a2e06c8911905568?d=https%3A%2F%2Fidenticons.github.com%2F5de0b507d400c46cf32b056c679ac97c.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/yokkay"
             }
@@ -795,7 +795,7 @@
             {
                 "owner": true, 
                 "login": "tkompare", 
-                "avatar_url": "https://0.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
                 "contributions": 60, 
                 "html_url": "https://github.com/tkompare"
             }
@@ -806,7 +806,7 @@
         "updated_at": "2013-11-10T00:26:31Z", 
         "owner": {
             "login": "tkompare", 
-            "avatar_url": "https://2.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/tkompare"
         }, 
@@ -885,21 +885,21 @@
             {
                 "owner": false, 
                 "login": "aepton", 
-                "avatar_url": "https://2.gravatar.com/avatar/790db1c5b7f1e2a71266aea97519c88c?d=https%3A%2F%2Fidenticons.github.com%2Fa07d029818359f909fb1ffa705bb5e29.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/790db1c5b7f1e2a71266aea97519c88c?d=https%3A%2F%2Fidenticons.github.com%2Fa07d029818359f909fb1ffa705bb5e29.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/aepton"
             }, 
             {
                 "owner": false, 
                 "login": "wilbertom", 
-                "avatar_url": "https://0.gravatar.com/avatar/c1c6dee9f2bd987093535b4d1b1d64d5?d=https%3A%2F%2Fidenticons.github.com%2Fe9f4be2457750ad20f513dc50b87c0d2.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/c1c6dee9f2bd987093535b4d1b1d64d5?d=https%3A%2F%2Fidenticons.github.com%2Fe9f4be2457750ad20f513dc50b87c0d2.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/wilbertom"
             }, 
             {
                 "owner": false, 
                 "login": "chrislkeller", 
-                "avatar_url": "https://1.gravatar.com/avatar/8873d006d6843ef6f2306c46f6acfdc1?d=https%3A%2F%2Fidenticons.github.com%2F60746f627fcf060027deac439abeeb89.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/8873d006d6843ef6f2306c46f6acfdc1?d=https%3A%2F%2Fidenticons.github.com%2F60746f627fcf060027deac439abeeb89.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/chrislkeller"
             }
@@ -910,7 +910,7 @@
         "updated_at": "2013-11-20T19:00:18Z", 
         "owner": {
             "login": "newsapps", 
-            "avatar_url": "https://2.gravatar.com/avatar/f02c694db7cd8e75caa0ebef5209a9e9?d=https%3A%2F%2Fidenticons.github.com%2F935d011909747f00740190b2c200eeaa.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/f02c694db7cd8e75caa0ebef5209a9e9?d=https%3A%2F%2Fidenticons.github.com%2F935d011909747f00740190b2c200eeaa.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/newsapps"
         }, 
@@ -982,28 +982,28 @@
             {
                 "owner": false, 
                 "login": "derekeder", 
-                "avatar_url": "https://2.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
                 "contributions": 207, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
                 "owner": false, 
                 "login": "aaronsalmon", 
-                "avatar_url": "https://2.gravatar.com/avatar/4632ef071026aa517ea21fd86301e868?d=https%3A%2F%2Fidenticons.github.com%2Fdbe3bcfb77f7bcbb56c0a4e7e3200e54.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/4632ef071026aa517ea21fd86301e868?d=https%3A%2F%2Fidenticons.github.com%2Fdbe3bcfb77f7bcbb56c0a4e7e3200e54.png&r=x", 
                 "contributions": 38, 
                 "html_url": "https://github.com/aaronsalmon"
             }, 
             {
                 "owner": false, 
                 "login": "mapmeld", 
-                "avatar_url": "https://2.gravatar.com/avatar/93703e565323afcd226a76cf6baeb0f7?d=https%3A%2F%2Fidenticons.github.com%2F6ae8334b134066bcb03c227141dcafec.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/93703e565323afcd226a76cf6baeb0f7?d=https%3A%2F%2Fidenticons.github.com%2F6ae8334b134066bcb03c227141dcafec.png&r=x", 
                 "contributions": 29, 
                 "html_url": "https://github.com/mapmeld"
             }, 
             {
                 "owner": false, 
                 "login": "evz", 
-                "avatar_url": "https://1.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/evz"
             }
@@ -1014,7 +1014,7 @@
         "updated_at": "2013-11-22T10:08:08Z", 
         "owner": {
             "login": "smartchicago", 
-            "avatar_url": "https://1.gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/smartchicago"
         }, 
@@ -1086,7 +1086,7 @@
             {
                 "owner": true, 
                 "login": "alexsoble", 
-                "avatar_url": "https://1.gravatar.com/avatar/38bebd42c21cda441aec7b277230f465?d=https%3A%2F%2Fidenticons.github.com%2F8b09fc4b0aa78e93fb466092bba4954d.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/38bebd42c21cda441aec7b277230f465?d=https%3A%2F%2Fidenticons.github.com%2F8b09fc4b0aa78e93fb466092bba4954d.png&r=x", 
                 "contributions": 37, 
                 "html_url": "https://github.com/alexsoble"
             }
@@ -1097,7 +1097,7 @@
         "updated_at": "2013-11-15T20:32:51Z", 
         "owner": {
             "login": "alexsoble", 
-            "avatar_url": "https://0.gravatar.com/avatar/38bebd42c21cda441aec7b277230f465?d=https%3A%2F%2Fidenticons.github.com%2F8b09fc4b0aa78e93fb466092bba4954d.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/38bebd42c21cda441aec7b277230f465?d=https%3A%2F%2Fidenticons.github.com%2F8b09fc4b0aa78e93fb466092bba4954d.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/alexsoble"
         }, 
@@ -1169,7 +1169,7 @@
             {
                 "owner": false, 
                 "login": "notthatbreezy", 
-                "avatar_url": "https://1.gravatar.com/avatar/43e19fcd5ecd81c93cf58d084aef127c?d=https%3A%2F%2Fidenticons.github.com%2F57de9efb3497c8455b95d1a69dacc535.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/43e19fcd5ecd81c93cf58d084aef127c?d=https%3A%2F%2Fidenticons.github.com%2F57de9efb3497c8455b95d1a69dacc535.png&r=x", 
                 "contributions": 404, 
                 "html_url": "https://github.com/notthatbreezy"
             }, 
@@ -1183,21 +1183,21 @@
             {
                 "owner": false, 
                 "login": "CloudNiner", 
-                "avatar_url": "https://1.gravatar.com/avatar/58ce0433a3bcb9b5bd3982d5ea0b5399?d=https%3A%2F%2Fidenticons.github.com%2Fb26d4f913ad8b3e9282fe7ed953b211f.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/58ce0433a3bcb9b5bd3982d5ea0b5399?d=https%3A%2F%2Fidenticons.github.com%2Fb26d4f913ad8b3e9282fe7ed953b211f.png&r=x", 
                 "contributions": 332, 
                 "html_url": "https://github.com/CloudNiner"
             }, 
             {
                 "owner": false, 
                 "login": "balexandrowicz", 
-                "avatar_url": "https://2.gravatar.com/avatar/eced917765c9210745333ce039a40277?d=https%3A%2F%2Fidenticons.github.com%2F278548075703224cca219c9ca51d13f1.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/eced917765c9210745333ce039a40277?d=https%3A%2F%2Fidenticons.github.com%2F278548075703224cca219c9ca51d13f1.png&r=x", 
                 "contributions": 89, 
                 "html_url": "https://github.com/balexandrowicz"
             }, 
             {
                 "owner": false, 
                 "login": "kshepard", 
-                "avatar_url": "https://0.gravatar.com/avatar/107979086056f90d2ff5bfc68f71b3f7?d=https%3A%2F%2Fidenticons.github.com%2F816a6db41f0e44644bc65808b6db5ca4.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/107979086056f90d2ff5bfc68f71b3f7?d=https%3A%2F%2Fidenticons.github.com%2F816a6db41f0e44644bc65808b6db5ca4.png&r=x", 
                 "contributions": 16, 
                 "html_url": "https://github.com/kshepard"
             }, 
@@ -1281,8 +1281,8 @@
             4, 
             52, 
             139, 
-            129, 
-            245, 
+            130, 
+            244, 
             311, 
             131, 
             74, 
@@ -1308,21 +1308,21 @@
             {
                 "owner": false, 
                 "login": "derekeder", 
-                "avatar_url": "https://2.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
                 "contributions": 51, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
                 "owner": false, 
                 "login": "fgregg", 
-                "avatar_url": "https://0.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
                 "contributions": 46, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
                 "owner": false, 
                 "login": "evz", 
-                "avatar_url": "https://1.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
                 "contributions": 9, 
                 "html_url": "https://github.com/evz"
             }
@@ -1488,7 +1488,7 @@
             {
                 "owner": false, 
                 "login": "iandees", 
-                "avatar_url": "https://0.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
                 "contributions": 168, 
                 "html_url": "https://github.com/iandees"
             }, 
@@ -1578,14 +1578,14 @@
             {
                 "owner": false, 
                 "login": "tomschenkjr", 
-                "avatar_url": "https://1.gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
                 "contributions": 7, 
                 "html_url": "https://github.com/tomschenkjr"
             }, 
             {
                 "owner": false, 
                 "login": "ericcf", 
-                "avatar_url": "https://2.gravatar.com/avatar/236f2819b23b1550eddf953f471da151?d=https%3A%2F%2Fidenticons.github.com%2F2293b6edba0a1fef288e6dacdcb38689.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/236f2819b23b1550eddf953f471da151?d=https%3A%2F%2Fidenticons.github.com%2F2293b6edba0a1fef288e6dacdcb38689.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/ericcf"
             }
@@ -1596,7 +1596,7 @@
         "updated_at": "2013-11-24T05:06:02Z", 
         "owner": {
             "login": "Chicago", 
-            "avatar_url": "https://0.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/Chicago"
         }, 
@@ -1679,7 +1679,7 @@
         "updated_at": "2013-11-24T05:05:26Z", 
         "owner": {
             "login": "Chicago", 
-            "avatar_url": "https://2.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/Chicago"
         }, 
@@ -1751,7 +1751,7 @@
             {
                 "owner": false, 
                 "login": "wilbertom", 
-                "avatar_url": "https://0.gravatar.com/avatar/c1c6dee9f2bd987093535b4d1b1d64d5?d=https%3A%2F%2Fidenticons.github.com%2Fe9f4be2457750ad20f513dc50b87c0d2.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/c1c6dee9f2bd987093535b4d1b1d64d5?d=https%3A%2F%2Fidenticons.github.com%2Fe9f4be2457750ad20f513dc50b87c0d2.png&r=x", 
                 "contributions": 90, 
                 "html_url": "https://github.com/wilbertom"
             }
@@ -1841,7 +1841,7 @@
             {
                 "owner": false, 
                 "login": "nb-ofs", 
-                "avatar_url": "https://2.gravatar.com/avatar/999f566810c1cabf8696fd80c0aeb7ee?d=https%3A%2F%2Fidenticons.github.com%2Fc6affefe7c12703bfbe3d27d9cfb3e7e.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/999f566810c1cabf8696fd80c0aeb7ee?d=https%3A%2F%2Fidenticons.github.com%2Fc6affefe7c12703bfbe3d27d9cfb3e7e.png&r=x", 
                 "contributions": 7, 
                 "html_url": "https://github.com/nb-ofs"
             }, 
@@ -1952,14 +1952,14 @@
             {
                 "owner": false, 
                 "login": "JoeGermuska", 
-                "avatar_url": "https://2.gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
                 "contributions": 11, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
                 "owner": false, 
                 "login": "jsatt", 
-                "avatar_url": "https://2.gravatar.com/avatar/cf972cebb4204d16888ea946cdc2cfba?d=https%3A%2F%2Fidenticons.github.com%2F685a1c8062b128de2755ccba4f9b2c07.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/cf972cebb4204d16888ea946cdc2cfba?d=https%3A%2F%2Fidenticons.github.com%2F685a1c8062b128de2755ccba4f9b2c07.png&r=x", 
                 "contributions": 3, 
                 "html_url": "https://github.com/jsatt"
             }, 
@@ -1973,14 +1973,14 @@
             {
                 "owner": false, 
                 "login": "jamesturk", 
-                "avatar_url": "https://0.gravatar.com/avatar/25c99741df8165ee24e9bd9f79b18842?d=https%3A%2F%2Fidenticons.github.com%2Fcc4af25fa9d2d5c953496579b75f6f6c.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/25c99741df8165ee24e9bd9f79b18842?d=https%3A%2F%2Fidenticons.github.com%2Fcc4af25fa9d2d5c953496579b75f6f6c.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/jamesturk"
             }, 
             {
                 "owner": false, 
                 "login": "rhymeswithcycle", 
-                "avatar_url": "https://0.gravatar.com/avatar/cb0c540dfd2d62576c4cdeb766e75752?d=https%3A%2F%2Fidenticons.github.com%2F88e32e9d66247d2e4483a76eccf9f7e3.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/cb0c540dfd2d62576c4cdeb766e75752?d=https%3A%2F%2Fidenticons.github.com%2F88e32e9d66247d2e4483a76eccf9f7e3.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/rhymeswithcycle"
             }, 
@@ -2070,7 +2070,7 @@
             {
                 "owner": true, 
                 "login": "iandees", 
-                "avatar_url": "https://1.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
                 "contributions": 6, 
                 "html_url": "https://github.com/iandees"
             }
@@ -2081,7 +2081,7 @@
         "updated_at": "2013-10-06T08:54:08Z", 
         "owner": {
             "login": "iandees", 
-            "avatar_url": "https://0.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/iandees"
         }, 
@@ -2153,7 +2153,7 @@
             {
                 "owner": true, 
                 "login": "ryanbriones", 
-                "avatar_url": "https://1.gravatar.com/avatar/881b7dd91c0d9287aea5bc505c10a15a?d=https%3A%2F%2Fidenticons.github.com%2F854d6fae5ee42911677c739ee1734486.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/881b7dd91c0d9287aea5bc505c10a15a?d=https%3A%2F%2Fidenticons.github.com%2F854d6fae5ee42911677c739ee1734486.png&r=x", 
                 "contributions": 7, 
                 "html_url": "https://github.com/ryanbriones"
             }
@@ -2247,7 +2247,7 @@
         "updated_at": "2013-10-12T22:01:41Z", 
         "owner": {
             "login": "codeforamerica", 
-            "avatar_url": "https://2.gravatar.com/avatar/ec81184c572bc827b72ebb489d49f821?d=https%3A%2F%2Fidenticons.github.com%2F190ee0a9502204c8340cee81293edbbe.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/ec81184c572bc827b72ebb489d49f821?d=https%3A%2F%2Fidenticons.github.com%2F190ee0a9502204c8340cee81293edbbe.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/codeforamerica"
         }, 
@@ -2326,7 +2326,7 @@
             {
                 "owner": false, 
                 "login": "aslotnick", 
-                "avatar_url": "https://1.gravatar.com/avatar/6cb89a1c43adfc85e6ee2e48ffdd85da?d=https%3A%2F%2Fidenticons.github.com%2F4fce23f3be42df238651289bf37f40e4.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/6cb89a1c43adfc85e6ee2e48ffdd85da?d=https%3A%2F%2Fidenticons.github.com%2F4fce23f3be42df238651289bf37f40e4.png&r=x", 
                 "contributions": 3, 
                 "html_url": "https://github.com/aslotnick"
             }
@@ -2337,7 +2337,7 @@
         "updated_at": "2013-11-06T03:23:58Z", 
         "owner": {
             "login": "jcbozonier", 
-            "avatar_url": "https://2.gravatar.com/avatar/faaec8aeaf4e307d20de8bf9129d6635?d=https%3A%2F%2Fidenticons.github.com%2F9b67ff5862eb652ed35b0554cb7f62f2.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/faaec8aeaf4e307d20de8bf9129d6635?d=https%3A%2F%2Fidenticons.github.com%2F9b67ff5862eb652ed35b0554cb7f62f2.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/jcbozonier"
         }, 
@@ -2409,28 +2409,28 @@
             {
                 "owner": false, 
                 "login": "derekeder", 
-                "avatar_url": "https://0.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
                 "contributions": 62, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
                 "owner": false, 
                 "login": "mapmeld", 
-                "avatar_url": "https://0.gravatar.com/avatar/93703e565323afcd226a76cf6baeb0f7?d=https%3A%2F%2Fidenticons.github.com%2F6ae8334b134066bcb03c227141dcafec.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/93703e565323afcd226a76cf6baeb0f7?d=https%3A%2F%2Fidenticons.github.com%2F6ae8334b134066bcb03c227141dcafec.png&r=x", 
                 "contributions": 3, 
                 "html_url": "https://github.com/mapmeld"
             }, 
             {
                 "owner": false, 
                 "login": "jpvelez", 
-                "avatar_url": "https://1.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/jpvelez"
             }, 
             {
                 "owner": false, 
                 "login": "christophermanning", 
-                "avatar_url": "https://2.gravatar.com/avatar/3f9394a7fb1070144a59644462eb4916?d=https%3A%2F%2Fidenticons.github.com%2F7721e78cb8b3a9293dae21957d0e8dda.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/3f9394a7fb1070144a59644462eb4916?d=https%3A%2F%2Fidenticons.github.com%2F7721e78cb8b3a9293dae21957d0e8dda.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/christophermanning"
             }, 
@@ -2520,28 +2520,28 @@
             {
                 "owner": false, 
                 "login": "derekeder", 
-                "avatar_url": "https://0.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
                 "contributions": 96, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
                 "owner": false, 
                 "login": "chadwpry", 
-                "avatar_url": "https://2.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
                 "contributions": 82, 
                 "html_url": "https://github.com/chadwpry"
             }, 
             {
                 "owner": false, 
                 "login": "rougeux", 
-                "avatar_url": "https://2.gravatar.com/avatar/1454d7515ce1d886f877b8c4ca0ae5c7?d=https%3A%2F%2Fidenticons.github.com%2F799c948ef4bcd12eb745c913791cd1a4.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/1454d7515ce1d886f877b8c4ca0ae5c7?d=https%3A%2F%2Fidenticons.github.com%2F799c948ef4bcd12eb745c913791cd1a4.png&r=x", 
                 "contributions": 16, 
                 "html_url": "https://github.com/rougeux"
             }, 
             {
                 "owner": false, 
                 "login": "jimbreen", 
-                "avatar_url": "https://0.gravatar.com/avatar/1d2eb07e54646e6d52d2e0720181dacb?d=https%3A%2F%2Fidenticons.github.com%2Fa39bcd5560c39a75c3616676261bf950.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/1d2eb07e54646e6d52d2e0720181dacb?d=https%3A%2F%2Fidenticons.github.com%2Fa39bcd5560c39a75c3616676261bf950.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/jimbreen"
             }
@@ -2624,7 +2624,7 @@
             {
                 "owner": false, 
                 "login": "bensheldon", 
-                "avatar_url": "https://2.gravatar.com/avatar/0a760b6486d32a6ca54cad49210fdf49?d=https%3A%2F%2Fidenticons.github.com%2Fea8ef8e4d485b31880a627bd3c61bb2c.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/0a760b6486d32a6ca54cad49210fdf49?d=https%3A%2F%2Fidenticons.github.com%2Fea8ef8e4d485b31880a627bd3c61bb2c.png&r=x", 
                 "contributions": 15, 
                 "html_url": "https://github.com/bensheldon"
             }, 
@@ -2645,14 +2645,14 @@
             {
                 "owner": false, 
                 "login": "drewda", 
-                "avatar_url": "https://1.gravatar.com/avatar/542fc411e2ec547afd9ed7ed4caa5b3d?d=https%3A%2F%2Fidenticons.github.com%2F814ddfddee50831ff86e7a31d2452bef.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/542fc411e2ec547afd9ed7ed4caa5b3d?d=https%3A%2F%2Fidenticons.github.com%2F814ddfddee50831ff86e7a31d2452bef.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/drewda"
             }, 
             {
                 "owner": false, 
                 "login": "zachwill", 
-                "avatar_url": "https://2.gravatar.com/avatar/52e2728d5819cdd02f46b07e711dc859?d=https%3A%2F%2Fidenticons.github.com%2F25f416338ed598da7c7c28b7f9f92c09.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/52e2728d5819cdd02f46b07e711dc859?d=https%3A%2F%2Fidenticons.github.com%2F25f416338ed598da7c7c28b7f9f92c09.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/zachwill"
             }
@@ -2663,7 +2663,7 @@
         "updated_at": "2013-10-25T15:08:27Z", 
         "owner": {
             "login": "codeforamerica", 
-            "avatar_url": "https://1.gravatar.com/avatar/ec81184c572bc827b72ebb489d49f821?d=https%3A%2F%2Fidenticons.github.com%2F190ee0a9502204c8340cee81293edbbe.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/ec81184c572bc827b72ebb489d49f821?d=https%3A%2F%2Fidenticons.github.com%2F190ee0a9502204c8340cee81293edbbe.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/codeforamerica"
         }, 
@@ -2749,21 +2749,21 @@
             {
                 "owner": false, 
                 "login": "shua123", 
-                "avatar_url": "https://0.gravatar.com/avatar/e5109f2bffaa7a6e4d48917c30fb9dea?d=https%3A%2F%2Fidenticons.github.com%2Fe7a0a2175c00c142fe3f63318181876e.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/e5109f2bffaa7a6e4d48917c30fb9dea?d=https%3A%2F%2Fidenticons.github.com%2Fe7a0a2175c00c142fe3f63318181876e.png&r=x", 
                 "contributions": 48, 
                 "html_url": "https://github.com/shua123"
             }, 
             {
                 "owner": false, 
                 "login": "emirose", 
-                "avatar_url": "https://2.gravatar.com/avatar/dbdc84869a05027e93f4a5ec95279a91?d=https%3A%2F%2Fidenticons.github.com%2F2bafbf12c08c631bfbc1c3d99b3d85ca.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/dbdc84869a05027e93f4a5ec95279a91?d=https%3A%2F%2Fidenticons.github.com%2F2bafbf12c08c631bfbc1c3d99b3d85ca.png&r=x", 
                 "contributions": 9, 
                 "html_url": "https://github.com/emirose"
             }, 
             {
                 "owner": false, 
                 "login": "rougeux", 
-                "avatar_url": "https://1.gravatar.com/avatar/1454d7515ce1d886f877b8c4ca0ae5c7?d=https%3A%2F%2Fidenticons.github.com%2F799c948ef4bcd12eb745c913791cd1a4.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/1454d7515ce1d886f877b8c4ca0ae5c7?d=https%3A%2F%2Fidenticons.github.com%2F799c948ef4bcd12eb745c913791cd1a4.png&r=x", 
                 "contributions": 8, 
                 "html_url": "https://github.com/rougeux"
             }, 
@@ -2784,14 +2784,14 @@
             {
                 "owner": false, 
                 "login": "richardlee", 
-                "avatar_url": "https://1.gravatar.com/avatar/992ff8a5cccacd1f15714c8c80ae7bba?d=https%3A%2F%2Fidenticons.github.com%2F4a0f10aa04e31d38b23a63518b53a902.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/992ff8a5cccacd1f15714c8c80ae7bba?d=https%3A%2F%2Fidenticons.github.com%2F4a0f10aa04e31d38b23a63518b53a902.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/richardlee"
             }, 
             {
                 "owner": false, 
                 "login": "briankung", 
-                "avatar_url": "https://0.gravatar.com/avatar/8d1bc195cf067a719735316e970a5449?d=https%3A%2F%2Fidenticons.github.com%2Fcfea121f5a27b05c71faa9151a3dc9c7.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/8d1bc195cf067a719735316e970a5449?d=https%3A%2F%2Fidenticons.github.com%2Fcfea121f5a27b05c71faa9151a3dc9c7.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/briankung"
             }, 
@@ -2809,7 +2809,7 @@
         "updated_at": "2013-10-19T19:38:02Z", 
         "owner": {
             "login": "amtamayo", 
-            "avatar_url": "https://2.gravatar.com/avatar/c82a0e1751e85f9cfd17ad6d1fab667c?d=https%3A%2F%2Fidenticons.github.com%2F84ef19cc0cba07982fefbecfd5a7b7ab.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/c82a0e1751e85f9cfd17ad6d1fab667c?d=https%3A%2F%2Fidenticons.github.com%2F84ef19cc0cba07982fefbecfd5a7b7ab.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/amtamayo"
         }, 
@@ -2906,7 +2906,7 @@
         "updated_at": "2013-11-06T16:13:30Z", 
         "owner": {
             "login": "open-city", 
-            "avatar_url": "https://1.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/open-city"
         }, 
@@ -2985,14 +2985,14 @@
             {
                 "owner": false, 
                 "login": "chadwpry", 
-                "avatar_url": "https://1.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
                 "contributions": 18, 
                 "html_url": "https://github.com/chadwpry"
             }, 
             {
                 "owner": false, 
                 "login": "fgregg", 
-                "avatar_url": "https://1.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/fgregg"
             }
@@ -3082,7 +3082,7 @@
             {
                 "owner": false, 
                 "login": "chadwpry", 
-                "avatar_url": "https://2.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
                 "contributions": 71, 
                 "html_url": "https://github.com/chadwpry"
             }, 
@@ -3200,14 +3200,14 @@
             {
                 "owner": false, 
                 "login": "cmollet", 
-                "avatar_url": "https://0.gravatar.com/avatar/9441da5d003a46ccccbb56e031fbe9d1?d=https%3A%2F%2Fidenticons.github.com%2F4394e579efd8eb4e6617b3bde56b74c0.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/9441da5d003a46ccccbb56e031fbe9d1?d=https%3A%2F%2Fidenticons.github.com%2F4394e579efd8eb4e6617b3bde56b74c0.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/cmollet"
             }, 
             {
                 "owner": true, 
                 "login": "tplagge", 
-                "avatar_url": "https://0.gravatar.com/avatar/fb15631dceb05852bdc10bc483f0191d?d=https%3A%2F%2Fidenticons.github.com%2Fa2a87b3a78e2f050bcdf94c20e892ec6.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/fb15631dceb05852bdc10bc483f0191d?d=https%3A%2F%2Fidenticons.github.com%2Fa2a87b3a78e2f050bcdf94c20e892ec6.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/tplagge"
             }
@@ -3290,21 +3290,21 @@
             {
                 "owner": false, 
                 "login": "Mr0grog", 
-                "avatar_url": "https://2.gravatar.com/avatar/eebf8e89588f30032b8922c584ea636d?d=https%3A%2F%2Fidenticons.github.com%2Fdf98c1a05903d0856f19af13ea5b755d.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/eebf8e89588f30032b8922c584ea636d?d=https%3A%2F%2Fidenticons.github.com%2Fdf98c1a05903d0856f19af13ea5b755d.png&r=x", 
                 "contributions": 118, 
                 "html_url": "https://github.com/Mr0grog"
             }, 
             {
                 "owner": false, 
                 "login": "bensheldon", 
-                "avatar_url": "https://0.gravatar.com/avatar/0a760b6486d32a6ca54cad49210fdf49?d=https%3A%2F%2Fidenticons.github.com%2Fea8ef8e4d485b31880a627bd3c61bb2c.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/0a760b6486d32a6ca54cad49210fdf49?d=https%3A%2F%2Fidenticons.github.com%2Fea8ef8e4d485b31880a627bd3c61bb2c.png&r=x", 
                 "contributions": 5, 
                 "html_url": "https://github.com/bensheldon"
             }, 
             {
                 "owner": false, 
                 "login": "h4ck3rm1k3", 
-                "avatar_url": "https://1.gravatar.com/avatar/cff24874f9655be6b8a602420a4f4384?d=https%3A%2F%2Fidenticons.github.com%2Ffb52538ee970026501864b2272852dc4.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/cff24874f9655be6b8a602420a4f4384?d=https%3A%2F%2Fidenticons.github.com%2Ffb52538ee970026501864b2272852dc4.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/h4ck3rm1k3"
             }, 
@@ -3322,7 +3322,7 @@
         "updated_at": "2013-10-01T12:25:11Z", 
         "owner": {
             "login": "Chicago", 
-            "avatar_url": "https://0.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/Chicago"
         }, 
@@ -3394,7 +3394,7 @@
             {
                 "owner": true, 
                 "login": "iandees", 
-                "avatar_url": "https://1.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/iandees"
             }
@@ -3484,7 +3484,7 @@
             {
                 "owner": false, 
                 "login": "danxoneil", 
-                "avatar_url": "https://0.gravatar.com/avatar/d6924adcd492489dfce203048d555876?d=https%3A%2F%2Fidenticons.github.com%2F9e701dfc2f4952d495077c6bf6c3c94a.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/d6924adcd492489dfce203048d555876?d=https%3A%2F%2Fidenticons.github.com%2F9e701dfc2f4952d495077c6bf6c3c94a.png&r=x", 
                 "contributions": 15, 
                 "html_url": "https://github.com/danxoneil"
             }, 
@@ -3599,7 +3599,7 @@
         "updated_at": "2013-11-22T16:08:38Z", 
         "owner": {
             "login": "smartchicago", 
-            "avatar_url": "https://0.gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/smartchicago"
         }, 
@@ -3671,7 +3671,7 @@
             {
                 "owner": true, 
                 "login": "iandees", 
-                "avatar_url": "https://1.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
                 "contributions": 12, 
                 "html_url": "https://github.com/iandees"
             }
@@ -3682,7 +3682,7 @@
         "updated_at": "2013-11-01T00:40:10Z", 
         "owner": {
             "login": "iandees", 
-            "avatar_url": "https://0.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/iandees"
         }, 
@@ -3829,14 +3829,14 @@
             {
                 "owner": false, 
                 "login": "eads", 
-                "avatar_url": "https://2.gravatar.com/avatar/ac137d6b1fc890c5ac1a6a4d45acefcc?d=https%3A%2F%2Fidenticons.github.com%2F396638d81fee53be2705d806ca713dff.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/ac137d6b1fc890c5ac1a6a4d45acefcc?d=https%3A%2F%2Fidenticons.github.com%2F396638d81fee53be2705d806ca713dff.png&r=x", 
                 "contributions": 134, 
                 "html_url": "https://github.com/eads"
             }, 
             {
                 "owner": false, 
                 "login": "nwinklareth", 
-                "avatar_url": "https://0.gravatar.com/avatar/a4f3f11bfe474e93609f350b64649309?d=https%3A%2F%2Fidenticons.github.com%2Fe08644ab8b4b7fd3c831e5b83b7f0f83.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/a4f3f11bfe474e93609f350b64649309?d=https%3A%2F%2Fidenticons.github.com%2Fe08644ab8b4b7fd3c831e5b83b7f0f83.png&r=x", 
                 "contributions": 112, 
                 "html_url": "https://github.com/nwinklareth"
             }, 
@@ -3864,14 +3864,14 @@
             {
                 "owner": false, 
                 "login": "fgregg", 
-                "avatar_url": "https://1.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
                 "owner": false, 
                 "login": "sharonelizch", 
-                "avatar_url": "https://2.gravatar.com/avatar/c789e18e7fa74c3d2a1126f6a1502c11?d=https%3A%2F%2Fidenticons.github.com%2Fe91e79da0123de4293c538dd1c6419cc.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/c789e18e7fa74c3d2a1126f6a1502c11?d=https%3A%2F%2Fidenticons.github.com%2Fe91e79da0123de4293c538dd1c6419cc.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/sharonelizch"
             }, 
@@ -3885,21 +3885,21 @@
             {
                 "owner": false, 
                 "login": "JoeGermuska", 
-                "avatar_url": "https://0.gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
                 "contributions": 3, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
                 "owner": false, 
                 "login": "cguira", 
-                "avatar_url": "https://1.gravatar.com/avatar/7b5fa48a20819ce69167da154915b41e?d=https%3A%2F%2Fidenticons.github.com%2Ff615295a2c30acdfd909db1d5ea32ee0.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/7b5fa48a20819ce69167da154915b41e?d=https%3A%2F%2Fidenticons.github.com%2Ff615295a2c30acdfd909db1d5ea32ee0.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/cguira"
             }, 
             {
                 "owner": false, 
                 "login": "codersquid", 
-                "avatar_url": "https://2.gravatar.com/avatar/935e80c82a9efd6f96fd9e74da682f05?d=https%3A%2F%2Fidenticons.github.com%2F4445a5068530c8321af657cb94efd715.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/935e80c82a9efd6f96fd9e74da682f05?d=https%3A%2F%2Fidenticons.github.com%2F4445a5068530c8321af657cb94efd715.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/codersquid"
             }, 
@@ -3913,7 +3913,7 @@
             {
                 "owner": false, 
                 "login": "35thLair", 
-                "avatar_url": "https://1.gravatar.com/avatar/6eaf2c0c28b99586e8828d4cc1975b94?d=https%3A%2F%2Fidenticons.github.com%2F7e94ff16909822465b1ce26caa8c04b7.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/6eaf2c0c28b99586e8828d4cc1975b94?d=https%3A%2F%2Fidenticons.github.com%2F7e94ff16909822465b1ce26caa8c04b7.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/35thLair"
             }, 
@@ -4017,7 +4017,7 @@
             {
                 "owner": false, 
                 "login": "fosslien", 
-                "avatar_url": "https://2.gravatar.com/avatar/f25f16fe44eaf841574818f13b8d1536?d=https%3A%2F%2Fidenticons.github.com%2F0034ea134641afd5deb357f0453a23ac.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/f25f16fe44eaf841574818f13b8d1536?d=https%3A%2F%2Fidenticons.github.com%2F0034ea134641afd5deb357f0453a23ac.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/fosslien"
             }
@@ -4103,7 +4103,7 @@
         "updated_at": "2013-10-20T21:59:20Z", 
         "owner": {
             "login": "srobbin", 
-            "avatar_url": "https://2.gravatar.com/avatar/faf77d98052ea830bebaf89238862163?d=https%3A%2F%2Fidenticons.github.com%2F64c6e872abc90f8a480908b92521e25a.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/faf77d98052ea830bebaf89238862163?d=https%3A%2F%2Fidenticons.github.com%2F64c6e872abc90f8a480908b92521e25a.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/srobbin"
         }, 
@@ -4186,7 +4186,7 @@
         "updated_at": "2013-07-16T12:22:49Z", 
         "owner": {
             "login": "evz", 
-            "avatar_url": "https://1.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/evz"
         }, 
@@ -4258,7 +4258,7 @@
             {
                 "owner": false, 
                 "login": "chadwpry", 
-                "avatar_url": "https://2.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
                 "contributions": 18, 
                 "html_url": "https://github.com/chadwpry"
             }, 
@@ -4348,14 +4348,14 @@
             {
                 "owner": true, 
                 "login": "bosgood", 
-                "avatar_url": "https://1.gravatar.com/avatar/1a286a392ecc96e9cb40c03134b96841?d=https%3A%2F%2Fidenticons.github.com%2F79d97f69b88aef10d2c573e8d9e36d4c.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/1a286a392ecc96e9cb40c03134b96841?d=https%3A%2F%2Fidenticons.github.com%2F79d97f69b88aef10d2c573e8d9e36d4c.png&r=x", 
                 "contributions": 63, 
                 "html_url": "https://github.com/bosgood"
             }, 
             {
                 "owner": false, 
                 "login": "telegraham", 
-                "avatar_url": "https://1.gravatar.com/avatar/cf126773aa72b7c5ceca0c3c1f14010a?d=https%3A%2F%2Fidenticons.github.com%2F586b51c9ba7cc1631b27c599a422cce2.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/cf126773aa72b7c5ceca0c3c1f14010a?d=https%3A%2F%2Fidenticons.github.com%2F586b51c9ba7cc1631b27c599a422cce2.png&r=x", 
                 "contributions": 7, 
                 "html_url": "https://github.com/telegraham"
             }
@@ -4438,7 +4438,7 @@
             {
                 "owner": false, 
                 "login": "boundsj", 
-                "avatar_url": "https://2.gravatar.com/avatar/c529353f16d6ff481a3195d29c4164c7?d=https%3A%2F%2Fidenticons.github.com%2Fea70baf624affef1b67543c7c5949929.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/c529353f16d6ff481a3195d29c4164c7?d=https%3A%2F%2Fidenticons.github.com%2Fea70baf624affef1b67543c7c5949929.png&r=x", 
                 "contributions": 28, 
                 "html_url": "https://github.com/boundsj"
             }, 
@@ -4535,7 +4535,7 @@
             {
                 "owner": true, 
                 "login": "evz", 
-                "avatar_url": "https://2.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
                 "contributions": 29, 
                 "html_url": "https://github.com/evz"
             }
@@ -4546,7 +4546,7 @@
         "updated_at": "2013-09-08T14:25:29Z", 
         "owner": {
             "login": "evz", 
-            "avatar_url": "https://2.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/evz"
         }, 
@@ -4629,7 +4629,7 @@
         "updated_at": "2013-09-08T06:14:27Z", 
         "owner": {
             "login": "iandees", 
-            "avatar_url": "https://1.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/iandees"
         }, 
@@ -4701,35 +4701,35 @@
             {
                 "owner": false, 
                 "login": "hunterowens", 
-                "avatar_url": "https://0.gravatar.com/avatar/ff16180e6d9715d5ae17526cb83d7cfb?d=https%3A%2F%2Fidenticons.github.com%2Fc3663e10b721e5d713a55aebf8621901.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/ff16180e6d9715d5ae17526cb83d7cfb?d=https%3A%2F%2Fidenticons.github.com%2Fc3663e10b721e5d713a55aebf8621901.png&r=x", 
                 "contributions": 133, 
                 "html_url": "https://github.com/hunterowens"
             }, 
             {
                 "owner": false, 
                 "login": "jpvelez", 
-                "avatar_url": "https://1.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
                 "contributions": 69, 
                 "html_url": "https://github.com/jpvelez"
             }, 
             {
                 "owner": false, 
                 "login": "fishmanadam", 
-                "avatar_url": "https://2.gravatar.com/avatar/d1529c1f159f49be15cf5fde0366b599?d=https%3A%2F%2Fidenticons.github.com%2Fdb534c76db466f7764d7e745900be88d.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/d1529c1f159f49be15cf5fde0366b599?d=https%3A%2F%2Fidenticons.github.com%2Fdb534c76db466f7764d7e745900be88d.png&r=x", 
                 "contributions": 64, 
                 "html_url": "https://github.com/fishmanadam"
             }, 
             {
                 "owner": false, 
                 "login": "darkzeroman", 
-                "avatar_url": "https://0.gravatar.com/avatar/b908e911085d0f1fb72f57dd19f2fbcc?d=https%3A%2F%2Fidenticons.github.com%2F7da355f0c3845114210880e84b82a5db.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/b908e911085d0f1fb72f57dd19f2fbcc?d=https%3A%2F%2Fidenticons.github.com%2F7da355f0c3845114210880e84b82a5db.png&r=x", 
                 "contributions": 41, 
                 "html_url": "https://github.com/darkzeroman"
             }, 
             {
                 "owner": false, 
                 "login": "breannam", 
-                "avatar_url": "https://1.gravatar.com/avatar/5cf58215a2dae5feb7ae55589a3f93fb?d=https%3A%2F%2Fidenticons.github.com%2Fa57146622a797b55a2d7e8abd9557074.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/5cf58215a2dae5feb7ae55589a3f93fb?d=https%3A%2F%2Fidenticons.github.com%2Fa57146622a797b55a2d7e8abd9557074.png&r=x", 
                 "contributions": 28, 
                 "html_url": "https://github.com/breannam"
             }, 
@@ -4743,7 +4743,7 @@
             {
                 "owner": false, 
                 "login": "PlusTheMonk", 
-                "avatar_url": "https://0.gravatar.com/avatar/56fdacc6030876c0c99fc96ceca0c939?d=https%3A%2F%2Fidenticons.github.com%2F16e1215976ba81f3fc8012635228c0a9.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/56fdacc6030876c0c99fc96ceca0c939?d=https%3A%2F%2Fidenticons.github.com%2F16e1215976ba81f3fc8012635228c0a9.png&r=x", 
                 "contributions": 18, 
                 "html_url": "https://github.com/PlusTheMonk"
             }
@@ -4754,7 +4754,7 @@
         "updated_at": "2013-11-17T04:13:52Z", 
         "owner": {
             "login": "dssg", 
-            "avatar_url": "https://1.gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/dssg"
         }, 
@@ -4798,26 +4798,26 @@
             0, 
             0, 
             0, 
-            48, 
-            105, 
+            50, 
+            103, 
             31, 
-            37, 
+            38, 
             11, 
             67, 
-            69, 
+            68, 
             51, 
             34, 
             2, 
             8, 
-            0, 
-            4, 
-            0, 
-            0, 
+            1, 
+            3, 
             0, 
             0, 
             0, 
             0, 
-            3
+            0, 
+            1, 
+            2
         ]
     }, 
     {
@@ -4826,7 +4826,7 @@
             {
                 "owner": false, 
                 "login": "ahwolf", 
-                "avatar_url": "https://1.gravatar.com/avatar/eb337f61dc8ad9a703e73398f6f557cc?d=https%3A%2F%2Fidenticons.github.com%2Fa562716f9e057d1d34d4852b5c5cc453.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/eb337f61dc8ad9a703e73398f6f557cc?d=https%3A%2F%2Fidenticons.github.com%2Fa562716f9e057d1d34d4852b5c5cc453.png&r=x", 
                 "contributions": 116, 
                 "html_url": "https://github.com/ahwolf"
             }, 
@@ -4844,7 +4844,7 @@
         "updated_at": "2013-09-28T07:47:44Z", 
         "owner": {
             "login": "Chicago", 
-            "avatar_url": "https://2.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/Chicago"
         }, 
@@ -4916,7 +4916,7 @@
             {
                 "owner": true, 
                 "login": "jpvelez", 
-                "avatar_url": "https://1.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
                 "contributions": 42, 
                 "html_url": "https://github.com/jpvelez"
             }
@@ -5017,7 +5017,7 @@
         "updated_at": "2013-11-22T21:21:05Z", 
         "owner": {
             "login": "open-city", 
-            "avatar_url": "https://2.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/open-city"
         }, 
@@ -5089,7 +5089,7 @@
             {
                 "owner": true, 
                 "login": "tkompare", 
-                "avatar_url": "https://1.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
                 "contributions": 35, 
                 "html_url": "https://github.com/tkompare"
             }, 
@@ -5110,7 +5110,7 @@
             {
                 "owner": false, 
                 "login": "mlevans", 
-                "avatar_url": "https://0.gravatar.com/avatar/d9d4dfbc2edd36ce1b9496261e037859?d=https%3A%2F%2Fidenticons.github.com%2F9f6f718d3f312490c34eb5086fc3a0f3.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/d9d4dfbc2edd36ce1b9496261e037859?d=https%3A%2F%2Fidenticons.github.com%2F9f6f718d3f312490c34eb5086fc3a0f3.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/mlevans"
             }
@@ -5121,7 +5121,7 @@
         "updated_at": "2013-11-17T20:18:19Z", 
         "owner": {
             "login": "tkompare", 
-            "avatar_url": "https://0.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/tkompare"
         }, 
@@ -5204,7 +5204,7 @@
         "updated_at": "2013-11-06T22:57:25Z", 
         "owner": {
             "login": "newsapps", 
-            "avatar_url": "https://0.gravatar.com/avatar/f02c694db7cd8e75caa0ebef5209a9e9?d=https%3A%2F%2Fidenticons.github.com%2F935d011909747f00740190b2c200eeaa.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/f02c694db7cd8e75caa0ebef5209a9e9?d=https%3A%2F%2Fidenticons.github.com%2F935d011909747f00740190b2c200eeaa.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/newsapps"
         }, 
@@ -5276,21 +5276,21 @@
             {
                 "owner": false, 
                 "login": "srobbin", 
-                "avatar_url": "https://0.gravatar.com/avatar/faf77d98052ea830bebaf89238862163?d=https%3A%2F%2Fidenticons.github.com%2F64c6e872abc90f8a480908b92521e25a.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/faf77d98052ea830bebaf89238862163?d=https%3A%2F%2Fidenticons.github.com%2F64c6e872abc90f8a480908b92521e25a.png&r=x", 
                 "contributions": 34, 
                 "html_url": "https://github.com/srobbin"
             }, 
             {
                 "owner": false, 
                 "login": "cgansen", 
-                "avatar_url": "https://1.gravatar.com/avatar/5c608e6a63c1fa4052119d07e8bcb221?d=https%3A%2F%2Fidenticons.github.com%2F89474711db17b59e95c5f71d56085e6b.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/5c608e6a63c1fa4052119d07e8bcb221?d=https%3A%2F%2Fidenticons.github.com%2F89474711db17b59e95c5f71d56085e6b.png&r=x", 
                 "contributions": 15, 
                 "html_url": "https://github.com/cgansen"
             }, 
             {
                 "owner": false, 
                 "login": "danxoneil", 
-                "avatar_url": "https://2.gravatar.com/avatar/d6924adcd492489dfce203048d555876?d=https%3A%2F%2Fidenticons.github.com%2F9e701dfc2f4952d495077c6bf6c3c94a.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/d6924adcd492489dfce203048d555876?d=https%3A%2F%2Fidenticons.github.com%2F9e701dfc2f4952d495077c6bf6c3c94a.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/danxoneil"
             }
@@ -5298,7 +5298,7 @@
         "contributors_url": "https://api.github.com/repos/smartchicago/foodborne/contributors", 
         "forks_count": 1, 
         "html_url": "https://github.com/smartchicago/foodborne", 
-        "updated_at": "2013-11-18T15:12:57Z", 
+        "updated_at": "2013-11-24T19:59:26Z", 
         "owner": {
             "login": "smartchicago", 
             "avatar_url": "https://1.gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
@@ -5373,14 +5373,14 @@
             {
                 "owner": false, 
                 "login": "sferik", 
-                "avatar_url": "https://0.gravatar.com/avatar/1f74b13f1e5c6c69cb5d7fbaabb1e2cb?d=https%3A%2F%2Fidenticons.github.com%2F9efb1a59d7b58e69996cf0e32cb71098.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/1f74b13f1e5c6c69cb5d7fbaabb1e2cb?d=https%3A%2F%2Fidenticons.github.com%2F9efb1a59d7b58e69996cf0e32cb71098.png&r=x", 
                 "contributions": 448, 
                 "html_url": "https://github.com/sferik"
             }, 
             {
                 "owner": false, 
                 "login": "kunaldi", 
-                "avatar_url": "https://0.gravatar.com/avatar/6a130738699ba130303ac7bdec4ef0d6?d=https%3A%2F%2Fidenticons.github.com%2F0a3c27f5ecf5db6c99e283eead36c61b.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/6a130738699ba130303ac7bdec4ef0d6?d=https%3A%2F%2Fidenticons.github.com%2F0a3c27f5ecf5db6c99e283eead36c61b.png&r=x", 
                 "contributions": 125, 
                 "html_url": "https://github.com/kunaldi"
             }, 
@@ -5436,7 +5436,7 @@
             {
                 "owner": false, 
                 "login": "danmelton", 
-                "avatar_url": "https://2.gravatar.com/avatar/4616698e5452eae10b53f2092f0d6cb6?d=https%3A%2F%2Fidenticons.github.com%2F8176ddc43d2b16458cda021953cc84f3.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/4616698e5452eae10b53f2092f0d6cb6?d=https%3A%2F%2Fidenticons.github.com%2F8176ddc43d2b16458cda021953cc84f3.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/danmelton"
             }, 
@@ -5450,14 +5450,14 @@
             {
                 "owner": false, 
                 "login": "maxogden", 
-                "avatar_url": "https://1.gravatar.com/avatar/fcc9bbfe2a31c5a6225cc287ed7ae2a6?d=https%3A%2F%2Fidenticons.github.com%2Fd2cec4ae765e49fa93728f323ca5894e.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/fcc9bbfe2a31c5a6225cc287ed7ae2a6?d=https%3A%2F%2Fidenticons.github.com%2Fd2cec4ae765e49fa93728f323ca5894e.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/maxogden"
             }, 
             {
                 "owner": false, 
                 "login": "rcackerman", 
-                "avatar_url": "https://2.gravatar.com/avatar/17591088071ef9aa6e488253a959aa57?d=https%3A%2F%2Fidenticons.github.com%2Fee9e2de4f1051fa110a3d232f965d0cd.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/17591088071ef9aa6e488253a959aa57?d=https%3A%2F%2Fidenticons.github.com%2Fee9e2de4f1051fa110a3d232f965d0cd.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/rcackerman"
             }
@@ -5623,21 +5623,21 @@
             {
                 "owner": false, 
                 "login": "ryanpitts", 
-                "avatar_url": "https://1.gravatar.com/avatar/374de4845c23063651bc7ef13ae24ba4?d=https%3A%2F%2Fidenticons.github.com%2Fef0b299ea3eb6a0561b89647e4cd700a.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/374de4845c23063651bc7ef13ae24ba4?d=https%3A%2F%2Fidenticons.github.com%2Fef0b299ea3eb6a0561b89647e4cd700a.png&r=x", 
                 "contributions": 356, 
                 "html_url": "https://github.com/ryanpitts"
             }, 
             {
                 "owner": false, 
                 "login": "iandees", 
-                "avatar_url": "https://1.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
                 "contributions": 67, 
                 "html_url": "https://github.com/iandees"
             }, 
             {
                 "owner": false, 
                 "login": "JoeGermuska", 
-                "avatar_url": "https://0.gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
                 "contributions": 8, 
                 "html_url": "https://github.com/JoeGermuska"
             }
@@ -5648,7 +5648,7 @@
         "updated_at": "2013-11-22T20:14:24Z", 
         "owner": {
             "login": "censusreporter", 
-            "avatar_url": "https://1.gravatar.com/avatar/cab1d5bd7a6826b6a3ef28ec7583a727?d=https%3A%2F%2Fidenticons.github.com%2Fc3977d6f16d43f8f87285bf4366f3e5a.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/cab1d5bd7a6826b6a3ef28ec7583a727?d=https%3A%2F%2Fidenticons.github.com%2Fc3977d6f16d43f8f87285bf4366f3e5a.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/censusreporter"
         }, 
@@ -5727,21 +5727,21 @@
             {
                 "owner": false, 
                 "login": "fgregg", 
-                "avatar_url": "https://1.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
                 "contributions": 49, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
                 "owner": false, 
                 "login": "DanielMorton", 
-                "avatar_url": "https://0.gravatar.com/avatar/ea83679143569bc8fd4598e6ae05632b?d=https%3A%2F%2Fidenticons.github.com%2Fbb10a0129647967666847e43de55d97f.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/ea83679143569bc8fd4598e6ae05632b?d=https%3A%2F%2Fidenticons.github.com%2Fbb10a0129647967666847e43de55d97f.png&r=x", 
                 "contributions": 25, 
                 "html_url": "https://github.com/DanielMorton"
             }, 
             {
                 "owner": false, 
                 "login": "chadwpry", 
-                "avatar_url": "https://1.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
                 "contributions": 18, 
                 "html_url": "https://github.com/chadwpry"
             }
@@ -5835,7 +5835,7 @@
         "updated_at": "2013-11-12T17:45:59Z", 
         "owner": {
             "login": "corynissen", 
-            "avatar_url": "https://2.gravatar.com/avatar/0eb1c6d3cb3f33fa2b60adcbacda549a?d=https%3A%2F%2Fidenticons.github.com%2Fd008908f91e86f4ac46e4ae10edfce9b.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/0eb1c6d3cb3f33fa2b60adcbacda549a?d=https%3A%2F%2Fidenticons.github.com%2Fd008908f91e86f4ac46e4ae10edfce9b.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/corynissen"
         }, 
@@ -5907,7 +5907,7 @@
             {
                 "owner": true, 
                 "login": "remremz", 
-                "avatar_url": "https://1.gravatar.com/avatar/3156b434c09d929422f574d7d61fa27d?d=https%3A%2F%2Fidenticons.github.com%2Fc9cf0bbde9675e738485748987a12c1a.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/3156b434c09d929422f574d7d61fa27d?d=https%3A%2F%2Fidenticons.github.com%2Fc9cf0bbde9675e738485748987a12c1a.png&r=x", 
                 "contributions": 12, 
                 "html_url": "https://github.com/remremz"
             }
@@ -5918,7 +5918,7 @@
         "updated_at": "2013-11-14T01:42:41Z", 
         "owner": {
             "login": "remremz", 
-            "avatar_url": "https://0.gravatar.com/avatar/3156b434c09d929422f574d7d61fa27d?d=https%3A%2F%2Fidenticons.github.com%2Fc9cf0bbde9675e738485748987a12c1a.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/3156b434c09d929422f574d7d61fa27d?d=https%3A%2F%2Fidenticons.github.com%2Fc9cf0bbde9675e738485748987a12c1a.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/remremz"
         }, 
@@ -5990,14 +5990,14 @@
             {
                 "owner": false, 
                 "login": "iandees", 
-                "avatar_url": "https://0.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
                 "contributions": 124, 
                 "html_url": "https://github.com/iandees"
             }, 
             {
                 "owner": false, 
                 "login": "leehach", 
-                "avatar_url": "https://2.gravatar.com/avatar/8147dd4b065a736d2d1a649106d39b39?d=https%3A%2F%2Fidenticons.github.com%2Fa889830dd32489ff04bc636f20253bba.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/8147dd4b065a736d2d1a649106d39b39?d=https%3A%2F%2Fidenticons.github.com%2Fa889830dd32489ff04bc636f20253bba.png&r=x", 
                 "contributions": 9, 
                 "html_url": "https://github.com/leehach"
             }
@@ -6080,14 +6080,14 @@
             {
                 "owner": false, 
                 "login": "derekeder", 
-                "avatar_url": "https://2.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
                 "contributions": 40, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
                 "owner": false, 
                 "login": "evz", 
-                "avatar_url": "https://1.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/evz"
             }
@@ -6098,7 +6098,7 @@
         "updated_at": "2013-10-31T20:42:44Z", 
         "owner": {
             "login": "datamade", 
-            "avatar_url": "https://1.gravatar.com/avatar/0a89207d38feff1dcd938bdc1e4a9b5e?d=https%3A%2F%2Fidenticons.github.com%2F3424042f8cb2b04950903794ad9c8daf.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/0a89207d38feff1dcd938bdc1e4a9b5e?d=https%3A%2F%2Fidenticons.github.com%2F3424042f8cb2b04950903794ad9c8daf.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/datamade"
         }, 
@@ -6151,8 +6151,8 @@
             6, 
             4, 
             5, 
-            20, 
-            5, 
+            21, 
+            4, 
             0, 
             0, 
             0, 
@@ -6177,21 +6177,21 @@
             {
                 "owner": false, 
                 "login": "fgregg", 
-                "avatar_url": "https://0.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
                 "contributions": 8, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
                 "owner": false, 
                 "login": "jpvelez", 
-                "avatar_url": "https://1.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
                 "contributions": 6, 
                 "html_url": "https://github.com/jpvelez"
             }, 
             {
                 "owner": false, 
                 "login": "shua123", 
-                "avatar_url": "https://2.gravatar.com/avatar/e5109f2bffaa7a6e4d48917c30fb9dea?d=https%3A%2F%2Fidenticons.github.com%2Fe7a0a2175c00c142fe3f63318181876e.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/e5109f2bffaa7a6e4d48917c30fb9dea?d=https%3A%2F%2Fidenticons.github.com%2Fe7a0a2175c00c142fe3f63318181876e.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/shua123"
             }
@@ -6202,7 +6202,7 @@
         "updated_at": "2013-11-01T22:06:06Z", 
         "owner": {
             "login": "open-city", 
-            "avatar_url": "https://1.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/open-city"
         }, 
@@ -6274,14 +6274,14 @@
             {
                 "owner": true, 
                 "login": "evz", 
-                "avatar_url": "https://0.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
                 "contributions": 21, 
                 "html_url": "https://github.com/evz"
             }, 
             {
                 "owner": false, 
                 "login": "derekeder", 
-                "avatar_url": "https://0.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/derekeder"
             }
@@ -6292,7 +6292,7 @@
         "updated_at": "2013-07-16T12:22:47Z", 
         "owner": {
             "login": "evz", 
-            "avatar_url": "https://1.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/evz"
         }, 
@@ -6447,35 +6447,35 @@
             {
                 "owner": false, 
                 "login": "slinkp", 
-                "avatar_url": "https://2.gravatar.com/avatar/a3cce888ea9029295ce33b7693ac805e?d=https%3A%2F%2Fidenticons.github.com%2F531527189cfb50dd5e70e7bd127b692c.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/a3cce888ea9029295ce33b7693ac805e?d=https%3A%2F%2Fidenticons.github.com%2F531527189cfb50dd5e70e7bd127b692c.png&r=x", 
                 "contributions": 2034, 
                 "html_url": "https://github.com/slinkp"
             }, 
             {
                 "owner": false, 
                 "login": "ltucker", 
-                "avatar_url": "https://1.gravatar.com/avatar/6fcc336b039f76807af0054f450b6f1a?d=https%3A%2F%2Fidenticons.github.com%2Fdc2a805d523823752c768d75385e64e6.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/6fcc336b039f76807af0054f450b6f1a?d=https%3A%2F%2Fidenticons.github.com%2Fdc2a805d523823752c768d75385e64e6.png&r=x", 
                 "contributions": 177, 
                 "html_url": "https://github.com/ltucker"
             }, 
             {
                 "owner": false, 
                 "login": "pushcx", 
-                "avatar_url": "https://1.gravatar.com/avatar/e7be134a6de3d308adf765be1004c450?d=https%3A%2F%2Fidenticons.github.com%2F481fbfa59da2581098e841b7afc122f1.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/e7be134a6de3d308adf765be1004c450?d=https%3A%2F%2Fidenticons.github.com%2F481fbfa59da2581098e841b7afc122f1.png&r=x", 
                 "contributions": 41, 
                 "html_url": "https://github.com/pushcx"
             }, 
             {
                 "owner": false, 
                 "login": "copelco", 
-                "avatar_url": "https://2.gravatar.com/avatar/1f046f97273570c7819a7e42507ef1c9?d=https%3A%2F%2Fidenticons.github.com%2F74ab74c859512f5a615f1fd85837d141.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/1f046f97273570c7819a7e42507ef1c9?d=https%3A%2F%2Fidenticons.github.com%2F74ab74c859512f5a615f1fd85837d141.png&r=x", 
                 "contributions": 18, 
                 "html_url": "https://github.com/copelco"
             }, 
             {
                 "owner": false, 
                 "login": "tshedor", 
-                "avatar_url": "https://0.gravatar.com/avatar/ab4d66fddba1f9a6633f4fe1c462983a?d=https%3A%2F%2Fidenticons.github.com%2Ffdde2a46dee8ab238fd4227ed970c36d.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/ab4d66fddba1f9a6633f4fe1c462983a?d=https%3A%2F%2Fidenticons.github.com%2Ffdde2a46dee8ab238fd4227ed970c36d.png&r=x", 
                 "contributions": 11, 
                 "html_url": "https://github.com/tshedor"
             }, 
@@ -6496,21 +6496,21 @@
             {
                 "owner": false, 
                 "login": "kmtracey", 
-                "avatar_url": "https://1.gravatar.com/avatar/c3eebdb50909d6fe1b0d3b4d75e3beb6?d=https%3A%2F%2Fidenticons.github.com%2F11d7c2bedc76875b5d82725ee5122e4b.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/c3eebdb50909d6fe1b0d3b4d75e3beb6?d=https%3A%2F%2Fidenticons.github.com%2F11d7c2bedc76875b5d82725ee5122e4b.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/kmtracey"
             }, 
             {
                 "owner": false, 
                 "login": "dkukral", 
-                "avatar_url": "https://1.gravatar.com/avatar/0ce83185aa4714dbaa03ae25afaf3187?d=https%3A%2F%2Fidenticons.github.com%2F10508a9cbb7a643e4737e14c464c3176.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/0ce83185aa4714dbaa03ae25afaf3187?d=https%3A%2F%2Fidenticons.github.com%2F10508a9cbb7a643e4737e14c464c3176.png&r=x", 
                 "contributions": 3, 
                 "html_url": "https://github.com/dkukral"
             }, 
             {
                 "owner": false, 
                 "login": "rebecca-caktus", 
-                "avatar_url": "https://2.gravatar.com/avatar/245eb2715473cd6ce7bd2b7e5865129d?d=https%3A%2F%2Fidenticons.github.com%2F9fbc93f7df101d5d62681bf41e264be3.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/245eb2715473cd6ce7bd2b7e5865129d?d=https%3A%2F%2Fidenticons.github.com%2F9fbc93f7df101d5d62681bf41e264be3.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/rebecca-caktus"
             }
@@ -6543,8 +6543,8 @@
             0, 
             0, 
             0, 
-            0, 
-            9, 
+            5, 
+            4, 
             0, 
             0, 
             0, 
@@ -6618,7 +6618,7 @@
         "updated_at": "2013-11-20T21:03:03Z", 
         "owner": {
             "login": "NYCComptroller", 
-            "avatar_url": "https://1.gravatar.com/avatar/946594ae7539c11ec156ca85d6f47b4b?d=https%3A%2F%2Fidenticons.github.com%2F39f0402633aa084d437d58b88a106425.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/946594ae7539c11ec156ca85d6f47b4b?d=https%3A%2F%2Fidenticons.github.com%2F39f0402633aa084d437d58b88a106425.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/NYCComptroller"
         }, 
@@ -6708,7 +6708,7 @@
         "updated_at": "2013-09-24T04:48:06Z", 
         "owner": {
             "login": "christophermanning", 
-            "avatar_url": "https://2.gravatar.com/avatar/3f9394a7fb1070144a59644462eb4916?d=https%3A%2F%2Fidenticons.github.com%2F7721e78cb8b3a9293dae21957d0e8dda.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/3f9394a7fb1070144a59644462eb4916?d=https%3A%2F%2Fidenticons.github.com%2F7721e78cb8b3a9293dae21957d0e8dda.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/christophermanning"
         }, 
@@ -6780,14 +6780,14 @@
             {
                 "owner": false, 
                 "login": "derekeder", 
-                "avatar_url": "https://0.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
                 "contributions": 86, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
                 "owner": false, 
                 "login": "chadwpry", 
-                "avatar_url": "https://1.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
                 "contributions": 18, 
                 "html_url": "https://github.com/chadwpry"
             }
@@ -6798,7 +6798,7 @@
         "updated_at": "2013-10-18T02:22:46Z", 
         "owner": {
             "login": "open-city", 
-            "avatar_url": "https://1.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/open-city"
         }, 
@@ -7021,7 +7021,7 @@
         "updated_at": "2013-07-29T22:05:31Z", 
         "owner": {
             "login": "smartchicago", 
-            "avatar_url": "https://1.gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/smartchicago"
         }, 
@@ -7100,7 +7100,7 @@
             {
                 "owner": false, 
                 "login": "eprowe", 
-                "avatar_url": "https://0.gravatar.com/avatar/5be43072f9a207832006fd2df9077996?d=https%3A%2F%2Fidenticons.github.com%2Fe729a1cadb6dfe07f86433e9fc3b7d83.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/5be43072f9a207832006fd2df9077996?d=https%3A%2F%2Fidenticons.github.com%2Fe729a1cadb6dfe07f86433e9fc3b7d83.png&r=x", 
                 "contributions": 126, 
                 "html_url": "https://github.com/eprowe"
             }, 
@@ -7114,14 +7114,14 @@
             {
                 "owner": false, 
                 "login": "nsmader", 
-                "avatar_url": "https://0.gravatar.com/avatar/49bf71ae90387725019ab487bbf977dc?d=https%3A%2F%2Fidenticons.github.com%2Fcda8862970cb4c8596492c5d89938bb3.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/49bf71ae90387725019ab487bbf977dc?d=https%3A%2F%2Fidenticons.github.com%2Fcda8862970cb4c8596492c5d89938bb3.png&r=x", 
                 "contributions": 15, 
                 "html_url": "https://github.com/nsmader"
             }, 
             {
                 "owner": false, 
                 "login": "jpvelez", 
-                "avatar_url": "https://1.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
                 "contributions": 12, 
                 "html_url": "https://github.com/jpvelez"
             }, 
@@ -7139,7 +7139,7 @@
         "updated_at": "2013-11-17T02:18:22Z", 
         "owner": {
             "login": "dssg", 
-            "avatar_url": "https://1.gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/dssg"
         }, 
@@ -7437,7 +7437,7 @@
         "updated_at": "2013-10-15T10:56:47Z", 
         "owner": {
             "login": "tkompare", 
-            "avatar_url": "https://0.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/tkompare"
         }, 
@@ -7447,7 +7447,61 @@
         "created_at": "2012-03-06T03:51:29Z", 
         "watchers_count": 1, 
         "open_issues": 0, 
-        "homepage": null
+        "homepage": null, 
+        "participation": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
     }, 
     {
         "description": "Convert TIGER/Line Shapefiles from the U.S. Census Bureau into GeoJSON", 
@@ -7455,7 +7509,7 @@
             {
                 "owner": true, 
                 "login": "evz", 
-                "avatar_url": "https://0.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
                 "contributions": 26, 
                 "html_url": "https://github.com/evz"
             }, 
@@ -7473,7 +7527,7 @@
         "updated_at": "2013-09-13T16:33:53Z", 
         "owner": {
             "login": "evz", 
-            "avatar_url": "https://2.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/evz"
         }, 
@@ -7552,14 +7606,14 @@
             {
                 "owner": false, 
                 "login": "derekeder", 
-                "avatar_url": "https://0.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
                 "contributions": 32, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
                 "owner": false, 
                 "login": "kevinbandy", 
-                "avatar_url": "https://1.gravatar.com/avatar/54d1bd41380307e75f89048209844d76?d=https%3A%2F%2Fidenticons.github.com%2Ff878e07a2325a486e491e8e997d838c4.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/54d1bd41380307e75f89048209844d76?d=https%3A%2F%2Fidenticons.github.com%2Ff878e07a2325a486e491e8e997d838c4.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/kevinbandy"
             }, 
@@ -7573,7 +7627,7 @@
             {
                 "owner": false, 
                 "login": "davegomez", 
-                "avatar_url": "https://2.gravatar.com/avatar/ff3e07f650b6710816f8b61e826a69a2?d=https%3A%2F%2Fidenticons.github.com%2Fea4ed2b97df7db718439cb21df576b2e.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/ff3e07f650b6710816f8b61e826a69a2?d=https%3A%2F%2Fidenticons.github.com%2Fea4ed2b97df7db718439cb21df576b2e.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/davegomez"
             }, 
@@ -7587,21 +7641,21 @@
             {
                 "owner": false, 
                 "login": "sbaxter", 
-                "avatar_url": "https://1.gravatar.com/avatar/ae210e9eefe75dd0e12a0ef5d5c781ac?d=https%3A%2F%2Fidenticons.github.com%2F5b0adb5263bcb597f2439ed9e337bde9.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/ae210e9eefe75dd0e12a0ef5d5c781ac?d=https%3A%2F%2Fidenticons.github.com%2F5b0adb5263bcb597f2439ed9e337bde9.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/sbaxter"
             }, 
             {
                 "owner": false, 
                 "login": "topiclodge", 
-                "avatar_url": "https://0.gravatar.com/avatar/37d59329e03a66031cbcb5d85bf9527e?d=https%3A%2F%2Fidenticons.github.com%2F714c8c6239a1e271a1d70d4bc1076511.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/37d59329e03a66031cbcb5d85bf9527e?d=https%3A%2F%2Fidenticons.github.com%2F714c8c6239a1e271a1d70d4bc1076511.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/topiclodge"
             }, 
             {
                 "owner": false, 
                 "login": "visibletrue", 
-                "avatar_url": "https://0.gravatar.com/avatar/9a3e5b5cedb92a4c6660b109ff10fd66?d=https%3A%2F%2Fidenticons.github.com%2F2c82cf59b987566d8a1f838a08f8e3f2.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/9a3e5b5cedb92a4c6660b109ff10fd66?d=https%3A%2F%2Fidenticons.github.com%2F2c82cf59b987566d8a1f838a08f8e3f2.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/visibletrue"
             }
@@ -7684,21 +7738,21 @@
             {
                 "owner": false, 
                 "login": "eads", 
-                "avatar_url": "https://0.gravatar.com/avatar/ac137d6b1fc890c5ac1a6a4d45acefcc?d=https%3A%2F%2Fidenticons.github.com%2F396638d81fee53be2705d806ca713dff.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/ac137d6b1fc890c5ac1a6a4d45acefcc?d=https%3A%2F%2Fidenticons.github.com%2F396638d81fee53be2705d806ca713dff.png&r=x", 
                 "contributions": 57, 
                 "html_url": "https://github.com/eads"
             }, 
             {
                 "owner": false, 
                 "login": "templaedhel", 
-                "avatar_url": "https://0.gravatar.com/avatar/4a0078d8259c70110da566b81fa0ee0e?d=https%3A%2F%2Fidenticons.github.com%2F4a7ebc956eed3c1449ca8a3eae6a09eb.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/4a0078d8259c70110da566b81fa0ee0e?d=https%3A%2F%2Fidenticons.github.com%2F4a7ebc956eed3c1449ca8a3eae6a09eb.png&r=x", 
                 "contributions": 16, 
                 "html_url": "https://github.com/templaedhel"
             }, 
             {
                 "owner": false, 
                 "login": "hbillings", 
-                "avatar_url": "https://2.gravatar.com/avatar/ae26c4988eb329144eb5bab65fa659bf?d=https%3A%2F%2Fidenticons.github.com%2Fc73331f7bf40bc5a4f65e0382db73295.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/ae26c4988eb329144eb5bab65fa659bf?d=https%3A%2F%2Fidenticons.github.com%2Fc73331f7bf40bc5a4f65e0382db73295.png&r=x", 
                 "contributions": 14, 
                 "html_url": "https://github.com/hbillings"
             }, 
@@ -7712,7 +7766,7 @@
             {
                 "owner": false, 
                 "login": "andymboyle", 
-                "avatar_url": "https://2.gravatar.com/avatar/3472056604dd2d5ef0cc32b0c22aa2ab?d=https%3A%2F%2Fidenticons.github.com%2F347caebf52b57d92f5fc023abfb13705.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/3472056604dd2d5ef0cc32b0c22aa2ab?d=https%3A%2F%2Fidenticons.github.com%2F347caebf52b57d92f5fc023abfb13705.png&r=x", 
                 "contributions": 6, 
                 "html_url": "https://github.com/andymboyle"
             }, 
@@ -7892,7 +7946,7 @@
             {
                 "owner": false, 
                 "login": "sferik", 
-                "avatar_url": "https://1.gravatar.com/avatar/1f74b13f1e5c6c69cb5d7fbaabb1e2cb?d=https%3A%2F%2Fidenticons.github.com%2F9efb1a59d7b58e69996cf0e32cb71098.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/1f74b13f1e5c6c69cb5d7fbaabb1e2cb?d=https%3A%2F%2Fidenticons.github.com%2F9efb1a59d7b58e69996cf0e32cb71098.png&r=x", 
                 "contributions": 448, 
                 "html_url": "https://github.com/sferik"
             }, 
@@ -7920,7 +7974,7 @@
             {
                 "owner": false, 
                 "login": "nleeper", 
-                "avatar_url": "https://1.gravatar.com/avatar/d603410a87c101bdc69472ce52be07dd?d=https%3A%2F%2Fidenticons.github.com%2F70669c3243eaee94e30c3668bb8245b8.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/d603410a87c101bdc69472ce52be07dd?d=https%3A%2F%2Fidenticons.github.com%2F70669c3243eaee94e30c3668bb8245b8.png&r=x", 
                 "contributions": 3, 
                 "html_url": "https://github.com/nleeper"
             }, 
@@ -7934,7 +7988,7 @@
             {
                 "owner": false, 
                 "login": "kmacedo", 
-                "avatar_url": "https://1.gravatar.com/avatar/cae5a84b04a9896cc733bcaf874697d3?d=https%3A%2F%2Fidenticons.github.com%2F77cbf1fff7f2f12cea59f2dc4c38ca4d.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/cae5a84b04a9896cc733bcaf874697d3?d=https%3A%2F%2Fidenticons.github.com%2F77cbf1fff7f2f12cea59f2dc4c38ca4d.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/kmacedo"
             }, 
@@ -7948,14 +8002,14 @@
             {
                 "owner": false, 
                 "login": "ryanatwork", 
-                "avatar_url": "https://0.gravatar.com/avatar/434c423be835ad8f2d83986dcfb76efd?d=https%3A%2F%2Fidenticons.github.com%2F02619f61e49b4af821d021f7679702bd.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/434c423be835ad8f2d83986dcfb76efd?d=https%3A%2F%2Fidenticons.github.com%2F02619f61e49b4af821d021f7679702bd.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/ryanatwork"
             }, 
             {
                 "owner": false, 
                 "login": "maxogden", 
-                "avatar_url": "https://0.gravatar.com/avatar/fcc9bbfe2a31c5a6225cc287ed7ae2a6?d=https%3A%2F%2Fidenticons.github.com%2Fd2cec4ae765e49fa93728f323ca5894e.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/fcc9bbfe2a31c5a6225cc287ed7ae2a6?d=https%3A%2F%2Fidenticons.github.com%2Fd2cec4ae765e49fa93728f323ca5894e.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/maxogden"
             }
@@ -8038,21 +8092,21 @@
             {
                 "owner": false, 
                 "login": "derekeder", 
-                "avatar_url": "https://2.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
                 "contributions": 86, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
                 "owner": false, 
                 "login": "chadwpry", 
-                "avatar_url": "https://0.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
                 "contributions": 18, 
                 "html_url": "https://github.com/chadwpry"
             }, 
             {
                 "owner": false, 
                 "login": "jpvelez", 
-                "avatar_url": "https://1.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/jpvelez"
             }
@@ -8135,28 +8189,28 @@
             {
                 "owner": false, 
                 "login": "tomschenkjr", 
-                "avatar_url": "https://2.gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
                 "contributions": 18, 
                 "html_url": "https://github.com/tomschenkjr"
             }, 
             {
                 "owner": false, 
                 "login": "kwade27", 
-                "avatar_url": "https://2.gravatar.com/avatar/6e7733e8e0966f74ed0b0e597375e35c?d=https%3A%2F%2Fidenticons.github.com%2Fac71f4eced92cce434033b5aee1a8819.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/6e7733e8e0966f74ed0b0e597375e35c?d=https%3A%2F%2Fidenticons.github.com%2Fac71f4eced92cce434033b5aee1a8819.png&r=x", 
                 "contributions": 5, 
                 "html_url": "https://github.com/kwade27"
             }, 
             {
                 "owner": false, 
                 "login": "kfogel", 
-                "avatar_url": "https://0.gravatar.com/avatar/1f81267123b2a1688fb0430857c8de39?d=https%3A%2F%2Fidenticons.github.com%2F4567a72c99891d7d19eed3399b222416.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/1f81267123b2a1688fb0430857c8de39?d=https%3A%2F%2Fidenticons.github.com%2F4567a72c99891d7d19eed3399b222416.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/kfogel"
             }, 
             {
                 "owner": false, 
                 "login": "paguilarCH", 
-                "avatar_url": "https://1.gravatar.com/avatar/e3333c739470ade3e1fc874479cf427e?d=https%3A%2F%2Fidenticons.github.com%2F9b7a085dba7dfbafc9b153a9f8eb69a8.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/e3333c739470ade3e1fc874479cf427e?d=https%3A%2F%2Fidenticons.github.com%2F9b7a085dba7dfbafc9b153a9f8eb69a8.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/paguilarCH"
             }
@@ -8167,7 +8221,7 @@
         "updated_at": "2013-11-14T05:24:53Z", 
         "owner": {
             "login": "Chicago", 
-            "avatar_url": "https://0.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/Chicago"
         }, 
@@ -8204,8 +8258,8 @@
             0, 
             0, 
             3, 
-            17, 
-            3, 
+            19, 
+            1, 
             0, 
             0, 
             0, 
@@ -8239,7 +8293,7 @@
             {
                 "owner": false, 
                 "login": "rougeux", 
-                "avatar_url": "https://1.gravatar.com/avatar/1454d7515ce1d886f877b8c4ca0ae5c7?d=https%3A%2F%2Fidenticons.github.com%2F799c948ef4bcd12eb745c913791cd1a4.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/1454d7515ce1d886f877b8c4ca0ae5c7?d=https%3A%2F%2Fidenticons.github.com%2F799c948ef4bcd12eb745c913791cd1a4.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/rougeux"
             }
@@ -8250,7 +8304,7 @@
         "updated_at": "2013-07-15T05:11:25Z", 
         "owner": {
             "login": "open-city", 
-            "avatar_url": "https://2.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/open-city"
         }, 
@@ -8340,7 +8394,7 @@
         "updated_at": "2013-11-07T19:26:18Z", 
         "owner": {
             "login": "stevevance", 
-            "avatar_url": "https://2.gravatar.com/avatar/761139693c8bd5c6dfb95c4010b89c8d?d=https%3A%2F%2Fidenticons.github.com%2F9200aae5b872987223484bb32dfe898c.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/761139693c8bd5c6dfb95c4010b89c8d?d=https%3A%2F%2Fidenticons.github.com%2F9200aae5b872987223484bb32dfe898c.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/stevevance"
         }, 
@@ -8419,7 +8473,7 @@
             {
                 "owner": false, 
                 "login": "akit", 
-                "avatar_url": "https://1.gravatar.com/avatar/718c75757c6852aa0a366e3f0f4612c3?d=https%3A%2F%2Fidenticons.github.com%2Fd1e5733d1cc3f3ea171cecd68154b96f.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/718c75757c6852aa0a366e3f0f4612c3?d=https%3A%2F%2Fidenticons.github.com%2Fd1e5733d1cc3f3ea171cecd68154b96f.png&r=x", 
                 "contributions": 57, 
                 "html_url": "https://github.com/akit"
             }, 
@@ -8433,14 +8487,14 @@
             {
                 "owner": false, 
                 "login": "louh", 
-                "avatar_url": "https://1.gravatar.com/avatar/322809aa297f0f70d2d22fe6779eb86e?d=https%3A%2F%2Fidenticons.github.com%2F65adf7f233a8ddfaaf5215db6824a302.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/322809aa297f0f70d2d22fe6779eb86e?d=https%3A%2F%2Fidenticons.github.com%2F65adf7f233a8ddfaaf5215db6824a302.png&r=x", 
                 "contributions": 5, 
                 "html_url": "https://github.com/louh"
             }, 
             {
                 "owner": false, 
                 "login": "monfresh", 
-                "avatar_url": "https://1.gravatar.com/avatar/44cf5e63f93d5f06db30cf45c79bd83f?d=https%3A%2F%2Fidenticons.github.com%2F7ba8870619e0d70cd9520169f50e84ef.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/44cf5e63f93d5f06db30cf45c79bd83f?d=https%3A%2F%2Fidenticons.github.com%2F7ba8870619e0d70cd9520169f50e84ef.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/monfresh"
             }, 
@@ -8468,7 +8522,7 @@
             {
                 "owner": false, 
                 "login": "greggish", 
-                "avatar_url": "https://1.gravatar.com/avatar/34283b56345f1e94330d45891834b424?d=https%3A%2F%2Fidenticons.github.com%2F42c8b457cb09c218ad1271b0e8899be3.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/34283b56345f1e94330d45891834b424?d=https%3A%2F%2Fidenticons.github.com%2F42c8b457cb09c218ad1271b0e8899be3.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/greggish"
             }
@@ -8558,7 +8612,7 @@
             {
                 "owner": false, 
                 "login": "JeanMertz", 
-                "avatar_url": "https://2.gravatar.com/avatar/39fc02d6a812edf6daa8914247e9b4c0?d=https%3A%2F%2Fidenticons.github.com%2F42c97ca1e78226af770f9b7a8625c74a.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/39fc02d6a812edf6daa8914247e9b4c0?d=https%3A%2F%2Fidenticons.github.com%2F42c97ca1e78226af770f9b7a8625c74a.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/JeanMertz"
             }
@@ -8569,7 +8623,7 @@
         "updated_at": "2013-11-24T05:05:51Z", 
         "owner": {
             "login": "Chicago", 
-            "avatar_url": "https://0.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/Chicago"
         }, 
@@ -8641,14 +8695,14 @@
             {
                 "owner": true, 
                 "login": "jpvelez", 
-                "avatar_url": "https://0.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
                 "contributions": 61, 
                 "html_url": "https://github.com/jpvelez"
             }, 
             {
                 "owner": false, 
                 "login": "ryanbriones", 
-                "avatar_url": "https://0.gravatar.com/avatar/881b7dd91c0d9287aea5bc505c10a15a?d=https%3A%2F%2Fidenticons.github.com%2F854d6fae5ee42911677c739ee1734486.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/881b7dd91c0d9287aea5bc505c10a15a?d=https%3A%2F%2Fidenticons.github.com%2F854d6fae5ee42911677c739ee1734486.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/ryanbriones"
             }, 
@@ -8738,7 +8792,7 @@
             {
                 "owner": false, 
                 "login": "tomschenkjr", 
-                "avatar_url": "https://0.gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
                 "contributions": 3, 
                 "html_url": "https://github.com/tomschenkjr"
             }
@@ -8749,7 +8803,7 @@
         "updated_at": "2013-11-24T05:05:39Z", 
         "owner": {
             "login": "Chicago", 
-            "avatar_url": "https://1.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/Chicago"
         }, 
@@ -8828,7 +8882,7 @@
             {
                 "owner": false, 
                 "login": "evz", 
-                "avatar_url": "https://1.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/evz"
             }
@@ -8839,7 +8893,7 @@
         "updated_at": "2013-10-04T07:31:07Z", 
         "owner": {
             "login": "iandees", 
-            "avatar_url": "https://0.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/iandees"
         }, 
@@ -8922,7 +8976,7 @@
         "updated_at": "2013-10-12T14:35:01Z", 
         "owner": {
             "login": "harperreed", 
-            "avatar_url": "https://0.gravatar.com/avatar/b7a96b3d5b5cfed5228396104cd67b38?d=https%3A%2F%2Fidenticons.github.com%2F2f810d47ed84f11f7009b39ddc3bed95.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/b7a96b3d5b5cfed5228396104cd67b38?d=https%3A%2F%2Fidenticons.github.com%2F2f810d47ed84f11f7009b39ddc3bed95.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/harperreed"
         }, 
@@ -8994,7 +9048,7 @@
             {
                 "owner": false, 
                 "login": "mjumbewu", 
-                "avatar_url": "https://2.gravatar.com/avatar/a00ccedc5f486842535576db32e7d1ea?d=https%3A%2F%2Fidenticons.github.com%2F4c6bcf9455953161752806b0f3c8bb58.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/a00ccedc5f486842535576db32e7d1ea?d=https%3A%2F%2Fidenticons.github.com%2F4c6bcf9455953161752806b0f3c8bb58.png&r=x", 
                 "contributions": 667, 
                 "html_url": "https://github.com/mjumbewu"
             }, 
@@ -9008,7 +9062,7 @@
             {
                 "owner": false, 
                 "login": "fgregg", 
-                "avatar_url": "https://1.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
                 "contributions": 68, 
                 "html_url": "https://github.com/fgregg"
             }, 
@@ -9022,21 +9076,21 @@
             {
                 "owner": false, 
                 "login": "non", 
-                "avatar_url": "https://2.gravatar.com/avatar/f4d569c5f1eaa0241c0d39717da9315c?d=https%3A%2F%2Fidenticons.github.com%2F59bc1791a14484bd6b0f050608a03cbb.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/f4d569c5f1eaa0241c0d39717da9315c?d=https%3A%2F%2Fidenticons.github.com%2F59bc1791a14484bd6b0f050608a03cbb.png&r=x", 
                 "contributions": 6, 
                 "html_url": "https://github.com/non"
             }, 
             {
                 "owner": false, 
                 "login": "danmelton", 
-                "avatar_url": "https://2.gravatar.com/avatar/4616698e5452eae10b53f2092f0d6cb6?d=https%3A%2F%2Fidenticons.github.com%2F8176ddc43d2b16458cda021953cc84f3.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/4616698e5452eae10b53f2092f0d6cb6?d=https%3A%2F%2Fidenticons.github.com%2F8176ddc43d2b16458cda021953cc84f3.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/danmelton"
             }, 
             {
                 "owner": false, 
                 "login": "joannecheng", 
-                "avatar_url": "https://2.gravatar.com/avatar/2f0a04b7e6ecdbc7f2094ed500383ff1?d=https%3A%2F%2Fidenticons.github.com%2F50d03affce5eba89a5066376d6b8bdbf.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/2f0a04b7e6ecdbc7f2094ed500383ff1?d=https%3A%2F%2Fidenticons.github.com%2F50d03affce5eba89a5066376d6b8bdbf.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/joannecheng"
             }, 
@@ -9054,7 +9108,7 @@
         "updated_at": "2013-10-15T23:15:35Z", 
         "owner": {
             "login": "open-city", 
-            "avatar_url": "https://1.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/open-city"
         }, 
@@ -9126,14 +9180,14 @@
             {
                 "owner": false, 
                 "login": "DJSekora", 
-                "avatar_url": "https://2.gravatar.com/avatar/a580e21dbe9520aa051e3c029c38f627?d=https%3A%2F%2Fidenticons.github.com%2F9ba5c570766c7a17e375e59caecbe95c.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/a580e21dbe9520aa051e3c029c38f627?d=https%3A%2F%2Fidenticons.github.com%2F9ba5c570766c7a17e375e59caecbe95c.png&r=x", 
                 "contributions": 61, 
                 "html_url": "https://github.com/DJSekora"
             }, 
             {
                 "owner": false, 
                 "login": "jpvelez", 
-                "avatar_url": "https://0.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
                 "contributions": 12, 
                 "html_url": "https://github.com/jpvelez"
             }
@@ -9144,7 +9198,7 @@
         "updated_at": "2013-10-02T08:32:44Z", 
         "owner": {
             "login": "dssg", 
-            "avatar_url": "https://2.gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/dssg"
         }, 
@@ -9230,21 +9284,21 @@
             {
                 "owner": false, 
                 "login": "deltakam", 
-                "avatar_url": "https://0.gravatar.com/avatar/03aa142e90bee266141f64d5d66fff14?d=https%3A%2F%2Fidenticons.github.com%2Fd789a86d82c9da40ec6609383edc5a8d.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/03aa142e90bee266141f64d5d66fff14?d=https%3A%2F%2Fidenticons.github.com%2Fd789a86d82c9da40ec6609383edc5a8d.png&r=x", 
                 "contributions": 7, 
                 "html_url": "https://github.com/deltakam"
             }, 
             {
                 "owner": false, 
                 "login": "jpvelez", 
-                "avatar_url": "https://2.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
                 "contributions": 3, 
                 "html_url": "https://github.com/jpvelez"
             }, 
             {
                 "owner": false, 
                 "login": "elenaeneva", 
-                "avatar_url": "https://2.gravatar.com/avatar/85696041d68715edb3f9a374408a447b?d=https%3A%2F%2Fidenticons.github.com%2F8950e27699cd4e08845dc5f55b314fa4.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/85696041d68715edb3f9a374408a447b?d=https%3A%2F%2Fidenticons.github.com%2F8950e27699cd4e08845dc5f55b314fa4.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/elenaeneva"
             }
@@ -9255,7 +9309,7 @@
         "updated_at": "2013-11-17T19:13:28Z", 
         "owner": {
             "login": "dssg", 
-            "avatar_url": "https://2.gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/dssg"
         }, 
@@ -9338,7 +9392,7 @@
         "updated_at": "2013-09-23T22:34:12Z", 
         "owner": {
             "login": "jpvelez", 
-            "avatar_url": "https://2.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/jpvelez"
         }, 
@@ -9832,7 +9886,7 @@
         "updated_at": "2013-11-06T01:41:50Z", 
         "owner": {
             "login": "migurski", 
-            "avatar_url": "https://2.gravatar.com/avatar/039667155d1baa533e461671e97891a1?d=https%3A%2F%2Fidenticons.github.com%2F5ad9088b8b4fba5e76050c6c12f31a00.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/039667155d1baa533e461671e97891a1?d=https%3A%2F%2Fidenticons.github.com%2F5ad9088b8b4fba5e76050c6c12f31a00.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/migurski"
         }, 
@@ -9998,7 +10052,7 @@
         "updated_at": "2013-07-19T17:17:45Z", 
         "owner": {
             "login": "chbrown", 
-            "avatar_url": "https://1.gravatar.com/avatar/da347a842b3231aad6e506c93ab95564?d=https%3A%2F%2Fidenticons.github.com%2F742887602ee229d3fa598f7a244c5c8b.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/da347a842b3231aad6e506c93ab95564?d=https%3A%2F%2Fidenticons.github.com%2F742887602ee229d3fa598f7a244c5c8b.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/chbrown"
         }, 
@@ -10081,7 +10135,7 @@
         "updated_at": "2013-10-31T20:48:16Z", 
         "owner": {
             "login": "tkompare", 
-            "avatar_url": "https://2.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/tkompare"
         }, 
@@ -10153,7 +10207,7 @@
             {
                 "owner": true, 
                 "login": "jpvelez", 
-                "avatar_url": "https://2.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
                 "contributions": 33, 
                 "html_url": "https://github.com/jpvelez"
             }
@@ -10164,7 +10218,7 @@
         "updated_at": "2013-09-23T22:37:27Z", 
         "owner": {
             "login": "jpvelez", 
-            "avatar_url": "https://2.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/jpvelez"
         }, 
@@ -10174,7 +10228,61 @@
         "created_at": "2012-08-06T17:49:42Z", 
         "watchers_count": 1, 
         "open_issues": 0, 
-        "homepage": "food-truck.herokuapp.com"
+        "homepage": "food-truck.herokuapp.com", 
+        "participation": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
     }, 
     {
         "description": "Velocipeds", 
@@ -10182,7 +10290,7 @@
             {
                 "owner": true, 
                 "login": "tkompare", 
-                "avatar_url": "https://2.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
                 "contributions": 48, 
                 "html_url": "https://github.com/tkompare"
             }
@@ -10193,7 +10301,7 @@
         "updated_at": "2013-09-30T09:12:34Z", 
         "owner": {
             "login": "tkompare", 
-            "avatar_url": "https://0.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
+            "avatar_url": "https://2.gravatar.com/avatar/319558c4c89ca11415c8420a6cd7d034?d=https%3A%2F%2Fidenticons.github.com%2Fd95e96c5a142d2692b97b8ff4c69f5ff.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/tkompare"
         }, 
@@ -10265,14 +10373,14 @@
             {
                 "owner": false, 
                 "login": "tomschenkjr", 
-                "avatar_url": "https://2.gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
                 "contributions": 7, 
                 "html_url": "https://github.com/tomschenkjr"
             }, 
             {
                 "owner": false, 
                 "login": "ryanbriones", 
-                "avatar_url": "https://1.gravatar.com/avatar/881b7dd91c0d9287aea5bc505c10a15a?d=https%3A%2F%2Fidenticons.github.com%2F854d6fae5ee42911677c739ee1734486.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/881b7dd91c0d9287aea5bc505c10a15a?d=https%3A%2F%2Fidenticons.github.com%2F854d6fae5ee42911677c739ee1734486.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/ryanbriones"
             }, 
@@ -10290,7 +10398,7 @@
         "updated_at": "2013-11-24T05:10:26Z", 
         "owner": {
             "login": "Chicago", 
-            "avatar_url": "https://0.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/Chicago"
         }, 
@@ -10362,28 +10470,28 @@
             {
                 "owner": false, 
                 "login": "santheo", 
-                "avatar_url": "https://0.gravatar.com/avatar/615d4cea749bbbe341629afa62981b0a?d=https%3A%2F%2Fidenticons.github.com%2Fba7d4edf877300c40f66184e6cf56c73.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/615d4cea749bbbe341629afa62981b0a?d=https%3A%2F%2Fidenticons.github.com%2Fba7d4edf877300c40f66184e6cf56c73.png&r=x", 
                 "contributions": 756, 
                 "html_url": "https://github.com/santheo"
             }, 
             {
                 "owner": false, 
                 "login": "cgansen", 
-                "avatar_url": "https://1.gravatar.com/avatar/5c608e6a63c1fa4052119d07e8bcb221?d=https%3A%2F%2Fidenticons.github.com%2F89474711db17b59e95c5f71d56085e6b.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/5c608e6a63c1fa4052119d07e8bcb221?d=https%3A%2F%2Fidenticons.github.com%2F89474711db17b59e95c5f71d56085e6b.png&r=x", 
                 "contributions": 372, 
                 "html_url": "https://github.com/cgansen"
             }, 
             {
                 "owner": false, 
                 "login": "GovInTrenches", 
-                "avatar_url": "https://1.gravatar.com/avatar/826a6feae06ef3575647449bf7d92376?d=https%3A%2F%2Fidenticons.github.com%2Ff0679a55adf08119a3253d073093af72.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/826a6feae06ef3575647449bf7d92376?d=https%3A%2F%2Fidenticons.github.com%2Ff0679a55adf08119a3253d073093af72.png&r=x", 
                 "contributions": 41, 
                 "html_url": "https://github.com/GovInTrenches"
             }, 
             {
                 "owner": false, 
                 "login": "danxoneil", 
-                "avatar_url": "https://2.gravatar.com/avatar/d6924adcd492489dfce203048d555876?d=https%3A%2F%2Fidenticons.github.com%2F9e701dfc2f4952d495077c6bf6c3c94a.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/d6924adcd492489dfce203048d555876?d=https%3A%2F%2Fidenticons.github.com%2F9e701dfc2f4952d495077c6bf6c3c94a.png&r=x", 
                 "contributions": 12, 
                 "html_url": "https://github.com/danxoneil"
             }, 
@@ -10494,14 +10602,14 @@
             {
                 "owner": false, 
                 "login": "notthatbreezy", 
-                "avatar_url": "https://0.gravatar.com/avatar/43e19fcd5ecd81c93cf58d084aef127c?d=https%3A%2F%2Fidenticons.github.com%2F57de9efb3497c8455b95d1a69dacc535.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/43e19fcd5ecd81c93cf58d084aef127c?d=https%3A%2F%2Fidenticons.github.com%2F57de9efb3497c8455b95d1a69dacc535.png&r=x", 
                 "contributions": 7, 
                 "html_url": "https://github.com/notthatbreezy"
             }, 
             {
                 "owner": false, 
                 "login": "evz", 
-                "avatar_url": "https://0.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/evz"
             }, 
@@ -10515,7 +10623,7 @@
             {
                 "owner": false, 
                 "login": "guelo", 
-                "avatar_url": "https://0.gravatar.com/avatar/5ac81d0ee9a5e5625c6840759b0c2ca2?d=https%3A%2F%2Fidenticons.github.com%2Fefb08786a83439209417ad2343183321.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/5ac81d0ee9a5e5625c6840759b0c2ca2?d=https%3A%2F%2Fidenticons.github.com%2Fefb08786a83439209417ad2343183321.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/guelo"
             }
@@ -10526,7 +10634,7 @@
         "updated_at": "2013-11-16T07:19:07Z", 
         "owner": {
             "login": "fgregg", 
-            "avatar_url": "https://0.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/fgregg"
         }, 
@@ -10609,7 +10717,7 @@
         "updated_at": "2013-09-24T00:48:32Z", 
         "owner": {
             "login": "ryanbriones", 
-            "avatar_url": "https://0.gravatar.com/avatar/881b7dd91c0d9287aea5bc505c10a15a?d=https%3A%2F%2Fidenticons.github.com%2F854d6fae5ee42911677c739ee1734486.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/881b7dd91c0d9287aea5bc505c10a15a?d=https%3A%2F%2Fidenticons.github.com%2F854d6fae5ee42911677c739ee1734486.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/ryanbriones"
         }, 
@@ -10764,7 +10872,7 @@
             {
                 "owner": true, 
                 "login": "derekeder", 
-                "avatar_url": "https://0.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
+                "avatar_url": "https://2.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
                 "contributions": 35, 
                 "html_url": "https://github.com/derekeder"
             }
@@ -10775,7 +10883,7 @@
         "updated_at": "2013-10-17T17:54:58Z", 
         "owner": {
             "login": "derekeder", 
-            "avatar_url": "https://2.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
+            "avatar_url": "https://0.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
             "type": "User", 
             "html_url": "https://github.com/derekeder"
         }, 
@@ -10785,7 +10893,61 @@
         "created_at": "2011-10-27T00:44:55Z", 
         "watchers_count": 22, 
         "open_issues": 0, 
-        "homepage": "http://derekeder.com/fusion-tables-to-html-table/"
+        "homepage": "http://derekeder.com/fusion-tables-to-html-table/", 
+        "participation": [
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            5, 
+            11, 
+            0, 
+            0, 
+            0, 
+            1, 
+            0, 
+            0, 
+            0, 
+            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0
+        ]
     }, 
     {
         "description": "Website for Chicago's weekly open gov hack night", 
@@ -10793,7 +10955,7 @@
             {
                 "owner": false, 
                 "login": "derekeder", 
-                "avatar_url": "https://2.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
                 "contributions": 85, 
                 "html_url": "https://github.com/derekeder"
             }, 
@@ -10814,14 +10976,14 @@
             {
                 "owner": false, 
                 "login": "evz", 
-                "avatar_url": "https://1.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
                 "contributions": 5, 
                 "html_url": "https://github.com/evz"
             }, 
             {
                 "owner": false, 
                 "login": "shua123", 
-                "avatar_url": "https://2.gravatar.com/avatar/e5109f2bffaa7a6e4d48917c30fb9dea?d=https%3A%2F%2Fidenticons.github.com%2Fe7a0a2175c00c142fe3f63318181876e.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/e5109f2bffaa7a6e4d48917c30fb9dea?d=https%3A%2F%2Fidenticons.github.com%2Fe7a0a2175c00c142fe3f63318181876e.png&r=x", 
                 "contributions": 2, 
                 "html_url": "https://github.com/shua123"
             }, 
@@ -10835,14 +10997,14 @@
             {
                 "owner": false, 
                 "login": "emirose", 
-                "avatar_url": "https://2.gravatar.com/avatar/dbdc84869a05027e93f4a5ec95279a91?d=https%3A%2F%2Fidenticons.github.com%2F2bafbf12c08c631bfbc1c3d99b3d85ca.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/dbdc84869a05027e93f4a5ec95279a91?d=https%3A%2F%2Fidenticons.github.com%2F2bafbf12c08c631bfbc1c3d99b3d85ca.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/emirose"
             }, 
             {
                 "owner": false, 
                 "login": "fgregg", 
-                "avatar_url": "https://0.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
+                "avatar_url": "https://1.gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/fgregg"
             }, 
@@ -10856,7 +11018,7 @@
             {
                 "owner": false, 
                 "login": "stevevance", 
-                "avatar_url": "https://2.gravatar.com/avatar/761139693c8bd5c6dfb95c4010b89c8d?d=https%3A%2F%2Fidenticons.github.com%2F9200aae5b872987223484bb32dfe898c.png&r=x", 
+                "avatar_url": "https://0.gravatar.com/avatar/761139693c8bd5c6dfb95c4010b89c8d?d=https%3A%2F%2Fidenticons.github.com%2F9200aae5b872987223484bb32dfe898c.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/stevevance"
             }
@@ -10867,7 +11029,7 @@
         "updated_at": "2013-11-23T18:06:35Z", 
         "owner": {
             "login": "open-city", 
-            "avatar_url": "https://0.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
+            "avatar_url": "https://1.gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
             "type": "Organization", 
             "html_url": "https://github.com/open-city"
         }, 

@@ -145,7 +145,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/dedupe/contributors", 
         "forks_count": 36, 
         "html_url": "https://github.com/open-city/dedupe", 
-        "updated_at": "2013-12-16T16:34:10Z", 
+        "updated_at": "2013-12-16T22:54:33Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -1586,7 +1586,7 @@
                 "owner": false, 
                 "login": "iandees", 
                 "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
-                "contributions": 177, 
+                "contributions": 181, 
                 "html_url": "https://github.com/iandees"
             }, 
             {
@@ -1600,7 +1600,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/census-api/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/censusreporter/census-api", 
-        "updated_at": "2013-12-16T21:58:42Z", 
+        "updated_at": "2013-12-16T22:45:54Z", 
         "owner": {
             "login": "censusreporter", 
             "avatar_url": "https://gravatar.com/avatar/cab1d5bd7a6826b6a3ef28ec7583a727?d=https%3A%2F%2Fidenticons.github.com%2Fc3977d6f16d43f8f87285bf4366f3e5a.png&r=x", 
@@ -4848,7 +4848,7 @@
         "contributors_url": "https://api.github.com/repos/dssg/bikeshare/contributors", 
         "forks_count": 5, 
         "html_url": "https://github.com/dssg/bikeshare", 
-        "updated_at": "2013-12-09T18:33:49Z", 
+        "updated_at": "2013-12-16T22:07:19Z", 
         "owner": {
             "login": "dssg", 
             "avatar_url": "https://gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png&r=x", 
@@ -4859,7 +4859,7 @@
         "name": "bikeshare", 
         "language": "JavaScript", 
         "created_at": "2013-07-08T14:42:12Z", 
-        "watchers_count": 41, 
+        "watchers_count": 42, 
         "open_issues": 7, 
         "homepage": "http://bikeshare.dssg.io/", 
         "participation": [

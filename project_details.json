@@ -145,7 +145,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/dedupe/contributors", 
         "forks_count": 36, 
         "html_url": "https://github.com/open-city/dedupe", 
-        "updated_at": "2013-12-17T00:04:07Z", 
+        "updated_at": "2013-12-17T02:47:07Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -8766,7 +8766,7 @@
         "contributors_url": "https://api.github.com/repos/Chicago/osd-bike-routes/contributors", 
         "forks_count": 15, 
         "html_url": "https://github.com/Chicago/osd-bike-routes", 
-        "updated_at": "2013-12-02T16:15:42Z", 
+        "updated_at": "2013-12-17T02:46:57Z", 
         "owner": {
             "login": "Chicago", 
             "avatar_url": "https://gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
@@ -8777,7 +8777,7 @@
         "name": "osd-bike-routes", 
         "language": "R", 
         "created_at": "2013-02-07T03:49:01Z", 
-        "watchers_count": 106, 
+        "watchers_count": 107, 
         "open_issues": 2, 
         "homepage": "", 
         "participation": [

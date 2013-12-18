@@ -89,7 +89,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
-                "contributions": 485, 
+                "contributions": 487, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -145,7 +145,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/dedupe/contributors", 
         "forks_count": 36, 
         "html_url": "https://github.com/open-city/dedupe", 
-        "updated_at": "2013-12-18T17:26:04Z", 
+        "updated_at": "2013-12-18T18:57:27Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -157,7 +157,7 @@
         "language": "C", 
         "created_at": "2012-04-20T14:57:36Z", 
         "watchers_count": 281, 
-        "open_issues": 27, 
+        "open_issues": 26, 
         "homepage": "https://github.com/open-city/dedupe", 
         "participation": [
             2, 
@@ -1009,9 +1009,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/smartchicago/chicago-atlas/contributors", 
-        "forks_count": 219, 
+        "forks_count": 220, 
         "html_url": "https://github.com/smartchicago/chicago-atlas", 
-        "updated_at": "2013-12-17T18:29:03Z", 
+        "updated_at": "2013-12-18T18:42:42Z", 
         "owner": {
             "login": "smartchicago", 
             "avatar_url": "https://gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
@@ -4486,7 +4486,7 @@
         "language": "Ruby", 
         "created_at": "2013-10-26T01:37:09Z", 
         "watchers_count": 1, 
-        "open_issues": 3, 
+        "open_issues": 2, 
         "homepage": "", 
         "participation": [
             0, 
@@ -5756,7 +5756,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/censusreporter/contributors", 
         "forks_count": 1, 
         "html_url": "https://github.com/censusreporter/censusreporter", 
-        "updated_at": "2013-12-17T20:07:00Z", 
+        "updated_at": "2013-12-18T18:08:30Z", 
         "owner": {
             "login": "censusreporter", 
             "avatar_url": "https://gravatar.com/avatar/cab1d5bd7a6826b6a3ef28ec7583a727?d=https%3A%2F%2Fidenticons.github.com%2Fc3977d6f16d43f8f87285bf4366f3e5a.png&r=x", 

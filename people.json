@@ -2695,6 +2695,17 @@
         "contributions": 1
     }, 
     {
+        "name": "Nick Bennett", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/tothebeat", 
+        "blog": "http://goggl.es/", 
+        "avatar_url": "https://gravatar.com/avatar/20dd251fe613b63a6e9f31776f36cc0f?d=https%3A%2F%2Fidenticons.github.com%2F367ad2e509c5e4006dd61b213aed7da2.png&r=x", 
+        "location": "Chicago", 
+        "login": "tothebeat", 
+        "contributions": 15
+    }, 
+    {
         "name": "Tom Plagge", 
         "company": null, 
         "repositories": 2, 
@@ -2770,6 +2781,17 @@
         "location": null, 
         "login": "unruthless", 
         "contributions": 48
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/vaskalas", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/67f70ef6c5d98033153308a523f17948?d=https%3A%2F%2Fidenticons.github.com%2F69823cdf010779e1dd17bb75ab1ae784.png&r=x", 
+        "location": null, 
+        "login": "vaskalas", 
+        "contributions": 3
     }, 
     {
         "name": null, 

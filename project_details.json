@@ -1586,7 +1586,7 @@
                 "owner": false, 
                 "login": "iandees", 
                 "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
-                "contributions": 181, 
+                "contributions": 184, 
                 "html_url": "https://github.com/iandees"
             }, 
             {
@@ -11226,7 +11226,7 @@
         "language": "JavaScript", 
         "created_at": "2013-09-11T03:29:21Z", 
         "watchers_count": 13, 
-        "open_issues": 7, 
+        "open_issues": 8, 
         "homepage": "http://opengovhacknight.org", 
         "participation": [
             0, 

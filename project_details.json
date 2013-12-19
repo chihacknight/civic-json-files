@@ -145,7 +145,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/dedupe/contributors", 
         "forks_count": 36, 
         "html_url": "https://github.com/open-city/dedupe", 
-        "updated_at": "2013-12-18T19:48:37Z", 
+        "updated_at": "2013-12-18T23:37:18Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -943,9 +943,9 @@
             0, 
             0, 
             33, 
-            16, 
-            21, 
-            12, 
+            17, 
+            30, 
+            2, 
             0, 
             1, 
             0, 
@@ -1496,14 +1496,14 @@
                 "owner": false, 
                 "login": "ryanpitts", 
                 "avatar_url": "https://gravatar.com/avatar/374de4845c23063651bc7ef13ae24ba4?d=https%3A%2F%2Fidenticons.github.com%2Fef0b299ea3eb6a0561b89647e4cd700a.png&r=x", 
-                "contributions": 148, 
+                "contributions": 149, 
                 "html_url": "https://github.com/ryanpitts"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/censusreporter/census-api/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/censusreporter/census-api", 
-        "updated_at": "2013-12-18T01:50:07Z", 
+        "updated_at": "2013-12-18T23:50:15Z", 
         "owner": {
             "login": "censusreporter", 
             "avatar_url": "https://gravatar.com/avatar/cab1d5bd7a6826b6a3ef28ec7583a727?d=https%3A%2F%2Fidenticons.github.com%2Fc3977d6f16d43f8f87285bf4366f3e5a.png&r=x", 
@@ -11297,7 +11297,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/open-gov-hack-night/contributors", 
         "forks_count": 14, 
         "html_url": "https://github.com/open-city/open-gov-hack-night", 
-        "updated_at": "2013-12-16T20:13:17Z", 
+        "updated_at": "2013-12-18T23:58:01Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 

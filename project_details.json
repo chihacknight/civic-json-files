@@ -4862,7 +4862,7 @@
         "contributors_url": "https://api.github.com/repos/dssg/bikeshare/contributors", 
         "forks_count": 5, 
         "html_url": "https://github.com/dssg/bikeshare", 
-        "updated_at": "2013-12-19T01:28:00Z", 
+        "updated_at": "2013-12-19T03:43:29Z", 
         "owner": {
             "login": "dssg", 
             "avatar_url": "https://gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png&r=x", 
@@ -4873,7 +4873,7 @@
         "name": "bikeshare", 
         "language": "JavaScript", 
         "created_at": "2013-07-08T14:42:12Z", 
-        "watchers_count": 43, 
+        "watchers_count": 44, 
         "open_issues": 7, 
         "homepage": "http://bikeshare.dssg.io/", 
         "participation": [

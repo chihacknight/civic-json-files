@@ -941,8 +941,8 @@
             0, 
             0, 
             0, 
-            0, 
-            33, 
+            1, 
+            32, 
             17, 
             30, 
             2, 
@@ -6386,7 +6386,7 @@
                 "owner": true, 
                 "login": "evz", 
                 "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
-                "contributions": 22, 
+                "contributions": 23, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -6400,7 +6400,7 @@
         "contributors_url": "https://api.github.com/repos/evz/crimeapi/contributors", 
         "forks_count": 3, 
         "html_url": "https://github.com/evz/crimeapi", 
-        "updated_at": "2013-12-19T22:22:58Z", 
+        "updated_at": "2013-12-19T23:04:01Z", 
         "owner": {
             "login": "evz", 
             "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
@@ -11451,8 +11451,8 @@
             0, 
             0, 
             0, 
-            0, 
-            18, 
+            4, 
+            14, 
             4
         ]
     }

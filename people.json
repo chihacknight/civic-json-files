@@ -332,13 +332,13 @@
     {
         "name": "Alex Soble", 
         "company": "Chicago Public Schools", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/alexsoble", 
         "blog": "www.alexsoble.com", 
         "avatar_url": "https://gravatar.com/avatar/38bebd42c21cda441aec7b277230f465?d=https%3A%2F%2Fidenticons.github.com%2F8b09fc4b0aa78e93fb466092bba4954d.png&r=x", 
         "location": "Chicago, IL", 
         "login": "alexsoble", 
-        "contributions": 37
+        "contributions": 44
     }, 
     {
         "name": "Anna Marie Tamayo", 
@@ -998,7 +998,7 @@
         "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 226
+        "contributions": 230
     }, 
     {
         "name": "Forest Gregg", 

@@ -1586,7 +1586,7 @@
                 "owner": false, 
                 "login": "iandees", 
                 "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
-                "contributions": 186, 
+                "contributions": 188, 
                 "html_url": "https://github.com/iandees"
             }, 
             {
@@ -1600,7 +1600,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/census-api/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/censusreporter/census-api", 
-        "updated_at": "2013-12-21T17:54:16Z", 
+        "updated_at": "2013-12-21T18:07:47Z", 
         "owner": {
             "login": "censusreporter", 
             "avatar_url": "https://gravatar.com/avatar/cab1d5bd7a6826b6a3ef28ec7583a727?d=https%3A%2F%2Fidenticons.github.com%2Fc3977d6f16d43f8f87285bf4366f3e5a.png&r=x", 
@@ -5021,7 +5021,7 @@
                 "owner": false, 
                 "login": "iandees", 
                 "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
-                "contributions": 70, 
+                "contributions": 73, 
                 "html_url": "https://github.com/iandees"
             }, 
             {
@@ -5035,7 +5035,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/censusreporter/contributors", 
         "forks_count": 1, 
         "html_url": "https://github.com/censusreporter/censusreporter", 
-        "updated_at": "2013-12-21T00:55:33Z", 
+        "updated_at": "2013-12-21T18:12:54Z", 
         "owner": {
             "login": "censusreporter", 
             "avatar_url": "https://gravatar.com/avatar/cab1d5bd7a6826b6a3ef28ec7583a727?d=https%3A%2F%2Fidenticons.github.com%2Fc3977d6f16d43f8f87285bf4366f3e5a.png&r=x", 
@@ -6878,7 +6878,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
-                "contributions": 117, 
+                "contributions": 118, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -6892,7 +6892,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/clearstreets-web/contributors", 
         "forks_count": 2, 
         "html_url": "https://github.com/open-city/clearstreets-web", 
-        "updated_at": "2013-12-20T05:52:39Z", 
+        "updated_at": "2013-12-21T18:21:40Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 

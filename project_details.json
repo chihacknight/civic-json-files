@@ -145,7 +145,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/dedupe/contributors", 
         "forks_count": 36, 
         "html_url": "https://github.com/open-city/dedupe", 
-        "updated_at": "2013-12-19T14:47:17Z", 
+        "updated_at": "2013-12-21T03:08:33Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -156,7 +156,7 @@
         "name": "dedupe", 
         "language": "C", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "watchers_count": 281, 
+        "watchers_count": 282, 
         "open_issues": 26, 
         "homepage": "https://github.com/open-city/dedupe", 
         "participation": [
@@ -11387,7 +11387,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/open-gov-hack-night/contributors", 
         "forks_count": 14, 
         "html_url": "https://github.com/open-city/open-gov-hack-night", 
-        "updated_at": "2013-12-18T23:58:01Z", 
+        "updated_at": "2013-12-21T03:42:49Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -11398,7 +11398,7 @@
         "name": "open-gov-hack-night", 
         "language": "JavaScript", 
         "created_at": "2013-09-11T03:29:21Z", 
-        "watchers_count": 13, 
+        "watchers_count": 14, 
         "open_issues": 7, 
         "homepage": "http://opengovhacknight.org", 
         "participation": [
@@ -11534,9 +11534,9 @@
             0, 
             1, 
             2, 
-            0, 
-            2, 
-            1
+            1, 
+            1, 
+            2
         ]
     }
 ]

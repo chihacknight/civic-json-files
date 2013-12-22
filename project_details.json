@@ -398,7 +398,7 @@
                 "owner": false, 
                 "login": "eads", 
                 "avatar_url": "https://gravatar.com/avatar/ac137d6b1fc890c5ac1a6a4d45acefcc?d=https%3A%2F%2Fidenticons.github.com%2F396638d81fee53be2705d806ca713dff.png&r=x", 
-                "contributions": 219, 
+                "contributions": 220, 
                 "html_url": "https://github.com/eads"
             }, 
             {
@@ -428,6 +428,13 @@
                 "avatar_url": "https://gravatar.com/avatar/3472056604dd2d5ef0cc32b0c22aa2ab?d=https%3A%2F%2Fidenticons.github.com%2F347caebf52b57d92f5fc023abfb13705.png&r=x", 
                 "contributions": 4, 
                 "html_url": "https://github.com/andymboyle"
+            }, 
+            {
+                "owner": false, 
+                "login": "JoeGermuska", 
+                "avatar_url": "https://gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
+                "contributions": 2, 
+                "html_url": "https://github.com/JoeGermuska"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/newsapps/flask-tarbell/contributors", 

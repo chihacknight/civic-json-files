@@ -1232,17 +1232,6 @@
         "contributions": 1
     }, 
     {
-        "name": "Check your git settings!", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/invalid-email-address", 
-        "blog": "https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user", 
-        "avatar_url": "https://gravatar.com/avatar/4fca794da0cf08804f99048d3c8b39c1?d=https%3A%2F%2Fidenticons.github.com%2Fd116649d9423389df5d1cfd5b0851410.png&r=x", 
-        "location": null, 
-        "login": "invalid-email-address", 
-        "contributions": 93
-    }, 
-    {
         "name": "Irwin", 
         "company": null, 
         "repositories": 1, 

@@ -159,7 +159,7 @@
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2013-12-19T14:47:16Z", 
         "watchers_count": 282, 
-        "open_issues": 26, 
+        "open_issues": 27, 
         "homepage": "https://github.com/open-city/dedupe", 
         "participation": [
             0, 
@@ -10466,9 +10466,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/smartchicago/connect-chicago-locator/contributors", 
-        "forks_count": 5, 
+        "forks_count": 6, 
         "html_url": "https://github.com/smartchicago/connect-chicago-locator", 
-        "updated_at": "2013-11-22T16:08:38Z", 
+        "updated_at": "2013-12-24T19:01:43Z", 
         "owner": {
             "login": "smartchicago", 
             "avatar_url": "https://gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 

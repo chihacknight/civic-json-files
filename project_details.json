@@ -9426,7 +9426,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/councilmatic/contributors", 
         "forks_count": 6, 
         "html_url": "https://github.com/open-city/councilmatic", 
-        "updated_at": "2013-11-27T04:38:02Z", 
+        "updated_at": "2013-12-29T15:08:05Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -9437,7 +9437,7 @@
         "name": "councilmatic", 
         "language": "Python", 
         "created_at": "2012-10-23T20:11:36Z", 
-        "pushed_at": "2013-09-22T19:34:10Z", 
+        "pushed_at": "2013-12-29T15:08:00Z", 
         "watchers_count": 11, 
         "open_issues": 21, 
         "homepage": "http://chicagocouncilmatic.org", 

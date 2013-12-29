@@ -6941,7 +6941,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
-                "contributions": 123, 
+                "contributions": 124, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -6955,7 +6955,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/clearstreets-web/contributors", 
         "forks_count": 2, 
         "html_url": "https://github.com/open-city/clearstreets-web", 
-        "updated_at": "2013-12-25T06:52:26Z", 
+        "updated_at": "2013-12-29T16:39:25Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -6966,7 +6966,7 @@
         "name": "clearstreets-web", 
         "language": "JavaScript", 
         "created_at": "2012-12-20T08:15:26Z", 
-        "pushed_at": "2013-12-25T06:52:25Z", 
+        "pushed_at": "2013-12-29T16:39:25Z", 
         "watchers_count": 3, 
         "open_issues": 8, 
         "homepage": "http://clearstreets.org", 
@@ -9407,6 +9407,13 @@
                 "avatar_url": "https://gravatar.com/avatar/4616698e5452eae10b53f2092f0d6cb6?d=https%3A%2F%2Fidenticons.github.com%2F8176ddc43d2b16458cda021953cc84f3.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/danmelton"
+            }, 
+            {
+                "owner": false, 
+                "login": "evz", 
+                "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+                "contributions": 1, 
+                "html_url": "https://github.com/evz"
             }, 
             {
                 "owner": false, 

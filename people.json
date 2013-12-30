@@ -2692,7 +2692,7 @@
         "avatar_url": "https://gravatar.com/avatar/63a170fb8387c9dc22bf7dd40b6e4f86?d=https%3A%2F%2Fidenticons.github.com%2F367ad2e509c5e4006dd61b213aed7da2.png&r=x", 
         "location": "Chicago, IL", 
         "login": "tothebeat", 
-        "contributions": 15
+        "contributions": 16
     }, 
     {
         "name": "Tom Plagge", 
@@ -2813,6 +2813,17 @@
         "avatar_url": "https://gravatar.com/avatar/9a3e5b5cedb92a4c6660b109ff10fd66?d=https%3A%2F%2Fidenticons.github.com%2F2c82cf59b987566d8a1f838a08f8e3f2.png&r=x", 
         "location": null, 
         "login": "visibletrue", 
+        "contributions": 1
+    }, 
+    {
+        "name": "waffle.io", 
+        "company": "waffle.io", 
+        "repositories": 1, 
+        "html_url": "https://github.com/waffleio", 
+        "blog": "http://waffle.io", 
+        "avatar_url": "https://gravatar.com/avatar/6fefd00c93418f0851d01ab1e766e679?d=https%3A%2F%2Fidenticons.github.com%2Fdc5509ce57d72e59e5e99cf6b1b2e36f.png&r=x", 
+        "location": null, 
+        "login": "waffleio", 
         "contributions": 1
     }, 
     {

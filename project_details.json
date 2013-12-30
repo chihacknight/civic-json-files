@@ -1033,9 +1033,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/smartchicago/chicago-atlas/contributors", 
-        "forks_count": 219, 
+        "forks_count": 218, 
         "html_url": "https://github.com/smartchicago/chicago-atlas", 
-        "updated_at": "2013-12-28T23:46:53Z", 
+        "updated_at": "2013-12-30T16:08:28Z", 
         "owner": {
             "login": "smartchicago", 
             "avatar_url": "https://gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
@@ -8922,7 +8922,7 @@
                 "owner": false, 
                 "login": "tothebeat", 
                 "avatar_url": "https://gravatar.com/avatar/63a170fb8387c9dc22bf7dd40b6e4f86?d=https%3A%2F%2Fidenticons.github.com%2F367ad2e509c5e4006dd61b213aed7da2.png&r=x", 
-                "contributions": 15, 
+                "contributions": 16, 
                 "html_url": "https://github.com/tothebeat"
             }, 
             {
@@ -8931,12 +8931,19 @@
                 "avatar_url": "https://gravatar.com/avatar/67f70ef6c5d98033153308a523f17948?d=https%3A%2F%2Fidenticons.github.com%2F69823cdf010779e1dd17bb75ab1ae784.png&r=x", 
                 "contributions": 3, 
                 "html_url": "https://github.com/vaskalas"
+            }, 
+            {
+                "owner": false, 
+                "login": "waffleio", 
+                "avatar_url": "https://gravatar.com/avatar/6fefd00c93418f0851d01ab1e766e679?d=https%3A%2F%2Fidenticons.github.com%2Fdc5509ce57d72e59e5e99cf6b1b2e36f.png&r=x", 
+                "contributions": 1, 
+                "html_url": "https://github.com/waffleio"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/bnjy-opengov/chi-solicitations-feed/contributors", 
-        "forks_count": 2, 
+        "forks_count": 3, 
         "html_url": "https://github.com/bnjy-opengov/chi-solicitations-feed", 
-        "updated_at": "2013-12-14T21:20:48Z", 
+        "updated_at": "2013-12-30T16:09:11Z", 
         "owner": {
             "login": "bnjy-opengov", 
             "avatar_url": "https://identicons.github.com/7b8dcdf27d81c20e43060bca6cc8d21a.png", 
@@ -8947,7 +8954,7 @@
         "name": "chi-solicitations-feed", 
         "language": "Python", 
         "created_at": "2013-12-04T18:07:47Z", 
-        "pushed_at": "2013-12-14T21:20:48Z", 
+        "pushed_at": "2013-12-30T16:09:10Z", 
         "watchers_count": 1, 
         "open_issues": 7, 
         "homepage": null, 

@@ -11105,7 +11105,7 @@
         "contributors_url": "https://api.github.com/repos/Chicago/metalicious/contributors", 
         "forks_count": 5, 
         "html_url": "https://github.com/Chicago/metalicious", 
-        "updated_at": "2013-12-31T21:34:11Z", 
+        "updated_at": "2014-01-01T06:12:46Z", 
         "owner": {
             "login": "Chicago", 
             "avatar_url": "https://gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
@@ -11117,7 +11117,7 @@
         "language": "PHP", 
         "created_at": "2013-05-14T14:16:47Z", 
         "pushed_at": "2013-12-22T22:11:34Z", 
-        "watchers_count": 13, 
+        "watchers_count": 14, 
         "open_issues": 14, 
         "homepage": null, 
         "participation": [

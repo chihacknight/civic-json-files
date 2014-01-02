@@ -90,7 +90,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
-                "contributions": 493, 
+                "contributions": 494, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -104,7 +104,7 @@
                 "owner": false, 
                 "login": "nikitsaraf", 
                 "avatar_url": "https://gravatar.com/avatar/6775f15ef24bc0e300c3162fb481af0f?d=https%3A%2F%2Fidenticons.github.com%2Fab26392d3faf6702059ab31dc25eddb8.png&r=x", 
-                "contributions": 35, 
+                "contributions": 37, 
                 "html_url": "https://github.com/nikitsaraf"
             }, 
             {
@@ -146,7 +146,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/dedupe/contributors", 
         "forks_count": 37, 
         "html_url": "https://github.com/open-city/dedupe", 
-        "updated_at": "2014-01-02T14:10:55Z", 
+        "updated_at": "2014-01-02T15:26:57Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -157,9 +157,9 @@
         "name": "dedupe", 
         "language": "C", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2014-01-02T14:10:54Z", 
+        "pushed_at": "2014-01-02T15:26:56Z", 
         "watchers_count": 284, 
-        "open_issues": 27, 
+        "open_issues": 25, 
         "homepage": "https://github.com/open-city/dedupe", 
         "participation": [
             9, 
@@ -11105,7 +11105,7 @@
         "contributors_url": "https://api.github.com/repos/Chicago/metalicious/contributors", 
         "forks_count": 5, 
         "html_url": "https://github.com/Chicago/metalicious", 
-        "updated_at": "2014-01-01T06:12:46Z", 
+        "updated_at": "2014-01-02T15:50:11Z", 
         "owner": {
             "login": "Chicago", 
             "avatar_url": "https://gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
@@ -11117,7 +11117,7 @@
         "language": "PHP", 
         "created_at": "2013-05-14T14:16:47Z", 
         "pushed_at": "2013-12-22T22:11:34Z", 
-        "watchers_count": 14, 
+        "watchers_count": 15, 
         "open_issues": 14, 
         "homepage": null, 
         "participation": [

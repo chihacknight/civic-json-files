@@ -6430,7 +6430,7 @@
                 "owner": true, 
                 "login": "evz", 
                 "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
-                "contributions": 25, 
+                "contributions": 28, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -9410,16 +9410,9 @@
             }, 
             {
                 "owner": false, 
-                "login": "danmelton", 
-                "avatar_url": "https://gravatar.com/avatar/4616698e5452eae10b53f2092f0d6cb6?d=https%3A%2F%2Fidenticons.github.com%2F8176ddc43d2b16458cda021953cc84f3.png&r=x", 
-                "contributions": 1, 
-                "html_url": "https://github.com/danmelton"
-            }, 
-            {
-                "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
-                "contributions": 1, 
+                "contributions": 2, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -9428,6 +9421,13 @@
                 "avatar_url": "https://gravatar.com/avatar/2f0a04b7e6ecdbc7f2094ed500383ff1?d=https%3A%2F%2Fidenticons.github.com%2F50d03affce5eba89a5066376d6b8bdbf.png&r=x", 
                 "contributions": 1, 
                 "html_url": "https://github.com/joannecheng"
+            }, 
+            {
+                "owner": false, 
+                "login": "danmelton", 
+                "avatar_url": "https://gravatar.com/avatar/4616698e5452eae10b53f2092f0d6cb6?d=https%3A%2F%2Fidenticons.github.com%2F8176ddc43d2b16458cda021953cc84f3.png&r=x", 
+                "contributions": 1, 
+                "html_url": "https://github.com/danmelton"
             }, 
             {
                 "owner": false, 

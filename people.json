@@ -968,17 +968,6 @@
         "contributions": 10
     }, 
     {
-        "name": "Emily Rowe Wiegand", 
-        "company": "Chapin Hall at the University of Chicago", 
-        "repositories": 1, 
-        "html_url": "https://github.com/eprowe", 
-        "blog": "", 
-        "avatar_url": "https://gravatar.com/avatar/570bb7bdd21728907e537617503d1ad5?d=https%3A%2F%2Fidenticons.github.com%2Fe729a1cadb6dfe07f86433e9fc3b7d83.png&r=x", 
-        "location": "Chicago, IL", 
-        "login": "eprowe", 
-        "contributions": 126
-    }, 
-    {
         "name": "Eric Carty-Fickes", 
         "company": "Northwestern University", 
         "repositories": 1, 
@@ -988,6 +977,17 @@
         "location": "Chicago, IL", 
         "login": "ericcf", 
         "contributions": 1
+    }, 
+    {
+        "name": "Emily Rowe Wiegand", 
+        "company": "Chapin Hall at the University of Chicago", 
+        "repositories": 1, 
+        "html_url": "https://github.com/erowewiegand", 
+        "blog": "", 
+        "avatar_url": "https://gravatar.com/avatar/570bb7bdd21728907e537617503d1ad5?d=https%3A%2F%2Fidenticons.github.com%2Fe729a1cadb6dfe07f86433e9fc3b7d83.png&r=x", 
+        "location": "Chicago, IL", 
+        "login": "erowewiegand", 
+        "contributions": 126
     }, 
     {
         "name": "Eric van Zanten", 

@@ -431,9 +431,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/newsapps/flask-tarbell/contributors", 
-        "forks_count": 7, 
+        "forks_count": 6, 
         "html_url": "https://github.com/newsapps/flask-tarbell", 
-        "updated_at": "2014-01-03T22:57:45Z", 
+        "updated_at": "2014-01-06T15:15:14Z", 
         "owner": {
             "login": "newsapps", 
             "avatar_url": "https://gravatar.com/avatar/f02c694db7cd8e75caa0ebef5209a9e9?d=https%3A%2F%2Fidenticons.github.com%2F935d011909747f00740190b2c200eeaa.png&r=x", 

@@ -11595,7 +11595,7 @@
         "contributors_url": "https://api.github.com/repos/alexsoble/divvybrags2/contributors", 
         "forks_count": 1, 
         "html_url": "https://github.com/alexsoble/divvybrags2", 
-        "updated_at": "2013-12-27T13:47:05Z", 
+        "updated_at": "2014-01-07T16:15:28Z", 
         "owner": {
             "login": "alexsoble", 
             "avatar_url": "https://gravatar.com/avatar/38bebd42c21cda441aec7b277230f465?d=https%3A%2F%2Fidenticons.github.com%2F8b09fc4b0aa78e93fb466092bba4954d.png&r=x", 
@@ -11607,7 +11607,7 @@
         "language": "JavaScript", 
         "created_at": "2013-11-19T23:31:27Z", 
         "pushed_at": "2013-12-27T13:47:05Z", 
-        "watchers_count": 1, 
+        "watchers_count": 2, 
         "open_issues": 1, 
         "homepage": null, 
         "participation": [

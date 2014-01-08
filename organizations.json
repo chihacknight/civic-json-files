@@ -2,7 +2,7 @@
     {
         "name": null, 
         "company": null, 
-        "repositories": 10, 
+        "repositories": 9, 
         "html_url": "https://github.com/Chicago", 
         "blog": null, 
         "avatar_url": "https://gravatar.com/avatar/e09f62d53932b89521aeed7d731af072?d=https%3A%2F%2Fidenticons.github.com%2F4eb82690a5b2cb536642fd9544134f31.png&r=x", 
@@ -52,7 +52,7 @@
     {
         "name": "Code For America", 
         "company": null, 
-        "repositories": 3, 
+        "repositories": 2, 
         "html_url": "https://github.com/codeforamerica", 
         "blog": "http://codeforamerica.org", 
         "avatar_url": "https://gravatar.com/avatar/ec81184c572bc827b72ebb489d49f821?d=https%3A%2F%2Fidenticons.github.com%2F190ee0a9502204c8340cee81293edbbe.png&r=x", 
@@ -92,7 +92,7 @@
     {
         "name": "Open City", 
         "company": null, 
-        "repositories": 14, 
+        "repositories": 12, 
         "html_url": "https://github.com/open-city", 
         "blog": "http://opencityapps.org/", 
         "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 

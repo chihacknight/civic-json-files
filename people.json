@@ -354,13 +354,13 @@
     {
         "name": "Andy Boyle", 
         "company": "Chicago Tribune", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/andymboyle", 
         "blog": "http://www.andymboyle.com", 
         "avatar_url": "https://gravatar.com/avatar/3472056604dd2d5ef0cc32b0c22aa2ab?d=https%3A%2F%2Fidenticons.github.com%2F347caebf52b57d92f5fc023abfb13705.png&r=x", 
         "location": "Chicago, IL", 
         "login": "andymboyle", 
-        "contributions": 6
+        "contributions": 11
     }, 
     {
         "name": "Tim Moreland", 
@@ -442,13 +442,13 @@
     {
         "name": "Ben Sheldon", 
         "company": "", 
-        "repositories": 3, 
+        "repositories": 4, 
         "html_url": "https://github.com/bensheldon", 
         "blog": "http://island94.org", 
         "avatar_url": "https://gravatar.com/avatar/0a760b6486d32a6ca54cad49210fdf49?d=https%3A%2F%2Fidenticons.github.com%2Fea8ef8e4d485b31880a627bd3c61bb2c.png&r=x", 
         "location": "San Francisco, CA", 
         "login": "bensheldon", 
-        "contributions": 56
+        "contributions": 71
     }, 
     {
         "name": "Brian Everett Peterson", 
@@ -726,6 +726,17 @@
         "contributions": 27
     }, 
     {
+        "name": "Dave Guarino", 
+        "company": "Code for America", 
+        "repositories": 1, 
+        "html_url": "https://github.com/daguar", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/bdd8cc46ae86e389388ae78dfc45effe?d=https%3A%2F%2Fidenticons.github.com%2F4b102bf6681e25c44a3c980791826c1f.png&r=x", 
+        "location": "Oakland, CA", 
+        "login": "daguar", 
+        "contributions": 1
+    }, 
+    {
         "name": "Dan Melton", 
         "company": "Granicus", 
         "repositories": 2, 
@@ -836,6 +847,17 @@
         "contributions": 3
     }, 
     {
+        "name": "Drew Dara-Abrams", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/drewda", 
+        "blog": "http://drew.dara-abrams.com/", 
+        "avatar_url": "https://gravatar.com/avatar/542fc411e2ec547afd9ed7ed4caa5b3d?d=https%3A%2F%2Fidenticons.github.com%2F814ddfddee50831ff86e7a31d2452bef.png&r=x", 
+        "location": "California", 
+        "login": "drewda", 
+        "contributions": 1
+    }, 
+    {
         "name": "Daniel Trebbien", 
         "company": null, 
         "repositories": 1, 
@@ -860,13 +882,13 @@
     {
         "name": "David Eads", 
         "company": null, 
-        "repositories": 3, 
+        "repositories": 4, 
         "html_url": "https://github.com/eads", 
         "blog": null, 
         "avatar_url": "https://gravatar.com/avatar/ac137d6b1fc890c5ac1a6a4d45acefcc?d=https%3A%2F%2Fidenticons.github.com%2F396638d81fee53be2705d806ca713dff.png&r=x", 
         "location": null, 
         "login": "eads", 
-        "contributions": 268
+        "contributions": 537
     }, 
     {
         "name": null, 
@@ -981,13 +1003,13 @@
     {
         "name": "Eric van Zanten", 
         "company": "", 
-        "repositories": 11, 
+        "repositories": 12, 
         "html_url": "https://github.com/evz", 
         "blog": "www.static-eric.com", 
         "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 208
+        "contributions": 237
     }, 
     {
         "name": "Forest Gregg", 
@@ -1111,15 +1133,26 @@
         "contributions": 2
     }, 
     {
+        "name": "Matt Hampel", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/hampelm", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/4577d6fca507072a173a82b3348014da?d=https%3A%2F%2Fidenticons.github.com%2Ff427f4542fe337751b1ae05416cec5bb.png&r=x", 
+        "location": "Detroit, MI", 
+        "login": "hampelm", 
+        "contributions": 4
+    }, 
+    {
         "name": "Harper Reed", 
         "company": "Harper Rules, LLC", 
-        "repositories": 2, 
+        "repositories": 3, 
         "html_url": "https://github.com/harperreed", 
         "blog": "http://nata2.org", 
         "avatar_url": "https://gravatar.com/avatar/b7a96b3d5b5cfed5228396104cd67b38?d=https%3A%2F%2Fidenticons.github.com%2F2f810d47ed84f11f7009b39ddc3bed95.png&r=x", 
         "location": "Chicago, Il", 
         "login": "harperreed", 
-        "contributions": 15
+        "contributions": 17
     }, 
     {
         "name": "Harry Wood", 
@@ -1135,13 +1168,13 @@
     {
         "name": "Heather Billings", 
         "company": null, 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/hbillings", 
         "blog": "http://heatherjaybillings.com", 
         "avatar_url": "https://gravatar.com/avatar/ae26c4988eb329144eb5bab65fa659bf?d=https%3A%2F%2Fidenticons.github.com%2Fc73331f7bf40bc5a4f65e0382db73295.png&r=x", 
         "location": "Chicago, IL", 
         "login": "hbillings", 
-        "contributions": 14
+        "contributions": 19
     }, 
     {
         "name": null, 
@@ -1190,13 +1223,13 @@
     {
         "name": "Ian Dees", 
         "company": null, 
-        "repositories": 7, 
+        "repositories": 8, 
         "html_url": "https://github.com/iandees", 
         "blog": null, 
         "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 427
+        "contributions": 433
     }, 
     {
         "name": "Idan Gazit", 
@@ -1342,15 +1375,26 @@
         "contributions": 43
     }, 
     {
+        "name": "John Fahrenbach", 
+        "company": "`", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jpfahrenbach", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/9ce92f8f5608c3acd8d217dc8fd76ed8?d=https%3A%2F%2Fidenticons.github.com%2F276e892c57f54e6a961a28741490ddd4.png&r=x", 
+        "location": null, 
+        "login": "jpfahrenbach", 
+        "contributions": 7
+    }, 
+    {
         "name": "Juan-Pablo Velez", 
         "company": "Open City", 
-        "repositories": 14, 
+        "repositories": 15, 
         "html_url": "https://github.com/jpvelez", 
         "blog": "http://www.twitter.com/jpvelez", 
         "avatar_url": "https://gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
         "location": "Chicago", 
         "login": "jpvelez", 
-        "contributions": 222
+        "contributions": 283
     }, 
     {
         "name": "Jim", 
@@ -1757,6 +1801,17 @@
         "avatar_url": "https://gravatar.com/avatar/7e3038f9bbba96ceb14a097e4ee128ff?d=https%3A%2F%2Fidenticons.github.com%2F1060d2312d7844e40b99153c4d1a45ad.png&r=x", 
         "location": "Oakland, California", 
         "login": "mlinksva", 
+        "contributions": 1
+    }, 
+    {
+        "name": "Tom Preston-Werner", 
+        "company": "GitHub, Inc.", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mojombo", 
+        "blog": "http://tom.preston-werner.com", 
+        "avatar_url": "https://gravatar.com/avatar/25c7c18223fb42a4c6ae1c8db6f50f9b?d=https%3A%2F%2Fidenticons.github.com%2Fc4ca4238a0b923820dcc509a6f75849b.png&r=x", 
+        "location": "San Francisco", 
+        "login": "mojombo", 
         "contributions": 1
     }, 
     {
@@ -2180,13 +2235,13 @@
     {
         "name": "Ryan Nagle", 
         "company": "Chicago Tribune", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/rnagle", 
         "blog": null, 
         "avatar_url": "https://gravatar.com/avatar/eaeb6bb22cb409092cdd75035cf010cd?d=https%3A%2F%2Fidenticons.github.com%2F9f14329272fcdb168a2814e93b0cb768.png&r=x", 
         "location": "Chicago, Il", 
         "login": "rnagle", 
-        "contributions": 9
+        "contributions": 21
     }, 
     {
         "name": null, 
@@ -2257,13 +2312,13 @@
     {
         "name": "Ryan Carmelo Briones", 
         "company": "", 
-        "repositories": 4, 
+        "repositories": 7, 
         "html_url": "https://github.com/ryanbriones", 
         "blog": "http://ryanbriones.com", 
         "avatar_url": "https://gravatar.com/avatar/881b7dd91c0d9287aea5bc505c10a15a?d=https%3A%2F%2Fidenticons.github.com%2F854d6fae5ee42911677c739ee1734486.png&r=x", 
         "location": "Chicago, IL", 
         "login": "ryanbriones", 
-        "contributions": 14
+        "contributions": 20
     }, 
     {
         "name": null, 
@@ -2275,6 +2330,17 @@
         "location": null, 
         "login": "ryandasher", 
         "contributions": 3
+    }, 
+    {
+        "name": "Ryan Mark", 
+        "company": "Chicago Tribune", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ryanmark", 
+        "blog": "http://ryan-mark.com", 
+        "avatar_url": "https://gravatar.com/avatar/13a14bf34a784fb7be2a4d7a1fb517c5?d=https%3A%2F%2Fidenticons.github.com%2F91e3c81bd95181035bc24bc7eea57f18.png&r=x", 
+        "location": "Chicago", 
+        "login": "ryanmark", 
+        "contributions": 6
     }, 
     {
         "name": "Ryan Pitts", 
@@ -2433,13 +2499,13 @@
     {
         "name": "Scott Robbin", 
         "company": "Robbin & Co.", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/srobbin", 
         "blog": "http://srobbin.com", 
         "avatar_url": "https://gravatar.com/avatar/faf77d98052ea830bebaf89238862163?d=https%3A%2F%2Fidenticons.github.com%2F64c6e872abc90f8a480908b92521e25a.png&r=x", 
         "location": "Chicago", 
         "login": "srobbin", 
-        "contributions": 34
+        "contributions": 36
     }, 
     {
         "name": null, 
@@ -2521,13 +2587,13 @@
     {
         "name": "Tom Schenk Jr", 
         "company": "City of Chicago", 
-        "repositories": 5, 
+        "repositories": 7, 
         "html_url": "https://github.com/tomschenkjr", 
         "blog": "www.tomschenkjr.net", 
         "avatar_url": "https://gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 38
+        "contributions": 48
     }, 
     {
         "name": null, 
@@ -2725,6 +2791,17 @@
         "avatar_url": "https://gravatar.com/avatar/f1484964a87b2a99a2e06c8911905568?d=https%3A%2F%2Fidenticons.github.com%2F5de0b507d400c46cf32b056c679ac97c.png&r=x", 
         "location": "New York, Chicago", 
         "login": "yokkay", 
+        "contributions": 1
+    }, 
+    {
+        "name": "Zach Williams", 
+        "company": "Portland Trail Blazers", 
+        "repositories": 1, 
+        "html_url": "https://github.com/zachwill", 
+        "blog": "zachwill.com", 
+        "avatar_url": "https://gravatar.com/avatar/52e2728d5819cdd02f46b07e711dc859?d=https%3A%2F%2Fidenticons.github.com%2F25f416338ed598da7c7c28b7f9f92c09.png&r=x", 
+        "location": "Portland, OR", 
+        "login": "zachwill", 
         "contributions": 1
     }, 
     {

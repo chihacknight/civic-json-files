@@ -1782,6 +1782,17 @@
         "contributions": 4
     }, 
     {
+        "name": "Michael Hartl", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mhartl", 
+        "blog": "http://railstutorial.org/", 
+        "avatar_url": "https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?d=https%3A%2F%2Fidenticons.github.com%2F575425a3f433138553be468c9d1ecba7.png&r=x", 
+        "location": "Pasadena, CA", 
+        "login": "mhartl", 
+        "contributions": 14
+    }, 
+    {
         "name": "Mike Helmick", 
         "company": "Azork", 
         "repositories": 1, 
@@ -2532,13 +2543,13 @@
     {
         "name": "Josh Kalov", 
         "company": null, 
-        "repositories": 4, 
+        "repositories": 5, 
         "html_url": "https://github.com/shua123", 
         "blog": "http://kalov.net", 
         "avatar_url": "https://gravatar.com/avatar/e5109f2bffaa7a6e4d48917c30fb9dea?d=https%3A%2F%2Fidenticons.github.com%2Fe7a0a2175c00c142fe3f63318181876e.png&r=x", 
         "location": "Chicago", 
         "login": "shua123", 
-        "contributions": 53
+        "contributions": 122
     }, 
     {
         "name": "David Baumgold", 

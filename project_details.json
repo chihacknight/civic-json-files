@@ -1021,7 +1021,7 @@
         "contributors_url": "https://api.github.com/repos/smartchicago/chicago-atlas/contributors", 
         "forks_count": 216, 
         "html_url": "https://github.com/smartchicago/chicago-atlas", 
-        "updated_at": "2014-01-07T22:56:03Z", 
+        "updated_at": "2014-01-10T05:13:50Z", 
         "owner": {
             "login": "smartchicago", 
             "avatar_url": "https://gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
@@ -8683,7 +8683,7 @@
         "created_at": "2013-02-16T00:58:59Z", 
         "pushed_at": "2014-01-05T05:23:01Z", 
         "watchers_count": 6, 
-        "open_issues": 11, 
+        "open_issues": 12, 
         "homepage": "http://chicagocrashes.org", 
         "participation": [
             0, 

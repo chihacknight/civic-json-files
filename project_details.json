@@ -4078,7 +4078,7 @@
         "created_at": "2012-11-19T03:56:12Z", 
         "pushed_at": "2013-12-08T17:57:05Z", 
         "watchers_count": 18, 
-        "open_issues": 31, 
+        "open_issues": 33, 
         "homepage": "http://cookcountyjail.recoveredfactory.net/api/1.0/?format=json", 
         "participation": [
             7, 
@@ -11834,9 +11834,9 @@
             0, 
             40, 
             0, 
-            6, 
-            2, 
-            18, 
+            8, 
+            1, 
+            17, 
             3
         ]
     }

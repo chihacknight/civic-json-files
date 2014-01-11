@@ -8705,7 +8705,7 @@
         "contributors_url": "https://api.github.com/repos/stevevance/Chicago-Crash-Browser/contributors", 
         "forks_count": 4, 
         "html_url": "https://github.com/stevevance/Chicago-Crash-Browser", 
-        "updated_at": "2014-01-07T20:04:35Z", 
+        "updated_at": "2014-01-11T20:02:27Z", 
         "owner": {
             "login": "stevevance", 
             "avatar_url": "https://gravatar.com/avatar/761139693c8bd5c6dfb95c4010b89c8d?d=https%3A%2F%2Fidenticons.github.com%2F9200aae5b872987223484bb32dfe898c.png&r=x", 
@@ -8716,9 +8716,9 @@
         "name": "Chicago-Crash-Browser", 
         "language": "JavaScript", 
         "created_at": "2013-02-16T00:58:59Z", 
-        "pushed_at": "2014-01-05T05:23:01Z", 
+        "pushed_at": "2014-01-11T20:02:27Z", 
         "watchers_count": 6, 
-        "open_issues": 12, 
+        "open_issues": 11, 
         "homepage": "http://chicagocrashes.org", 
         "participation": [
             0, 
@@ -9732,7 +9732,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/dssg/ushine-learning/contributors", 
-        "forks_count": 0, 
+        "forks_count": 1, 
         "html_url": "https://github.com/dssg/ushine-learning", 
         "updated_at": "2013-12-18T04:40:19Z", 
         "owner": {

@@ -1971,7 +1971,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/derekeder/FusionTable-Map-Template/contributors", 
-        "forks_count": 80, 
+        "forks_count": 81, 
         "html_url": "https://github.com/derekeder/FusionTable-Map-Template", 
         "updated_at": "2014-01-06T14:56:50Z", 
         "owner": {
@@ -5603,11 +5603,11 @@
             0, 
             1, 
             2, 
-            0, 
+            1, 
+            1, 
             2, 
-            1, 
             4, 
-            1, 
+            0, 
             0
         ]
     }, 

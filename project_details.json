@@ -146,7 +146,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/dedupe/contributors", 
         "forks_count": 37, 
         "html_url": "https://github.com/open-city/dedupe", 
-        "updated_at": "2014-01-14T01:19:24Z", 
+        "updated_at": "2014-01-14T22:01:38Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -157,7 +157,7 @@
         "name": "dedupe", 
         "language": "C", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2014-01-14T01:18:08Z", 
+        "pushed_at": "2014-01-14T22:01:36Z", 
         "watchers_count": 286, 
         "open_issues": 28, 
         "homepage": "https://github.com/open-city/dedupe", 
@@ -1705,7 +1705,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/Chicago/osd-pedway-routes/contributors", 
-        "forks_count": 19, 
+        "forks_count": 20, 
         "html_url": "https://github.com/Chicago/osd-pedway-routes", 
         "updated_at": "2013-12-05T01:01:22Z", 
         "owner": {
@@ -11609,7 +11609,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
-                "contributions": 102, 
+                "contributions": 104, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -11679,7 +11679,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/open-gov-hack-night/contributors", 
         "forks_count": 16, 
         "html_url": "https://github.com/open-city/open-gov-hack-night", 
-        "updated_at": "2014-01-13T19:54:51Z", 
+        "updated_at": "2014-01-14T21:09:20Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -11690,9 +11690,9 @@
         "name": "open-gov-hack-night", 
         "language": "JavaScript", 
         "created_at": "2013-09-11T03:29:21Z", 
-        "pushed_at": "2014-01-13T19:54:50Z", 
+        "pushed_at": "2014-01-14T21:09:20Z", 
         "watchers_count": 14, 
-        "open_issues": 7, 
+        "open_issues": 6, 
         "homepage": "http://opengovhacknight.org", 
         "participation": [
             0, 
@@ -11831,8 +11831,8 @@
             0, 
             0, 
             0, 
-            32, 
-            8, 
+            40, 
+            0, 
             0, 
             8, 
             18, 

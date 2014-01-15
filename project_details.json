@@ -9307,7 +9307,7 @@
         "contributors_url": "https://api.github.com/repos/iandees/divvyapiapi/contributors", 
         "forks_count": 3, 
         "html_url": "https://github.com/iandees/divvyapiapi", 
-        "updated_at": "2013-12-19T01:13:01Z", 
+        "updated_at": "2014-01-15T08:00:53Z", 
         "owner": {
             "login": "iandees", 
             "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
@@ -9319,7 +9319,7 @@
         "language": "JavaScript", 
         "created_at": "2013-07-01T16:00:06Z", 
         "pushed_at": "2013-07-17T00:30:55Z", 
-        "watchers_count": 10, 
+        "watchers_count": 11, 
         "open_issues": 1, 
         "homepage": null, 
         "participation": [

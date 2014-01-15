@@ -1602,7 +1602,7 @@
                 "owner": false, 
                 "login": "iandees", 
                 "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
-                "contributions": 198, 
+                "contributions": 199, 
                 "html_url": "https://github.com/iandees"
             }, 
             {
@@ -7711,7 +7711,7 @@
         "contributors_url": "https://api.github.com/repos/smartchicago/chicagoworksforyou/contributors", 
         "forks_count": 1, 
         "html_url": "https://github.com/smartchicago/chicagoworksforyou", 
-        "updated_at": "2014-01-15T20:48:08Z", 
+        "updated_at": "2014-01-15T21:32:09Z", 
         "owner": {
             "login": "smartchicago", 
             "avatar_url": "https://gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
@@ -7722,7 +7722,7 @@
         "name": "chicagoworksforyou", 
         "language": "JavaScript", 
         "created_at": "2013-02-21T17:57:07Z", 
-        "pushed_at": "2014-01-15T20:48:07Z", 
+        "pushed_at": "2014-01-15T21:32:06Z", 
         "watchers_count": 7, 
         "open_issues": 23, 
         "homepage": "http://www.chicagoworksforyou.com", 
@@ -11836,8 +11836,8 @@
             0, 
             8, 
             18, 
-            0, 
-            3
+            2, 
+            1
         ]
     }
 ]

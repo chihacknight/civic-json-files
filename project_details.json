@@ -146,7 +146,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/dedupe/contributors", 
         "forks_count": 37, 
         "html_url": "https://github.com/open-city/dedupe", 
-        "updated_at": "2014-01-16T04:29:37Z", 
+        "updated_at": "2014-01-16T18:29:58Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -157,7 +157,7 @@
         "name": "dedupe", 
         "language": "C", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2014-01-16T04:29:37Z", 
+        "pushed_at": "2014-01-16T18:29:57Z", 
         "watchers_count": 285, 
         "open_issues": 24, 
         "homepage": "https://github.com/open-city/dedupe", 
@@ -1971,9 +1971,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/derekeder/FusionTable-Map-Template/contributors", 
-        "forks_count": 81, 
+        "forks_count": 82, 
         "html_url": "https://github.com/derekeder/FusionTable-Map-Template", 
-        "updated_at": "2014-01-12T02:08:12Z", 
+        "updated_at": "2014-01-16T18:29:11Z", 
         "owner": {
             "login": "derekeder", 
             "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
@@ -1985,7 +1985,7 @@
         "language": "JavaScript", 
         "created_at": "2011-09-26T16:28:57Z", 
         "pushed_at": "2013-10-16T15:29:27Z", 
-        "watchers_count": 134, 
+        "watchers_count": 135, 
         "open_issues": 6, 
         "homepage": "http://derekeder.com/searchable_map_template/", 
         "participation": [
@@ -2792,7 +2792,7 @@
         "contributors_url": "https://api.github.com/repos/codeforamerica/civic-tech-patterns/contributors", 
         "forks_count": 4, 
         "html_url": "https://github.com/codeforamerica/civic-tech-patterns", 
-        "updated_at": "2013-12-18T05:35:59Z", 
+        "updated_at": "2014-01-16T18:39:20Z", 
         "owner": {
             "login": "codeforamerica", 
             "avatar_url": "https://gravatar.com/avatar/ec81184c572bc827b72ebb489d49f821?d=https%3A%2F%2Fidenticons.github.com%2F190ee0a9502204c8340cee81293edbbe.png&r=x", 
@@ -2804,7 +2804,7 @@
         "language": null, 
         "created_at": "2013-01-03T19:59:16Z", 
         "pushed_at": "2013-05-09T16:59:07Z", 
-        "watchers_count": 26, 
+        "watchers_count": 27, 
         "open_issues": 23, 
         "homepage": null, 
         "participation": [

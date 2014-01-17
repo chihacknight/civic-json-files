@@ -364,10 +364,10 @@
     }, 
     {
         "name": "Tim Moreland", 
-        "company": null, 
+        "company": "City of Chattanooga", 
         "repositories": 1, 
         "html_url": "https://github.com/aplannersguide", 
-        "blog": "www.aplannersguide.com", 
+        "blog": "", 
         "avatar_url": "https://gravatar.com/avatar/558d6bba6144cc1a18fb2a0085aa411b?d=https%3A%2F%2Fidenticons.github.com%2F8ade6ce7af0dfe425036fd785e30434a.png&r=x", 
         "location": "Chattanooga, TN", 
         "login": "aplannersguide", 

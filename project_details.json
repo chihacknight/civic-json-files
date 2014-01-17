@@ -11609,7 +11609,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
-                "contributions": 106, 
+                "contributions": 107, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -11679,7 +11679,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/open-gov-hack-night/contributors", 
         "forks_count": 16, 
         "html_url": "https://github.com/open-city/open-gov-hack-night", 
-        "updated_at": "2014-01-16T15:48:17Z", 
+        "updated_at": "2014-01-17T17:11:05Z", 
         "owner": {
             "login": "open-city", 
             "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
@@ -11690,7 +11690,7 @@
         "name": "open-gov-hack-night", 
         "language": "JavaScript", 
         "created_at": "2013-09-11T03:29:21Z", 
-        "pushed_at": "2014-01-16T15:48:17Z", 
+        "pushed_at": "2014-01-17T17:11:04Z", 
         "watchers_count": 14, 
         "open_issues": 5, 
         "homepage": "http://opengovhacknight.org", 

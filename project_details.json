@@ -3965,17 +3965,17 @@
         "contributors": [
             {
                 "owner": false, 
+                "login": "nwinklareth", 
+                "avatar_url": "https://gravatar.com/avatar/a4f3f11bfe474e93609f350b64649309?d=https%3A%2F%2Fidenticons.github.com%2Fe08644ab8b4b7fd3c831e5b83b7f0f83.png&r=x", 
+                "contributions": 141, 
+                "html_url": "https://github.com/nwinklareth"
+            }, 
+            {
+                "owner": false, 
                 "login": "eads", 
                 "avatar_url": "https://gravatar.com/avatar/ac137d6b1fc890c5ac1a6a4d45acefcc?d=https%3A%2F%2Fidenticons.github.com%2F396638d81fee53be2705d806ca713dff.png&r=x", 
                 "contributions": 134, 
                 "html_url": "https://github.com/eads"
-            }, 
-            {
-                "owner": false, 
-                "login": "nwinklareth", 
-                "avatar_url": "https://gravatar.com/avatar/a4f3f11bfe474e93609f350b64649309?d=https%3A%2F%2Fidenticons.github.com%2Fe08644ab8b4b7fd3c831e5b83b7f0f83.png&r=x", 
-                "contributions": 134, 
-                "html_url": "https://github.com/nwinklareth"
             }, 
             {
                 "owner": false, 
@@ -4065,7 +4065,7 @@
         "contributors_url": "https://api.github.com/repos/sc3/cookcountyjail/contributors", 
         "forks_count": 15, 
         "html_url": "https://github.com/sc3/cookcountyjail", 
-        "updated_at": "2014-01-18T20:34:38Z", 
+        "updated_at": "2014-01-18T21:05:57Z", 
         "owner": {
             "login": "sc3", 
             "avatar_url": "https://identicons.github.com/7d79c70e984bb2101350419a1190466d.png", 
@@ -4076,7 +4076,7 @@
         "name": "cookcountyjail", 
         "language": "Python", 
         "created_at": "2012-11-19T03:56:12Z", 
-        "pushed_at": "2014-01-18T20:34:38Z", 
+        "pushed_at": "2014-01-18T21:05:57Z", 
         "watchers_count": 18, 
         "open_issues": 34, 
         "homepage": "http://cookcountyjail.recoveredfactory.net/api/1.0/?format=json", 
@@ -11545,7 +11545,7 @@
         "created_at": "2011-10-27T00:44:55Z", 
         "pushed_at": "2014-01-17T15:56:03Z", 
         "watchers_count": 23, 
-        "open_issues": 0, 
+        "open_issues": 1, 
         "homepage": "http://derekeder.com/fusion-tables-to-html-table/", 
         "participation": [
             0, 
@@ -11833,9 +11833,9 @@
             0, 
             40, 
             0, 
-            6, 
-            2, 
-            18, 
+            8, 
+            1, 
+            17, 
             3, 
             0
         ]

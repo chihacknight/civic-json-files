@@ -1609,14 +1609,14 @@
                 "owner": false, 
                 "login": "ryanpitts", 
                 "avatar_url": "https://gravatar.com/avatar/374de4845c23063651bc7ef13ae24ba4?d=https%3A%2F%2Fidenticons.github.com%2Fef0b299ea3eb6a0561b89647e4cd700a.png&r=x", 
-                "contributions": 159, 
+                "contributions": 160, 
                 "html_url": "https://github.com/ryanpitts"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/censusreporter/census-api/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/censusreporter/census-api", 
-        "updated_at": "2014-01-16T00:24:21Z", 
+        "updated_at": "2014-01-18T02:20:53Z", 
         "owner": {
             "login": "censusreporter", 
             "avatar_url": "https://gravatar.com/avatar/cab1d5bd7a6826b6a3ef28ec7583a727?d=https%3A%2F%2Fidenticons.github.com%2Fc3977d6f16d43f8f87285bf4366f3e5a.png&r=x", 
@@ -1627,7 +1627,7 @@
         "name": "census-api", 
         "language": "Python", 
         "created_at": "2013-05-06T05:24:57Z", 
-        "pushed_at": "2014-01-16T00:24:21Z", 
+        "pushed_at": "2014-01-18T02:20:53Z", 
         "watchers_count": 1, 
         "open_issues": 12, 
         "homepage": "http://api.censusreporter.org", 

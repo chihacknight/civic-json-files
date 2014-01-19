@@ -2566,7 +2566,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/capsure/contributors", 
-        "forks_count": 3, 
+        "forks_count": 2, 
         "html_url": "https://github.com/open-city/capsure", 
         "updated_at": "2014-01-06T18:59:21Z", 
         "owner": {
@@ -11809,10 +11809,8 @@
             0, 
             0, 
             0, 
-            0, 
-            14, 
-            0, 
-            0, 
+            9, 
+            5, 
             0, 
             0, 
             0, 
@@ -11831,11 +11829,13 @@
             0, 
             0, 
             0, 
-            40, 
+            0, 
+            25, 
+            15, 
             0, 
             8, 
-            1, 
-            17, 
+            2, 
+            16, 
             3, 
             0
         ]

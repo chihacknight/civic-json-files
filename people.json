@@ -574,13 +574,13 @@
     {
         "name": "Chris Gansen", 
         "company": "Make No Little Plans, LLC", 
-        "repositories": 7, 
+        "repositories": 8, 
         "html_url": "https://github.com/cgansen", 
         "blog": "http://www.chrisgansen.com/", 
         "avatar_url": "https://gravatar.com/avatar/5c608e6a63c1fa4052119d07e8bcb221?d=https%3A%2F%2Fidenticons.github.com%2F89474711db17b59e95c5f71d56085e6b.png&r=x", 
         "location": "Chicago, IL", 
         "login": "cgansen", 
-        "contributions": 452
+        "contributions": 564
     }, 
     {
         "name": null, 
@@ -1328,7 +1328,7 @@
         "avatar_url": "https://gravatar.com/avatar/faaec8aeaf4e307d20de8bf9129d6635?d=https%3A%2F%2Fidenticons.github.com%2F9b67ff5862eb652ed35b0554cb7f62f2.png&r=x", 
         "location": "Chicago, IL", 
         "login": "jcbozonier", 
-        "contributions": 29
+        "contributions": 30
     }, 
     {
         "name": null, 

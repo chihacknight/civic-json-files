@@ -34,6 +34,7 @@
     "https://github.com/open-city/chicago-lobbyists-web", 
     "https://github.com/tplagge/benefice", 
     "https://github.com/Chicago/srtracker", 
+    "https://github.com/open-city/clearstreets-processing", 
     "https://github.com/iandees/divvy-dump", 
     "https://github.com/smartchicago/cutgroup", 
     "https://github.com/smartchicago/connect-chicago-locator", 
@@ -95,6 +96,7 @@
     "https://github.com/open-city/councilmatic", 
     "https://github.com/dssg/cta-otp", 
     "https://github.com/dssg/ushine-learning", 
+    "https://github.com/cgansen/health-near-me", 
     "https://github.com/jpvelez/geography_of_hunger", 
     "https://github.com/smartchicago/wasmycartowed", 
     "https://github.com/hunterowens/Congressional_Districts", 
@@ -113,5 +115,5 @@
     "https://github.com/smartchicago/Wufoo-to-Twilio-SMS", 
     "https://github.com/derekeder/Fusion-Tables-to-HTML-Table", 
     "https://github.com/open-city/open-gov-hack-night", 
-    "https://github.com/cgansen/health-near-me"
+    "https://github.com/open-city/chicago-river-sewage"
 ]

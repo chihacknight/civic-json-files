@@ -352,6 +352,17 @@
         "contributions": 86
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/andreweskeclarke", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/58434e02e2b86d66c0fd17d9ee34c61c?d=https%3A%2F%2Fidenticons.github.com%2F7b9a2ae2b9551eea93e4306ac121cb0a.png&r=x", 
+        "location": null, 
+        "login": "andreweskeclarke", 
+        "contributions": 10
+    }, 
+    {
         "name": "Andy Boyle", 
         "company": "Chicago Tribune", 
         "repositories": 2, 
@@ -816,13 +827,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade", 
-        "repositories": 30, 
+        "repositories": 32, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 1889
+        "contributions": 1959
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1003,24 +1014,24 @@
     {
         "name": "Eric van Zanten", 
         "company": "", 
-        "repositories": 13, 
+        "repositories": 14, 
         "html_url": "https://github.com/evz", 
         "blog": "www.static-eric.com", 
         "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 241
+        "contributions": 242
     }, 
     {
         "name": "Forest Gregg", 
         "company": "University of Chicago, Department of Sociology", 
-        "repositories": 12, 
+        "repositories": 14, 
         "html_url": "https://github.com/fgregg", 
         "blog": "http://bunkum.us", 
         "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 846
+        "contributions": 864
     }, 
     {
         "name": null, 
@@ -1329,6 +1340,17 @@
         "location": "Chicago, IL", 
         "login": "jcbozonier", 
         "contributions": 30
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/jcourtois", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/21dd4b876ffd3dadf4ed11482bc538a8?d=https%3A%2F%2Fidenticons.github.com%2F661eb009ffde6b27760bda142bd31104.png&r=x", 
+        "location": null, 
+        "login": "jcourtois", 
+        "contributions": 7
     }, 
     {
         "name": null, 
@@ -2462,6 +2484,17 @@
         "location": "Genova", 
         "login": "sabas", 
         "contributions": 1
+    }, 
+    {
+        "name": "Samarth Bhaskar", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/samarthbhaskar", 
+        "blog": "www.samarthbhaskar.com", 
+        "avatar_url": "https://gravatar.com/avatar/ce331e296d8d6b2a65b2d2cbee8bc152?d=https%3A%2F%2Fidenticons.github.com%2F1f97a277c84c9c4f0c4581b57b87af9b.png&r=x", 
+        "location": null, 
+        "login": "samarthbhaskar", 
+        "contributions": 3
     }, 
     {
         "name": "Sandor Weisz", 

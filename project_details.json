@@ -2442,7 +2442,7 @@
                 "owner": true, 
                 "login": "jcbozonier", 
                 "avatar_url": "https://gravatar.com/avatar/faaec8aeaf4e307d20de8bf9129d6635?d=https%3A%2F%2Fidenticons.github.com%2F9b67ff5862eb652ed35b0554cb7f62f2.png&r=x", 
-                "contributions": 28, 
+                "contributions": 29, 
                 "html_url": "https://github.com/jcbozonier"
             }, 
             {
@@ -2456,7 +2456,7 @@
         "contributors_url": "https://api.github.com/repos/jcbozonier/DivvyData/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/jcbozonier/DivvyData", 
-        "updated_at": "2013-11-06T03:23:58Z", 
+        "updated_at": "2014-01-20T06:30:31Z", 
         "owner": {
             "login": "jcbozonier", 
             "avatar_url": "https://gravatar.com/avatar/faaec8aeaf4e307d20de8bf9129d6635?d=https%3A%2F%2Fidenticons.github.com%2F9b67ff5862eb652ed35b0554cb7f62f2.png&r=x", 
@@ -2467,7 +2467,7 @@
         "name": "DivvyData", 
         "language": "Python", 
         "created_at": "2013-08-14T00:43:35Z", 
-        "pushed_at": "2013-11-06T03:23:55Z", 
+        "pushed_at": "2014-01-20T06:30:30Z", 
         "watchers_count": 2, 
         "open_issues": 2, 
         "homepage": null, 

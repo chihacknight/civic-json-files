@@ -11525,14 +11525,14 @@
                 "owner": true, 
                 "login": "derekeder", 
                 "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
-                "contributions": 36, 
+                "contributions": 37, 
                 "html_url": "https://github.com/derekeder"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/derekeder/Fusion-Tables-to-HTML-Table/contributors", 
         "forks_count": 9, 
         "html_url": "https://github.com/derekeder/Fusion-Tables-to-HTML-Table", 
-        "updated_at": "2014-01-17T15:56:03Z", 
+        "updated_at": "2014-01-20T17:32:49Z", 
         "owner": {
             "login": "derekeder", 
             "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
@@ -11543,9 +11543,9 @@
         "name": "Fusion-Tables-to-HTML-Table", 
         "language": "PHP", 
         "created_at": "2011-10-27T00:44:55Z", 
-        "pushed_at": "2014-01-17T15:56:03Z", 
+        "pushed_at": "2014-01-20T17:32:49Z", 
         "watchers_count": 23, 
-        "open_issues": 1, 
+        "open_issues": 0, 
         "homepage": "http://derekeder.com/fusion-tables-to-html-table/", 
         "participation": [
             0, 

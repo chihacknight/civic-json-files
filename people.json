@@ -1716,6 +1716,17 @@
         "contributions": 1
     }, 
     {
+        "name": "Magnus Persson", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/magnusp", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/e80a56caa4c055c4bc460978d6bc6bc0?d=https%3A%2F%2Fidenticons.github.com%2Fb8dae2ccfcc205da5c5f82c5a1aba55e.png&r=x", 
+        "location": "Sweden", 
+        "login": "magnusp", 
+        "contributions": 1
+    }, 
+    {
         "name": "Maning Sambale", 
         "company": null, 
         "repositories": 1, 
@@ -2950,13 +2961,13 @@
     {
         "name": "Zach Williams", 
         "company": "Portland Trail Blazers", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/zachwill", 
         "blog": "zachwill.com", 
         "avatar_url": "https://gravatar.com/avatar/52e2728d5819cdd02f46b07e711dc859?d=https%3A%2F%2Fidenticons.github.com%2F25f416338ed598da7c7c28b7f9f92c09.png&r=x", 
         "location": "Portland, OR", 
         "login": "zachwill", 
-        "contributions": 1
+        "contributions": 94
     }, 
     {
         "name": null, 

@@ -762,7 +762,7 @@
         "created_at": "2013-06-10T17:41:02Z", 
         "pushed_at": "2013-12-09T19:45:10Z", 
         "watchers_count": 6, 
-        "open_issues": 9, 
+        "open_issues": 10, 
         "homepage": "https://github.com/dssg/givinggraph/wiki/API", 
         "participation": [
             0, 
@@ -1455,7 +1455,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/csvdedupe/contributors", 
         "forks_count": 2, 
         "html_url": "https://github.com/datamade/csvdedupe", 
-        "updated_at": "2014-01-21T23:39:17Z", 
+        "updated_at": "2014-01-22T17:47:44Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -1467,7 +1467,7 @@
         "name": "csvdedupe", 
         "language": "Python", 
         "created_at": "2013-07-11T14:23:33Z", 
-        "pushed_at": "2014-01-21T23:39:17Z", 
+        "pushed_at": "2014-01-22T17:47:42Z", 
         "watchers_count": 33, 
         "open_issues": 8, 
         "homepage": null, 
@@ -12122,17 +12122,17 @@
             }, 
             {
                 "owner": false, 
+                "login": "evz", 
+                "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
+                "contributions": 6, 
+                "html_url": "https://github.com/evz"
+            }, 
+            {
+                "owner": false, 
                 "login": "kfogel", 
                 "avatar_url": "https://gravatar.com/avatar/1f81267123b2a1688fb0430857c8de39?d=https%3A%2F%2Fidenticons.github.com%2F4567a72c99891d7d19eed3399b222416.png&r=x", 
                 "contributions": 5, 
                 "html_url": "https://github.com/kfogel"
-            }, 
-            {
-                "owner": false, 
-                "login": "evz", 
-                "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
-                "contributions": 5, 
-                "html_url": "https://github.com/evz"
             }, 
             {
                 "owner": false, 
@@ -12180,7 +12180,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/open-gov-hack-night/contributors", 
         "forks_count": 16, 
         "html_url": "https://github.com/open-city/open-gov-hack-night", 
-        "updated_at": "2014-01-20T18:27:22Z", 
+        "updated_at": "2014-01-22T16:19:36Z", 
         "project_needs": [], 
         "owner": {
             "login": "open-city", 
@@ -12192,8 +12192,8 @@
         "name": "open-gov-hack-night", 
         "language": "JavaScript", 
         "created_at": "2013-09-11T03:29:21Z", 
-        "pushed_at": "2014-01-20T18:27:21Z", 
-        "watchers_count": 14, 
+        "pushed_at": "2014-01-22T16:19:36Z", 
+        "watchers_count": 15, 
         "open_issues": 5, 
         "homepage": "http://opengovhacknight.org", 
         "participation": [

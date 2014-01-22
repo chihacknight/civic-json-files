@@ -1971,7 +1971,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/derekeder/FusionTable-Map-Template/contributors", 
-        "forks_count": 84, 
+        "forks_count": 85, 
         "html_url": "https://github.com/derekeder/FusionTable-Map-Template", 
         "updated_at": "2014-01-16T18:29:11Z", 
         "owner": {
@@ -5163,7 +5163,7 @@
                 "owner": false, 
                 "login": "ryanpitts", 
                 "avatar_url": "https://gravatar.com/avatar/374de4845c23063651bc7ef13ae24ba4?d=https%3A%2F%2Fidenticons.github.com%2Fef0b299ea3eb6a0561b89647e4cd700a.png&r=x", 
-                "contributions": 446, 
+                "contributions": 447, 
                 "html_url": "https://github.com/ryanpitts"
             }, 
             {

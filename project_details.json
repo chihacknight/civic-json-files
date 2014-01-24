@@ -3699,8 +3699,8 @@
         "open_issues": 2, 
         "homepage": "clearstreets.org", 
         "participation": [
-            0, 
-            2, 
+            1, 
+            1, 
             2, 
             0, 
             3, 
@@ -3744,12 +3744,12 @@
             0, 
             0, 
             0, 
-            15, 
-            6, 
-            1, 
-            1, 
-            2, 
+            16, 
             5, 
+            2, 
+            0, 
+            3, 
+            4, 
             3
         ]
     }, 
@@ -7025,7 +7025,7 @@
         "contributors_url": "https://api.github.com/repos/NYCComptroller/Checkbook/contributors", 
         "forks_count": 7, 
         "html_url": "https://github.com/NYCComptroller/Checkbook", 
-        "updated_at": "2014-01-23T21:09:10Z", 
+        "updated_at": "2014-01-24T15:19:56Z", 
         "project_needs": [], 
         "owner": {
             "login": "NYCComptroller", 
@@ -7037,7 +7037,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2014-01-23T21:09:10Z", 
+        "pushed_at": "2014-01-24T15:19:55Z", 
         "watchers_count": 20, 
         "open_issues": 17, 
         "homepage": null, 
@@ -10871,7 +10871,7 @@
         "created_at": "2012-08-27T19:55:42Z", 
         "pushed_at": "2013-11-22T16:08:33Z", 
         "watchers_count": 9, 
-        "open_issues": 11, 
+        "open_issues": 12, 
         "homepage": "locations.weconnectchicago.org", 
         "participation": [
             4, 
@@ -11041,13 +11041,13 @@
             0, 
             0, 
             14, 
-            0, 
-            11, 
-            9, 
+            1, 
+            12, 
+            7, 
             0, 
             0, 
             14, 
-            11
+            13
         ]
     }, 
     {

@@ -572,6 +572,17 @@
         "contributions": 7
     }, 
     {
+        "name": "Suman Bhattacharya", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/bsuman79", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/62a3ba00b4cbd6c3e472fee891d9e130?d=https%3A%2F%2Fidenticons.github.com%2Fa4730e987f7c60b016cdbdf61cd05655.png&r=x", 
+        "location": "Chicago IL", 
+        "login": "bsuman79", 
+        "contributions": 1
+    }, 
+    {
         "name": "Cathy Deng", 
         "company": null, 
         "repositories": 1, 
@@ -833,7 +844,7 @@
         "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 1966
+        "contributions": 1967
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1031,7 +1042,7 @@
         "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 864
+        "contributions": 865
     }, 
     {
         "name": null, 
@@ -2483,7 +2494,7 @@
         "avatar_url": "https://gravatar.com/avatar/374de4845c23063651bc7ef13ae24ba4?d=https%3A%2F%2Fidenticons.github.com%2Fef0b299ea3eb6a0561b89647e4cd700a.png&r=x", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 613
+        "contributions": 614
     }, 
     {
         "name": null, 

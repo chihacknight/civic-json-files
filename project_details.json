@@ -1519,7 +1519,7 @@
                 "owner": false, 
                 "login": "iandees", 
                 "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
-                "contributions": 200, 
+                "contributions": 201, 
                 "html_url": "https://github.com/iandees"
             }, 
             {
@@ -1533,7 +1533,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/census-api/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/censusreporter/census-api", 
-        "updated_at": "2014-01-18T02:20:53Z", 
+        "updated_at": "2014-01-28T16:47:00Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -1545,7 +1545,7 @@
         "name": "census-api", 
         "language": "Python", 
         "created_at": "2013-05-06T05:24:57Z", 
-        "pushed_at": "2014-01-18T02:20:53Z", 
+        "pushed_at": "2014-01-28T16:46:59Z", 
         "watchers_count": 1, 
         "open_issues": 12, 
         "homepage": "http://api.censusreporter.org", 
@@ -3614,8 +3614,8 @@
         "open_issues": 2, 
         "homepage": "clearstreets.org", 
         "participation": [
-            1, 
-            3, 
+            2, 
+            2, 
             0, 
             3, 
             0, 
@@ -3658,14 +3658,14 @@
             0, 
             0, 
             0, 
-            1, 
-            20, 
+            3, 
+            18, 
             1, 
             1, 
             0, 
-            4, 
-            5, 
-            1
+            7, 
+            3, 
+            0
         ]
     }, 
     {
@@ -5703,7 +5703,7 @@
         "contributors_url": "https://api.github.com/repos/smartchicago/foodborne/contributors", 
         "forks_count": 2, 
         "html_url": "https://github.com/smartchicago/foodborne", 
-        "updated_at": "2013-12-22T21:43:56Z", 
+        "updated_at": "2014-01-28T15:50:44Z", 
         "project_needs": [], 
         "owner": {
             "login": "smartchicago", 
@@ -5715,7 +5715,7 @@
         "name": "foodborne", 
         "language": "Ruby", 
         "created_at": "2013-01-24T18:20:41Z", 
-        "pushed_at": "2013-12-22T21:43:55Z", 
+        "pushed_at": "2014-01-28T15:50:43Z", 
         "watchers_count": 7, 
         "open_issues": 13, 
         "homepage": "http://foodborne.smartchicagoapps.org/", 
@@ -7131,7 +7131,7 @@
         "contributors_url": "https://api.github.com/repos/NYCComptroller/Checkbook/contributors", 
         "forks_count": 7, 
         "html_url": "https://github.com/NYCComptroller/Checkbook", 
-        "updated_at": "2014-01-27T23:32:56Z", 
+        "updated_at": "2014-01-28T17:22:13Z", 
         "project_needs": [], 
         "owner": {
             "login": "NYCComptroller", 
@@ -7143,7 +7143,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2014-01-27T23:32:56Z", 
+        "pushed_at": "2014-01-28T17:22:13Z", 
         "watchers_count": 20, 
         "open_issues": 17, 
         "homepage": null, 
@@ -11020,7 +11020,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/chicago-river-sewage/contributors", 
         "forks_count": 6, 
         "html_url": "https://github.com/open-city/chicago-river-sewage", 
-        "updated_at": "2014-01-25T01:17:41Z", 
+        "updated_at": "2014-01-28T17:42:41Z", 
         "project_needs": [
             {
                 "issue_url": "https://github.com/open-city/chicago-river-sewage/issues/17", 
@@ -11041,7 +11041,7 @@
         "name": "chicago-river-sewage", 
         "language": "JavaScript", 
         "created_at": "2013-12-04T04:37:27Z", 
-        "pushed_at": "2014-01-25T01:17:41Z", 
+        "pushed_at": "2014-01-28T17:42:39Z", 
         "watchers_count": 4, 
         "open_issues": 13, 
         "homepage": "http://istheresewageinthechicagoriver.com", 

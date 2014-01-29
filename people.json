@@ -591,7 +591,7 @@
         "avatar_url": "https://gravatar.com/avatar/62a3ba00b4cbd6c3e472fee891d9e130?d=https%3A%2F%2Fidenticons.github.com%2Fa4730e987f7c60b016cdbdf61cd05655.png&r=x", 
         "location": "Chicago IL", 
         "login": "bsuman79", 
-        "contributions": 1
+        "contributions": 3
     }, 
     {
         "name": "Cathy Deng", 
@@ -855,7 +855,7 @@
         "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 1972
+        "contributions": 1975
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2214,6 +2214,17 @@
         "name": null, 
         "company": null, 
         "repositories": 1, 
+        "html_url": "https://github.com/potash", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/b5edb2ceaa27ce54091392b55ddc1a38?d=https%3A%2F%2Fidenticons.github.com%2F5a59f7fcd51ba4c3bfad8a9a465671dd.png&r=x", 
+        "location": null, 
+        "login": "potash", 
+        "contributions": 22
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
         "html_url": "https://github.com/ptolp", 
         "blog": null, 
         "avatar_url": "https://gravatar.com/avatar/57f0d9ed442191845c9336be418af1ef?d=https%3A%2F%2Fidenticons.github.com%2Fd55fe3d70aea9fb86c8a63f7717e5c05.png&r=x", 
@@ -2312,13 +2323,13 @@
     {
         "name": "", 
         "company": "", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/renemarcelo", 
         "blog": "", 
         "avatar_url": "https://gravatar.com/avatar/17e2714e940b7215266400b28f6f1721?d=https%3A%2F%2Fidenticons.github.com%2F7f37659d4206870e9d5f0072ec5831f1.png&r=x", 
         "location": "Chicago", 
         "login": "renemarcelo", 
-        "contributions": 7
+        "contributions": 11
     }, 
     {
         "name": "Robert Guico", 
@@ -2697,13 +2708,13 @@
     {
         "name": "Steven Vance", 
         "company": null, 
-        "repositories": 3, 
+        "repositories": 4, 
         "html_url": "https://github.com/stevevance", 
         "blog": "http://stevevance.net", 
         "avatar_url": "https://gravatar.com/avatar/761139693c8bd5c6dfb95c4010b89c8d?d=https%3A%2F%2Fidenticons.github.com%2F9200aae5b872987223484bb32dfe898c.png&r=x", 
         "location": "Chicago, Illinois", 
         "login": "stevevance", 
-        "contributions": 63
+        "contributions": 73
     }, 
     {
         "name": null, 

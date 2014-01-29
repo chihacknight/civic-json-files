@@ -2,6 +2,7 @@
     "https://github.com/stevevance/C4PAT-App", 
     "https://github.com/open-city/dedupe", 
     "https://github.com/harperreed/transitapi", 
+    "https://github.com/biolithic/banpweb", 
     "https://github.com/smartchicago/chicago-health-atlas", 
     "https://github.com/newsapps/flask-tarbell", 
     "https://github.com/osintegrators/geo-neighborhood", 
@@ -49,6 +50,7 @@
     "https://github.com/ryanbriones/city_developer_resources", 
     "https://github.com/evz/crimeweatherupdater", 
     "https://github.com/iandees/nushuttleapi", 
+    "https://github.com/potash/habitat2030", 
     "https://github.com/dnfehren/hviab", 
     "https://github.com/dssg/bikeshare", 
     "https://github.com/Chicago/ChicagoEnergy", 
@@ -117,5 +119,5 @@
     "https://github.com/smartchicago/Wufoo-to-Twilio-SMS", 
     "https://github.com/derekeder/Fusion-Tables-to-HTML-Table", 
     "https://github.com/open-city/open-gov-hack-night", 
-    "https://github.com/biolithic/banpweb"
+    "https://github.com/stevevance/Divvy-Suggestions"
 ]

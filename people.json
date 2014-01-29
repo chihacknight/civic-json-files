@@ -156,13 +156,13 @@
     {
         "name": "Joe Germuska", 
         "company": "Northwestern University Knight Lab", 
-        "repositories": 3, 
+        "repositories": 7, 
         "html_url": "https://github.com/JoeGermuska", 
         "blog": "http://blog.germuska.com", 
         "avatar_url": "https://gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 33
+        "contributions": 356
     }, 
     {
         "name": null, 
@@ -174,6 +174,17 @@
         "location": null, 
         "login": "JohnHBrock", 
         "contributions": 14
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/LaurentJuvanon", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/57f9bdf8c7a37e7064ef83e7c7a8b04d?d=https%3A%2F%2Fidenticons.github.com%2F12298eab0cfe00ab8f32b3d6b20cc1bb.png&r=x", 
+        "location": null, 
+        "login": "LaurentJuvanon", 
+        "contributions": 1
     }, 
     {
         "name": null, 
@@ -242,6 +253,28 @@
         "contributions": 18
     }, 
     {
+        "name": "Remo Laubacher", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/Remo", 
+        "blog": "http://www.codeblog.ch", 
+        "avatar_url": "https://gravatar.com/avatar/531d051d4e9b60ba7d21e08e62bd2998?d=https%3A%2F%2Fidenticons.github.com%2F6f444007b69098857c39ea427766deab.png&r=x", 
+        "location": "Lucerne, Switzerland", 
+        "login": "Remo", 
+        "contributions": 1
+    }, 
+    {
+        "name": "Eric", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/Skarm", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/e999828187d4c25d0ee513a6ea252326?d=https%3A%2F%2Fidenticons.github.com%2F9d976da10c440962a3e692a4b8ed8b03.png&r=x", 
+        "location": null, 
+        "login": "Skarm", 
+        "contributions": 1
+    }, 
+    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -251,6 +284,17 @@
         "location": null, 
         "login": "ThomasG77", 
         "contributions": 1
+    }, 
+    {
+        "name": "Tyler Fisher", 
+        "company": "Northwestern University Knight Lab", 
+        "repositories": 1, 
+        "html_url": "https://github.com/TylerFisher", 
+        "blog": "tylerjfisher.com", 
+        "avatar_url": "https://gravatar.com/avatar/c15af1f78cfad6b3a2dad80bf6d43442?d=https%3A%2F%2Fidenticons.github.com%2Fab102add8fea0c98fee8e349d28352f1.png&r=x", 
+        "location": "Evanston, IL", 
+        "login": "TylerFisher", 
+        "contributions": 45
     }, 
     {
         "name": "Aaron U. Salmon", 
@@ -341,6 +385,17 @@
         "contributions": 48
     }, 
     {
+        "name": "Allen Zeng", 
+        "company": "Northwestern University", 
+        "repositories": 2, 
+        "html_url": "https://github.com/allenz456", 
+        "blog": "http://allenzeng.com/", 
+        "avatar_url": "https://gravatar.com/avatar/4ad40e150722bad28dd6737bd480a401?d=https%3A%2F%2Fidenticons.github.com%2F8368ad0b6b74dff5a9fc1f3ac153060d.png&r=x", 
+        "location": null, 
+        "login": "allenz456", 
+        "contributions": 11
+    }, 
+    {
         "name": "Anna Marie Tamayo", 
         "company": "Webitects", 
         "repositories": 1, 
@@ -429,6 +484,17 @@
         "contributions": 3
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/atleb", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/b022847d7b08814d8f374dd8bd9d4a99?d=https%3A%2F%2Fidenticons.github.com%2Fea4702a416faa809f83e8651cd260f6e.png&r=x", 
+        "location": null, 
+        "login": "atleb", 
+        "contributions": 1
+    }, 
+    {
         "name": "Ahmad Qamar", 
         "company": null, 
         "repositories": 1, 
@@ -449,6 +515,17 @@
         "location": "New Jersey", 
         "login": "balexandrowicz", 
         "contributions": 89
+    }, 
+    {
+        "name": "Benjamin Golder", 
+        "company": "MIT", 
+        "repositories": 1, 
+        "html_url": "https://github.com/bengolder", 
+        "blog": "benjamingolder.com", 
+        "avatar_url": "https://gravatar.com/avatar/b59d6a9f77b415b1ad2a619915887c9d?d=https%3A%2F%2Fidenticons.github.com%2Fdd4e99d3fc6b58c5865e87c000513106.png&r=x", 
+        "location": "Cambridge, MA, USA", 
+        "login": "bengolder", 
+        "contributions": 3
     }, 
     {
         "name": "Ben Sheldon", 
@@ -503,6 +580,17 @@
         "avatar_url": "https://gravatar.com/avatar/abf62533dc841e75f8f7accd3c6c505d?d=https%3A%2F%2Fidenticons.github.com%2Ff90ba35afad77a375db321f9521b2027.png&r=x", 
         "location": "Lexington, KY", 
         "login": "blakeshall", 
+        "contributions": 1
+    }, 
+    {
+        "name": "B M Corser", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/bmcorser", 
+        "blog": "http://www.originalenclosure.net", 
+        "avatar_url": "https://gravatar.com/avatar/dec7ef11af78a6cf7f15255cdebeb917?d=https%3A%2F%2Fidenticons.github.com%2Fb8259528e300cb49dfc163895462a6e1.png&r=x", 
+        "location": "London, UK", 
+        "login": "bmcorser", 
         "contributions": 1
     }, 
     {
@@ -1012,6 +1100,17 @@
         "contributions": 10
     }, 
     {
+        "name": "Tharique Azeez", 
+        "company": "Niram Labs", 
+        "repositories": 1, 
+        "html_url": "https://github.com/enathu", 
+        "blog": "http://niram.org", 
+        "avatar_url": "https://gravatar.com/avatar/40526a6f1b61fea0fdb96d1437dd3faf?d=https%3A%2F%2Fidenticons.github.com%2Fe11867421fddfc6c56f591174b8120ef.png&r=x", 
+        "location": "London, England", 
+        "login": "enathu", 
+        "contributions": 3
+    }, 
+    {
         "name": "Eric Carty-Fickes", 
         "company": "Northwestern University", 
         "repositories": 1, 
@@ -1152,6 +1251,17 @@
         "avatar_url": "https://gravatar.com/avatar/5ac81d0ee9a5e5625c6840759b0c2ca2?d=https%3A%2F%2Fidenticons.github.com%2Fefb08786a83439209417ad2343183321.png&r=x", 
         "location": "Oakland, CA", 
         "login": "guelo", 
+        "contributions": 1
+    }, 
+    {
+        "name": "Gunnar Lium", 
+        "company": "Aptoma AS", 
+        "repositories": 1, 
+        "html_url": "https://github.com/gunnarlium", 
+        "blog": "http://www.gunnarlium.com", 
+        "avatar_url": "https://gravatar.com/avatar/4ee77e64f7af0c7ab1406d9958d34099?d=https%3A%2F%2Fidenticons.github.com%2Fd538524a911bfa49c81b6e8cf9d20fec.png&r=x", 
+        "location": "Oslo, Norway", 
+        "login": "gunnarlium", 
         "contributions": 1
     }, 
     {
@@ -1386,6 +1496,17 @@
         "contributions": 1
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/jeremygilbert", 
+        "blog": "http://www.jeremygilbert.com", 
+        "avatar_url": "https://gravatar.com/avatar/6a54bbbf8b67e252feee289f02d5d0b5?d=https%3A%2F%2Fidenticons.github.com%2Fb9f971f1c4dda454a6424a6af162d2d2.png&r=x", 
+        "location": null, 
+        "login": "jeremygilbert", 
+        "contributions": 7
+    }, 
+    {
         "name": "Jim Breen", 
         "company": null, 
         "repositories": 1, 
@@ -1516,6 +1637,17 @@
         "location": null, 
         "login": "jtwalsh0", 
         "contributions": 162
+    }, 
+    {
+        "name": "jyw", 
+        "company": null, 
+        "repositories": 3, 
+        "html_url": "https://github.com/jywsn", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/98fb24d8a28e48044d186c687bce914b?d=https%3A%2F%2Fidenticons.github.com%2F5ed51050ba2d68c88031e9c521725449.png&r=x", 
+        "location": null, 
+        "login": "jywsn", 
+        "contributions": 174
     }, 
     {
         "name": "karl", 
@@ -1658,6 +1790,17 @@
         "avatar_url": "https://gravatar.com/avatar/2f77b094c65f41806832a410fece5041?d=https%3A%2F%2Fidenticons.github.com%2Fd91b745470a9818cb9ea52279289005d.png&r=x", 
         "location": "Hong Kong, China", 
         "login": "l4u", 
+        "contributions": 1
+    }, 
+    {
+        "name": "Moln\u00e1r L\u00e1szl\u00f3", 
+        "company": "Statlogics Zrt", 
+        "repositories": 1, 
+        "html_url": "https://github.com/lacimol", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/0853963edfbb80b93c0e7ffe873eb8ca?d=https%3A%2F%2Fidenticons.github.com%2F21dfc5c5700ffa67ddc0358dc12af55c.png&r=x", 
+        "location": "Budapest, Hungary", 
+        "login": "lacimol", 
         "contributions": 1
     }, 
     {
@@ -1868,6 +2011,17 @@
         "location": "San Francisco, CA", 
         "login": "mick", 
         "contributions": 66
+    }, 
+    {
+        "name": "Miguel Peixe", 
+        "company": "Cardume", 
+        "repositories": 1, 
+        "html_url": "https://github.com/miguelpeixe", 
+        "blog": "http://cardume.art.br/", 
+        "avatar_url": "https://gravatar.com/avatar/eae66c9fdc0538b2db97e5e955006440?d=https%3A%2F%2Fidenticons.github.com%2F7811c85e56456fdf218fb94181116175.png&r=x", 
+        "location": "S\u00e3o Paulo, SP - Brazil", 
+        "login": "miguelpeixe", 
+        "contributions": 1
     }, 
     {
         "name": null, 
@@ -2214,17 +2368,6 @@
         "name": null, 
         "company": null, 
         "repositories": 1, 
-        "html_url": "https://github.com/potash", 
-        "blog": null, 
-        "avatar_url": "https://gravatar.com/avatar/b5edb2ceaa27ce54091392b55ddc1a38?d=https%3A%2F%2Fidenticons.github.com%2F5a59f7fcd51ba4c3bfad8a9a465671dd.png&r=x", 
-        "location": null, 
-        "login": "potash", 
-        "contributions": 22
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
         "html_url": "https://github.com/ptolp", 
         "blog": null, 
         "avatar_url": "https://gravatar.com/avatar/57f0d9ed442191845c9336be418af1ef?d=https%3A%2F%2Fidenticons.github.com%2Fd55fe3d70aea9fb86c8a63f7717e5c05.png&r=x", 
@@ -2266,6 +2409,17 @@
         "contributions": 8
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/quasipickle", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/746a625a9264a203a6ddf711e0c6b120?d=https%3A%2F%2Fidenticons.github.com%2F33c399ba5f408572e302055db973c08f.png&r=x", 
+        "location": null, 
+        "login": "quasipickle", 
+        "contributions": 1
+    }, 
+    {
         "name": "Quentin Smith", 
         "company": null, 
         "repositories": 1, 
@@ -2274,6 +2428,17 @@
         "avatar_url": "https://gravatar.com/avatar/6d0e2c8d27ffe8fd79a807b16a771156?d=https%3A%2F%2Fidenticons.github.com%2Fd66db0f9650af686a62fcaadbd514bc6.png&r=x", 
         "location": null, 
         "login": "quentinmit", 
+        "contributions": 1
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/ragnaroh", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/1875117d8c980647eedef5ab2102ea5f?d=https%3A%2F%2Fidenticons.github.com%2F49fbcda69181a42c9e087129644c6080.png&r=x", 
+        "location": null, 
+        "login": "ragnaroh", 
         "contributions": 1
     }, 
     {
@@ -2286,6 +2451,17 @@
         "location": null, 
         "login": "rcackerman", 
         "contributions": 1
+    }, 
+    {
+        "name": "Ryan ", 
+        "company": "Knight Lab", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rcgraff", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/436437042eabce7b225282a9ec350016?d=https%3A%2F%2Fidenticons.github.com%2F1317ba73f661386fe838a45ac8c746da.png&r=x", 
+        "location": null, 
+        "login": "rcgraff", 
+        "contributions": 18
     }, 
     {
         "name": "Rebecca", 
@@ -2574,6 +2750,28 @@
         "contributions": 1
     }, 
     {
+        "name": "Scott Bradley", 
+        "company": "", 
+        "repositories": 2, 
+        "html_url": "https://github.com/scott2b", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/68c6cff6a77682c826aae4e289b91767?d=https%3A%2F%2Fidenticons.github.com%2F8b474d9abbd63eca7f76554e08df9d14.png&r=x", 
+        "location": "Chicago", 
+        "login": "scott2b", 
+        "contributions": 15
+    }, 
+    {
+        "name": "Sean Hellwig", 
+        "company": "ThoughtMatrix", 
+        "repositories": 1, 
+        "html_url": "https://github.com/seanhellwig", 
+        "blog": "http://www.thought-matrix.com", 
+        "avatar_url": "https://gravatar.com/avatar/30ddc3ccbc55b20d7d486aaf4a4dae84?d=https%3A%2F%2Fidenticons.github.com%2F8124ef6679901e89e763fa6ff131c25d.png&r=x", 
+        "location": "San Francisco, CA / Bend, OR", 
+        "login": "seanhellwig", 
+        "contributions": 2
+    }, 
+    {
         "name": "Erik Michaels-Ober", 
         "company": "SoundCloud", 
         "repositories": 2, 
@@ -2717,6 +2915,28 @@
         "contributions": 73
     }, 
     {
+        "name": "Yoshihiro Sugi", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/sugyan", 
+        "blog": "http://sugyan.com/", 
+        "avatar_url": "https://gravatar.com/avatar/84394d788041102b59ac0b157fcc0244?d=https%3A%2F%2Fidenticons.github.com%2Fbce97ec6ae370b537a76d47dbba0461e.png&r=x", 
+        "location": "Japan", 
+        "login": "sugyan", 
+        "contributions": 1
+    }, 
+    {
+        "name": "Firman Rosdiansyah", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/supirman", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/28cc3b364bd9a104dd640b5d447765af?d=https%3A%2F%2Fidenticons.github.com%2F42f187daa8decf30617f2f3b52d0eee0.png&r=x", 
+        "location": "Surabaya", 
+        "login": "supirman", 
+        "contributions": 1
+    }, 
+    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -2737,6 +2957,17 @@
         "location": "San Francisco", 
         "login": "templaedhel", 
         "contributions": 16
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/thejordan", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/eb60ff4938094a4ff2799faf6ed0c7d6?d=https%3A%2F%2Fidenticons.github.com%2Fa9010b89ad99e1acd791cfdb512a5949.png&r=x", 
+        "location": null, 
+        "login": "thejordan", 
+        "contributions": 11
     }, 
     {
         "name": "Chris Alfano", 
@@ -2860,6 +3091,17 @@
         "contributions": 11
     }, 
     {
+        "name": "Boguslaw Tarnowski", 
+        "company": "Agile Programming", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ubik86", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/7823cbf5094703e731e5bc8c6180b70a?d=https%3A%2F%2Fidenticons.github.com%2F9a000811d195b68c043e8442f48b8f98.png&r=x", 
+        "location": "Szczecin, Poland", 
+        "login": "ubik86", 
+        "contributions": 1
+    }, 
+    {
         "name": "Jay Strybis", 
         "company": null, 
         "repositories": 1, 
@@ -2981,6 +3223,17 @@
         "contributions": 1
     }, 
     {
+        "name": "ycz", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/ycz87", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/2f2053c123ca29a084821e5ab07c08ee?d=https%3A%2F%2Fidenticons.github.com%2F8661caec0f1db349c45102b8f623399a.png&r=x", 
+        "location": null, 
+        "login": "ycz87", 
+        "contributions": 1
+    }, 
+    {
         "name": null, 
         "company": "Data Science for Social Good", 
         "repositories": 1, 
@@ -3001,6 +3254,17 @@
         "location": "Portland, OR", 
         "login": "zachwill", 
         "contributions": 94
+    }, 
+    {
+        "name": "Zach Wise", 
+        "company": "VeriteCo", 
+        "repositories": 3, 
+        "html_url": "https://github.com/zachwise", 
+        "blog": "http://digitalartwork.net", 
+        "avatar_url": "https://gravatar.com/avatar/30eafb2622eceacc340017e5d75e5812?d=https%3A%2F%2Fidenticons.github.com%2F63cd1166a51bafe8bd66986cedf5d9a2.png&r=x", 
+        "location": null, 
+        "login": "zachwise", 
+        "contributions": 702
     }, 
     {
         "name": null, 

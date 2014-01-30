@@ -162,7 +162,7 @@
         "avatar_url": "https://gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 356
+        "contributions": 357
     }, 
     {
         "name": null, 
@@ -2368,6 +2368,17 @@
         "name": null, 
         "company": null, 
         "repositories": 1, 
+        "html_url": "https://github.com/potash", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/b5edb2ceaa27ce54091392b55ddc1a38?d=https%3A%2F%2Fidenticons.github.com%2F5a59f7fcd51ba4c3bfad8a9a465671dd.png&r=x", 
+        "location": null, 
+        "login": "potash", 
+        "contributions": 23
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
         "html_url": "https://github.com/ptolp", 
         "blog": null, 
         "avatar_url": "https://gravatar.com/avatar/57f0d9ed442191845c9336be418af1ef?d=https%3A%2F%2Fidenticons.github.com%2Fd55fe3d70aea9fb86c8a63f7717e5c05.png&r=x", 
@@ -2692,7 +2703,7 @@
         "avatar_url": "https://gravatar.com/avatar/374de4845c23063651bc7ef13ae24ba4?d=https%3A%2F%2Fidenticons.github.com%2Fef0b299ea3eb6a0561b89647e4cd700a.png&r=x", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 620
+        "contributions": 621
     }, 
     {
         "name": null, 

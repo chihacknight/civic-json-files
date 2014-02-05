@@ -99,6 +99,17 @@
         "contributions": 11
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/Djronan", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/7779fb00bc04a821e8386d2be3017461?d=https%3A%2F%2Fidenticons.github.com%2F7d1eee411d3f749f13c708e01981779b.png&r=x", 
+        "location": null, 
+        "login": "Djronan", 
+        "contributions": 1
+    }, 
+    {
         "name": "Lev Eliezer Israel", 
         "company": null, 
         "repositories": 1, 
@@ -1131,6 +1142,17 @@
         "location": "Chicago, IL", 
         "login": "erowewiegand", 
         "contributions": 126
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/everyone-else", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/74eaae951d7f65973578734535739770?d=https%3A%2F%2Fidenticons.github.com%2Fcd7e5574854d1621dd4c5137b160f6dd.png&r=x", 
+        "location": null, 
+        "login": "everyone-else", 
+        "contributions": 4
     }, 
     {
         "name": "Eric van Zanten", 
@@ -3049,13 +3071,13 @@
     {
         "name": "Nick Bennett", 
         "company": null, 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/tothebeat", 
         "blog": "http://goggl.es", 
         "avatar_url": "https://gravatar.com/avatar/63a170fb8387c9dc22bf7dd40b6e4f86?d=https%3A%2F%2Fidenticons.github.com%2F367ad2e509c5e4006dd61b213aed7da2.png&r=x", 
         "location": "Chicago, IL", 
         "login": "tothebeat", 
-        "contributions": 16
+        "contributions": 22
     }, 
     {
         "name": "Tom Plagge", 
@@ -3144,6 +3166,17 @@
         "location": null, 
         "login": "unruthless", 
         "contributions": 48
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/valentinaKibuyaga", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/96a4c5883f29deafe2b368d7f6651828?d=https%3A%2F%2Fidenticons.github.com%2F3386f3eb00e1e01610a6d14dc4c13b92.png&r=x", 
+        "location": null, 
+        "login": "valentinaKibuyaga", 
+        "contributions": 2
     }, 
     {
         "name": null, 

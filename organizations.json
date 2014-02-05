@@ -60,6 +60,16 @@
         "login": "cfachicago"
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/chi-civic-hacking-howto", 
+        "blog": null, 
+        "avatar_url": "https://identicons.github.com/becc1ea23335cb1fddff91cbb67cba09.png", 
+        "location": null, 
+        "login": "chi-civic-hacking-howto"
+    }, 
+    {
         "name": "Code For America", 
         "company": null, 
         "repositories": 3, 

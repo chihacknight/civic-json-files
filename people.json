@@ -701,7 +701,7 @@
         "avatar_url": "https://gravatar.com/avatar/bf30d9ee53f9fc8049c1fe5ecd3469ec?d=https%3A%2F%2Fidenticons.github.com%2F5810a13083e01a9929863809f2e5bc4a.png&r=x", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 56
+        "contributions": 79
     }, 
     {
         "name": "Chris Gansen", 
@@ -3049,13 +3049,13 @@
     {
         "name": "Tom Schenk Jr", 
         "company": "City of Chicago", 
-        "repositories": 7, 
+        "repositories": 9, 
         "html_url": "https://github.com/tomschenkjr", 
         "blog": "www.tomschenkjr.net", 
         "avatar_url": "https://gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 48
+        "contributions": 106
     }, 
     {
         "name": null, 

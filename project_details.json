@@ -147,7 +147,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/dedupe/contributors", 
         "forks_count": 38, 
         "html_url": "https://github.com/open-city/dedupe", 
-        "updated_at": "2014-02-06T00:52:35Z", 
+        "updated_at": "2014-02-06T22:03:01Z", 
         "project_needs": [], 
         "owner": {
             "login": "open-city", 
@@ -159,7 +159,7 @@
         "name": "dedupe", 
         "language": "C", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2014-02-06T00:52:35Z", 
+        "pushed_at": "2014-02-06T22:03:01Z", 
         "watchers_count": 295, 
         "open_issues": 23, 
         "homepage": "https://github.com/open-city/dedupe", 
@@ -457,7 +457,7 @@
         "language": "JavaScript", 
         "created_at": "2013-07-22T16:43:23Z", 
         "pushed_at": "2014-02-03T18:42:37Z", 
-        "watchers_count": 43, 
+        "watchers_count": 44, 
         "open_issues": 16, 
         "homepage": null, 
         "participation": [
@@ -1248,7 +1248,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/smartchicago/chicago-atlas/contributors", 
-        "forks_count": 218, 
+        "forks_count": 219, 
         "html_url": "https://github.com/smartchicago/chicago-atlas", 
         "updated_at": "2014-02-02T17:41:08Z", 
         "project_needs": [], 
@@ -1264,7 +1264,7 @@
         "created_at": "2013-02-07T16:57:22Z", 
         "pushed_at": "2014-02-02T17:41:06Z", 
         "watchers_count": 56, 
-        "open_issues": 15, 
+        "open_issues": 16, 
         "homepage": "http://www.chicagohealthatlas.org/", 
         "participation": [
             13, 
@@ -1759,7 +1759,7 @@
                 "owner": false, 
                 "login": "iandees", 
                 "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
-                "contributions": 213, 
+                "contributions": 217, 
                 "html_url": "https://github.com/iandees"
             }, 
             {
@@ -1773,7 +1773,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/census-api/contributors", 
         "forks_count": 1, 
         "html_url": "https://github.com/censusreporter/census-api", 
-        "updated_at": "2014-02-05T20:26:44Z", 
+        "updated_at": "2014-02-06T20:44:02Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -1785,7 +1785,7 @@
         "name": "census-api", 
         "language": "Python", 
         "created_at": "2013-05-06T05:24:57Z", 
-        "pushed_at": "2014-02-05T20:26:44Z", 
+        "pushed_at": "2014-02-06T20:44:01Z", 
         "watchers_count": 1, 
         "open_issues": 12, 
         "homepage": "http://api.censusreporter.org", 
@@ -4818,14 +4818,14 @@
                 "owner": true, 
                 "login": "evz", 
                 "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
-                "contributions": 86, 
+                "contributions": 89, 
                 "html_url": "https://github.com/evz"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/evz/crimearound.us/contributors", 
         "forks_count": 2, 
         "html_url": "https://github.com/evz/crimearound.us", 
-        "updated_at": "2014-02-05T23:00:43Z", 
+        "updated_at": "2014-02-06T22:51:58Z", 
         "project_needs": [], 
         "owner": {
             "login": "evz", 
@@ -4837,7 +4837,7 @@
         "name": "crimearound.us", 
         "language": "JavaScript", 
         "created_at": "2013-05-02T21:21:01Z", 
-        "pushed_at": "2014-02-05T23:00:42Z", 
+        "pushed_at": "2014-02-06T22:51:55Z", 
         "watchers_count": 4, 
         "open_issues": 3, 
         "homepage": "http://www.crimearound.us", 
@@ -6763,7 +6763,7 @@
                 "owner": false, 
                 "login": "iandees", 
                 "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
-                "contributions": 74, 
+                "contributions": 77, 
                 "html_url": "https://github.com/iandees"
             }, 
             {
@@ -6777,7 +6777,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/censusreporter/contributors", 
         "forks_count": 2, 
         "html_url": "https://github.com/censusreporter/censusreporter", 
-        "updated_at": "2014-02-05T22:29:24Z", 
+        "updated_at": "2014-02-06T23:30:01Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -6789,7 +6789,7 @@
         "name": "censusreporter", 
         "language": "JavaScript", 
         "created_at": "2013-05-20T22:46:00Z", 
-        "pushed_at": "2014-02-05T22:29:24Z", 
+        "pushed_at": "2014-02-06T23:30:00Z", 
         "watchers_count": 3, 
         "open_issues": 2, 
         "homepage": "http://censusreporter.org", 
@@ -7421,7 +7421,7 @@
                 "owner": true, 
                 "login": "evz", 
                 "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
-                "contributions": 28, 
+                "contributions": 30, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -7435,7 +7435,7 @@
         "contributors_url": "https://api.github.com/repos/evz/crimeapi/contributors", 
         "forks_count": 4, 
         "html_url": "https://github.com/evz/crimeapi", 
-        "updated_at": "2014-01-02T17:31:01Z", 
+        "updated_at": "2014-02-06T22:22:47Z", 
         "project_needs": [], 
         "owner": {
             "login": "evz", 
@@ -7447,7 +7447,7 @@
         "name": "crimeapi", 
         "language": "Python", 
         "created_at": "2013-05-16T11:05:13Z", 
-        "pushed_at": "2014-01-02T17:30:59Z", 
+        "pushed_at": "2014-02-06T22:22:46Z", 
         "watchers_count": 4, 
         "open_issues": 1, 
         "homepage": null, 
@@ -7937,7 +7937,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
-                "contributions": 143, 
+                "contributions": 145, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -7946,12 +7946,19 @@
                 "avatar_url": "https://gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
                 "contributions": 18, 
                 "html_url": "https://github.com/chadwpry"
+            }, 
+            {
+                "owner": false, 
+                "login": "fgregg", 
+                "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
+                "contributions": 1, 
+                "html_url": "https://github.com/fgregg"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/clearstreets-web/contributors", 
         "forks_count": 3, 
         "html_url": "https://github.com/open-city/clearstreets-web", 
-        "updated_at": "2014-02-05T00:41:55Z", 
+        "updated_at": "2014-02-06T20:40:43Z", 
         "project_needs": [], 
         "owner": {
             "login": "open-city", 
@@ -7963,7 +7970,7 @@
         "name": "clearstreets-web", 
         "language": "JavaScript", 
         "created_at": "2012-12-20T08:15:26Z", 
-        "pushed_at": "2014-02-05T00:41:55Z", 
+        "pushed_at": "2014-02-06T20:40:43Z", 
         "watchers_count": 4, 
         "open_issues": 8, 
         "homepage": "http://clearstreets.org", 
@@ -9664,7 +9671,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
-        "forks_count": 1117, 
+        "forks_count": 1116, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
         "updated_at": "2014-02-03T20:13:50Z", 
         "project_needs": [], 
@@ -9680,7 +9687,7 @@
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2014-02-03T20:13:49Z", 
         "watchers_count": 5901, 
-        "open_issues": 125, 
+        "open_issues": 126, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
             23, 
@@ -10606,7 +10613,7 @@
         "created_at": "2012-10-23T20:11:36Z", 
         "pushed_at": "2014-01-02T20:00:23Z", 
         "watchers_count": 12, 
-        "open_issues": 22, 
+        "open_issues": 23, 
         "homepage": "http://chicagocouncilmatic.org", 
         "participation": [
             4, 
@@ -11647,7 +11654,7 @@
         "language": "Shell", 
         "created_at": "2011-09-16T18:32:40Z", 
         "pushed_at": "2013-12-11T07:07:54Z", 
-        "watchers_count": 70, 
+        "watchers_count": 71, 
         "open_issues": 6, 
         "homepage": "", 
         "participation": [
@@ -12949,11 +12956,11 @@
             0, 
             40, 
             0, 
-            0, 
-            8, 
-            18, 
-            2, 
             1, 
+            7, 
+            18, 
+            3, 
+            0, 
             0, 
             0, 
             0
@@ -13051,7 +13058,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
-                "contributions": 118, 
+                "contributions": 120, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -13121,7 +13128,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/open-gov-hack-night/contributors", 
         "forks_count": 17, 
         "html_url": "https://github.com/open-city/open-gov-hack-night", 
-        "updated_at": "2014-02-04T01:58:30Z", 
+        "updated_at": "2014-02-06T21:21:21Z", 
         "project_needs": [
             {
                 "issue_url": "https://github.com/open-city/open-gov-hack-night/issues/37", 
@@ -13142,9 +13149,9 @@
         "name": "open-gov-hack-night", 
         "language": "JavaScript", 
         "created_at": "2013-09-11T03:29:21Z", 
-        "pushed_at": "2014-02-04T01:58:27Z", 
+        "pushed_at": "2014-02-06T21:21:20Z", 
         "watchers_count": 16, 
-        "open_issues": 9, 
+        "open_issues": 8, 
         "homepage": "http://opengovhacknight.org", 
         "participation": [
             0, 

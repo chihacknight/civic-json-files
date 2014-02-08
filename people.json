@@ -1619,13 +1619,13 @@
     {
         "name": "Juan-Pablo Velez", 
         "company": "Open City", 
-        "repositories": 15, 
+        "repositories": 18, 
         "html_url": "https://github.com/jpvelez", 
         "blog": "http://www.twitter.com/jpvelez", 
         "avatar_url": "https://gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
         "location": "Chicago", 
         "login": "jpvelez", 
-        "contributions": 284
+        "contributions": 287
     }, 
     {
         "name": "Jeremy Satterfield", 
@@ -1736,6 +1736,17 @@
         "location": "Berlin, Germany", 
         "login": "kkaefer", 
         "contributions": 2
+    }, 
+    {
+        "name": "KK Rebecca Lai", 
+        "company": "Knight Lab", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kklai", 
+        "blog": "kkrebeccalai.com", 
+        "avatar_url": "https://gravatar.com/avatar/17e3ff3a410e490ee555b84ca618f5e0?d=https%3A%2F%2Fidenticons.github.com%2F750b5bb2045bbd739af0fc2a4f780e93.png&r=x", 
+        "location": "Evanston, IL", 
+        "login": "kklai", 
+        "contributions": 11
     }, 
     {
         "name": null, 
@@ -2395,7 +2406,7 @@
         "avatar_url": "https://gravatar.com/avatar/b5edb2ceaa27ce54091392b55ddc1a38?d=https%3A%2F%2Fidenticons.github.com%2F5a59f7fcd51ba4c3bfad8a9a465671dd.png&r=x", 
         "location": null, 
         "login": "potash", 
-        "contributions": 31
+        "contributions": 32
     }, 
     {
         "name": null, 
@@ -3055,7 +3066,7 @@
         "avatar_url": "https://gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 135
+        "contributions": 138
     }, 
     {
         "name": null, 

@@ -948,13 +948,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade", 
-        "repositories": 32, 
+        "repositories": 33, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 1999
+        "contributions": 2001
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1163,7 +1163,7 @@
         "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 267
+        "contributions": 271
     }, 
     {
         "name": "Forest Gregg", 
@@ -3049,13 +3049,13 @@
     {
         "name": "Tom Schenk Jr", 
         "company": "City of Chicago", 
-        "repositories": 9, 
+        "repositories": 10, 
         "html_url": "https://github.com/tomschenkjr", 
         "blog": "www.tomschenkjr.net", 
         "avatar_url": "https://gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 106
+        "contributions": 135
     }, 
     {
         "name": null, 

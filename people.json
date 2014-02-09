@@ -1354,12 +1354,12 @@
     }, 
     {
         "name": "Jonathan Wilde", 
-        "company": null, 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/hellojwilde", 
         "blog": "http://jwilde.me", 
         "avatar_url": "https://gravatar.com/avatar/f2fd275a91588d2db6020e50f33518ee?d=https%3A%2F%2Fidenticons.github.com%2Fca78c4487af4257616699a353ccaf296.png&r=x", 
-        "location": "Medford, MA \u21cb Mountain View, CA", 
+        "location": "Kennedy Town, Hong Kong", 
         "login": "hellojwilde", 
         "contributions": 2
     }, 

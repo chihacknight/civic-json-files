@@ -418,8 +418,8 @@
             13, 
             20, 
             69, 
-            61, 
-            7, 
+            63, 
+            5, 
             0, 
             25, 
             21, 
@@ -427,14 +427,14 @@
             7, 
             12, 
             13, 
-            92, 
-            9, 
-            7, 
+            94, 
+            10, 
+            4, 
             21, 
             15, 
             7, 
             4, 
-            8
+            12
         ]
     }, 
     {
@@ -669,7 +669,7 @@
         "language": "JavaScript", 
         "created_at": "2013-10-22T22:38:46Z", 
         "pushed_at": "2013-11-19T17:48:57Z", 
-        "watchers_count": 5, 
+        "watchers_count": 6, 
         "open_issues": 0, 
         "homepage": null, 
         "participation": [
@@ -3932,13 +3932,13 @@
             0, 
             0, 
             0, 
-            18, 
-            3, 
+            21, 
+            0, 
             2, 
             0, 
-            3, 
             4, 
-            3, 
+            5, 
+            1, 
             0, 
             2
         ]
@@ -6197,8 +6197,8 @@
             0, 
             1, 
             0, 
-            20, 
-            4, 
+            24, 
+            0, 
             7, 
             0, 
             6, 
@@ -9888,7 +9888,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
-        "forks_count": 1116, 
+        "forks_count": 1117, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
         "updated_at": "2014-02-03T20:13:50Z", 
         "project_needs": [], 
@@ -9903,8 +9903,8 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2014-02-03T20:13:49Z", 
-        "watchers_count": 5912, 
-        "open_issues": 127, 
+        "watchers_count": 5915, 
+        "open_issues": 128, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
             23, 
@@ -11325,8 +11325,8 @@
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -12242,11 +12242,11 @@
             12, 
             6, 
             0, 
-            0, 
+            4, 
             17, 
-            14, 
+            11, 
             10, 
-            5
+            4
         ]
     }, 
     {

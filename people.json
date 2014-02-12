@@ -1185,7 +1185,7 @@
         "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 866
+        "contributions": 873
     }, 
     {
         "name": null, 
@@ -1405,7 +1405,7 @@
         "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 460
+        "contributions": 461
     }, 
     {
         "name": "Idan Gazit", 
@@ -2813,7 +2813,7 @@
         "avatar_url": "https://gravatar.com/avatar/64ae65bb23f3df8434c942a29b30d529?d=https%3A%2F%2Fidenticons.github.com%2Fdd45c6ce04b74d353453d1dd88e49a1e.png&r=x", 
         "location": "", 
         "login": "sbeslow", 
-        "contributions": 10
+        "contributions": 18
     }, 
     {
         "name": "Scott Bradley", 
@@ -3344,14 +3344,10 @@
         "contributions": 702
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/zhaojunlucky", 
-        "blog": null, 
-        "avatar_url": "https://gravatar.com/avatar/e6004ee7859c8417b822e8841f9a776d?d=https%3A%2F%2Fidenticons.github.com%2Fe60daab4d986b786905ade696aa5649d.png&r=x", 
-        "location": null, 
+        "contributions": 1, 
         "login": "zhaojunlucky", 
-        "contributions": 1
+        "avatar_url": "https://gravatar.com/avatar/e6004ee7859c8417b822e8841f9a776d?d=https%3A%2F%2Fidenticons.github.com%2Fe60daab4d986b786905ade696aa5649d.png&r=x", 
+        "repositories": 1, 
+        "html_url": "https://github.com/zhaojunlucky"
     }
 ]

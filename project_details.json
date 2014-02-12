@@ -91,7 +91,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
-                "contributions": 495, 
+                "contributions": 497, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -147,7 +147,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/dedupe/contributors", 
         "forks_count": 38, 
         "html_url": "https://github.com/open-city/dedupe", 
-        "updated_at": "2014-02-10T23:52:43Z", 
+        "updated_at": "2014-02-11T20:00:40Z", 
         "project_needs": [], 
         "owner": {
             "login": "open-city", 
@@ -159,9 +159,9 @@
         "name": "dedupe", 
         "language": "C", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2014-02-10T23:52:42Z", 
+        "pushed_at": "2014-02-11T20:00:40Z", 
         "watchers_count": 295, 
-        "open_issues": 24, 
+        "open_issues": 23, 
         "homepage": "https://github.com/open-city/dedupe", 
         "participation": [
             14, 
@@ -1354,7 +1354,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/smartchicago/chicago-atlas/contributors", 
-        "forks_count": 223, 
+        "forks_count": 225, 
         "html_url": "https://github.com/smartchicago/chicago-atlas", 
         "updated_at": "2014-02-02T17:41:08Z", 
         "project_needs": [], 
@@ -5766,7 +5766,7 @@
                 "owner": false, 
                 "login": "iandees", 
                 "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
-                "contributions": 78, 
+                "contributions": 79, 
                 "html_url": "https://github.com/iandees"
             }, 
             {
@@ -5787,7 +5787,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/censusreporter/contributors", 
         "forks_count": 2, 
         "html_url": "https://github.com/censusreporter/censusreporter", 
-        "updated_at": "2014-02-11T02:16:55Z", 
+        "updated_at": "2014-02-11T21:03:02Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -5799,7 +5799,7 @@
         "name": "censusreporter", 
         "language": "JavaScript", 
         "created_at": "2013-05-20T22:46:00Z", 
-        "pushed_at": "2014-02-11T02:16:54Z", 
+        "pushed_at": "2014-02-11T21:03:02Z", 
         "watchers_count": 3, 
         "open_issues": 2, 
         "homepage": "http://censusreporter.org", 
@@ -7878,7 +7878,7 @@
         "contributors_url": "https://api.github.com/repos/NYCComptroller/Checkbook/contributors", 
         "forks_count": 8, 
         "html_url": "https://github.com/NYCComptroller/Checkbook", 
-        "updated_at": "2014-02-10T22:16:44Z", 
+        "updated_at": "2014-02-11T20:38:05Z", 
         "project_needs": [], 
         "owner": {
             "login": "NYCComptroller", 
@@ -7890,7 +7890,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2014-02-10T22:16:44Z", 
+        "pushed_at": "2014-02-11T20:38:05Z", 
         "watchers_count": 20, 
         "open_issues": 19, 
         "homepage": null, 
@@ -9938,8 +9938,8 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2014-02-03T20:13:49Z", 
-        "watchers_count": 5923, 
-        "open_issues": 130, 
+        "watchers_count": 5924, 
+        "open_issues": 131, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
             21, 
@@ -10270,7 +10270,7 @@
         "language": "R", 
         "created_at": "2013-02-07T03:49:01Z", 
         "pushed_at": "2013-09-07T00:47:32Z", 
-        "watchers_count": 110, 
+        "watchers_count": 111, 
         "open_issues": 2, 
         "homepage": "", 
         "participation": [
@@ -11204,9 +11204,9 @@
             0, 
             0, 
             0, 
-            17, 
-            27, 
-            44, 
+            26, 
+            26, 
+            36, 
             0, 
             0, 
             1, 
@@ -12174,6 +12174,13 @@
             }, 
             {
                 "owner": false, 
+                "login": "sbeslow", 
+                "avatar_url": "https://gravatar.com/avatar/64ae65bb23f3df8434c942a29b30d529?d=https%3A%2F%2Fidenticons.github.com%2Fdd45c6ce04b74d353453d1dd88e49a1e.png&r=x", 
+                "contributions": 18, 
+                "html_url": "https://github.com/sbeslow"
+            }, 
+            {
+                "owner": false, 
                 "login": "jcourtois", 
                 "avatar_url": "https://gravatar.com/avatar/21dd4b876ffd3dadf4ed11482bc538a8?d=https%3A%2F%2Fidenticons.github.com%2F661eb009ffde6b27760bda142bd31104.png&r=x", 
                 "contributions": 11, 
@@ -12181,24 +12188,17 @@
             }, 
             {
                 "owner": false, 
+                "login": "fgregg", 
+                "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
+                "contributions": 10, 
+                "html_url": "https://github.com/fgregg"
+            }, 
+            {
+                "owner": false, 
                 "login": "andreweskeclarke", 
                 "avatar_url": "https://gravatar.com/avatar/58434e02e2b86d66c0fd17d9ee34c61c?d=https%3A%2F%2Fidenticons.github.com%2F7b9a2ae2b9551eea93e4306ac121cb0a.png&r=x", 
                 "contributions": 10, 
                 "html_url": "https://github.com/andreweskeclarke"
-            }, 
-            {
-                "owner": false, 
-                "login": "sbeslow", 
-                "avatar_url": "https://gravatar.com/avatar/64ae65bb23f3df8434c942a29b30d529?d=https%3A%2F%2Fidenticons.github.com%2Fdd45c6ce04b74d353453d1dd88e49a1e.png&r=x", 
-                "contributions": 10, 
-                "html_url": "https://github.com/sbeslow"
-            }, 
-            {
-                "owner": false, 
-                "login": "fgregg", 
-                "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
-                "contributions": 5, 
-                "html_url": "https://github.com/fgregg"
             }, 
             {
                 "owner": false, 
@@ -12225,7 +12225,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/chicago-river-sewage/contributors", 
         "forks_count": 6, 
         "html_url": "https://github.com/open-city/chicago-river-sewage", 
-        "updated_at": "2014-02-06T17:30:31Z", 
+        "updated_at": "2014-02-11T23:12:14Z", 
         "project_needs": [
             {
                 "issue_url": "https://github.com/open-city/chicago-river-sewage/issues/17", 
@@ -12246,7 +12246,7 @@
         "name": "chicago-river-sewage", 
         "language": "JavaScript", 
         "created_at": "2013-12-04T04:37:27Z", 
-        "pushed_at": "2014-02-06T17:30:31Z", 
+        "pushed_at": "2014-02-11T23:12:14Z", 
         "watchers_count": 4, 
         "open_issues": 12, 
         "homepage": "http://istheresewageinthechicagoriver.com", 
@@ -13269,8 +13269,8 @@
             0, 
             0, 
             0, 
-            32, 
-            8, 
+            40, 
+            0, 
             0, 
             8, 
             18, 

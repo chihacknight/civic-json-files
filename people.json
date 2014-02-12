@@ -3344,10 +3344,14 @@
         "contributions": 702
     }, 
     {
-        "contributions": 1, 
-        "login": "zhaojunlucky", 
-        "avatar_url": "https://gravatar.com/avatar/e6004ee7859c8417b822e8841f9a776d?d=https%3A%2F%2Fidenticons.github.com%2Fe60daab4d986b786905ade696aa5649d.png&r=x", 
+        "name": null, 
+        "company": null, 
         "repositories": 1, 
-        "html_url": "https://github.com/zhaojunlucky"
+        "html_url": "https://github.com/zhaojunlucky", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/e6004ee7859c8417b822e8841f9a776d?d=https%3A%2F%2Fidenticons.github.com%2Fe60daab4d986b786905ade696aa5649d.png&r=x", 
+        "location": null, 
+        "login": "zhaojunlucky", 
+        "contributions": 1
     }
 ]

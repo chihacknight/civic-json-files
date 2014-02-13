@@ -965,7 +965,7 @@
         "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2011
+        "contributions": 2019
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1174,7 +1174,7 @@
         "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 290
+        "contributions": 306
     }, 
     {
         "name": "Forest Gregg", 
@@ -2813,7 +2813,7 @@
         "avatar_url": "https://gravatar.com/avatar/64ae65bb23f3df8434c942a29b30d529?d=https%3A%2F%2Fidenticons.github.com%2Fdd45c6ce04b74d353453d1dd88e49a1e.png&r=x", 
         "location": "", 
         "login": "sbeslow", 
-        "contributions": 19
+        "contributions": 21
     }, 
     {
         "name": "Scott Bradley", 
@@ -3344,14 +3344,10 @@
         "contributions": 702
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/zhaojunlucky", 
-        "blog": null, 
-        "avatar_url": "https://gravatar.com/avatar/e6004ee7859c8417b822e8841f9a776d?d=https%3A%2F%2Fidenticons.github.com%2Fe60daab4d986b786905ade696aa5649d.png&r=x", 
-        "location": null, 
+        "contributions": 1, 
         "login": "zhaojunlucky", 
-        "contributions": 1
+        "avatar_url": "https://gravatar.com/avatar/e6004ee7859c8417b822e8841f9a776d?d=https%3A%2F%2Fidenticons.github.com%2Fe60daab4d986b786905ade696aa5649d.png&r=x", 
+        "repositories": 1, 
+        "html_url": "https://github.com/zhaojunlucky"
     }
 ]

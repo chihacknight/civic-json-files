@@ -1185,7 +1185,7 @@
         "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 873
+        "contributions": 874
     }, 
     {
         "name": null, 
@@ -1405,7 +1405,7 @@
         "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 461
+        "contributions": 466
     }, 
     {
         "name": "Idan Gazit", 
@@ -1483,6 +1483,17 @@
         "location": "San Francisco, CA", 
         "login": "jasonlally", 
         "contributions": 2
+    }, 
+    {
+        "name": "Jason Wright", 
+        "company": "Dissident Design", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jasontwright", 
+        "blog": "www.dissidentdesign.com", 
+        "avatar_url": "https://gravatar.com/avatar/4bcc21b09f627069ecb593b31545e763?d=https%3A%2F%2Fidenticons.github.com%2F6ef4e663b70b8164fddfc4b3a2c430ec.png&r=x", 
+        "location": "Chicago, IL", 
+        "login": "jasontwright", 
+        "contributions": 1
     }, 
     {
         "name": null, 
@@ -2747,7 +2758,7 @@
         "avatar_url": "https://gravatar.com/avatar/374de4845c23063651bc7ef13ae24ba4?d=https%3A%2F%2Fidenticons.github.com%2Fef0b299ea3eb6a0561b89647e4cd700a.png&r=x", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 657
+        "contributions": 661
     }, 
     {
         "name": null, 
@@ -3344,10 +3355,14 @@
         "contributions": 702
     }, 
     {
-        "contributions": 1, 
-        "login": "zhaojunlucky", 
-        "avatar_url": "https://gravatar.com/avatar/e6004ee7859c8417b822e8841f9a776d?d=https%3A%2F%2Fidenticons.github.com%2Fe60daab4d986b786905ade696aa5649d.png&r=x", 
+        "name": null, 
+        "company": null, 
         "repositories": 1, 
-        "html_url": "https://github.com/zhaojunlucky"
+        "html_url": "https://github.com/zhaojunlucky", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/e6004ee7859c8417b822e8841f9a776d?d=https%3A%2F%2Fidenticons.github.com%2Fe60daab4d986b786905ade696aa5649d.png&r=x", 
+        "location": null, 
+        "login": "zhaojunlucky", 
+        "contributions": 1
     }
 ]

@@ -739,13 +739,13 @@
     {
         "name": "Chad W Pry", 
         "company": "General Assemb.ly", 
-        "repositories": 10, 
+        "repositories": 9, 
         "html_url": "https://github.com/chadwpry", 
         "blog": "http://about.me/pry", 
         "avatar_url": "https://gravatar.com/avatar/9cfc6c88a401a98e9b0bdaf3e39818e5?d=https%3A%2F%2Fidenticons.github.com%2Ff8037f94e53f17a2cc301033ca86d278.png&r=x", 
         "location": "New York, NY", 
         "login": "chadwpry", 
-        "contributions": 283
+        "contributions": 265
     }, 
     {
         "name": "Christopher Brown", 
@@ -959,13 +959,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade", 
-        "repositories": 33, 
+        "repositories": 32, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2045
+        "contributions": 2011
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1185,7 +1185,7 @@
         "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1062
+        "contributions": 1070
     }, 
     {
         "name": null, 
@@ -1405,7 +1405,7 @@
         "avatar_url": "https://gravatar.com/avatar/9bc4a883c77638852b66adbefb103dad?d=https%3A%2F%2Fidenticons.github.com%2Ffef8bc8ec1cf73fe288828f08cc70ebe.png&r=x", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 474
+        "contributions": 475
     }, 
     {
         "name": "Idan Gazit", 
@@ -1641,13 +1641,13 @@
     {
         "name": "Juan-Pablo Velez", 
         "company": "Open City", 
-        "repositories": 17, 
+        "repositories": 16, 
         "html_url": "https://github.com/jpvelez", 
         "blog": "http://www.twitter.com/jpvelez", 
         "avatar_url": "https://gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
         "location": "Chicago", 
         "login": "jpvelez", 
-        "contributions": 286
+        "contributions": 285
     }, 
     {
         "name": "Jeremy Satterfield", 
@@ -1691,7 +1691,7 @@
         "avatar_url": "https://gravatar.com/avatar/98fb24d8a28e48044d186c687bce914b?d=https%3A%2F%2Fidenticons.github.com%2F5ed51050ba2d68c88031e9c521725449.png&r=x", 
         "location": null, 
         "login": "jywsn", 
-        "contributions": 177
+        "contributions": 179
     }, 
     {
         "name": "karl", 
@@ -2824,7 +2824,7 @@
         "avatar_url": "https://gravatar.com/avatar/64ae65bb23f3df8434c942a29b30d529?d=https%3A%2F%2Fidenticons.github.com%2Fdd45c6ce04b74d353453d1dd88e49a1e.png&r=x", 
         "location": "", 
         "login": "sbeslow", 
-        "contributions": 22
+        "contributions": 24
     }, 
     {
         "name": "Scott Bradley", 
@@ -3082,13 +3082,13 @@
     {
         "name": "Tom Schenk Jr", 
         "company": "City of Chicago", 
-        "repositories": 9, 
+        "repositories": 8, 
         "html_url": "https://github.com/tomschenkjr", 
         "blog": "www.tomschenkjr.net", 
         "avatar_url": "https://gravatar.com/avatar/cff972b45e6ea7823fd6a2a231c4e659?d=https%3A%2F%2Fidenticons.github.com%2F01df24db9696a1f71d55f693b62e825e.png&r=x", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 108
+        "contributions": 78
     }, 
     {
         "name": null, 
@@ -3352,7 +3352,7 @@
         "avatar_url": "https://gravatar.com/avatar/30eafb2622eceacc340017e5d75e5812?d=https%3A%2F%2Fidenticons.github.com%2F63cd1166a51bafe8bd66986cedf5d9a2.png&r=x", 
         "location": null, 
         "login": "zachwise", 
-        "contributions": 717
+        "contributions": 720
     }, 
     {
         "name": null, 

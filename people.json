@@ -99,13 +99,13 @@
         "contributions": 11
     }, 
     {
-        "name": null, 
-        "company": null, 
+        "name": "Daniel Ronan", 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/Djronan", 
-        "blog": null, 
+        "blog": "", 
         "avatar_url": "https://gravatar.com/avatar/7779fb00bc04a821e8386d2be3017461?d=https%3A%2F%2Fidenticons.github.com%2F7d1eee411d3f749f13c708e01981779b.png&r=x", 
-        "location": null, 
+        "location": "Chicago, Illinois", 
         "login": "Djronan", 
         "contributions": 1
     }, 
@@ -965,7 +965,7 @@
         "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2011
+        "contributions": 2012
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -3352,7 +3352,7 @@
         "avatar_url": "https://gravatar.com/avatar/30eafb2622eceacc340017e5d75e5812?d=https%3A%2F%2Fidenticons.github.com%2F63cd1166a51bafe8bd66986cedf5d9a2.png&r=x", 
         "location": null, 
         "login": "zachwise", 
-        "contributions": 721
+        "contributions": 722
     }, 
     {
         "name": null, 

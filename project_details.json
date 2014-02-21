@@ -261,7 +261,7 @@
                 "owner": false, 
                 "login": "JoeGermuska", 
                 "avatar_url": "https://gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
-                "contributions": 177, 
+                "contributions": 178, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
@@ -275,7 +275,7 @@
                 "owner": false, 
                 "login": "zachwise", 
                 "avatar_url": "https://gravatar.com/avatar/30eafb2622eceacc340017e5d75e5812?d=https%3A%2F%2Fidenticons.github.com%2F63cd1166a51bafe8bd66986cedf5d9a2.png&r=x", 
-                "contributions": 139, 
+                "contributions": 140, 
                 "html_url": "https://github.com/zachwise"
             }, 
             {
@@ -317,7 +317,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/StoryMapJS/contributors", 
         "forks_count": 15, 
         "html_url": "https://github.com/NUKnightLab/StoryMapJS", 
-        "updated_at": "2014-02-19T21:16:44Z", 
+        "updated_at": "2014-02-20T22:01:57Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -329,7 +329,7 @@
         "name": "StoryMapJS", 
         "language": "JavaScript", 
         "created_at": "2013-07-22T16:43:23Z", 
-        "pushed_at": "2014-02-19T21:16:44Z", 
+        "pushed_at": "2014-02-20T22:01:56Z", 
         "watchers_count": 45, 
         "open_issues": 12, 
         "homepage": null, 
@@ -1128,7 +1128,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/smartchicago/chicago-atlas/contributors", 
-        "forks_count": 224, 
+        "forks_count": 225, 
         "html_url": "https://github.com/smartchicago/chicago-atlas", 
         "updated_at": "2014-02-13T20:30:18Z", 
         "project_needs": [], 
@@ -2493,7 +2493,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/codeforamerica/super-mayor/contributors", 
-        "forks_count": 1, 
+        "forks_count": 2, 
         "html_url": "https://github.com/codeforamerica/super-mayor", 
         "updated_at": "2013-11-30T11:31:03Z", 
         "project_needs": [], 
@@ -2776,17 +2776,17 @@
         "contributors": [
             {
                 "owner": false, 
+                "login": "JoeGermuska", 
+                "avatar_url": "https://gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
+                "contributions": 18, 
+                "html_url": "https://github.com/JoeGermuska"
+            }, 
+            {
+                "owner": false, 
                 "login": "zachwise", 
                 "avatar_url": "https://gravatar.com/avatar/30eafb2622eceacc340017e5d75e5812?d=https%3A%2F%2Fidenticons.github.com%2F63cd1166a51bafe8bd66986cedf5d9a2.png&r=x", 
                 "contributions": 16, 
                 "html_url": "https://github.com/zachwise"
-            }, 
-            {
-                "owner": false, 
-                "login": "JoeGermuska", 
-                "avatar_url": "https://gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
-                "contributions": 14, 
-                "html_url": "https://github.com/JoeGermuska"
             }, 
             {
                 "owner": false, 
@@ -2813,7 +2813,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS-Wordpress-Plugin/contributors", 
         "forks_count": 31, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS-Wordpress-Plugin", 
-        "updated_at": "2014-01-31T07:44:09Z", 
+        "updated_at": "2014-02-20T21:58:36Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -2825,7 +2825,7 @@
         "name": "TimelineJS-Wordpress-Plugin", 
         "language": "JavaScript", 
         "created_at": "2012-04-22T18:40:28Z", 
-        "pushed_at": "2014-01-31T07:44:09Z", 
+        "pushed_at": "2014-02-20T21:58:36Z", 
         "watchers_count": 123, 
         "open_issues": 19, 
         "homepage": null, 
@@ -3959,16 +3959,16 @@
             0, 
             0, 
             0, 
-            3, 
-            18, 
-            1, 
-            1, 
-            1, 
+            15, 
             6, 
+            1, 
+            1, 
+            2, 
+            5, 
             3, 
-            0, 
             0, 
             2, 
+            0, 
             0
         ]
     }, 
@@ -4557,7 +4557,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 39, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2014-02-18T22:52:04Z", 
+        "updated_at": "2014-02-20T20:53:40Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -4571,7 +4571,7 @@
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2014-02-18T22:17:39Z", 
         "watchers_count": 300, 
-        "open_issues": 19, 
+        "open_issues": 21, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
             48, 
@@ -5667,7 +5667,7 @@
                 "owner": false, 
                 "login": "ryanpitts", 
                 "avatar_url": "https://gravatar.com/avatar/374de4845c23063651bc7ef13ae24ba4?d=https%3A%2F%2Fidenticons.github.com%2Fef0b299ea3eb6a0561b89647e4cd700a.png&r=x", 
-                "contributions": 506, 
+                "contributions": 510, 
                 "html_url": "https://github.com/ryanpitts"
             }, 
             {
@@ -5695,7 +5695,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/censusreporter/contributors", 
         "forks_count": 2, 
         "html_url": "https://github.com/censusreporter/censusreporter", 
-        "updated_at": "2014-02-19T00:39:07Z", 
+        "updated_at": "2014-02-20T19:37:08Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -5707,7 +5707,7 @@
         "name": "censusreporter", 
         "language": "JavaScript", 
         "created_at": "2013-05-20T22:46:00Z", 
-        "pushed_at": "2014-02-19T00:39:07Z", 
+        "pushed_at": "2014-02-20T19:37:08Z", 
         "watchers_count": 3, 
         "open_issues": 2, 
         "homepage": "http://censusreporter.org", 
@@ -8802,7 +8802,7 @@
         "contributors_url": "https://api.github.com/repos/smartchicago/chicagoworksforyou/contributors", 
         "forks_count": 1, 
         "html_url": "https://github.com/smartchicago/chicagoworksforyou", 
-        "updated_at": "2014-02-12T21:11:46Z", 
+        "updated_at": "2014-02-20T21:57:54Z", 
         "project_needs": [], 
         "owner": {
             "login": "smartchicago", 
@@ -8814,7 +8814,7 @@
         "name": "chicagoworksforyou", 
         "language": "JavaScript", 
         "created_at": "2013-02-21T17:57:07Z", 
-        "pushed_at": "2014-02-12T21:11:46Z", 
+        "pushed_at": "2014-02-20T21:57:53Z", 
         "watchers_count": 7, 
         "open_issues": 27, 
         "homepage": "http://www.chicagoworksforyou.com", 
@@ -9876,7 +9876,7 @@
                 "owner": false, 
                 "login": "JoeGermuska", 
                 "avatar_url": "https://gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
-                "contributions": 109, 
+                "contributions": 112, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
@@ -9993,9 +9993,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
-        "forks_count": 1133, 
+        "forks_count": 1134, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2014-02-20T16:16:31Z", 
+        "updated_at": "2014-02-20T21:21:30Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -10007,8 +10007,8 @@
         "name": "TimelineJS", 
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
-        "pushed_at": "2014-02-20T16:16:31Z", 
-        "watchers_count": 5963, 
+        "pushed_at": "2014-02-20T21:21:29Z", 
+        "watchers_count": 5964, 
         "open_issues": 134, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
@@ -12203,7 +12203,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/chicago-river-sewage/contributors", 
         "forks_count": 6, 
         "html_url": "https://github.com/open-city/chicago-river-sewage", 
-        "updated_at": "2014-02-19T06:57:21Z", 
+        "updated_at": "2014-02-20T21:33:33Z", 
         "project_needs": [
             {
                 "issue_url": "https://github.com/open-city/chicago-river-sewage/issues/17", 
@@ -12224,9 +12224,9 @@
         "name": "chicago-river-sewage", 
         "language": "JavaScript", 
         "created_at": "2013-12-04T04:37:27Z", 
-        "pushed_at": "2014-02-19T06:57:21Z", 
+        "pushed_at": "2014-02-20T21:33:33Z", 
         "watchers_count": 5, 
-        "open_issues": 13, 
+        "open_issues": 12, 
         "homepage": "http://istheresewageinthechicagoriver.com", 
         "participation": [
             0, 
@@ -12269,18 +12269,18 @@
             0, 
             0, 
             0, 
+            14, 
+            0, 
+            11, 
+            9, 
+            0, 
             0, 
             14, 
-            2, 
-            18, 
-            0, 
-            0, 
-            4, 
-            21, 
-            14, 
+            11, 
+            16, 
             4, 
             17, 
-            7
+            5
         ]
     }, 
     {

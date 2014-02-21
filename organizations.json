@@ -110,43 +110,27 @@
         "login": "newsapps"
     }, 
     {
-        "name": "Open City", 
-        "company": null, 
-        "repositories": 15, 
-        "html_url": "https://github.com/open-city", 
-        "blog": "http://opencityapps.org/", 
+        "login": "open-city", 
         "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
-        "location": "Chicago, IL", 
-        "login": "open-city"
+        "repositories": 15, 
+        "html_url": "https://github.com/open-city"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/sc3", 
-        "blog": null, 
+        "login": "sc3", 
         "avatar_url": "https://identicons.github.com/7d79c70e984bb2101350419a1190466d.png", 
-        "location": null, 
-        "login": "sc3"
-    }, 
-    {
-        "name": "Smart Chicago Collaborative", 
-        "company": null, 
-        "repositories": 11, 
-        "html_url": "https://github.com/smartchicago", 
-        "blog": "http://www.smartchicagocollaborative.org", 
-        "avatar_url": "https://gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
-        "location": "Chicago, Illinois, USA", 
-        "login": "smartchicago"
-    }, 
-    {
-        "name": "Hoy", 
-        "company": null, 
         "repositories": 1, 
-        "html_url": "https://github.com/vivelohoy", 
-        "blog": "http://www.vivelohoy.com/", 
+        "html_url": "https://github.com/sc3"
+    }, 
+    {
+        "login": "smartchicago", 
+        "avatar_url": "https://gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
+        "repositories": 11, 
+        "html_url": "https://github.com/smartchicago"
+    }, 
+    {
+        "login": "vivelohoy", 
         "avatar_url": "https://identicons.github.com/56df1874a91112974a56b8b370219e11.png", 
-        "location": "435 N. Michigan Ave., 2nd floor, Chicago, IL 60611", 
-        "login": "vivelohoy"
+        "repositories": 1, 
+        "html_url": "https://github.com/vivelohoy"
     }
 ]

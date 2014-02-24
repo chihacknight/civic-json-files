@@ -617,11 +617,11 @@
     }, 
     {
         "name": "B M Corser", 
-        "company": null, 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/bmcorser", 
         "blog": "http://www.originalenclosure.net", 
-        "avatar_url": "https://gravatar.com/avatar/dec7ef11af78a6cf7f15255cdebeb917?d=https%3A%2F%2Fidenticons.github.com%2Fb8259528e300cb49dfc163895462a6e1.png&r=x", 
+        "avatar_url": "https://gravatar.com/avatar/3c7d41b9d1182d47e16f6064581090c3?d=https%3A%2F%2Fidenticons.github.com%2Fb8259528e300cb49dfc163895462a6e1.png&r=x", 
         "location": "London, UK", 
         "login": "bmcorser", 
         "contributions": 1
@@ -976,7 +976,7 @@
         "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2020
+        "contributions": 2021
     }, 
     {
         "name": "Anatoly Bondarenko", 

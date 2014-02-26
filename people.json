@@ -184,7 +184,7 @@
         "avatar_url": "https://gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 397
+        "contributions": 401
     }, 
     {
         "name": null, 
@@ -294,7 +294,7 @@
         "avatar_url": "https://gravatar.com/avatar/3e02a6f31a7ac1500047a33d9ff51b18?d=https%3A%2F%2Fidenticons.github.com%2F221997a046000569f47bdbe542677c5f.png&r=x", 
         "location": null, 
         "login": "SaraSchnadt", 
-        "contributions": 12
+        "contributions": 16
     }, 
     {
         "name": "Eric", 
@@ -976,7 +976,7 @@
         "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2022
+        "contributions": 2023
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1185,7 +1185,7 @@
         "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 339
+        "contributions": 343
     }, 
     {
         "name": "Forest Gregg", 
@@ -1196,7 +1196,7 @@
         "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1085
+        "contributions": 1089
     }, 
     {
         "name": null, 
@@ -2439,7 +2439,7 @@
         "avatar_url": "https://gravatar.com/avatar/b5edb2ceaa27ce54091392b55ddc1a38?d=https%3A%2F%2Fidenticons.github.com%2F5a59f7fcd51ba4c3bfad8a9a465671dd.png&r=x", 
         "location": null, 
         "login": "potash", 
-        "contributions": 37
+        "contributions": 41
     }, 
     {
         "name": null, 
@@ -2769,7 +2769,7 @@
         "avatar_url": "https://gravatar.com/avatar/374de4845c23063651bc7ef13ae24ba4?d=https%3A%2F%2Fidenticons.github.com%2Fef0b299ea3eb6a0561b89647e4cd700a.png&r=x", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 693
+        "contributions": 702
     }, 
     {
         "name": null, 
@@ -2805,8 +2805,8 @@
         "contributions": 756
     }, 
     {
-        "name": "Sarah Murray", 
-        "company": null, 
+        "name": "Sarah", 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/sarahelizabeth", 
         "blog": "sarahemurray.com", 
@@ -3000,7 +3000,7 @@
         "avatar_url": "https://gravatar.com/avatar/761139693c8bd5c6dfb95c4010b89c8d?d=https%3A%2F%2Fidenticons.github.com%2F9200aae5b872987223484bb32dfe898c.png&r=x", 
         "location": "Chicago, Illinois", 
         "login": "stevevance", 
-        "contributions": 88
+        "contributions": 91
     }, 
     {
         "name": "Yoshihiro Sugi", 

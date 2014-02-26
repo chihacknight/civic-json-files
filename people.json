@@ -1185,7 +1185,7 @@
         "avatar_url": "https://gravatar.com/avatar/1d0c5faee140af87d7d6967bc946ecc6?d=https%3A%2F%2Fidenticons.github.com%2F44e80db9ed8527f429c969e804432b0f.png&r=x", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 338
+        "contributions": 339
     }, 
     {
         "name": "Forest Gregg", 
@@ -1196,7 +1196,7 @@
         "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1083
+        "contributions": 1085
     }, 
     {
         "name": null, 
@@ -2058,7 +2058,7 @@
     }, 
     {
         "name": "Mike Helmick", 
-        "company": "Azork", 
+        "company": "Drund", 
         "repositories": 1, 
         "html_url": "https://github.com/michaelhelmick", 
         "blog": "http://blog.michaelhelmick.com", 
@@ -2439,7 +2439,7 @@
         "avatar_url": "https://gravatar.com/avatar/b5edb2ceaa27ce54091392b55ddc1a38?d=https%3A%2F%2Fidenticons.github.com%2F5a59f7fcd51ba4c3bfad8a9a465671dd.png&r=x", 
         "location": null, 
         "login": "potash", 
-        "contributions": 36
+        "contributions": 37
     }, 
     {
         "name": null, 
@@ -2769,7 +2769,7 @@
         "avatar_url": "https://gravatar.com/avatar/374de4845c23063651bc7ef13ae24ba4?d=https%3A%2F%2Fidenticons.github.com%2Fef0b299ea3eb6a0561b89647e4cd700a.png&r=x", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 690
+        "contributions": 693
     }, 
     {
         "name": null, 

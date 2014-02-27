@@ -1416,11 +1416,11 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 476
+        "contributions": 480
     }, 
     {
         "name": "Idan Gazit", 
-        "company": "Umbrella.io", 
+        "company": "Heroku", 
         "repositories": 1, 
         "html_url": "https://github.com/idan", 
         "blog": "http://gazit.me", 
@@ -2769,7 +2769,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/56477", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 702
+        "contributions": 703
     }, 
     {
         "name": null, 

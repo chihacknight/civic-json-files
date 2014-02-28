@@ -110,27 +110,43 @@
         "login": "newsapps"
     }, 
     {
-        "login": "open-city", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1361807", 
+        "name": "Open City", 
+        "company": null, 
         "repositories": 15, 
-        "html_url": "https://github.com/open-city"
+        "html_url": "https://github.com/open-city", 
+        "blog": "http://opencityapps.org/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1361807", 
+        "location": "Chicago, IL", 
+        "login": "open-city"
     }, 
     {
-        "login": "sc3", 
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/sc3", 
+        "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/2393454", 
-        "repositories": 1, 
-        "html_url": "https://github.com/sc3"
+        "location": null, 
+        "login": "sc3"
     }, 
     {
-        "login": "smartchicago", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2008099", 
+        "name": "Smart Chicago Collaborative", 
+        "company": null, 
         "repositories": 11, 
-        "html_url": "https://github.com/smartchicago"
+        "html_url": "https://github.com/smartchicago", 
+        "blog": "http://www.smartchicagocollaborative.org", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2008099", 
+        "location": "Chicago, Illinois, USA", 
+        "login": "smartchicago"
     }, 
     {
-        "login": "vivelohoy", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4359684", 
+        "name": "Hoy", 
+        "company": null, 
         "repositories": 1, 
-        "html_url": "https://github.com/vivelohoy"
+        "html_url": "https://github.com/vivelohoy", 
+        "blog": "http://www.vivelohoy.com/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4359684", 
+        "location": "435 N. Michigan Ave., 2nd floor, Chicago, IL 60611", 
+        "login": "vivelohoy"
     }
 ]

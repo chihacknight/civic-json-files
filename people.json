@@ -415,7 +415,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/3209501", 
         "location": "Chicago, IL", 
         "login": "alexsoble", 
-        "contributions": 49
+        "contributions": 50
     }, 
     {
         "name": "Allen Zeng", 
@@ -1416,7 +1416,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 480
+        "contributions": 484
     }, 
     {
         "name": "Idan Gazit", 
@@ -1835,6 +1835,17 @@
         "location": "Chicago, IL", 
         "login": "kunaldi", 
         "contributions": 250
+    }, 
+    {
+        "name": "Kyle Kurtenbach", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kurtenbachkyle", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/684241", 
+        "location": "Chicago IL", 
+        "login": "kurtenbachkyle", 
+        "contributions": 1
     }, 
     {
         "name": null, 

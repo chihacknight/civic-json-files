@@ -569,7 +569,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/47554", 
         "location": "San Francisco, CA", 
         "login": "bensheldon", 
-        "contributions": 71
+        "contributions": 72
     }, 
     {
         "name": "Brian Everett Peterson", 
@@ -976,7 +976,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2028
+        "contributions": 2029
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2296,7 +2296,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/3521756", 
         "location": null, 
         "login": "nwinklareth", 
-        "contributions": 179
+        "contributions": 184
     }, 
     {
         "name": "Satoshi IIDA", 
@@ -2565,13 +2565,13 @@
     {
         "name": "Rebecca Williams", 
         "company": "Sunlight Foundation", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/rebeccawilliams", 
         "blog": "rebeccawilliams.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1725454", 
         "location": "Washington, D.C.", 
         "login": "rebeccawilliams", 
-        "contributions": 1
+        "contributions": 2
     }, 
     {
         "name": "Greg", 

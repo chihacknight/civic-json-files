@@ -317,7 +317,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/StoryMapJS/contributors", 
         "forks_count": 15, 
         "html_url": "https://github.com/NUKnightLab/StoryMapJS", 
-        "updated_at": "2014-03-03T16:27:50Z", 
+        "updated_at": "2014-03-03T22:31:44Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -329,7 +329,7 @@
         "name": "StoryMapJS", 
         "language": "JavaScript", 
         "created_at": "2013-07-22T16:43:23Z", 
-        "pushed_at": "2014-03-03T16:27:49Z", 
+        "pushed_at": "2014-03-03T22:31:43Z", 
         "watchers_count": 47, 
         "open_issues": 14, 
         "homepage": null, 
@@ -529,7 +529,7 @@
         "created_at": "2012-12-31T19:13:28Z", 
         "pushed_at": "2014-03-03T17:42:46Z", 
         "watchers_count": 47, 
-        "open_issues": 19, 
+        "open_issues": 15, 
         "homepage": "", 
         "participation": [
             0, 
@@ -1128,7 +1128,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/smartchicago/chicago-atlas/contributors", 
-        "forks_count": 226, 
+        "forks_count": 224, 
         "html_url": "https://github.com/smartchicago/chicago-atlas", 
         "updated_at": "2014-02-13T20:30:18Z", 
         "project_needs": [], 
@@ -1526,7 +1526,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/536941", 
-                "contributions": 55, 
+                "contributions": 56, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -1540,7 +1540,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/csvdedupe/contributors", 
         "forks_count": 3, 
         "html_url": "https://github.com/datamade/csvdedupe", 
-        "updated_at": "2014-02-21T23:36:01Z", 
+        "updated_at": "2014-03-03T21:28:31Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -1552,7 +1552,7 @@
         "name": "csvdedupe", 
         "language": "Python", 
         "created_at": "2013-07-11T14:23:33Z", 
-        "pushed_at": "2014-02-21T23:36:01Z", 
+        "pushed_at": "2014-03-03T21:28:30Z", 
         "watchers_count": 34, 
         "open_issues": 4, 
         "homepage": null, 
@@ -3004,7 +3004,7 @@
                 "owner": false, 
                 "login": "bensheldon", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/47554", 
-                "contributions": 16, 
+                "contributions": 18, 
                 "html_url": "https://github.com/bensheldon"
             }, 
             {
@@ -3046,7 +3046,7 @@
         "contributors_url": "https://api.github.com/repos/codeforamerica/civic-tech-patterns/contributors", 
         "forks_count": 9, 
         "html_url": "https://github.com/codeforamerica/civic-tech-patterns", 
-        "updated_at": "2014-03-03T06:58:28Z", 
+        "updated_at": "2014-03-03T23:35:33Z", 
         "project_needs": [], 
         "owner": {
             "login": "codeforamerica", 
@@ -3058,9 +3058,9 @@
         "name": "civic-tech-patterns", 
         "language": null, 
         "created_at": "2013-01-03T19:59:16Z", 
-        "pushed_at": "2014-03-03T06:54:06Z", 
+        "pushed_at": "2014-03-03T23:35:33Z", 
         "watchers_count": 49, 
-        "open_issues": 27, 
+        "open_issues": 28, 
         "homepage": null, 
         "participation": [
             0, 
@@ -3964,10 +3964,10 @@
             0, 
             0, 
             0, 
-            0, 
-            21, 
-            0, 
-            2, 
+            1, 
+            20, 
+            1, 
+            1, 
             0, 
             4, 
             5, 
@@ -4508,14 +4508,14 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/536941", 
-                "contributions": 693, 
+                "contributions": 694, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583", 
-                "contributions": 207, 
+                "contributions": 208, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -4564,7 +4564,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 40, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2014-03-03T03:03:49Z", 
+        "updated_at": "2014-03-03T21:56:09Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -4576,7 +4576,7 @@
         "name": "dedupe", 
         "language": "C", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2014-03-03T03:03:49Z", 
+        "pushed_at": "2014-03-03T21:56:09Z", 
         "watchers_count": 303, 
         "open_issues": 20, 
         "homepage": "https://github.com/datamade/dedupe", 
@@ -7969,7 +7969,7 @@
         "contributors_url": "https://api.github.com/repos/NYCComptroller/Checkbook/contributors", 
         "forks_count": 8, 
         "html_url": "https://github.com/NYCComptroller/Checkbook", 
-        "updated_at": "2014-02-26T20:26:43Z", 
+        "updated_at": "2014-03-03T23:46:22Z", 
         "project_needs": [], 
         "owner": {
             "login": "NYCComptroller", 
@@ -7981,7 +7981,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2014-02-26T20:26:43Z", 
+        "pushed_at": "2014-03-03T23:46:22Z", 
         "watchers_count": 22, 
         "open_issues": 19, 
         "homepage": null, 
@@ -10354,7 +10354,7 @@
         "language": "R", 
         "created_at": "2013-02-07T03:49:01Z", 
         "pushed_at": "2013-09-07T00:47:32Z", 
-        "watchers_count": 111, 
+        "watchers_count": 112, 
         "open_issues": 2, 
         "homepage": "", 
         "participation": [
@@ -11285,16 +11285,16 @@
             0, 
             0, 
             0, 
-            0, 
-            35, 
-            53, 
+            17, 
+            27, 
+            44, 
             0, 
             0, 
             1, 
             0, 
             0, 
-            15, 
-            8, 
+            23, 
+            0, 
             12, 
             7, 
             0, 
@@ -12295,13 +12295,13 @@
             6, 
             0, 
             4, 
-            17, 
-            11, 
+            21, 
+            7, 
             10, 
             4, 
             17, 
             35, 
-            3
+            4
         ]
     }, 
     {
@@ -13288,7 +13288,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583", 
-                "contributions": 128, 
+                "contributions": 129, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -13365,7 +13365,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/open-gov-hack-night/contributors", 
         "forks_count": 21, 
         "html_url": "https://github.com/open-city/open-gov-hack-night", 
-        "updated_at": "2014-02-24T19:02:46Z", 
+        "updated_at": "2014-03-03T22:21:46Z", 
         "project_needs": [
             {
                 "issue_url": "https://github.com/open-city/open-gov-hack-night/issues/37", 
@@ -13386,7 +13386,7 @@
         "name": "open-gov-hack-night", 
         "language": "JavaScript", 
         "created_at": "2013-09-11T03:29:21Z", 
-        "pushed_at": "2014-02-24T19:02:45Z", 
+        "pushed_at": "2014-03-03T22:21:45Z", 
         "watchers_count": 21, 
         "open_issues": 8, 
         "homepage": "http://opengovhacknight.org", 

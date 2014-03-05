@@ -50,63 +50,103 @@
         "login": "censusreporter"
     }, 
     {
-        "login": "cfachicago", 
+        "name": "Code for America Chicago Brigade", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/cfachicago", 
+        "blog": "brigade.codeforamerica.org", 
         "avatar_url": "https://gravatar.com/avatar/5ba189954b5611c7ddd33370377dd026?d=https%3A%2F%2Fidenticons.github.com%2Fb2d9253a2e050057492493a7d6f5d417.png&r=x", 
-        "repositories": 1, 
-        "html_url": "https://github.com/cfachicago"
+        "location": "Chicago, IL", 
+        "login": "cfachicago"
     }, 
     {
-        "login": "chi-civic-hacking-howto", 
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/chi-civic-hacking-howto", 
+        "blog": null, 
         "avatar_url": "https://identicons.github.com/becc1ea23335cb1fddff91cbb67cba09.png", 
-        "repositories": 1, 
-        "html_url": "https://github.com/chi-civic-hacking-howto"
+        "location": null, 
+        "login": "chi-civic-hacking-howto"
     }, 
     {
-        "login": "codeforamerica", 
+        "name": "Code for America", 
+        "company": null, 
+        "repositories": 3, 
+        "html_url": "https://github.com/codeforamerica", 
+        "blog": "http://codeforamerica.org", 
         "avatar_url": "https://gravatar.com/avatar/ec81184c572bc827b72ebb489d49f821?d=https%3A%2F%2Fidenticons.github.com%2F190ee0a9502204c8340cee81293edbbe.png&r=x", 
-        "repositories": 3, 
-        "html_url": "https://github.com/codeforamerica"
+        "location": "", 
+        "login": "codeforamerica"
     }, 
     {
-        "login": "datamade", 
+        "name": "datamade", 
+        "company": null, 
+        "repositories": 3, 
+        "html_url": "https://github.com/datamade", 
+        "blog": "datamade.us", 
         "avatar_url": "https://gravatar.com/avatar/0a89207d38feff1dcd938bdc1e4a9b5e?d=https%3A%2F%2Fidenticons.github.com%2F3424042f8cb2b04950903794ad9c8daf.png&r=x", 
-        "repositories": 3, 
-        "html_url": "https://github.com/datamade"
+        "location": "Chicago, IL", 
+        "login": "datamade"
     }, 
     {
-        "login": "dssg", 
-        "avatar_url": "https://gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png&r=x", 
+        "name": "Data Science for Social Good", 
+        "company": null, 
         "repositories": 7, 
-        "html_url": "https://github.com/dssg"
+        "html_url": "https://github.com/dssg", 
+        "blog": "dssg.io", 
+        "avatar_url": "https://gravatar.com/avatar/1aea09ad5b51a39e35a2108e11e5a403?d=https%3A%2F%2Fidenticons.github.com%2Fdb130dc016d1828fac0644f7f0d7d6bf.png&r=x", 
+        "location": "Chicago, IL", 
+        "login": "dssg"
     }, 
     {
-        "login": "newsapps", 
-        "avatar_url": "https://gravatar.com/avatar/f02c694db7cd8e75caa0ebef5209a9e9?d=https%3A%2F%2Fidenticons.github.com%2F935d011909747f00740190b2c200eeaa.png&r=x", 
+        "name": "Chicago Tribune News Applications Team", 
+        "company": null, 
         "repositories": 6, 
-        "html_url": "https://github.com/newsapps"
+        "html_url": "https://github.com/newsapps", 
+        "blog": "http://apps.chicagotribune.com", 
+        "avatar_url": "https://gravatar.com/avatar/f02c694db7cd8e75caa0ebef5209a9e9?d=https%3A%2F%2Fidenticons.github.com%2F935d011909747f00740190b2c200eeaa.png&r=x", 
+        "location": "Chicago, IL", 
+        "login": "newsapps"
     }, 
     {
-        "login": "open-city", 
-        "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
+        "name": "Open City", 
+        "company": null, 
         "repositories": 15, 
-        "html_url": "https://github.com/open-city"
+        "html_url": "https://github.com/open-city", 
+        "blog": "http://opencityapps.org/", 
+        "avatar_url": "https://gravatar.com/avatar/36e2dbb8f3ff328b713599e73156a261?d=https%3A%2F%2Fidenticons.github.com%2Fbfca67efb5a218312f1a8d14e57c2969.png&r=x", 
+        "location": "Chicago, IL", 
+        "login": "open-city"
     }, 
     {
-        "login": "sc3", 
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/sc3", 
+        "blog": null, 
         "avatar_url": "https://identicons.github.com/7d79c70e984bb2101350419a1190466d.png", 
-        "repositories": 1, 
-        "html_url": "https://github.com/sc3"
+        "location": null, 
+        "login": "sc3"
     }, 
     {
-        "login": "smartchicago", 
-        "avatar_url": "https://gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
+        "name": "Smart Chicago Collaborative", 
+        "company": null, 
         "repositories": 11, 
-        "html_url": "https://github.com/smartchicago"
+        "html_url": "https://github.com/smartchicago", 
+        "blog": "http://www.smartchicagocollaborative.org", 
+        "avatar_url": "https://gravatar.com/avatar/38f2ad4a9d0850f9511ad7e968b043e1?d=https%3A%2F%2Fidenticons.github.com%2F27e7c9555024126b67e933fcca414b60.png&r=x", 
+        "location": "Chicago, Illinois, USA", 
+        "login": "smartchicago"
     }, 
     {
-        "login": "vivelohoy", 
-        "avatar_url": "https://identicons.github.com/56df1874a91112974a56b8b370219e11.png", 
+        "name": "Hoy", 
+        "company": null, 
         "repositories": 1, 
-        "html_url": "https://github.com/vivelohoy"
+        "html_url": "https://github.com/vivelohoy", 
+        "blog": "http://www.vivelohoy.com/", 
+        "avatar_url": "https://identicons.github.com/56df1874a91112974a56b8b370219e11.png", 
+        "location": "435 N. Michigan Ave., 2nd floor, Chicago, IL 60611", 
+        "login": "vivelohoy"
     }
 ]

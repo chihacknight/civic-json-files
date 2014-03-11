@@ -569,7 +569,7 @@
         "avatar_url": "https://gravatar.com/avatar/0a760b6486d32a6ca54cad49210fdf49?d=https%3A%2F%2Fidenticons.github.com%2Fea8ef8e4d485b31880a627bd3c61bb2c.png&r=x", 
         "location": "San Francisco, CA", 
         "login": "bensheldon", 
-        "contributions": 77
+        "contributions": 78
     }, 
     {
         "name": "Brian Everett Peterson", 
@@ -1241,6 +1241,17 @@
         "location": null, 
         "login": "ftrebien", 
         "contributions": 1
+    }, 
+    {
+        "name": "Fureigh", 
+        "company": "Code for America / Fureigh Consulting", 
+        "repositories": 1, 
+        "html_url": "https://github.com/fureigh", 
+        "blog": "http://www.fureigh.com", 
+        "avatar_url": "https://gravatar.com/avatar/444fa88540ccd909d9bfecc316c8b1b8?d=https%3A%2F%2Fidenticons.github.com%2F401f22863e752db98d16e71a0b15a731.png&r=x", 
+        "location": "San Francisco, CA / Brooklyn, NY", 
+        "login": "fureigh", 
+        "contributions": 2
     }, 
     {
         "name": "Gabriel Burt", 
@@ -3319,17 +3330,6 @@
         "avatar_url": "https://gravatar.com/avatar/9a3e5b5cedb92a4c6660b109ff10fd66?d=https%3A%2F%2Fidenticons.github.com%2F2c82cf59b987566d8a1f838a08f8e3f2.png&r=x", 
         "location": null, 
         "login": "visibletrue", 
-        "contributions": 1
-    }, 
-    {
-        "name": "waffle.io", 
-        "company": "waffle.io", 
-        "repositories": 1, 
-        "html_url": "https://github.com/waffleio", 
-        "blog": "http://waffle.io", 
-        "avatar_url": "https://gravatar.com/avatar/6fefd00c93418f0851d01ab1e766e679?d=https%3A%2F%2Fidenticons.github.com%2Fdc5509ce57d72e59e5e99cf6b1b2e36f.png&r=x", 
-        "location": null, 
-        "login": "waffleio", 
         "contributions": 1
     }, 
     {

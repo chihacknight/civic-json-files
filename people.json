@@ -976,7 +976,7 @@
         "avatar_url": "https://gravatar.com/avatar/5e5eb188a0e4d3a7c8f38ee0fc3a6cbd?d=https%3A%2F%2Fidenticons.github.com%2Fd8c3ef3ed05a213a7225bf5e6e46101a.png&r=x", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2075
+        "contributions": 2076
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1188,6 +1188,17 @@
         "contributions": 352
     }, 
     {
+        "name": "David Fawcett", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/fawcett", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/0a4c3d91008d7b4b1f9b48c20f0e7078?d=https%3A%2F%2Fidenticons.github.com%2F10111c3bc22974c8afb955fa7b6c9aea.png&r=x", 
+        "location": null, 
+        "login": "fawcett", 
+        "contributions": 1
+    }, 
+    {
         "name": "Forest Gregg", 
         "company": "University of Chicago, Department of Sociology", 
         "repositories": 17, 
@@ -1196,7 +1207,7 @@
         "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1241
+        "contributions": 1242
     }, 
     {
         "name": null, 
@@ -3418,7 +3429,7 @@
         "avatar_url": "https://gravatar.com/avatar/30eafb2622eceacc340017e5d75e5812?d=https%3A%2F%2Fidenticons.github.com%2F63cd1166a51bafe8bd66986cedf5d9a2.png&r=x", 
         "location": null, 
         "login": "zachwise", 
-        "contributions": 757
+        "contributions": 759
     }, 
     {
         "name": null, 

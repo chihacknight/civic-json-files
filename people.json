@@ -184,7 +184,7 @@
         "avatar_url": "https://gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 414
+        "contributions": 416
     }, 
     {
         "name": null, 
@@ -2211,6 +2211,17 @@
         "contributions": 5
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/mtorok", 
+        "blog": null, 
+        "avatar_url": "https://gravatar.com/avatar/19fbbe665bad5f9bec18f93d27fa46ca?d=https%3A%2F%2Fidenticons.github.com%2F7abc99264c9c6b780e05e6dc8fbf6c37.png&r=x", 
+        "location": null, 
+        "login": "mtorok", 
+        "contributions": 1
+    }, 
+    {
         "name": "Nathan Leiby", 
         "company": "Clever, Inc.", 
         "repositories": 1, 
@@ -3429,7 +3440,7 @@
         "avatar_url": "https://gravatar.com/avatar/30eafb2622eceacc340017e5d75e5812?d=https%3A%2F%2Fidenticons.github.com%2F63cd1166a51bafe8bd66986cedf5d9a2.png&r=x", 
         "location": null, 
         "login": "zachwise", 
-        "contributions": 761
+        "contributions": 764
     }, 
     {
         "name": null, 

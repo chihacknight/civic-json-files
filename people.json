@@ -1207,7 +1207,7 @@
         "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1246
+        "contributions": 1247
     }, 
     {
         "name": null, 
@@ -1674,13 +1674,13 @@
     {
         "name": "Juan-Pablo Velez", 
         "company": "Open City", 
-        "repositories": 16, 
+        "repositories": 17, 
         "html_url": "https://github.com/jpvelez", 
         "blog": "http://www.twitter.com/jpvelez", 
         "avatar_url": "https://gravatar.com/avatar/ecd53ceefffe178b0f5bcacf6158ab9e?d=https%3A%2F%2Fidenticons.github.com%2Fc879a006b83d22819e0d3f12b2648c95.png&r=x", 
         "location": "Chicago", 
         "login": "jpvelez", 
-        "contributions": 285
+        "contributions": 286
     }, 
     {
         "name": "Jeremy Satterfield", 

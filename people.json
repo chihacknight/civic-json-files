@@ -184,7 +184,7 @@
         "avatar_url": "https://gravatar.com/avatar/e7daec2f9052c7c1690422d0d74c3b7d?d=https%3A%2F%2Fidenticons.github.com%2F490e2819b183440ff0baf248f186d608.png&r=x", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 416
+        "contributions": 417
     }, 
     {
         "name": null, 
@@ -1207,7 +1207,7 @@
         "avatar_url": "https://gravatar.com/avatar/813d23c289052af417387a9270d0da31?d=https%3A%2F%2Fidenticons.github.com%2Ffa9357bb22fd993fc9795619c7e1d4f7.png&r=x", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1247
+        "contributions": 1248
     }, 
     {
         "name": null, 
@@ -3179,17 +3179,6 @@
         "contributions": 78
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/topiclodge", 
-        "blog": null, 
-        "avatar_url": "https://gravatar.com/avatar/37d59329e03a66031cbcb5d85bf9527e?d=https%3A%2F%2Fidenticons.github.com%2F714c8c6239a1e271a1d70d4bc1076511.png&r=x", 
-        "location": null, 
-        "login": "topiclodge", 
-        "contributions": 1
-    }, 
-    {
         "name": "Nick Bennett", 
         "company": null, 
         "repositories": 2, 
@@ -3440,7 +3429,7 @@
         "avatar_url": "https://gravatar.com/avatar/30eafb2622eceacc340017e5d75e5812?d=https%3A%2F%2Fidenticons.github.com%2F63cd1166a51bafe8bd66986cedf5d9a2.png&r=x", 
         "location": null, 
         "login": "zachwise", 
-        "contributions": 764
+        "contributions": 766
     }, 
     {
         "name": null, 

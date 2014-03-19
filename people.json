@@ -976,7 +976,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2094
+        "contributions": 2096
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1750,7 +1750,7 @@
     }, 
     {
         "name": "Peter Keum", 
-        "company": null, 
+        "company": "King County - Wastewater Treatment Division", 
         "repositories": 1, 
         "html_url": "https://github.com/keum", 
         "blog": "http://mapitpk.com", 

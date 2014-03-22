@@ -184,7 +184,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 418
+        "contributions": 419
     }, 
     {
         "name": null, 
@@ -976,7 +976,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2100
+        "contributions": 2105
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1438,7 +1438,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 507
+        "contributions": 509
     }, 
     {
         "name": "Idan Gazit", 
@@ -2475,13 +2475,13 @@
         "contributions": 1
     }, 
     {
-        "name": null, 
-        "company": null, 
+        "name": "Daniel", 
+        "company": "utopia Soluciones Informaticas", 
         "repositories": 1, 
         "html_url": "https://github.com/poladura", 
-        "blog": null, 
+        "blog": "Www.utopiasl.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/5427594?", 
-        "location": null, 
+        "location": "Madrid", 
         "login": "poladura", 
         "contributions": 1
     }, 

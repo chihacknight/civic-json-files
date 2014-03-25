@@ -515,7 +515,7 @@
         "contributors_url": "https://api.github.com/repos/newsapps/flask-tarbell/contributors", 
         "forks_count": 11, 
         "html_url": "https://github.com/newsapps/flask-tarbell", 
-        "updated_at": "2014-03-24T16:00:03Z", 
+        "updated_at": "2014-03-24T22:37:33Z", 
         "project_needs": [], 
         "owner": {
             "login": "newsapps", 
@@ -527,9 +527,9 @@
         "name": "flask-tarbell", 
         "language": "Python", 
         "created_at": "2012-12-31T19:13:28Z", 
-        "pushed_at": "2014-03-24T16:00:03Z", 
-        "watchers_count": 49, 
-        "open_issues": 19, 
+        "pushed_at": "2014-03-24T22:37:35Z", 
+        "watchers_count": 50, 
+        "open_issues": 20, 
         "homepage": "", 
         "participation": [
             1, 
@@ -1130,7 +1130,7 @@
         "created_at": "2013-02-07T16:57:22Z", 
         "pushed_at": "2014-03-21T17:52:46Z", 
         "watchers_count": 65, 
-        "open_issues": 22, 
+        "open_issues": 25, 
         "homepage": "http://www.chicagohealthatlas.org/", 
         "participation": [
             5, 
@@ -1634,12 +1634,19 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/56477?", 
                 "contributions": 162, 
                 "html_url": "https://github.com/ryanpitts"
+            }, 
+            {
+                "owner": false, 
+                "login": "JoeGermuska", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
+                "contributions": 1, 
+                "html_url": "https://github.com/JoeGermuska"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/censusreporter/census-api/contributors", 
         "forks_count": 2, 
         "html_url": "https://github.com/censusreporter/census-api", 
-        "updated_at": "2014-03-24T02:11:15Z", 
+        "updated_at": "2014-03-24T23:13:49Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -1651,7 +1658,7 @@
         "name": "census-api", 
         "language": "Python", 
         "created_at": "2013-05-06T05:24:57Z", 
-        "pushed_at": "2014-03-24T02:11:15Z", 
+        "pushed_at": "2014-03-24T23:13:48Z", 
         "watchers_count": 2, 
         "open_issues": 12, 
         "homepage": "http://api.censusreporter.org", 
@@ -4543,7 +4550,7 @@
         "contributors_url": "https://api.github.com/repos/sc3/cookcountyjail/contributors", 
         "forks_count": 15, 
         "html_url": "https://github.com/sc3/cookcountyjail", 
-        "updated_at": "2014-03-23T19:28:57Z", 
+        "updated_at": "2014-03-24T23:56:21Z", 
         "project_needs": [], 
         "owner": {
             "login": "sc3", 
@@ -4555,7 +4562,7 @@
         "name": "cookcountyjail", 
         "language": "Python", 
         "created_at": "2012-11-19T03:56:12Z", 
-        "pushed_at": "2014-03-23T19:28:54Z", 
+        "pushed_at": "2014-03-24T23:56:21Z", 
         "watchers_count": 19, 
         "open_issues": 34, 
         "homepage": "http://cookcountyjail.recoveredfactory.net/api/1.0/?format=json", 
@@ -4677,7 +4684,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 45, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2014-03-24T01:44:48Z", 
+        "updated_at": "2014-03-24T21:17:17Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -4689,9 +4696,9 @@
         "name": "dedupe", 
         "language": "C", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2014-03-24T01:44:48Z", 
+        "pushed_at": "2014-03-24T21:11:37Z", 
         "watchers_count": 317, 
-        "open_issues": 25, 
+        "open_issues": 26, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
             3, 
@@ -7113,8 +7120,8 @@
             0, 
             0, 
             0, 
-            0, 
-            14, 
+            12, 
+            2, 
             0, 
             0, 
             0, 
@@ -8230,7 +8237,7 @@
         "contributors_url": "https://api.github.com/repos/NYCComptroller/Checkbook/contributors", 
         "forks_count": 9, 
         "html_url": "https://github.com/NYCComptroller/Checkbook", 
-        "updated_at": "2014-03-23T23:01:21Z", 
+        "updated_at": "2014-03-24T22:11:45Z", 
         "project_needs": [], 
         "owner": {
             "login": "NYCComptroller", 
@@ -8242,7 +8249,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2014-03-23T23:01:21Z", 
+        "pushed_at": "2014-03-24T22:11:43Z", 
         "watchers_count": 24, 
         "open_issues": 21, 
         "homepage": null, 
@@ -9725,7 +9732,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/second-city-zoning/contributors", 
-        "forks_count": 4, 
+        "forks_count": 5, 
         "html_url": "https://github.com/open-city/second-city-zoning", 
         "updated_at": "2013-10-28T15:48:01Z", 
         "project_needs": [], 
@@ -10234,7 +10241,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2014-03-21T20:56:53Z", 
-        "watchers_count": 6095, 
+        "watchers_count": 6096, 
         "open_issues": 149, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
@@ -10334,7 +10341,7 @@
         "created_at": "2013-02-16T00:58:59Z", 
         "pushed_at": "2014-03-19T01:32:24Z", 
         "watchers_count": 6, 
-        "open_issues": 12, 
+        "open_issues": 13, 
         "homepage": "http://chicagocrashes.org", 
         "participation": [
             3, 
@@ -13623,7 +13630,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
-                "contributions": 135, 
+                "contributions": 136, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -13700,7 +13707,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/open-gov-hack-night/contributors", 
         "forks_count": 22, 
         "html_url": "https://github.com/open-city/open-gov-hack-night", 
-        "updated_at": "2014-03-18T15:19:46Z", 
+        "updated_at": "2014-03-24T22:09:12Z", 
         "project_needs": [
             {
                 "issue_url": "https://github.com/open-city/open-gov-hack-night/issues/37", 
@@ -13721,7 +13728,7 @@
         "name": "open-gov-hack-night", 
         "language": "JavaScript", 
         "created_at": "2013-09-11T03:29:21Z", 
-        "pushed_at": "2014-03-18T15:19:48Z", 
+        "pushed_at": "2014-03-24T22:09:11Z", 
         "watchers_count": 21, 
         "open_issues": 8, 
         "homepage": "http://opengovhacknight.org", 

@@ -346,21 +346,21 @@
                 "owner": false, 
                 "login": "jywsn", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1178533?", 
-                "contributions": 232, 
+                "contributions": 234, 
                 "html_url": "https://github.com/jywsn"
             }, 
             {
                 "owner": false, 
                 "login": "JoeGermuska", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
-                "contributions": 211, 
+                "contributions": 215, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
                 "owner": false, 
                 "login": "zachwise", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/741789?", 
-                "contributions": 203, 
+                "contributions": 208, 
                 "html_url": "https://github.com/zachwise"
             }, 
             {
@@ -416,7 +416,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/StoryMapJS/contributors", 
         "forks_count": 19, 
         "html_url": "https://github.com/NUKnightLab/StoryMapJS", 
-        "updated_at": "2014-03-28T17:51:43Z", 
+        "updated_at": "2014-03-28T21:27:41Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -428,7 +428,7 @@
         "name": "StoryMapJS", 
         "language": "JavaScript", 
         "created_at": "2013-07-22T16:43:23Z", 
-        "pushed_at": "2014-03-28T17:51:43Z", 
+        "pushed_at": "2014-03-28T21:27:41Z", 
         "watchers_count": 54, 
         "open_issues": 15, 
         "homepage": null, 
@@ -660,8 +660,8 @@
             0, 
             0, 
             0, 
-            6, 
-            2, 
+            8, 
+            0, 
             0, 
             0, 
             3, 
@@ -4698,7 +4698,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 45, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2014-03-28T17:32:26Z", 
+        "updated_at": "2014-03-28T21:14:07Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -4710,7 +4710,7 @@
         "name": "dedupe", 
         "language": "C", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2014-03-28T17:32:26Z", 
+        "pushed_at": "2014-03-28T21:14:08Z", 
         "watchers_count": 319, 
         "open_issues": 30, 
         "homepage": "https://github.com/datamade/dedupe", 
@@ -7115,11 +7115,11 @@
             0, 
             0, 
             0, 
-            0, 
-            8, 
             1, 
-            8, 
-            3, 
+            7, 
+            2, 
+            10, 
+            0, 
             0, 
             5, 
             0, 
@@ -7145,7 +7145,7 @@
             0, 
             0, 
             3, 
-            0
+            2
         ]
     }, 
     {
@@ -8251,7 +8251,7 @@
         "contributors_url": "https://api.github.com/repos/NYCComptroller/Checkbook/contributors", 
         "forks_count": 9, 
         "html_url": "https://github.com/NYCComptroller/Checkbook", 
-        "updated_at": "2014-03-28T15:58:33Z", 
+        "updated_at": "2014-03-28T21:14:05Z", 
         "project_needs": [], 
         "owner": {
             "login": "NYCComptroller", 
@@ -8263,7 +8263,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2014-03-28T15:58:31Z", 
+        "pushed_at": "2014-03-28T21:14:04Z", 
         "watchers_count": 24, 
         "open_issues": 21, 
         "homepage": null, 
@@ -10240,7 +10240,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
-        "forks_count": 1176, 
+        "forks_count": 1175, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
         "updated_at": "2014-03-26T18:44:59Z", 
         "project_needs": [], 
@@ -10255,7 +10255,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2014-03-26T18:44:58Z", 
-        "watchers_count": 6113, 
+        "watchers_count": 6114, 
         "open_issues": 150, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [

@@ -572,17 +572,6 @@
         "contributions": 68
     }, 
     {
-        "name": "Bennet Huber", 
-        "company": "Azavea", 
-        "repositories": 1, 
-        "html_url": "https://github.com/bhuber", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/900900?", 
-        "location": "Philadelphia, PA", 
-        "login": "bhuber", 
-        "contributions": 360
-    }, 
-    {
         "name": "Andy Martha", 
         "company": null, 
         "repositories": 1, 
@@ -1449,7 +1438,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 518
+        "contributions": 519
     }, 
     {
         "name": "Idan Gazit", 
@@ -1735,7 +1724,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1178533?", 
         "location": null, 
         "login": "jywsn", 
-        "contributions": 269
+        "contributions": 284
     }, 
     {
         "name": "karl", 
@@ -2879,7 +2868,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/3475751?", 
         "location": "", 
         "login": "sbeslow", 
-        "contributions": 32
+        "contributions": 33
     }, 
     {
         "name": "Tom Lee", 

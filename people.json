@@ -792,17 +792,6 @@
         "contributions": 241
     }, 
     {
-        "name": "CityScan", 
-        "company": "CityScan", 
-        "repositories": 1, 
-        "html_url": "https://github.com/cityscan", 
-        "blog": "cityscan.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/5852934?", 
-        "location": "Chicago, IL", 
-        "login": "cityscan", 
-        "contributions": 4
-    }, 
-    {
         "name": "Claudius", 
         "company": null, 
         "repositories": 1, 
@@ -965,7 +954,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2114
+        "contributions": 2117
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2813,7 +2802,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/56477?", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 750
+        "contributions": 751
     }, 
     {
         "name": null, 

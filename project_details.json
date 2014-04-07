@@ -3080,7 +3080,7 @@
         "language": "Ruby", 
         "created_at": "2013-01-03T19:59:16Z", 
         "pushed_at": "2014-03-10T23:48:58Z", 
-        "watchers_count": 59, 
+        "watchers_count": 60, 
         "open_issues": 28, 
         "homepage": "http://codeforamerica.github.io/civic-tech-patterns", 
         "participation": [
@@ -4704,7 +4704,7 @@
         "language": "C", 
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2014-04-03T22:05:29Z", 
-        "watchers_count": 320, 
+        "watchers_count": 321, 
         "open_issues": 36, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
@@ -7233,7 +7233,7 @@
                 "owner": false, 
                 "login": "ryanpitts", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/56477?", 
-                "contributions": 589, 
+                "contributions": 591, 
                 "html_url": "https://github.com/ryanpitts"
             }, 
             {
@@ -7261,7 +7261,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/censusreporter/contributors", 
         "forks_count": 3, 
         "html_url": "https://github.com/censusreporter/censusreporter", 
-        "updated_at": "2014-04-04T22:38:12Z", 
+        "updated_at": "2014-04-06T18:51:27Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -7273,7 +7273,7 @@
         "name": "censusreporter", 
         "language": "JavaScript", 
         "created_at": "2013-05-20T22:46:00Z", 
-        "pushed_at": "2014-04-04T22:38:12Z", 
+        "pushed_at": "2014-04-06T18:51:25Z", 
         "watchers_count": 6, 
         "open_issues": 2, 
         "homepage": "http://censusreporter.org", 
@@ -11406,8 +11406,8 @@
             0, 
             0, 
             0, 
-            0, 
-            8, 
+            7, 
+            1, 
             0, 
             0, 
             0, 

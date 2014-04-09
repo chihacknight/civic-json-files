@@ -184,7 +184,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 470
+        "contributions": 473
     }, 
     {
         "name": null, 
@@ -2619,10 +2619,10 @@
     }, 
     {
         "name": "Robert Guico", 
-        "company": "Lynch2", 
+        "company": "GoHealth", 
         "repositories": 1, 
         "html_url": "https://github.com/rguico", 
-        "blog": null, 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/4085127?", 
         "location": "Carol Stream, Illinois", 
         "login": "rguico", 

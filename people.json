@@ -569,7 +569,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1389463?", 
         "location": "Chicago, IL", 
         "login": "bepetersn", 
-        "contributions": 88
+        "contributions": 98
     }, 
     {
         "name": "Andy Martha", 
@@ -746,6 +746,17 @@
         "location": "New York, NY", 
         "login": "chadwpry", 
         "contributions": 265
+    }, 
+    {
+        "name": "Chancy Kennedy", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/chancyk", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1731217?", 
+        "location": "", 
+        "login": "chancyk", 
+        "contributions": 1
     }, 
     {
         "name": "Christopher Brown", 
@@ -954,7 +965,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2118
+        "contributions": 2134
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1163,7 +1174,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 356
+        "contributions": 357
     }, 
     {
         "name": "David Fawcett", 
@@ -1185,7 +1196,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1273
+        "contributions": 1274
     }, 
     {
         "name": null, 
@@ -3080,7 +3091,7 @@
         "contributions": 7
     }, 
     {
-        "name": "templaedhel", 
+        "name": "Cosmo Wolfe", 
         "company": "Clever", 
         "repositories": 1, 
         "html_url": "https://github.com/templaedhel", 

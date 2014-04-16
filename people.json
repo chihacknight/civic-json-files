@@ -965,7 +965,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2143
+        "contributions": 2146
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1196,7 +1196,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1276
+        "contributions": 1278
     }, 
     {
         "name": null, 
@@ -1725,6 +1725,17 @@
         "location": null, 
         "login": "jywsn", 
         "contributions": 284
+    }, 
+    {
+        "name": "Andrew Kos", 
+        "company": "CITYTECH, Inc.", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kand", 
+        "blog": "andrewkos.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/484777?", 
+        "location": "Chicago, IL", 
+        "login": "kand", 
+        "contributions": 2
     }, 
     {
         "name": "karl", 
@@ -2868,7 +2879,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/3475751?", 
         "location": "", 
         "login": "sbeslow", 
-        "contributions": 34
+        "contributions": 35
     }, 
     {
         "name": "Tom Lee", 

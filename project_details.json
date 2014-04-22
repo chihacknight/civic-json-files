@@ -1151,7 +1151,7 @@
         "created_at": "2013-02-07T16:57:22Z", 
         "pushed_at": "2014-04-12T04:23:22Z", 
         "watchers_count": 66, 
-        "open_issues": 22, 
+        "open_issues": 23, 
         "homepage": "http://www.chicagohealthatlas.org/", 
         "participation": [
             9, 
@@ -2119,7 +2119,7 @@
         "language": "JavaScript", 
         "created_at": "2011-09-26T16:28:57Z", 
         "pushed_at": "2014-04-15T22:15:24Z", 
-        "watchers_count": 146, 
+        "watchers_count": 147, 
         "open_issues": 6, 
         "homepage": "http://derekeder.com/searchable_map_template/", 
         "participation": [
@@ -4696,7 +4696,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
-        "forks_count": 48, 
+        "forks_count": 49, 
         "html_url": "https://github.com/datamade/dedupe", 
         "updated_at": "2014-04-19T03:16:06Z", 
         "project_needs": [], 
@@ -4711,7 +4711,7 @@
         "language": "C", 
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2014-04-19T03:16:06Z", 
-        "watchers_count": 323, 
+        "watchers_count": 325, 
         "open_issues": 29, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
@@ -7240,7 +7240,7 @@
                 "owner": false, 
                 "login": "ryanpitts", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/56477?", 
-                "contributions": 604, 
+                "contributions": 606, 
                 "html_url": "https://github.com/ryanpitts"
             }, 
             {
@@ -7268,7 +7268,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/censusreporter/contributors", 
         "forks_count": 3, 
         "html_url": "https://github.com/censusreporter/censusreporter", 
-        "updated_at": "2014-04-19T00:42:27Z", 
+        "updated_at": "2014-04-22T03:52:22Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -7280,7 +7280,7 @@
         "name": "censusreporter", 
         "language": "JavaScript", 
         "created_at": "2013-05-20T22:46:00Z", 
-        "pushed_at": "2014-04-19T00:42:27Z", 
+        "pushed_at": "2014-04-22T03:52:21Z", 
         "watchers_count": 8, 
         "open_issues": 2, 
         "homepage": "http://censusreporter.org", 
@@ -8251,7 +8251,7 @@
         "contributors_url": "https://api.github.com/repos/NYCComptroller/Checkbook/contributors", 
         "forks_count": 10, 
         "html_url": "https://github.com/NYCComptroller/Checkbook", 
-        "updated_at": "2014-04-21T15:03:38Z", 
+        "updated_at": "2014-04-21T21:06:24Z", 
         "project_needs": [], 
         "owner": {
             "login": "NYCComptroller", 
@@ -8263,7 +8263,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2014-04-21T15:03:39Z", 
+        "pushed_at": "2014-04-21T21:06:23Z", 
         "watchers_count": 26, 
         "open_issues": 17, 
         "homepage": null, 
@@ -10116,7 +10116,7 @@
                 "owner": false, 
                 "login": "JoeGermuska", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
-                "contributions": 119, 
+                "contributions": 120, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
@@ -10240,9 +10240,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
-        "forks_count": 1196, 
+        "forks_count": 1198, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2014-04-10T12:37:19Z", 
+        "updated_at": "2014-04-21T22:19:22Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -10254,9 +10254,9 @@
         "name": "TimelineJS", 
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
-        "pushed_at": "2014-04-07T20:55:22Z", 
-        "watchers_count": 6213, 
-        "open_issues": 159, 
+        "pushed_at": "2014-04-21T22:19:22Z", 
+        "watchers_count": 6215, 
+        "open_issues": 156, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
             11, 
@@ -11411,8 +11411,8 @@
             0, 
             0, 
             0, 
-            7, 
-            1, 
+            8, 
+            0, 
             0, 
             0, 
             0, 
@@ -12750,13 +12750,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/202?", 
                 "contributions": 2, 
                 "html_url": "https://github.com/ryanbriones"
-            }, 
-            {
-                "owner": false, 
-                "login": "mojombo", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1?", 
-                "contributions": 1, 
-                "html_url": "https://github.com/mojombo"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/Chicago/osd-street-center-line/contributors", 
@@ -13427,7 +13420,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
-                "contributions": 143, 
+                "contributions": 144, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -13504,7 +13497,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/open-gov-hack-night/contributors", 
         "forks_count": 24, 
         "html_url": "https://github.com/open-city/open-gov-hack-night", 
-        "updated_at": "2014-04-14T17:05:13Z", 
+        "updated_at": "2014-04-21T19:51:16Z", 
         "project_needs": [
             {
                 "issue_url": "https://github.com/open-city/open-gov-hack-night/issues/37", 
@@ -13525,7 +13518,7 @@
         "name": "open-gov-hack-night", 
         "language": "JavaScript", 
         "created_at": "2013-09-11T03:29:21Z", 
-        "pushed_at": "2014-04-14T17:05:13Z", 
+        "pushed_at": "2014-04-21T19:51:16Z", 
         "watchers_count": 21, 
         "open_issues": 8, 
         "homepage": "http://opengovhacknight.org", 
@@ -13629,8 +13622,8 @@
             0, 
             0, 
             0, 
-            0, 
-            23, 
+            19, 
+            4, 
             0, 
             0, 
             0, 

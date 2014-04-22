@@ -173,7 +173,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 473
+        "contributions": 474
     }, 
     {
         "name": null, 
@@ -888,7 +888,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2165
+        "contributions": 2166
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1816,12 +1816,12 @@
     }, 
     {
         "name": "Lou Huang", 
-        "company": "", 
+        "company": "Socrata", 
         "repositories": 1, 
         "html_url": "https://github.com/louh", 
         "blog": "louhuang.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/2553268?", 
-        "location": "San Francisco", 
+        "location": "Washington, D.C.", 
         "login": "louh", 
         "contributions": 5
     }, 
@@ -2021,17 +2021,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/40415?", 
         "location": "Oakland, California", 
         "login": "mlinksva", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Tom Preston-Werner", 
-        "company": "GitHub, Inc.", 
-        "repositories": 1, 
-        "html_url": "https://github.com/mojombo", 
-        "blog": "http://tom.preston-werner.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1?", 
-        "location": "San Francisco", 
-        "login": "mojombo", 
         "contributions": 1
     }, 
     {
@@ -2549,7 +2538,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/56477?", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 767
+        "contributions": 769
     }, 
     {
         "name": "Samarth Bhaskar", 

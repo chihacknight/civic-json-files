@@ -1328,7 +1328,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 535
+        "contributions": 537
     }, 
     {
         "name": "Idan Gazit", 
@@ -2794,13 +2794,13 @@
         "contributions": 1
     }, 
     {
-        "name": null, 
-        "company": null, 
+        "name": "Graham", 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/telegraham", 
-        "blog": null, 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/5315925?", 
-        "location": null, 
+        "location": "Chicago", 
         "login": "telegraham", 
         "contributions": 7
     }, 

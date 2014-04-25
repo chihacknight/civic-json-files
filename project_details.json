@@ -298,8 +298,8 @@
             0, 
             0, 
             0, 
-            0, 
-            4, 
+            3, 
+            1, 
             0, 
             0, 
             0, 
@@ -2198,7 +2198,7 @@
                 "owner": false, 
                 "login": "ryanmark", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/114194?", 
-                "contributions": 12, 
+                "contributions": 13, 
                 "html_url": "https://github.com/ryanmark"
             }, 
             {
@@ -2210,6 +2210,13 @@
             }, 
             {
                 "owner": false, 
+                "login": "jpmckinney", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/26463?", 
+                "contributions": 3, 
+                "html_url": "https://github.com/jpmckinney"
+            }, 
+            {
+                "owner": false, 
                 "login": "jsatt", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/498431?", 
                 "contributions": 3, 
@@ -2217,10 +2224,17 @@
             }, 
             {
                 "owner": false, 
-                "login": "jpmckinney", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/26463?", 
-                "contributions": 3, 
-                "html_url": "https://github.com/jpmckinney"
+                "login": "zzolo", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/190733?", 
+                "contributions": 2, 
+                "html_url": "https://github.com/zzolo"
+            }, 
+            {
+                "owner": false, 
+                "login": "kevinschaul", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/675639?", 
+                "contributions": 1, 
+                "html_url": "https://github.com/kevinschaul"
             }, 
             {
                 "owner": false, 
@@ -2247,7 +2261,7 @@
         "contributors_url": "https://api.github.com/repos/newsapps/django-boundaryservice/contributors", 
         "forks_count": 18, 
         "html_url": "https://github.com/newsapps/django-boundaryservice", 
-        "updated_at": "2014-01-08T19:21:59Z", 
+        "updated_at": "2014-04-25T19:23:33Z", 
         "project_needs": [], 
         "owner": {
             "login": "newsapps", 
@@ -2259,9 +2273,9 @@
         "name": "django-boundaryservice", 
         "language": "Python", 
         "created_at": "2011-05-12T01:05:28Z", 
-        "pushed_at": "2013-06-13T20:08:52Z", 
+        "pushed_at": "2014-04-25T19:23:32Z", 
         "watchers_count": 55, 
-        "open_issues": 24, 
+        "open_issues": 23, 
         "homepage": "http://blog.apps.chicagotribune.com/", 
         "participation": [
             5, 
@@ -5100,7 +5114,7 @@
                 "owner": true, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?", 
-                "contributions": 161, 
+                "contributions": 162, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -5114,7 +5128,7 @@
         "contributors_url": "https://api.github.com/repos/evz/crimearound.us/contributors", 
         "forks_count": 4, 
         "html_url": "https://github.com/evz/crimearound.us", 
-        "updated_at": "2014-04-25T15:07:47Z", 
+        "updated_at": "2014-04-25T19:29:11Z", 
         "project_needs": [], 
         "owner": {
             "login": "evz", 
@@ -5126,7 +5140,7 @@
         "name": "crimearound.us", 
         "language": "JavaScript", 
         "created_at": "2013-05-02T21:21:01Z", 
-        "pushed_at": "2014-04-25T15:07:46Z", 
+        "pushed_at": "2014-04-25T19:29:10Z", 
         "watchers_count": 5, 
         "open_issues": 3, 
         "homepage": "http://www.crimearound.us", 
@@ -6718,7 +6732,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/Chicago/osd-bike-routes/contributors", 
-        "forks_count": 20, 
+        "forks_count": 21, 
         "html_url": "https://github.com/Chicago/osd-bike-routes", 
         "updated_at": "2013-12-17T02:46:57Z", 
         "project_needs": [], 
@@ -7077,7 +7091,7 @@
         "contributors_url": "https://api.github.com/repos/Chicago/RSocrata/contributors", 
         "forks_count": 3, 
         "html_url": "https://github.com/Chicago/RSocrata", 
-        "updated_at": "2014-03-27T19:09:37Z", 
+        "updated_at": "2014-04-25T22:54:07Z", 
         "project_needs": [], 
         "owner": {
             "login": "Chicago", 
@@ -7090,7 +7104,7 @@
         "language": "R", 
         "created_at": "2013-09-16T21:03:40Z", 
         "pushed_at": "2014-03-27T19:09:39Z", 
-        "watchers_count": 8, 
+        "watchers_count": 9, 
         "open_issues": 1, 
         "homepage": null, 
         "participation": [
@@ -8251,7 +8265,7 @@
         "contributors_url": "https://api.github.com/repos/NYCComptroller/Checkbook/contributors", 
         "forks_count": 10, 
         "html_url": "https://github.com/NYCComptroller/Checkbook", 
-        "updated_at": "2014-04-25T16:40:44Z", 
+        "updated_at": "2014-04-25T19:25:37Z", 
         "project_needs": [], 
         "owner": {
             "login": "NYCComptroller", 
@@ -8263,7 +8277,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2014-04-25T16:40:45Z", 
+        "pushed_at": "2014-04-25T19:25:37Z", 
         "watchers_count": 26, 
         "open_issues": 13, 
         "homepage": null, 
@@ -10242,7 +10256,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1206, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2014-04-25T14:07:07Z", 
+        "updated_at": "2014-04-25T20:33:48Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -10255,7 +10269,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2014-04-23T15:08:59Z", 
-        "watchers_count": 6233, 
+        "watchers_count": 6234, 
         "open_issues": 161, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
@@ -10707,8 +10721,8 @@
             0, 
             0, 
             0, 
-            4, 
-            14, 
+            7, 
+            11, 
             4, 
             0, 
             2, 
@@ -10836,7 +10850,7 @@
                 "owner": true, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?", 
-                "contributions": 43, 
+                "contributions": 44, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -10850,7 +10864,7 @@
         "contributors_url": "https://api.github.com/repos/evz/crimeapi/contributors", 
         "forks_count": 4, 
         "html_url": "https://github.com/evz/crimeapi", 
-        "updated_at": "2014-04-25T15:15:10Z", 
+        "updated_at": "2014-04-25T19:44:48Z", 
         "project_needs": [], 
         "owner": {
             "login": "evz", 
@@ -10862,7 +10876,7 @@
         "name": "crimeapi", 
         "language": "Python", 
         "created_at": "2013-05-16T11:05:13Z", 
-        "pushed_at": "2014-04-25T15:15:14Z", 
+        "pushed_at": "2014-04-25T19:44:49Z", 
         "watchers_count": 4, 
         "open_issues": 1, 
         "homepage": null, 
@@ -12408,7 +12422,7 @@
         "contributors_url": "https://api.github.com/repos/chbrown/311/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/chbrown/311", 
-        "updated_at": "2013-07-19T17:17:45Z", 
+        "updated_at": "2014-04-25T19:21:28Z", 
         "project_needs": [], 
         "owner": {
             "login": "chbrown", 
@@ -12421,7 +12435,7 @@
         "language": "JavaScript", 
         "created_at": "2013-06-19T01:54:16Z", 
         "pushed_at": "2013-07-19T17:17:41Z", 
-        "watchers_count": 1, 
+        "watchers_count": 0, 
         "open_issues": 0, 
         "homepage": "http://chbrown.github.io/311", 
         "participation": [

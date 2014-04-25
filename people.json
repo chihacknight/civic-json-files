@@ -1086,7 +1086,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 374
+        "contributions": 376
     }, 
     {
         "name": "David Fawcett", 
@@ -1648,6 +1648,17 @@
         "location": null, 
         "login": "kevinbandy", 
         "contributions": 2
+    }, 
+    {
+        "name": "Kevin Schaul", 
+        "company": "The Washington Post", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kevinschaul", 
+        "blog": "http://kevin.schaul.io", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/675639?", 
+        "location": "Minneapolis, MN", 
+        "login": "kevinschaul", 
+        "contributions": 1
     }, 
     {
         "name": "Karl Fogel", 
@@ -2527,7 +2538,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/114194?", 
         "location": "Chicago", 
         "login": "ryanmark", 
-        "contributions": 18
+        "contributions": 19
     }, 
     {
         "name": "Ryan Pitts", 
@@ -3089,5 +3100,16 @@
         "location": null, 
         "login": "zachwise", 
         "contributions": 795
+    }, 
+    {
+        "name": "Alan Palazzolo", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/zzolo", 
+        "blog": "http://zzolo.org", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/190733?", 
+        "location": "Minneapolis, MN", 
+        "login": "zzolo", 
+        "contributions": 2
     }
 ]

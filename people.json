@@ -243,10 +243,10 @@
     }, 
     {
         "name": "Remo Laubacher", 
-        "company": null, 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/Remo", 
-        "blog": "http://www.codeblog.ch", 
+        "blog": "http://www.foonom.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/129864?", 
         "location": "Lucerne, Switzerland", 
         "login": "Remo", 

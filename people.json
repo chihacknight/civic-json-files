@@ -173,7 +173,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 479
+        "contributions": 497
     }, 
     {
         "name": null, 
@@ -1108,7 +1108,18 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1346
+        "contributions": 1347
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/fisch42", 
+        "blog": "http://fionaschmidtke.de/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/847843?", 
+        "location": null, 
+        "login": "fisch42", 
+        "contributions": 1
     }, 
     {
         "name": null, 

@@ -173,7 +173,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 497
+        "contributions": 510
     }, 
     {
         "name": null, 
@@ -570,6 +570,17 @@
         "location": "San Francisco", 
         "login": "boundsj", 
         "contributions": 28
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/bpalir", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7512054?", 
+        "location": null, 
+        "login": "bpalir", 
+        "contributions": 1
     }, 
     {
         "name": null, 
@@ -1339,7 +1350,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 543
+        "contributions": 544
     }, 
     {
         "name": "Idan Gazit", 
@@ -1892,6 +1903,17 @@
         "contributions": 135
     }, 
     {
+        "name": "Marcell Mars", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/marcellmars", 
+        "blog": "http://ki.ber.kom.uni.st", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/288208?", 
+        "location": null, 
+        "login": "marcellmars", 
+        "contributions": 1
+    }, 
+    {
         "name": "Mark Huberty", 
         "company": null, 
         "repositories": 1, 
@@ -2209,6 +2231,17 @@
         "location": "Tyler, TX", 
         "login": "onyxfish", 
         "contributions": 51
+    }, 
+    {
+        "name": "Paavo Huhtala", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/paavohuhtala", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/803180?", 
+        "location": "", 
+        "login": "paavohuhtala", 
+        "contributions": 1
     }, 
     {
         "name": "Patricio Aguilar", 

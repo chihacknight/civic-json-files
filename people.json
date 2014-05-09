@@ -184,7 +184,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 516
+        "contributions": 527
     }, 
     {
         "name": null, 
@@ -658,6 +658,17 @@
         "location": "Chicago IL", 
         "login": "bsuman79", 
         "contributions": 3
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/cantonbecker", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4149987?", 
+        "location": null, 
+        "login": "cantonbecker", 
+        "contributions": 1
     }, 
     {
         "name": "Cathy Deng", 
@@ -2101,6 +2112,17 @@
         "contributions": 4
     }, 
     {
+        "name": "Marjorie Roswell", 
+        "company": "Roswell Infographics", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mroswell", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/192568?", 
+        "location": null, 
+        "login": "mroswell", 
+        "contributions": 1
+    }, 
+    {
         "name": "Michael Tedeschi", 
         "company": "", 
         "repositories": 1, 
@@ -2308,6 +2330,17 @@
         "location": "San Francisco, CA", 
         "login": "philipn", 
         "contributions": 1040
+    }, 
+    {
+        "name": "Phoenix Gao", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/phoenixgao", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/853338?", 
+        "location": null, 
+        "login": "phoenixgao", 
+        "contributions": 1
     }, 
     {
         "name": "Arun Ganesh", 
@@ -3067,6 +3100,17 @@
         "location": null, 
         "login": "vaskalas", 
         "contributions": 3
+    }, 
+    {
+        "name": "Max Bechdel", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/veritascs", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4104863?", 
+        "location": "", 
+        "login": "veritascs", 
+        "contributions": 1
     }, 
     {
         "name": "Edward Vielmetti", 

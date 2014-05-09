@@ -66,6 +66,17 @@
         "contributions": 61
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/DanKeeling", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5109514?", 
+        "location": null, 
+        "login": "DanKeeling", 
+        "contributions": 1
+    }, 
+    {
         "name": "Daniel Morton", 
         "company": null, 
         "repositories": 1, 
@@ -173,7 +184,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 515
+        "contributions": 516
     }, 
     {
         "name": null, 

@@ -539,6 +539,17 @@
         "contributions": 1
     }, 
     {
+        "name": "Bob Lannon", 
+        "company": "Sunlight Foundation", 
+        "repositories": 1, 
+        "html_url": "https://github.com/boblannon", 
+        "blog": "http://boblannon.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1092694?", 
+        "location": "Washington, DC", 
+        "login": "boblannon", 
+        "contributions": 1
+    }, 
+    {
         "name": "Philipp Borgers", 
         "company": null, 
         "repositories": 1, 
@@ -1119,7 +1130,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1349
+        "contributions": 1350
     }, 
     {
         "name": null, 
@@ -1350,7 +1361,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 562
+        "contributions": 567
     }, 
     {
         "name": "Idan Gazit", 

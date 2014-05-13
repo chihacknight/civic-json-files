@@ -145,13 +145,13 @@
     {
         "name": "Christopher Whitaker", 
         "company": null, 
-        "repositories": 3, 
+        "repositories": 4, 
         "html_url": "https://github.com/GovInTrenches", 
         "blog": "http://www.linkedin.com/in/christopherwhitaker", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1302753?", 
         "location": "Chicago, IL", 
         "login": "GovInTrenches", 
-        "contributions": 49
+        "contributions": 70
     }, 
     {
         "name": "Jay Bazuzi", 
@@ -178,13 +178,13 @@
     {
         "name": "Joe Germuska", 
         "company": "Northwestern University Knight Lab", 
-        "repositories": 8, 
+        "repositories": 9, 
         "html_url": "https://github.com/JoeGermuska", 
         "blog": "http://blog.germuska.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 527
+        "contributions": 532
     }, 
     {
         "name": null, 
@@ -497,13 +497,13 @@
     {
         "name": "Brian Everett Peterson", 
         "company": null, 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/bepetersn", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/1389463?", 
         "location": "Chicago, IL", 
         "login": "bepetersn", 
-        "contributions": 127
+        "contributions": 472
     }, 
     {
         "name": "Andy Martha", 
@@ -860,13 +860,13 @@
     {
         "name": "Daniel X. O'Neil", 
         "company": "Smart Chicago Collaborative", 
-        "repositories": 5, 
+        "repositories": 6, 
         "html_url": "https://github.com/danxoneil", 
         "blog": "http://www.derivativeworks.com/", 
         "avatar_url": "https://avatars.githubusercontent.com/u/100556?", 
         "location": "Chicago", 
         "login": "danxoneil", 
-        "contributions": 39
+        "contributions": 40
     }, 
     {
         "name": "Vidhur Vohra", 
@@ -932,7 +932,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2230
+        "contributions": 2232
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -992,13 +992,13 @@
     {
         "name": "David Eads", 
         "company": null, 
-        "repositories": 4, 
+        "repositories": 5, 
         "html_url": "https://github.com/eads", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/634572?", 
         "location": null, 
         "login": "eads", 
-        "contributions": 540
+        "contributions": 548
     }, 
     {
         "name": null, 
@@ -1409,12 +1409,12 @@
     }, 
     {
         "name": "Paul Ivanov", 
-        "company": null, 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/ivanov", 
         "blog": "http://pirsquared.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/118211?", 
-        "location": null, 
+        "location": "", 
         "login": "ivanov", 
         "contributions": 4
     }, 
@@ -2068,6 +2068,17 @@
         "contributions": 442
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/mizamudio", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5233474?", 
+        "location": null, 
+        "login": "mizamudio", 
+        "contributions": 5
+    }, 
+    {
         "name": "Mjumbe Poe", 
         "company": "", 
         "repositories": 3, 
@@ -2686,13 +2697,13 @@
     {
         "name": "Sarah", 
         "company": "", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/sarahelizabeth", 
         "blog": "portfolio.sarahemurray.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/4665373?", 
         "location": "Chicago, IL", 
         "login": "sarahelizabeth", 
-        "contributions": 1
+        "contributions": 66
     }, 
     {
         "name": "Scott Beslow", 
@@ -2959,6 +2970,17 @@
         "contributions": 1
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/tjakester", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6795069?", 
+        "location": null, 
+        "login": "tjakester", 
+        "contributions": 1
+    }, 
+    {
         "name": "Tom Kompare", 
         "company": null, 
         "repositories": 5, 
@@ -3159,13 +3181,13 @@
     {
         "name": "Wilberto Morales", 
         "company": "", 
-        "repositories": 3, 
+        "repositories": 4, 
         "html_url": "https://github.com/wilbertom", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/2273055?", 
         "location": "Chicago", 
         "login": "wilbertom", 
-        "contributions": 136
+        "contributions": 141
     }, 
     {
         "name": "Matt Senate", 

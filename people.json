@@ -276,12 +276,12 @@
     }, 
     {
         "name": "Eric", 
-        "company": null, 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/Skarm", 
-        "blog": null, 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/842626?", 
-        "location": null, 
+        "location": "", 
         "login": "Skarm", 
         "contributions": 1
     }, 
@@ -1045,13 +1045,13 @@
         "contributions": 1
     }, 
     {
-        "name": null, 
-        "company": null, 
+        "name": "Elnaz Moshfeghian", 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/elnaz", 
-        "blog": null, 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1043187?", 
-        "location": null, 
+        "location": "", 
         "login": "elnaz", 
         "contributions": 88
     }, 
@@ -2714,7 +2714,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/3475751?", 
         "location": "", 
         "login": "sbeslow", 
-        "contributions": 42
+        "contributions": 43
     }, 
     {
         "name": "Tom Lee", 

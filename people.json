@@ -33,6 +33,17 @@
         "contributions": 1
     }, 
     {
+        "name": "Cliffs Dover", 
+        "company": "Dancing Bottle", 
+        "repositories": 1, 
+        "html_url": "https://github.com/CliffsDover", 
+        "blog": "http://dancingbottle.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4423523?", 
+        "location": "Taiwan", 
+        "login": "CliffsDover", 
+        "contributions": 2
+    }, 
+    {
         "name": "Andrew Fink", 
         "company": "Azavea", 
         "repositories": 1, 
@@ -184,7 +195,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 533
+        "contributions": 534
     }, 
     {
         "name": null, 
@@ -1130,7 +1141,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 379
+        "contributions": 388
     }, 
     {
         "name": "David Fawcett", 
@@ -1152,7 +1163,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1402
+        "contributions": 1404
     }, 
     {
         "name": null, 

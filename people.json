@@ -514,7 +514,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1389463?", 
         "location": "Chicago, IL", 
         "login": "bepetersn", 
-        "contributions": 493
+        "contributions": 495
     }, 
     {
         "name": "Andy Martha", 
@@ -1163,7 +1163,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1407
+        "contributions": 1414
     }, 
     {
         "name": null, 
@@ -1405,7 +1405,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 577
+        "contributions": 578
     }, 
     {
         "name": "Idan Gazit", 
@@ -3265,6 +3265,17 @@
         "location": null, 
         "login": "zachwise", 
         "contributions": 795
+    }, 
+    {
+        "name": "Citizen", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/zmaril", 
+        "blog": "twitter.com/zackmaril", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/539927?", 
+        "location": "", 
+        "login": "zmaril", 
+        "contributions": 3
     }, 
     {
         "name": "Alan Palazzolo", 

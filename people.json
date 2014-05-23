@@ -1141,7 +1141,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 413
+        "contributions": 415
     }, 
     {
         "name": "David Fawcett", 
@@ -1343,7 +1343,7 @@
     }, 
     {
         "name": "Harry Wood", 
-        "company": "placr.co.uk + OpenStreetMap", 
+        "company": "TransportAPI.com + OpenStreetMap & HOT volunteer", 
         "repositories": 1, 
         "html_url": "https://github.com/harry-wood", 
         "blog": "http://harrywood.co.uk", 

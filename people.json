@@ -1141,7 +1141,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 419
+        "contributions": 420
     }, 
     {
         "name": "David Fawcett", 
@@ -1163,7 +1163,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1438
+        "contributions": 1441
     }, 
     {
         "name": null, 
@@ -1405,7 +1405,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 584
+        "contributions": 588
     }, 
     {
         "name": "Idan Gazit", 
@@ -2303,9 +2303,9 @@
         "company": "NPR", 
         "repositories": 2, 
         "html_url": "https://github.com/onyxfish", 
-        "blog": "http://blog.apps.npr.org", 
+        "blog": "http://twitter.com/onyxfish", 
         "avatar_url": "https://avatars.githubusercontent.com/u/33046?", 
-        "location": "Tyler, TX", 
+        "location": "Tyler, TX || Oakland, CA || DC", 
         "login": "onyxfish", 
         "contributions": 51
     }, 
@@ -2692,7 +2692,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/56477?", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 835
+        "contributions": 837
     }, 
     {
         "name": "Samarth Bhaskar", 

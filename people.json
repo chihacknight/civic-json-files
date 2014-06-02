@@ -968,6 +968,17 @@
         "contributions": 3
     }, 
     {
+        "name": "Dan Fehrenbach", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/dnfehren", 
+        "blog": "dnfehrenbach.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/206100?", 
+        "location": "Chicago", 
+        "login": "dnfehren", 
+        "contributions": 2
+    }, 
+    {
         "name": "Drew Dara-Abrams", 
         "company": null, 
         "repositories": 1, 
@@ -2285,7 +2296,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/3521756?", 
         "location": null, 
         "login": "nwinklareth", 
-        "contributions": 215
+        "contributions": 224
     }, 
     {
         "name": "Satoshi IIDA", 

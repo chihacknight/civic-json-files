@@ -1152,7 +1152,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 425
+        "contributions": 429
     }, 
     {
         "name": "David Fawcett", 
@@ -1684,12 +1684,12 @@
     }, 
     {
         "name": "Joe Walsh", 
-        "company": null, 
+        "company": "", 
         "repositories": 2, 
         "html_url": "https://github.com/jtwalsh0", 
-        "blog": null, 
+        "blog": "http://joestradam.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/4280678?", 
-        "location": null, 
+        "location": "", 
         "login": "jtwalsh0", 
         "contributions": 162
     }, 
@@ -1702,7 +1702,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1178533?", 
         "location": null, 
         "login": "jywsn", 
-        "contributions": 285
+        "contributions": 286
     }, 
     {
         "name": "Andrew Kos", 
@@ -2703,7 +2703,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/56477?", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 845
+        "contributions": 847
     }, 
     {
         "name": "Samarth Bhaskar", 

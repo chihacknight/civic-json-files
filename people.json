@@ -1001,6 +1001,17 @@
         "contributions": 1
     }, 
     {
+        "name": "Drew Freyling", 
+        "company": "Dingu Blue", 
+        "repositories": 1, 
+        "html_url": "https://github.com/drewfreyling", 
+        "blog": "http://decompile.it/blog/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1145869?", 
+        "location": "Brisbane, Australia", 
+        "login": "drewfreyling", 
+        "contributions": 1
+    }, 
+    {
         "name": "Daniel Trebbien", 
         "company": null, 
         "repositories": 1, 
@@ -2946,17 +2957,6 @@
         "location": "Chicago, Illinois", 
         "login": "stevevance", 
         "contributions": 103
-    }, 
-    {
-        "name": "Yoshihiro Sugi", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/sugyan", 
-        "blog": "http://sugyan.com/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/80381?", 
-        "location": "Japan", 
-        "login": "sugyan", 
-        "contributions": 1
     }, 
     {
         "name": "Firman Rosdiansyah", 

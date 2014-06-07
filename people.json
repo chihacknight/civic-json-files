@@ -332,13 +332,13 @@
     {
         "name": "Abraham Epton", 
         "company": "", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/aepton", 
         "blog": "http://epton.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/470427?", 
         "location": "", 
         "login": "aepton", 
-        "contributions": 2
+        "contributions": 12
     }, 
     {
         "name": null, 
@@ -361,6 +361,17 @@
         "location": "San Francisco, CA", 
         "login": "akit", 
         "contributions": 57
+    }, 
+    {
+        "name": "Alex Bordens", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/alexbordens", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2713115?", 
+        "location": null, 
+        "login": "alexbordens", 
+        "contributions": 3
     }, 
     {
         "name": "Alex Soble", 
@@ -508,13 +519,13 @@
     {
         "name": "Brian Everett Peterson", 
         "company": null, 
-        "repositories": 2, 
+        "repositories": 3, 
         "html_url": "https://github.com/bepetersn", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/1389463?", 
         "location": "Chicago, IL", 
         "login": "bepetersn", 
-        "contributions": 503
+        "contributions": 506
     }, 
     {
         "name": "Andy Martha", 
@@ -943,7 +954,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2245
+        "contributions": 2246
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1020,7 +1031,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/634572?", 
         "location": null, 
         "login": "eads", 
-        "contributions": 548
+        "contributions": 675
     }, 
     {
         "name": null, 
@@ -1372,7 +1383,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/509309?", 
         "location": "Chicago, IL", 
         "login": "hbillings", 
-        "contributions": 23
+        "contributions": 66
     }, 
     {
         "name": "Hasan", 
@@ -1549,6 +1560,17 @@
         "location": null, 
         "login": "jeffhaack", 
         "contributions": 1
+    }, 
+    {
+        "name": "Jennifer Lindner", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/jenlindner", 
+        "blog": "http://photosandrockets.tumblr.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/186452?", 
+        "location": null, 
+        "login": "jenlindner", 
+        "contributions": 11
     }, 
     {
         "name": null, 
@@ -2692,7 +2714,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/114194?", 
         "location": "Chicago", 
         "login": "ryanmark", 
-        "contributions": 19
+        "contributions": 20
     }, 
     {
         "name": "Ryan Pitts", 
@@ -3214,13 +3236,13 @@
     {
         "name": "Wilberto Morales", 
         "company": "", 
-        "repositories": 4, 
+        "repositories": 5, 
         "html_url": "https://github.com/wilbertom", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/2273055?", 
         "location": "Chicago", 
         "login": "wilbertom", 
-        "contributions": 141
+        "contributions": 142
     }, 
     {
         "name": "Matt Senate", 

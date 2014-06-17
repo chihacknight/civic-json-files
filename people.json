@@ -52,7 +52,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1818302?", 
         "location": "Philadelphia", 
         "login": "CloudNiner", 
-        "contributions": 332
+        "contributions": 324
     }, 
     {
         "name": null, 
@@ -195,7 +195,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 565
+        "contributions": 575
     }, 
     {
         "name": "John Brock", 
@@ -595,7 +595,7 @@
     }, 
     {
         "name": "Brad Osgood", 
-        "company": "tastytrade", 
+        "company": "dough", 
         "repositories": 1, 
         "html_url": "https://github.com/bosgood", 
         "blog": "http://bosgood.com", 
@@ -1735,7 +1735,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1178533?", 
         "location": "", 
         "login": "jywsn", 
-        "contributions": 343
+        "contributions": 345
     }, 
     {
         "name": "Andrew Kos", 
@@ -2307,7 +2307,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/898060?", 
         "location": null, 
         "login": "notthatbreezy", 
-        "contributions": 418
+        "contributions": 416
     }, 
     {
         "name": null, 
@@ -3324,12 +3324,12 @@
     {
         "name": "Alan Palazzolo", 
         "company": "", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/zzolo", 
         "blog": "http://zzolo.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/190733?", 
         "location": "Minneapolis, MN", 
         "login": "zzolo", 
-        "contributions": 2
+        "contributions": 3
     }
 ]

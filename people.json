@@ -954,7 +954,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2252
+        "contributions": 2253
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1735,7 +1735,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1178533?", 
         "location": "", 
         "login": "jywsn", 
-        "contributions": 345
+        "contributions": 347
     }, 
     {
         "name": "Andrew Kos", 
@@ -1923,6 +1923,17 @@
         "location": null, 
         "login": "ladyson", 
         "contributions": 21
+    }, 
+    {
+        "name": "Laura Hamilton", 
+        "company": "Additive Analytics", 
+        "repositories": 1, 
+        "html_url": "https://github.com/lauradhamilton", 
+        "blog": "www.lauradhamilton.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1467775?", 
+        "location": "Chicago", 
+        "login": "lauradhamilton", 
+        "contributions": 1
     }, 
     {
         "name": "Lee Hachadoorian", 

@@ -1,5 +1,16 @@
 [
     {
+        "name": "Darcy W. Christ", 
+        "company": "1000camels", 
+        "repositories": 1, 
+        "html_url": "https://github.com/1000camels", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/689727?", 
+        "location": "Hong Kong", 
+        "login": "1000camels", 
+        "contributions": 1
+    }, 
+    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -195,7 +206,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 580
+        "contributions": 585
     }, 
     {
         "name": "John Brock", 
@@ -2506,17 +2517,6 @@
         "location": null, 
         "login": "qethanm", 
         "contributions": 8
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/quasipickle", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1377105?", 
-        "location": null, 
-        "login": "quasipickle", 
-        "contributions": 1
     }, 
     {
         "name": "Quentin Smith", 

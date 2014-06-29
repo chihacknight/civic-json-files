@@ -959,13 +959,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade, Open City", 
-        "repositories": 33, 
+        "repositories": 37, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2264
+        "contributions": 2344
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1179,13 +1179,13 @@
     {
         "name": "Eric van Zanten", 
         "company": "", 
-        "repositories": 16, 
+        "repositories": 20, 
         "html_url": "https://github.com/evz", 
         "blog": "www.static-eric.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 431
+        "contributions": 529
     }, 
     {
         "name": "David Fawcett", 
@@ -1472,6 +1472,17 @@
         "location": null, 
         "login": "irwinwilliams", 
         "contributions": 3
+    }, 
+    {
+        "name": "Istvan Pusztai", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/istvanp", 
+        "blog": "istvan.co", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/179335?", 
+        "location": "Montreal, Canada", 
+        "login": "istvanp", 
+        "contributions": 4
     }, 
     {
         "name": "Paul Ivanov", 
@@ -1991,6 +2002,17 @@
         "contributions": 177
     }, 
     {
+        "name": "Jonathan Giuffrida", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/lucaluca", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1857606?", 
+        "location": "Chicago, IL", 
+        "login": "lucaluca", 
+        "contributions": 3
+    }, 
+    {
         "name": "Magnus Persson", 
         "company": null, 
         "repositories": 1, 
@@ -2014,12 +2036,12 @@
     }, 
     {
         "name": "Nick Doiron", 
-        "company": "Civis Analytics", 
+        "company": "Museum of Modern Art", 
         "repositories": 7, 
         "html_url": "https://github.com/mapmeld", 
         "blog": "http://mapmeld.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/643918?", 
-        "location": "Chicago, IL", 
+        "location": "New York City, NY", 
         "login": "mapmeld", 
         "contributions": 135
     }, 
@@ -2222,6 +2244,17 @@
         "contributions": 4
     }, 
     {
+        "name": "David Laing", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/mrdavidlaing", 
+        "blog": "davidlaing.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/227505?", 
+        "location": "London, UK", 
+        "login": "mrdavidlaing", 
+        "contributions": 1
+    }, 
+    {
         "name": "Marjorie Roswell", 
         "company": "Roswell Infographics", 
         "repositories": 1, 
@@ -2275,6 +2308,17 @@
         "location": null, 
         "login": "nb-ofs", 
         "contributions": 7
+    }, 
+    {
+        "name": "Nick Stenning", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nickstenning", 
+        "blog": "https://whiteink.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3602?", 
+        "location": "", 
+        "login": "nickstenning", 
+        "contributions": 1
     }, 
     {
         "name": null, 
@@ -2607,6 +2651,17 @@
         "contributions": 11
     }, 
     {
+        "name": "Rufus Pollock", 
+        "company": "Open Knowledge Foundation <http://okfn.org/>", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rgrp", 
+        "blog": "http://rufuspollock.org/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/180658?", 
+        "location": null, 
+        "login": "rgrp", 
+        "contributions": 15
+    }, 
+    {
         "name": "Robert Guico", 
         "company": "GoHealth", 
         "repositories": 1, 
@@ -2740,12 +2795,12 @@
     }, 
     {
         "name": "Ryan Mark", 
-        "company": "Chicago Tribune", 
+        "company": "Vox Media", 
         "repositories": 2, 
         "html_url": "https://github.com/ryanmark", 
         "blog": "http://ryan-mark.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/114194?", 
-        "location": "Chicago", 
+        "location": "Washington DC", 
         "login": "ryanmark", 
         "contributions": 20
     }, 

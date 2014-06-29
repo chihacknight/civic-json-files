@@ -9,7 +9,9 @@
     "https://github.com/open-city/edifice-maps", 
     "https://github.com/dssg/givinggraph", 
     "https://github.com/tkompare/go2school", 
+    "https://github.com/datamade/ihs-mapbox-template", 
     "https://github.com/newsapps/tarbell", 
+    "https://github.com/sc3/crime-punishment", 
     "https://github.com/smartchicago/chicago-atlas", 
     "https://github.com/fgregg/scraping-intro", 
     "https://github.com/alexsoble/DivvyBrags", 
@@ -75,6 +77,7 @@
     "https://github.com/evz/census2geojson", 
     "https://github.com/remremz/chicago-warming-centers", 
     "https://github.com/censusreporter/census-postgres", 
+    "https://github.com/datamade/plenario", 
     "https://github.com/datamade/where-we-work", 
     "https://github.com/open-city/cps-tiers", 
     "https://github.com/Chicago/osd-bike-racks", 
@@ -105,6 +108,7 @@
     "https://github.com/jpvelez/food-poison.us", 
     "https://github.com/datamade/dedupe", 
     "https://github.com/iandees/divvyapiapi", 
+    "https://github.com/datamade/il-elections-bulk-download", 
     "https://github.com/harperreed/ctaalerts", 
     "https://github.com/open-city/councilmatic", 
     "https://github.com/dssg/cta-otp", 
@@ -130,5 +134,5 @@
     "https://github.com/smartchicago/Wufoo-to-Twilio-SMS", 
     "https://github.com/derekeder/Fusion-Tables-to-HTML-Table", 
     "https://github.com/open-city/open-gov-hack-night", 
-    "https://github.com/sc3/crime-punishment"
+    "https://github.com/datamade/gary-counts-hhmap"
 ]

@@ -393,7 +393,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/3209501?", 
         "location": "", 
         "login": "alexsoble", 
-        "contributions": 55
+        "contributions": 56
     }, 
     {
         "name": "Allen Zeng", 
@@ -2022,6 +2022,17 @@
         "location": "Sweden", 
         "login": "magnusp", 
         "contributions": 1
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/malynda", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5942988?", 
+        "location": null, 
+        "login": "malynda", 
+        "contributions": 3
     }, 
     {
         "name": "Maning Sambale", 

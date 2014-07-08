@@ -965,7 +965,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2346
+        "contributions": 2347
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1201,13 +1201,13 @@
     {
         "name": "Forest Gregg", 
         "company": "University of Chicago, Department of Sociology", 
-        "repositories": 17, 
+        "repositories": 18, 
         "html_url": "https://github.com/fgregg", 
         "blog": "http://bunkum.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1446
+        "contributions": 1454
     }, 
     {
         "name": null, 
@@ -2868,7 +2868,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/3475751?", 
         "location": "", 
         "login": "sbeslow", 
-        "contributions": 51
+        "contributions": 53
     }, 
     {
         "name": "Tom Lee", 
@@ -3392,9 +3392,9 @@
         "company": "VeriteCo", 
         "repositories": 3, 
         "html_url": "https://github.com/zachwise", 
-        "blog": "http://digitalartwork.net", 
+        "blog": "http://zachwise.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/741789?", 
-        "location": null, 
+        "location": "", 
         "login": "zachwise", 
         "contributions": 795
     }, 

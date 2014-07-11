@@ -706,13 +706,13 @@
     {
         "name": "Cathy Deng", 
         "company": null, 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/cathydeng", 
         "blog": "twitter.com/cthydng", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 79
+        "contributions": 84
     }, 
     {
         "name": "Chris Gansen", 
@@ -965,7 +965,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2356
+        "contributions": 2358
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1207,7 +1207,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1454
+        "contributions": 1489
     }, 
     {
         "name": null, 

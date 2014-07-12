@@ -706,13 +706,13 @@
     {
         "name": "Cathy Deng", 
         "company": null, 
-        "repositories": 2, 
+        "repositories": 5, 
         "html_url": "https://github.com/cathydeng", 
         "blog": "twitter.com/cthydng", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 84
+        "contributions": 98
     }, 
     {
         "name": "Chris Gansen", 
@@ -801,6 +801,17 @@
         "location": "Chicago, IL", 
         "login": "christophermanning", 
         "contributions": 241
+    }, 
+    {
+        "name": "", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/citizendrummer", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2779691?", 
+        "location": "", 
+        "login": "citizendrummer", 
+        "contributions": 4
     }, 
     {
         "name": "Claudius", 
@@ -959,13 +970,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade, Open City", 
-        "repositories": 36, 
+        "repositories": 39, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2318
+        "contributions": 2642
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1179,13 +1190,13 @@
     {
         "name": "Eric van Zanten", 
         "company": "", 
-        "repositories": 19, 
+        "repositories": 22, 
         "html_url": "https://github.com/evz", 
         "blog": "www.static-eric.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 528
+        "contributions": 817
     }, 
     {
         "name": "David Fawcett", 
@@ -1201,13 +1212,13 @@
     {
         "name": "Forest Gregg", 
         "company": "University of Chicago, Department of Sociology", 
-        "repositories": 18, 
+        "repositories": 19, 
         "html_url": "https://github.com/fgregg", 
         "blog": "http://bunkum.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1492
+        "contributions": 1493
     }, 
     {
         "name": null, 
@@ -1474,6 +1485,17 @@
         "contributions": 3
     }, 
     {
+        "name": "Istvan Pusztai", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/istvanp", 
+        "blog": "istvan.co", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/179335?", 
+        "location": "Montreal, Canada", 
+        "login": "istvanp", 
+        "contributions": 4
+    }, 
+    {
         "name": "Paul Ivanov", 
         "company": "IPython", 
         "repositories": 1, 
@@ -1696,13 +1718,13 @@
     {
         "name": "Juan-Pablo Velez", 
         "company": "Open City", 
-        "repositories": 17, 
+        "repositories": 18, 
         "html_url": "https://github.com/jpvelez", 
         "blog": "http://www.twitter.com/jpvelez", 
         "avatar_url": "https://avatars.githubusercontent.com/u/533641?", 
         "location": "Chicago", 
         "login": "jpvelez", 
-        "contributions": 287
+        "contributions": 289
     }, 
     {
         "name": "Jeremy Satterfield", 
@@ -2244,6 +2266,17 @@
         "contributions": 4
     }, 
     {
+        "name": "David Laing", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/mrdavidlaing", 
+        "blog": "davidlaing.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/227505?", 
+        "location": "London, UK", 
+        "login": "mrdavidlaing", 
+        "contributions": 1
+    }, 
+    {
         "name": "Marjorie Roswell", 
         "company": "Roswell Infographics", 
         "repositories": 1, 
@@ -2297,6 +2330,17 @@
         "location": null, 
         "login": "nb-ofs", 
         "contributions": 7
+    }, 
+    {
+        "name": "Nick Stenning", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nickstenning", 
+        "blog": "https://whiteink.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3602?", 
+        "location": "", 
+        "login": "nickstenning", 
+        "contributions": 1
     }, 
     {
         "name": null, 
@@ -2627,6 +2671,17 @@
         "location": "Chicago", 
         "login": "renemarcelo", 
         "contributions": 11
+    }, 
+    {
+        "name": "Rufus Pollock", 
+        "company": "Open Knowledge Foundation <http://okfn.org/>", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rgrp", 
+        "blog": "http://rufuspollock.org/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/180658?", 
+        "location": null, 
+        "login": "rgrp", 
+        "contributions": 15
     }, 
     {
         "name": "Robert Guico", 

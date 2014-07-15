@@ -85,7 +85,7 @@
         ]
     }, 
     {
-        "description": "a web app to help folks w/ juvenile records kick off the expungement process", 
+        "description": "A web app to help people w/ juvenile records kick off the expungement process.", 
         "contributors": [
             {
                 "owner": false, 
@@ -98,7 +98,7 @@
         "contributors_url": "https://api.github.com/repos/smartchicago/expunge.io/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/smartchicago/expunge.io", 
-        "updated_at": "2014-06-04T00:47:13Z", 
+        "updated_at": "2014-07-14T18:40:25Z", 
         "project_needs": [], 
         "owner": {
             "login": "smartchicago", 
@@ -113,7 +113,7 @@
         "pushed_at": "2014-02-07T17:31:31Z", 
         "watchers_count": 2, 
         "open_issues": 1, 
-        "homepage": "", 
+        "homepage": "http://www.expunge.io/", 
         "participation": [
             0, 
             0, 
@@ -1504,7 +1504,7 @@
         "contributors_url": "https://api.github.com/repos/alexsoble/DivvyBrags/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/alexsoble/DivvyBrags", 
-        "updated_at": "2013-12-04T01:31:53Z", 
+        "updated_at": "2014-07-14T20:03:04Z", 
         "project_needs": [], 
         "owner": {
             "login": "alexsoble", 
@@ -1517,7 +1517,7 @@
         "language": "Ruby", 
         "created_at": "2013-08-23T01:27:56Z", 
         "pushed_at": "2013-11-15T20:32:47Z", 
-        "watchers_count": 3, 
+        "watchers_count": 4, 
         "open_issues": 0, 
         "homepage": null, 
         "participation": [
@@ -2888,6 +2888,13 @@
             }, 
             {
                 "owner": false, 
+                "login": "cathydeng", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1406537?", 
+                "contributions": 4, 
+                "html_url": "https://github.com/cathydeng"
+            }, 
+            {
+                "owner": false, 
                 "login": "istvanp", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/179335?", 
                 "contributions": 4, 
@@ -2899,13 +2906,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?", 
                 "contributions": 3, 
                 "html_url": "https://github.com/evz"
-            }, 
-            {
-                "owner": false, 
-                "login": "cathydeng", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1406537?", 
-                "contributions": 1, 
-                "html_url": "https://github.com/cathydeng"
             }, 
             {
                 "owner": false, 
@@ -2937,7 +2937,7 @@
         "name": "election-money", 
         "language": "JavaScript", 
         "created_at": "2014-06-06T02:11:55Z", 
-        "pushed_at": "2014-07-12T06:18:39Z", 
+        "pushed_at": "2014-07-14T21:54:51Z", 
         "watchers_count": 0, 
         "open_issues": 4, 
         "homepage": "http://il-elections-bulk-download.datamade.us/", 
@@ -5065,7 +5065,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
-                "contributions": 935, 
+                "contributions": 944, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -5093,14 +5093,14 @@
                 "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?", 
-                "contributions": 14, 
+                "contributions": 15, 
                 "html_url": "https://github.com/evz"
             }, 
             {
                 "owner": false, 
                 "login": "cathydeng", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1406537?", 
-                "contributions": 5, 
+                "contributions": 12, 
                 "html_url": "https://github.com/cathydeng"
             }, 
             {
@@ -5161,9 +5161,9 @@
         "name": "dedupe", 
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2014-07-14T16:20:07Z", 
+        "pushed_at": "2014-07-14T22:35:26Z", 
         "watchers_count": 348, 
-        "open_issues": 27, 
+        "open_issues": 22, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
             7, 
@@ -7675,8 +7675,8 @@
             0, 
             0, 
             0, 
-            0, 
-            14, 
+            12, 
+            2, 
             0, 
             0, 
             0, 
@@ -8276,6 +8276,13 @@
             }, 
             {
                 "owner": false, 
+                "login": "derekeder", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
+                "contributions": 16, 
+                "html_url": "https://github.com/derekeder"
+            }, 
+            {
+                "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
                 "contributions": 16, 
@@ -8283,16 +8290,9 @@
             }, 
             {
                 "owner": false, 
-                "login": "derekeder", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
-                "contributions": 14, 
-                "html_url": "https://github.com/derekeder"
-            }, 
-            {
-                "owner": false, 
                 "login": "lucaluca", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1857606?", 
-                "contributions": 3, 
+                "contributions": 5, 
                 "html_url": "https://github.com/lucaluca"
             }
         ], 
@@ -8311,7 +8311,7 @@
         "name": "plenario", 
         "language": "JavaScript", 
         "created_at": "2013-12-04T21:12:31Z", 
-        "pushed_at": "2014-07-14T14:55:41Z", 
+        "pushed_at": "2014-07-14T22:06:51Z", 
         "watchers_count": 2, 
         "open_issues": 4, 
         "homepage": "http://plenario.datamade.us/", 
@@ -8926,7 +8926,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2014-07-14T18:03:35Z", 
+        "pushed_at": "2014-07-14T20:58:02Z", 
         "watchers_count": 26, 
         "open_issues": 18, 
         "homepage": null, 
@@ -9105,7 +9105,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/clearstreets-web/contributors", 
         "forks_count": 3, 
         "html_url": "https://github.com/open-city/clearstreets-web", 
-        "updated_at": "2014-03-13T15:59:45Z", 
+        "updated_at": "2014-07-14T20:55:29Z", 
         "project_needs": [], 
         "owner": {
             "login": "open-city", 
@@ -9118,7 +9118,7 @@
         "language": "JavaScript", 
         "created_at": "2012-12-20T08:15:26Z", 
         "pushed_at": "2014-03-13T15:59:45Z", 
-        "watchers_count": 4, 
+        "watchers_count": 5, 
         "open_issues": 10, 
         "homepage": "http://clearstreets.org", 
         "participation": [
@@ -10982,7 +10982,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1296, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2014-07-14T15:19:25Z", 
+        "updated_at": "2014-07-15T00:00:25Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -11156,8 +11156,8 @@
             0, 
             0, 
             14, 
-            117, 
-            18, 
+            121, 
+            14, 
             8, 
             2, 
             4, 
@@ -13820,7 +13820,7 @@
         "contributors_url": "https://api.github.com/repos/mapmeld/majurojs/contributors", 
         "forks_count": 4, 
         "html_url": "https://github.com/mapmeld/majurojs", 
-        "updated_at": "2014-06-04T04:56:54Z", 
+        "updated_at": "2014-07-14T20:23:33Z", 
         "project_needs": [], 
         "owner": {
             "login": "mapmeld", 
@@ -13833,7 +13833,7 @@
         "language": "JavaScript", 
         "created_at": "2012-12-20T23:11:48Z", 
         "pushed_at": "2013-08-02T03:09:14Z", 
-        "watchers_count": 97, 
+        "watchers_count": 98, 
         "open_issues": 0, 
         "homepage": "www.majurojs.org", 
         "participation": [

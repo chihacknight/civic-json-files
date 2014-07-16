@@ -976,7 +976,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2648
+        "contributions": 2650
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2035,17 +2035,6 @@
         "contributions": 1
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/malynda", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/5942988?", 
-        "location": null, 
-        "login": "malynda", 
-        "contributions": 6
-    }, 
-    {
         "name": "Maning Sambale", 
         "company": null, 
         "repositories": 1, 
@@ -2879,7 +2868,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/3475751?", 
         "location": "", 
         "login": "sbeslow", 
-        "contributions": 54
+        "contributions": 55
     }, 
     {
         "name": "Tom Lee", 

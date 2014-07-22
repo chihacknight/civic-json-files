@@ -363,17 +363,6 @@
         "contributions": 116
     }, 
     {
-        "name": "Angel", 
-        "company": "Code for America", 
-        "repositories": 1, 
-        "html_url": "https://github.com/akit", 
-        "blog": "angellov.es", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/103496?", 
-        "location": "San Francisco, CA", 
-        "login": "akit", 
-        "contributions": 57
-    }, 
-    {
         "name": "Alex Bordens", 
         "company": null, 
         "repositories": 1, 
@@ -438,6 +427,17 @@
         "location": "Chicago, IL", 
         "login": "andymboyle", 
         "contributions": 11
+    }, 
+    {
+        "name": "Angel", 
+        "company": "Code for America", 
+        "repositories": 1, 
+        "html_url": "https://github.com/angel", 
+        "blog": "angellov.es", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/103496?", 
+        "location": "San Francisco, CA", 
+        "login": "angel", 
+        "contributions": 57
     }, 
     {
         "name": "Richard", 
@@ -976,7 +976,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2658
+        "contributions": 2660
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1218,7 +1218,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1545
+        "contributions": 1556
     }, 
     {
         "name": null, 
@@ -3027,13 +3027,13 @@
     {
         "name": "Scott Robbin", 
         "company": "Robbin & Co.", 
-        "repositories": 2, 
+        "repositories": 3, 
         "html_url": "https://github.com/srobbin", 
         "blog": "http://srobbin.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/44719?", 
         "location": "Chicago", 
         "login": "srobbin", 
-        "contributions": 36
+        "contributions": 37
     }, 
     {
         "name": null, 
@@ -3407,7 +3407,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/741789?", 
         "location": "", 
         "login": "zachwise", 
-        "contributions": 798
+        "contributions": 803
     }, 
     {
         "name": "Citizen", 

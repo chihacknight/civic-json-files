@@ -360,7 +360,7 @@
                 "owner": false, 
                 "login": "zachwise", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/741789?", 
-                "contributions": 215, 
+                "contributions": 220, 
                 "html_url": "https://github.com/zachwise"
             }, 
             {
@@ -449,9 +449,9 @@
         "name": "StoryMapJS", 
         "language": "JavaScript", 
         "created_at": "2013-07-22T16:43:23Z", 
-        "pushed_at": "2014-07-20T04:05:09Z", 
+        "pushed_at": "2014-07-21T23:15:17Z", 
         "watchers_count": 92, 
-        "open_issues": 19, 
+        "open_issues": 16, 
         "homepage": null, 
         "participation": [
             7, 
@@ -1633,6 +1633,13 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/546151?", 
                 "contributions": 1, 
                 "html_url": "https://github.com/dzwarg"
+            }, 
+            {
+                "owner": false, 
+                "login": "srobbin", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/44719?", 
+                "contributions": 1, 
+                "html_url": "https://github.com/srobbin"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/smartchicago/chicago-early-learning/contributors", 
@@ -1650,7 +1657,7 @@
         "name": "chicago-early-learning", 
         "language": "JavaScript", 
         "created_at": "2012-07-19T23:08:40Z", 
-        "pushed_at": "2014-07-18T15:30:59Z", 
+        "pushed_at": "2014-07-21T21:55:08Z", 
         "watchers_count": 10, 
         "open_issues": 37, 
         "homepage": "http://chicagoearlylearning.org/", 
@@ -2386,7 +2393,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/derekeder/FusionTable-Map-Template/contributors", 
-        "forks_count": 117, 
+        "forks_count": 118, 
         "html_url": "https://github.com/derekeder/FusionTable-Map-Template", 
         "updated_at": "2014-07-21T12:26:21Z", 
         "project_needs": [], 
@@ -2876,7 +2883,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
-                "contributions": 50, 
+                "contributions": 51, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -2937,7 +2944,7 @@
         "name": "election-money", 
         "language": "JavaScript", 
         "created_at": "2014-06-06T02:11:55Z", 
-        "pushed_at": "2014-07-16T19:35:01Z", 
+        "pushed_at": "2014-07-21T18:12:35Z", 
         "watchers_count": 0, 
         "open_issues": 4, 
         "homepage": "http://electionmoney.org", 
@@ -5065,7 +5072,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/536941?", 
-                "contributions": 978, 
+                "contributions": 989, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -5168,7 +5175,7 @@
         "name": "dedupe", 
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2014-07-21T17:22:47Z", 
+        "pushed_at": "2014-07-21T20:01:14Z", 
         "watchers_count": 350, 
         "open_issues": 25, 
         "homepage": "https://github.com/datamade/dedupe", 
@@ -6789,7 +6796,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
-                "contributions": 8, 
+                "contributions": 9, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -6803,7 +6810,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/gary-counts-hhmap/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/datamade/gary-counts-hhmap", 
-        "updated_at": "2014-06-06T02:20:34Z", 
+        "updated_at": "2014-07-21T18:36:05Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -6815,7 +6822,7 @@
         "name": "gary-counts-hhmap", 
         "language": "CSS", 
         "created_at": "2014-04-23T17:23:06Z", 
-        "pushed_at": "2014-06-06T02:20:33Z", 
+        "pushed_at": "2014-07-21T18:36:07Z", 
         "watchers_count": 0, 
         "open_issues": 0, 
         "homepage": "http://datamade.github.io/gary-counts-hhmap/", 
@@ -8311,7 +8318,7 @@
         "name": "plenario", 
         "language": "JavaScript", 
         "created_at": "2013-12-04T21:12:31Z", 
-        "pushed_at": "2014-07-17T22:53:01Z", 
+        "pushed_at": "2014-07-21T22:20:43Z", 
         "watchers_count": 2, 
         "open_issues": 5, 
         "homepage": "http://plenario.datamade.us/", 
@@ -8926,7 +8933,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2014-07-21T16:18:02Z", 
+        "pushed_at": "2014-07-21T22:06:30Z", 
         "watchers_count": 26, 
         "open_issues": 18, 
         "homepage": null, 
@@ -11155,8 +11162,8 @@
             0, 
             0, 
             14, 
-            117, 
-            18, 
+            121, 
+            14, 
             8, 
             2, 
             4, 
@@ -11284,10 +11291,10 @@
             }, 
             {
                 "owner": false, 
-                "login": "akit", 
+                "login": "angel", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/103496?", 
                 "contributions": 57, 
-                "html_url": "https://github.com/akit"
+                "html_url": "https://github.com/angel"
             }, 
             {
                 "owner": false, 

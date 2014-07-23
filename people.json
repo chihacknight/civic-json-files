@@ -206,7 +206,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 587
+        "contributions": 592
     }, 
     {
         "name": "John Brock", 
@@ -987,7 +987,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2664
+        "contributions": 2667
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2916,7 +2916,7 @@
     }, 
     {
         "name": "Sean Hellwig", 
-        "company": "ThoughtMatrix", 
+        "company": "ThoughtMatrix, a Rauxa company.", 
         "repositories": 1, 
         "html_url": "https://github.com/seanhellwig", 
         "blog": "http://www.thought-matrix.com", 
@@ -3418,7 +3418,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/741789?", 
         "location": "", 
         "login": "zachwise", 
-        "contributions": 807
+        "contributions": 809
     }, 
     {
         "name": "Citizen", 

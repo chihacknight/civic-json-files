@@ -206,7 +206,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=1", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 592
+        "contributions": 593
     }, 
     {
         "name": "John Brock", 
@@ -723,7 +723,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=1", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 112
+        "contributions": 156
     }, 
     {
         "name": "Chris Gansen", 
@@ -2002,6 +2002,17 @@
         "contributions": 2
     }, 
     {
+        "name": "Greg Kempe", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/longhotsummer", 
+        "blog": "http://kempe.net", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4178542?v=1", 
+        "location": "Cape Town, South Africa", 
+        "login": "longhotsummer", 
+        "contributions": 1
+    }, 
+    {
         "name": "Lou Huang", 
         "company": "Socrata", 
         "repositories": 1, 
@@ -2675,13 +2686,13 @@
     {
         "name": "", 
         "company": "", 
-        "repositories": 2, 
+        "repositories": 3, 
         "html_url": "https://github.com/renemarcelo", 
         "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1162669?v=1", 
         "location": "Chicago", 
         "login": "renemarcelo", 
-        "contributions": 11
+        "contributions": 148
     }, 
     {
         "name": "Rufus Pollock", 
@@ -2857,7 +2868,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/56477?v=1", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 871
+        "contributions": 872
     }, 
     {
         "name": "Samarth Bhaskar", 
@@ -3049,13 +3060,13 @@
     {
         "name": "Scott Robbin", 
         "company": "Robbin & Co.", 
-        "repositories": 2, 
+        "repositories": 3, 
         "html_url": "https://github.com/srobbin", 
         "blog": "http://srobbin.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/44719?v=1", 
         "location": "Chicago", 
         "login": "srobbin", 
-        "contributions": 36
+        "contributions": 37
     }, 
     {
         "name": null, 

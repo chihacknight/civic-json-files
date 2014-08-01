@@ -987,7 +987,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=1", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2685
+        "contributions": 2688
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1207,7 +1207,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=1", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 837
+        "contributions": 838
     }, 
     {
         "name": "David Fawcett", 
@@ -3408,6 +3408,17 @@
         "location": null, 
         "login": "ycz87", 
         "contributions": 1
+    }, 
+    {
+        "name": "Mallory Busch", 
+        "company": "Knight Lab", 
+        "repositories": 1, 
+        "html_url": "https://github.com/yeamal", 
+        "blog": "MalloryBusch.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5952437?v=1", 
+        "location": "Evanston, Il", 
+        "login": "yeamal", 
+        "contributions": 4
     }, 
     {
         "name": null, 

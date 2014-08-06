@@ -1229,7 +1229,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=2", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1573
+        "contributions": 1574
     }, 
     {
         "name": null, 
@@ -2146,7 +2146,7 @@
     }, 
     {
         "name": "Michael Hartl", 
-        "company": "", 
+        "company": "Softcover, Ruby on Rails Tutorial", 
         "repositories": 1, 
         "html_url": "https://github.com/mhartl", 
         "blog": "http://railstutorial.org/", 

@@ -242,3259 +242,2075 @@
         "contributions": 119
     }, 
     {
-        "name": "Nelson Minar", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/NelsonMinar", 
-        "blog": "http://www.somebits.com/weblog/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/382136?v=2", 
-        "location": "San Francisco, CA, USA", 
+        "contributions": 13, 
         "login": "NelsonMinar", 
-        "contributions": 13
+        "avatar_url": "https://avatars.githubusercontent.com/u/382136?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/NelsonMinar"
     }, 
     {
-        "name": "Paul Meinshausen", 
-        "company": "Data Science for Social Good Fellow", 
-        "repositories": 1, 
-        "html_url": "https://github.com/PMeinshausen", 
-        "blog": "http://housesofstones.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2926062?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 4, 
         "login": "PMeinshausen", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/2926062?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/PMeinshausen"
     }, 
     {
-        "name": "Walter Dempsey", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/PlusTheMonk", 
-        "blog": "galton.uchicago.edu/~wdempsey", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4594115?v=2", 
-        "location": "Chicago", 
+        "contributions": 18, 
         "login": "PlusTheMonk", 
-        "contributions": 18
+        "avatar_url": "https://avatars.githubusercontent.com/u/4594115?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/PlusTheMonk"
     }, 
     {
-        "name": "Remo Laubacher", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/Remo", 
-        "blog": "http://www.foonom.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/129864?v=2", 
-        "location": "Lucerne, Switzerland", 
+        "contributions": 1, 
         "login": "Remo", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/129864?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/Remo"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/SaraSchnadt", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3248981?v=2", 
-        "location": null, 
+        "contributions": 16, 
         "login": "SaraSchnadt", 
-        "contributions": 16
+        "avatar_url": "https://avatars.githubusercontent.com/u/3248981?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/SaraSchnadt"
     }, 
     {
-        "name": "Eric", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/Skarm", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/842626?v=2", 
-        "location": "Russia", 
+        "contributions": 1, 
         "login": "Skarm", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/842626?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/Skarm"
     }, 
     {
-        "name": "Tyler Fisher", 
-        "company": "NPR", 
-        "repositories": 1, 
-        "html_url": "https://github.com/TylerFisher", 
-        "blog": "tylerjfisher.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1077075?v=2", 
-        "location": "Washington, DC", 
+        "contributions": 45, 
         "login": "TylerFisher", 
-        "contributions": 45
+        "avatar_url": "https://avatars.githubusercontent.com/u/1077075?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/TylerFisher"
     }, 
     {
-        "name": "Aaron U. Salmon", 
-        "company": "Auraworks Ltd.", 
-        "repositories": 1, 
-        "html_url": "https://github.com/aaronsalmon", 
-        "blog": "www.auraworks.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/37711?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 38, 
         "login": "aaronsalmon", 
-        "contributions": 38
+        "avatar_url": "https://avatars.githubusercontent.com/u/37711?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/aaronsalmon"
     }, 
     {
-        "name": "Abhi Nemani", 
-        "company": "Code for America", 
-        "repositories": 1, 
-        "html_url": "https://github.com/abhinemani", 
-        "blog": "abhinemani.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/423599?v=2", 
-        "location": "San Francisco", 
+        "contributions": 2, 
         "login": "abhinemani", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/423599?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/abhinemani"
     }, 
     {
-        "name": "Abraham Epton", 
-        "company": "", 
-        "repositories": 2, 
-        "html_url": "https://github.com/aepton", 
-        "blog": "http://epton.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/470427?v=2", 
-        "location": "", 
+        "contributions": 12, 
         "login": "aepton", 
-        "contributions": 12
+        "avatar_url": "https://avatars.githubusercontent.com/u/470427?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/aepton"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/ahwolf", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2856881?v=2", 
-        "location": null, 
+        "contributions": 116, 
         "login": "ahwolf", 
-        "contributions": 116
+        "avatar_url": "https://avatars.githubusercontent.com/u/2856881?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ahwolf"
     }, 
     {
-        "name": "Alex Bordens", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/alexbordens", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2713115?v=2", 
-        "location": null, 
+        "contributions": 3, 
         "login": "alexbordens", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/2713115?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/alexbordens"
     }, 
     {
-        "name": "Alex Soble", 
-        "company": "", 
-        "repositories": 2, 
-        "html_url": "https://github.com/alexsoble", 
-        "blog": "www.alexsoble.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3209501?v=2", 
-        "location": "", 
+        "contributions": 60, 
         "login": "alexsoble", 
-        "contributions": 60
+        "avatar_url": "https://avatars.githubusercontent.com/u/3209501?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/alexsoble"
     }, 
     {
-        "name": "Allen Zeng", 
-        "company": "Northwestern University", 
-        "repositories": 2, 
-        "html_url": "https://github.com/allenz456", 
-        "blog": "http://allenzeng.com/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1289471?v=2", 
-        "location": null, 
+        "contributions": 14, 
         "login": "allenz456", 
-        "contributions": 14
+        "avatar_url": "https://avatars.githubusercontent.com/u/1289471?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/allenz456"
     }, 
     {
-        "name": "Anna Marie Tamayo", 
-        "company": "Webitects", 
-        "repositories": 1, 
-        "html_url": "https://github.com/amtamayo", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/976733?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 86, 
         "login": "amtamayo", 
-        "contributions": 86
+        "avatar_url": "https://avatars.githubusercontent.com/u/976733?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/amtamayo"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/andreweskeclarke", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/392862?v=2", 
-        "location": null, 
+        "contributions": 13, 
         "login": "andreweskeclarke", 
-        "contributions": 13
+        "avatar_url": "https://avatars.githubusercontent.com/u/392862?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/andreweskeclarke"
     }, 
     {
-        "name": "Andy Boyle", 
-        "company": "Chicago Tribune", 
-        "repositories": 2, 
-        "html_url": "https://github.com/andymboyle", 
-        "blog": "http://www.andymboyle.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/508778?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 11, 
         "login": "andymboyle", 
-        "contributions": 11
+        "avatar_url": "https://avatars.githubusercontent.com/u/508778?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/andymboyle"
     }, 
     {
-        "name": "Angel", 
-        "company": "Code for America", 
-        "repositories": 1, 
-        "html_url": "https://github.com/angel", 
-        "blog": "angellov.es", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/103496?v=2", 
-        "location": "San Francisco, CA", 
+        "contributions": 57, 
         "login": "angel", 
-        "contributions": 57
+        "avatar_url": "https://avatars.githubusercontent.com/u/103496?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/angel"
     }, 
     {
-        "name": "Alessandro Panella", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/apanella", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4671134?v=2", 
-        "location": "", 
+        "contributions": 8, 
         "login": "apanella", 
-        "contributions": 8
+        "avatar_url": "https://avatars.githubusercontent.com/u/4671134?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/apanella"
     }, 
     {
-        "name": "Richard", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/arbylee", 
-        "blog": "www.thisishardtoread.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1334584?v=2", 
-        "location": "Chicago", 
+        "contributions": 1, 
         "login": "arbylee", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/1334584?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/arbylee"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/aronwc", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3931781?v=2", 
-        "location": null, 
+        "contributions": 75, 
         "login": "aronwc", 
-        "contributions": 75
+        "avatar_url": "https://avatars.githubusercontent.com/u/3931781?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/aronwc"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/aslotnick", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3629046?v=2", 
-        "location": null, 
+        "contributions": 9, 
         "login": "aslotnick", 
-        "contributions": 9
+        "avatar_url": "https://avatars.githubusercontent.com/u/3629046?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/aslotnick"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/atleb", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/845667?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "atleb", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/845667?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/atleb"
     }, 
     {
-        "name": "Ahmad Qamar", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/atqamar", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1707358?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 4, 
         "login": "atqamar", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/1707358?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/atqamar"
     }, 
     {
-        "name": "Brian Alexandrowicz", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/balexandrowicz", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1816582?v=2", 
-        "location": "New Jersey", 
+        "contributions": 89, 
         "login": "balexandrowicz", 
-        "contributions": 89
+        "avatar_url": "https://avatars.githubusercontent.com/u/1816582?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/balexandrowicz"
     }, 
     {
-        "name": "Benjamin Golder", 
-        "company": "MIT", 
-        "repositories": 1, 
-        "html_url": "https://github.com/bengolder", 
-        "blog": "benjamingolder.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/451510?v=2", 
-        "location": "Cambridge, MA, USA", 
+        "contributions": 3, 
         "login": "bengolder", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/451510?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/bengolder"
     }, 
     {
-        "name": "Ben Sheldon", 
-        "company": "", 
-        "repositories": 4, 
-        "html_url": "https://github.com/bensheldon", 
-        "blog": "http://island94.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/47554?v=2", 
-        "location": "San Francisco, CA", 
+        "contributions": 78, 
         "login": "bensheldon", 
-        "contributions": 78
+        "avatar_url": "https://avatars.githubusercontent.com/u/47554?v=2", 
+        "repositories": 4, 
+        "html_url": "https://github.com/bensheldon"
     }, 
     {
-        "name": "Brian Everett Peterson", 
-        "company": null, 
-        "repositories": 3, 
-        "html_url": "https://github.com/bepetersn", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1389463?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 511, 
         "login": "bepetersn", 
-        "contributions": 511
+        "avatar_url": "https://avatars.githubusercontent.com/u/1389463?v=2", 
+        "repositories": 3, 
+        "html_url": "https://github.com/bepetersn"
     }, 
     {
-        "name": "Andy Martha", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/biolithic", 
-        "blog": "http://www.andymartha.com/portfolio", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1211406?v=2", 
-        "location": "Chicago", 
+        "contributions": 5, 
         "login": "biolithic", 
-        "contributions": 5
+        "avatar_url": "https://avatars.githubusercontent.com/u/1211406?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/biolithic"
     }, 
     {
-        "name": "Blake Hall", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/blakeshall", 
-        "blog": "blakeshall.github.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/92603?v=2", 
-        "location": "Lexington, KY", 
+        "contributions": 1, 
         "login": "blakeshall", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/92603?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/blakeshall"
     }, 
     {
-        "name": "B M Corser", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/bmcorser", 
-        "blog": "http://www.originalenclosure.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1449387?v=2", 
-        "location": "London, UK", 
+        "contributions": 1, 
         "login": "bmcorser", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/1449387?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/bmcorser"
     }, 
     {
-        "name": "Brian Mount", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/bmount", 
-        "blog": "http://twitter.com/brian_mount", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/291920?v=2", 
-        "location": "San Francisco", 
+        "contributions": 1, 
         "login": "bmount", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/291920?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/bmount"
     }, 
     {
-        "name": "Bob Lannon", 
-        "company": "Sunlight Foundation", 
-        "repositories": 1, 
-        "html_url": "https://github.com/boblannon", 
-        "blog": "http://boblannon.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1092694?v=2", 
-        "location": "Washington, DC", 
+        "contributions": 1, 
         "login": "boblannon", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/1092694?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/boblannon"
     }, 
     {
-        "name": "Philipp Borgers", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/booo", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/424513?v=2", 
-        "location": "Berlin", 
+        "contributions": 3, 
         "login": "booo", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/424513?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/booo"
     }, 
     {
-        "name": "Brad Osgood", 
-        "company": "dough", 
-        "repositories": 1, 
-        "html_url": "https://github.com/bosgood", 
-        "blog": "http://bosgood.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/540290?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 64, 
         "login": "bosgood", 
-        "contributions": 64
+        "avatar_url": "https://avatars.githubusercontent.com/u/540290?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/bosgood"
     }, 
     {
-        "name": "Jesse Bounds", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/boundsj", 
-        "blog": "http://rebounds.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/63186?v=2", 
-        "location": "San Francisco", 
+        "contributions": 28, 
         "login": "boundsj", 
-        "contributions": 28
+        "avatar_url": "https://avatars.githubusercontent.com/u/63186?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/boundsj"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/bpalir", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/7512054?v=2", 
-        "location": null, 
+        "contributions": 2, 
         "login": "bpalir", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/7512054?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/bpalir"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/breannam", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4438870?v=2", 
-        "location": null, 
+        "contributions": 28, 
         "login": "breannam", 
-        "contributions": 28
+        "avatar_url": "https://avatars.githubusercontent.com/u/4438870?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/breannam"
     }, 
     {
-        "name": "Bret Walker", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/bretwalker", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/181698?v=2", 
-        "location": "Louisville, KY", 
+        "contributions": 4, 
         "login": "bretwalker", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/181698?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/bretwalker"
     }, 
     {
-        "name": "Brian Kung", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/briankung", 
-        "blog": "http://vizify.com/BrianKung", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2836167?v=2", 
-        "location": "Chicago", 
+        "contributions": 1, 
         "login": "briankung", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/2836167?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/briankung"
     }, 
     {
-        "name": "Ben Rousch", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/brousch", 
-        "blog": "http://clusterbleep.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/303240?v=2", 
-        "location": "Grand Rapids, MI, USA", 
+        "contributions": 7, 
         "login": "brousch", 
-        "contributions": 7
+        "avatar_url": "https://avatars.githubusercontent.com/u/303240?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/brousch"
     }, 
     {
-        "name": "Suman Bhattacharya", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/bsuman79", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2497397?v=2", 
-        "location": "Chicago IL", 
+        "contributions": 3, 
         "login": "bsuman79", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/2497397?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/bsuman79"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/cantonbecker", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4149987?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "cantonbecker", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/4149987?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/cantonbecker"
     }, 
     {
-        "name": "Cathy Deng", 
-        "company": null, 
-        "repositories": 6, 
-        "html_url": "https://github.com/cathydeng", 
-        "blog": "twitter.com/cthydng", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=2", 
-        "location": "Chicago", 
+        "contributions": 169, 
         "login": "cathydeng", 
-        "contributions": 169
+        "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=2", 
+        "repositories": 6, 
+        "html_url": "https://github.com/cathydeng"
     }, 
     {
-        "name": "Chris Gansen", 
-        "company": "Make No Little Plans, LLC", 
-        "repositories": 8, 
-        "html_url": "https://github.com/cgansen", 
-        "blog": "http://www.chrisgansen.com/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/88998?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 584, 
         "login": "cgansen", 
-        "contributions": 584
+        "avatar_url": "https://avatars.githubusercontent.com/u/88998?v=2", 
+        "repositories": 8, 
+        "html_url": "https://github.com/cgansen"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/cguira", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3106916?v=2", 
-        "location": null, 
+        "contributions": 2, 
         "login": "cguira", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/3106916?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/cguira"
     }, 
     {
-        "name": "Chad W Pry", 
-        "company": "", 
-        "repositories": 9, 
-        "html_url": "https://github.com/chadwpry", 
-        "blog": "http://about.me/pry", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3263?v=2", 
-        "location": "New York, NY", 
+        "contributions": 267, 
         "login": "chadwpry", 
-        "contributions": 267
+        "avatar_url": "https://avatars.githubusercontent.com/u/3263?v=2", 
+        "repositories": 9, 
+        "html_url": "https://github.com/chadwpry"
     }, 
     {
-        "name": "Chancy Kennedy", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/chancyk", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1731217?v=2", 
-        "location": "", 
+        "contributions": 1, 
         "login": "chancyk", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/1731217?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/chancyk"
     }, 
     {
-        "name": "Christopher Brown", 
-        "company": "University of Texas at Austin", 
-        "repositories": 1, 
-        "html_url": "https://github.com/chbrown", 
-        "blog": "henrian.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/360279?v=2", 
-        "location": "Austin, TX", 
+        "contributions": 2, 
         "login": "chbrown", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/360279?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/chbrown"
     }, 
     {
-        "name": "Chris Barnes", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/chrisbarnes", 
-        "blog": "http://cbarn.es", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/642906?v=2", 
-        "location": "Philadelphia, PA", 
+        "contributions": 78, 
         "login": "chrisbarnes", 
-        "contributions": 78
+        "avatar_url": "https://avatars.githubusercontent.com/u/642906?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/chrisbarnes"
     }, 
     {
-        "name": "Chris Keller", 
-        "company": "Southern California Public Radio", 
-        "repositories": 2, 
-        "html_url": "https://github.com/chrislkeller", 
-        "blog": "www.chrislkeller.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/433780?v=2", 
-        "location": "Los Angeles", 
+        "contributions": 2, 
         "login": "chrislkeller", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/433780?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/chrislkeller"
     }, 
     {
-        "name": "Christopher Manning", 
-        "company": null, 
-        "repositories": 2, 
-        "html_url": "https://github.com/christophermanning", 
-        "blog": "christophermanning.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/289331?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 243, 
         "login": "christophermanning", 
-        "contributions": 243
+        "avatar_url": "https://avatars.githubusercontent.com/u/289331?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/christophermanning"
     }, 
     {
-        "name": "", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/citizendrummer", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2779691?v=2", 
-        "location": "", 
+        "contributions": 6, 
         "login": "citizendrummer", 
-        "contributions": 6
+        "avatar_url": "https://avatars.githubusercontent.com/u/2779691?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/citizendrummer"
     }, 
     {
-        "name": "Claudius", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/claudiush", 
-        "blog": "http://broadbox.de", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/428616?v=2", 
-        "location": "Leipzig", 
+        "contributions": 1, 
         "login": "claudiush", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/428616?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/claudiush"
     }, 
     {
-        "name": "Chris Birk", 
-        "company": "OpenGov Foundation", 
-        "repositories": 1, 
-        "html_url": "https://github.com/cmbirk", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/764851?v=2", 
-        "location": "Washington, DC", 
+        "contributions": 3, 
         "login": "cmbirk", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/764851?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/cmbirk"
     }, 
     {
-        "name": "Cory Mollet", 
-        "company": "CityScan", 
-        "repositories": 1, 
-        "html_url": "https://github.com/cmollet", 
-        "blog": "edifice.io", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2855448?v=2", 
-        "location": "Chicago", 
+        "contributions": 4, 
         "login": "cmollet", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/2855448?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/cmollet"
     }, 
     {
-        "name": "Sheila Miguez", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/codersquid", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/529748?v=2", 
-        "location": "", 
+        "contributions": 2, 
         "login": "codersquid", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/529748?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/codersquid"
     }, 
     {
-        "name": "Colin Copeland", 
-        "company": "Caktus Consulting Group, LLC", 
-        "repositories": 1, 
-        "html_url": "https://github.com/copelco", 
-        "blog": "http://www.caktusgroup.com/services", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/129679?v=2", 
-        "location": "Durham, NC", 
+        "contributions": 18, 
         "login": "copelco", 
-        "contributions": 18
+        "avatar_url": "https://avatars.githubusercontent.com/u/129679?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/copelco"
     }, 
     {
-        "name": "cory nissen", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/corynissen", 
-        "blog": "https://twitter.com/corynissen", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/547593?v=2", 
-        "location": "Illinois", 
+        "contributions": 28, 
         "login": "corynissen", 
-        "contributions": 28
+        "avatar_url": "https://avatars.githubusercontent.com/u/547593?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/corynissen"
     }, 
     {
-        "name": "Dave Guarino", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/daguar", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/994938?v=2", 
-        "location": "Oakland, CA", 
+        "contributions": 1, 
         "login": "daguar", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/994938?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/daguar"
     }, 
     {
-        "name": "Dan Melton", 
-        "company": "Granicus", 
-        "repositories": 3, 
-        "html_url": "https://github.com/danmelton", 
-        "blog": "http://www.danmelton.org/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/99731?v=2", 
-        "location": "San Francisco", 
+        "contributions": 3, 
         "login": "danmelton", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/99731?v=2", 
+        "repositories": 3, 
+        "html_url": "https://github.com/danmelton"
     }, 
     {
-        "name": "Daniel X. O'Neil", 
-        "company": "Smart Chicago Collaborative", 
-        "repositories": 6, 
-        "html_url": "https://github.com/danxoneil", 
-        "blog": "http://www.derivativeworks.com/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/100556?v=2", 
-        "location": "Chicago", 
+        "contributions": 40, 
         "login": "danxoneil", 
-        "contributions": 40
-    }, 
-    {
-        "name": "Vidhur Vohra", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/darkzeroman", 
-        "blog": "www.vvohra.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/475056?v=2", 
-        "location": "Sunnyvale", 
-        "login": "darkzeroman", 
-        "contributions": 41
-    }, 
-    {
-        "name": "David G\u00f3mez", 
-        "company": "Datelco", 
-        "repositories": 1, 
-        "html_url": "https://github.com/davegomez", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/282903?v=2", 
-        "location": "Colombia", 
-        "login": "davegomez", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Derek Dohler", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/ddohler", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/447977?v=2", 
-        "location": "Philadelphia, PA, USA", 
-        "login": "ddohler", 
-        "contributions": 7
-    }, 
-    {
-        "name": "Dean Malmgren", 
-        "company": "Datascope Analytics", 
-        "repositories": 1, 
-        "html_url": "https://github.com/deanmalmgren", 
-        "blog": "http://twitter.com/deanmalmgren", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/255672?v=2", 
-        "location": "Chicago, IL", 
-        "login": "deanmalmgren", 
-        "contributions": 26
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/deltakam", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1202681?v=2", 
-        "location": null, 
-        "login": "deltakam", 
-        "contributions": 7
-    }, 
-    {
-        "name": "Derek Eder", 
-        "company": "DataMade, Open City", 
-        "repositories": 39, 
-        "html_url": "https://github.com/derekeder", 
-        "blog": "derekeder.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
-        "location": "Chicago, IL", 
-        "login": "derekeder", 
-        "contributions": 2712
-    }, 
-    {
-        "name": "Anatoly Bondarenko", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/devrand", 
-        "blog": "http://texty.org.ua", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/45061?v=2", 
-        "location": null, 
-        "login": "devrand", 
-        "contributions": 2
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/dkukral", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/60177?v=2", 
-        "location": null, 
-        "login": "dkukral", 
-        "contributions": 3
-    }, 
-    {
-        "name": "Dan Fehrenbach", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/dnfehren", 
-        "blog": "dnfehrenbach.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/206100?v=2", 
-        "location": "Chicago", 
-        "login": "dnfehren", 
-        "contributions": 5
-    }, 
-    {
-        "name": "Drew Dara-Abrams", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/drewda", 
-        "blog": "http://drew.dara-abrams.com/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/212369?v=2", 
-        "location": "California", 
-        "login": "drewda", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Drew Freyling", 
-        "company": "Dingu Blue", 
-        "repositories": 1, 
-        "html_url": "https://github.com/drewfreyling", 
-        "blog": "http://decompile.it/blog/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1145869?v=2", 
-        "location": "Brisbane, Australia", 
-        "login": "drewfreyling", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Daniel Trebbien", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/dtrebbien", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/277166?v=2", 
-        "location": null, 
-        "login": "dtrebbien", 
-        "contributions": 11
-    }, 
-    {
-        "name": "David Zwarg", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/dzwarg", 
-        "blog": "http://dzwarg.github.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/546151?v=2", 
-        "location": "Cambridge, MA", 
-        "login": "dzwarg", 
-        "contributions": 1
-    }, 
-    {
-        "name": "David Eads", 
-        "company": null, 
-        "repositories": 5, 
-        "html_url": "https://github.com/eads", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/634572?v=2", 
-        "location": null, 
-        "login": "eads", 
-        "contributions": 675
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/ejette", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4471635?v=2", 
-        "location": null, 
-        "login": "ejette", 
-        "contributions": 25
-    }, 
-    {
-        "name": "Emmanuel Kala", 
-        "company": "Ushahidi Inc", 
-        "repositories": 1, 
-        "html_url": "https://github.com/ekala", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/126785?v=2", 
-        "location": "Nairobi, Kenya", 
-        "login": "ekala", 
-        "contributions": 34
-    }, 
-    {
-        "name": "Elena Eneva", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/elenaeneva", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4613149?v=2", 
-        "location": null, 
-        "login": "elenaeneva", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Eli Dupuis", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/elidupuis", 
-        "blog": "http://elidupuis.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/196410?v=2", 
-        "location": "Edmonton AB", 
-        "login": "elidupuis", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Elnaz Moshfeghian", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/elnaz", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1043187?v=2", 
-        "location": "", 
-        "login": "elnaz", 
-        "contributions": 88
-    }, 
-    {
-        "name": "Eric McConville", 
-        "company": "Chicago Tribune", 
-        "repositories": 1, 
-        "html_url": "https://github.com/emcconville", 
-        "blog": "http://emcconville.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/84594?v=2", 
-        "location": "Chicago, Il", 
-        "login": "emcconville", 
-        "contributions": 2
-    }, 
-    {
-        "name": null, 
-        "company": "ThoughtWorks", 
-        "repositories": 2, 
-        "html_url": "https://github.com/emirose", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/971283?v=2", 
-        "location": "Chicago, IL", 
-        "login": "emirose", 
-        "contributions": 10
-    }, 
-    {
-        "name": "Tharique Azeez", 
-        "company": "Niram Labs", 
-        "repositories": 1, 
-        "html_url": "https://github.com/enathu", 
-        "blog": "http://niram.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/62147?v=2", 
-        "location": "London, England", 
-        "login": "enathu", 
-        "contributions": 3
-    }, 
-    {
-        "name": "Eric Carty-Fickes", 
-        "company": "Northwestern University", 
-        "repositories": 1, 
-        "html_url": "https://github.com/ericcf", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/58693?v=2", 
-        "location": "Chicago, IL", 
-        "login": "ericcf", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Emily Rowe Wiegand", 
-        "company": "Chapin Hall at the University of Chicago", 
-        "repositories": 1, 
-        "html_url": "https://github.com/erowewiegand", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3254445?v=2", 
-        "location": "Chicago, IL", 
-        "login": "erowewiegand", 
-        "contributions": 126
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/everyone-else", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6590888?v=2", 
-        "location": null, 
-        "login": "everyone-else", 
-        "contributions": 4
-    }, 
-    {
-        "name": "Eric van Zanten", 
-        "company": "", 
-        "repositories": 22, 
-        "html_url": "https://github.com/evz", 
-        "blog": "www.static-eric.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
-        "location": "Chicago, IL", 
-        "login": "evz", 
-        "contributions": 849
-    }, 
-    {
-        "name": "David Fawcett", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/fawcett", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1068871?v=2", 
-        "location": null, 
-        "login": "fawcett", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Forest Gregg", 
-        "company": "University of Chicago, Department of Sociology", 
-        "repositories": 19, 
-        "html_url": "https://github.com/fgregg", 
-        "blog": "http://bunkum.us", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=2", 
-        "location": "Chicago, IL", 
-        "login": "fgregg", 
-        "contributions": 1574
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/fisch42", 
-        "blog": "http://fionaschmidtke.de/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/847843?v=2", 
-        "location": null, 
-        "login": "fisch42", 
-        "contributions": 1
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 3, 
-        "html_url": "https://github.com/fishmanadam", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1256533?v=2", 
-        "location": null, 
-        "login": "fishmanadam", 
-        "contributions": 113
-    }, 
-    {
-        "name": "Mickael Allonneau", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/flawyte", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1585006?v=2", 
-        "location": "France", 
-        "login": "flawyte", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Liz", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/fosslien", 
-        "blog": "http://fosslien.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3111651?v=2", 
-        "location": null, 
-        "login": "fosslien", 
-        "contributions": 2
-    }, 
-    {
-        "name": "Jonathan Freeman", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/freethejazz", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1261421?v=2", 
-        "location": "Chicago, Il", 
-        "login": "freethejazz", 
-        "contributions": 11
-    }, 
-    {
-        "name": "Fureigh", 
-        "company": "Code for America / Fureigh Consulting", 
-        "repositories": 1, 
-        "html_url": "https://github.com/fureigh", 
-        "blog": "http://www.fureigh.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1244599?v=2", 
-        "location": "San Francisco, CA / Brooklyn, NY", 
-        "login": "fureigh", 
-        "contributions": 2
-    }, 
-    {
-        "name": "Gabriel Burt", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/gburt", 
-        "blog": "http://gburt.blogspot.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2048?v=2", 
-        "location": null, 
-        "login": "gburt", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Gilles Doge", 
-        "company": "Antistatique.net", 
-        "repositories": 1, 
-        "html_url": "https://github.com/gido", 
-        "blog": "http://twitter.com/gil_les", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/101859?v=2", 
-        "location": "Lausanne, Switzerland", 
-        "login": "gido", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Hendrik Grahl", 
-        "company": "Namics AG", 
-        "repositories": 1, 
-        "html_url": "https://github.com/grahl", 
-        "blog": "http://www.grahl.ch", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/60733?v=2", 
-        "location": "St. Gallen", 
-        "login": "grahl", 
-        "contributions": 4
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/greggish", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3630150?v=2", 
-        "location": null, 
-        "login": "greggish", 
-        "contributions": 1
-    }, 
-    {
-        "name": "luke crouch", 
-        "company": "mozilla", 
-        "repositories": 1, 
-        "html_url": "https://github.com/groovecoder", 
-        "blog": "http://groovecoder.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/71928?v=2", 
-        "location": "tulsa, ok", 
-        "login": "groovecoder", 
-        "contributions": 25
-    }, 
-    {
-        "name": "Miguel", 
-        "company": null, 
-        "repositories": 2, 
-        "html_url": "https://github.com/guelo", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3681163?v=2", 
-        "location": "Oakland, CA", 
-        "login": "guelo", 
-        "contributions": 2
-    }, 
-    {
-        "name": "Gunnar Lium", 
-        "company": "Aptoma AS", 
-        "repositories": 1, 
-        "html_url": "https://github.com/gunnarlium", 
-        "blog": "http://www.gunnarlium.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/207556?v=2", 
-        "location": "Oslo, Norway", 
-        "login": "gunnarlium", 
-        "contributions": 1
-    }, 
-    {
-        "name": "James Michael DuPont", 
-        "company": "Introspector Software Services", 
-        "repositories": 1, 
-        "html_url": "https://github.com/h4ck3rm1k3", 
-        "blog": "http://rdfintrospector2.blogspot.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/34903?v=2", 
-        "location": "Lawrence, Kansas, USA", 
-        "login": "h4ck3rm1k3", 
-        "contributions": 2
-    }, 
-    {
-        "name": "Matt Hampel", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/hampelm", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/86435?v=2", 
-        "location": "Detroit, MI", 
-        "login": "hampelm", 
-        "contributions": 4
-    }, 
-    {
-        "name": "Harper Reed", 
-        "company": "Harper Rules, LLC", 
-        "repositories": 3, 
-        "html_url": "https://github.com/harperreed", 
-        "blog": "http://nata2.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/18504?v=2", 
-        "location": "Chicago, Il", 
-        "login": "harperreed", 
-        "contributions": 17
-    }, 
-    {
-        "name": "Harry Wood", 
-        "company": "TransportAPI.com + OpenStreetMap & HOT volunteer", 
-        "repositories": 1, 
-        "html_url": "https://github.com/harry-wood", 
-        "blog": "http://harrywood.co.uk", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/227525?v=2", 
-        "location": "London, UK", 
-        "login": "harry-wood", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Heather Billings", 
-        "company": null, 
-        "repositories": 2, 
-        "html_url": "https://github.com/hbillings", 
-        "blog": "http://heatherjaybillings.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/509309?v=2", 
-        "location": "Chicago, IL", 
-        "login": "hbillings", 
-        "contributions": 66
-    }, 
-    {
-        "name": "Hasan", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/hdiwan", 
-        "blog": "http://www.prolificprogrammer.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/121179?v=2", 
-        "location": "United States", 
-        "login": "hdiwan", 
-        "contributions": 3
-    }, 
-    {
-        "name": "Jonathan Wilde", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/hellojwilde", 
-        "blog": "http://jwilde.me", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/44190?v=2", 
-        "location": "Kennedy Town, Hong Kong", 
-        "login": "hellojwilde", 
-        "contributions": 2
-    }, 
-    {
-        "name": null, 
-        "company": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/100556?v=2", 
         "repositories": 6, 
-        "html_url": "https://github.com/hunterowens", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1735650?v=2", 
-        "location": null, 
+        "html_url": "https://github.com/danxoneil"
+    }, 
+    {
+        "contributions": 41, 
+        "login": "darkzeroman", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/475056?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/darkzeroman"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "davegomez", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/282903?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/davegomez"
+    }, 
+    {
+        "contributions": 7, 
+        "login": "ddohler", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/447977?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ddohler"
+    }, 
+    {
+        "contributions": 26, 
+        "login": "deanmalmgren", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/255672?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/deanmalmgren"
+    }, 
+    {
+        "contributions": 7, 
+        "login": "deltakam", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1202681?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/deltakam"
+    }, 
+    {
+        "contributions": 2712, 
+        "login": "derekeder", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
+        "repositories": 39, 
+        "html_url": "https://github.com/derekeder"
+    }, 
+    {
+        "contributions": 2, 
+        "login": "devrand", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/45061?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/devrand"
+    }, 
+    {
+        "contributions": 3, 
+        "login": "dkukral", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/60177?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/dkukral"
+    }, 
+    {
+        "contributions": 5, 
+        "login": "dnfehren", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/206100?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/dnfehren"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "drewda", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/212369?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/drewda"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "drewfreyling", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1145869?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/drewfreyling"
+    }, 
+    {
+        "contributions": 11, 
+        "login": "dtrebbien", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/277166?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/dtrebbien"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "dzwarg", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/546151?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/dzwarg"
+    }, 
+    {
+        "contributions": 675, 
+        "login": "eads", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/634572?v=2", 
+        "repositories": 5, 
+        "html_url": "https://github.com/eads"
+    }, 
+    {
+        "contributions": 25, 
+        "login": "ejette", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4471635?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ejette"
+    }, 
+    {
+        "contributions": 34, 
+        "login": "ekala", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/126785?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ekala"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "elenaeneva", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4613149?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/elenaeneva"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "elidupuis", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/196410?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/elidupuis"
+    }, 
+    {
+        "contributions": 88, 
+        "login": "elnaz", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1043187?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/elnaz"
+    }, 
+    {
+        "contributions": 2, 
+        "login": "emcconville", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/84594?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/emcconville"
+    }, 
+    {
+        "contributions": 10, 
+        "login": "emirose", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/971283?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/emirose"
+    }, 
+    {
+        "contributions": 3, 
+        "login": "enathu", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/62147?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/enathu"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "ericcf", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/58693?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ericcf"
+    }, 
+    {
+        "contributions": 126, 
+        "login": "erowewiegand", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3254445?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/erowewiegand"
+    }, 
+    {
+        "contributions": 4, 
+        "login": "everyone-else", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6590888?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/everyone-else"
+    }, 
+    {
+        "contributions": 849, 
+        "login": "evz", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
+        "repositories": 22, 
+        "html_url": "https://github.com/evz"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "fawcett", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1068871?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/fawcett"
+    }, 
+    {
+        "contributions": 1574, 
+        "login": "fgregg", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=2", 
+        "repositories": 19, 
+        "html_url": "https://github.com/fgregg"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "fisch42", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/847843?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/fisch42"
+    }, 
+    {
+        "contributions": 113, 
+        "login": "fishmanadam", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1256533?v=2", 
+        "repositories": 3, 
+        "html_url": "https://github.com/fishmanadam"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "flawyte", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1585006?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/flawyte"
+    }, 
+    {
+        "contributions": 2, 
+        "login": "fosslien", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3111651?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/fosslien"
+    }, 
+    {
+        "contributions": 11, 
+        "login": "freethejazz", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1261421?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/freethejazz"
+    }, 
+    {
+        "contributions": 2, 
+        "login": "fureigh", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1244599?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/fureigh"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "gburt", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2048?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/gburt"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "gido", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/101859?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/gido"
+    }, 
+    {
+        "contributions": 4, 
+        "login": "grahl", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/60733?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/grahl"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "greggish", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3630150?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/greggish"
+    }, 
+    {
+        "contributions": 25, 
+        "login": "groovecoder", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/71928?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/groovecoder"
+    }, 
+    {
+        "contributions": 2, 
+        "login": "guelo", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3681163?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/guelo"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "gunnarlium", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/207556?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/gunnarlium"
+    }, 
+    {
+        "contributions": 2, 
+        "login": "h4ck3rm1k3", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/34903?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/h4ck3rm1k3"
+    }, 
+    {
+        "contributions": 4, 
+        "login": "hampelm", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/86435?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/hampelm"
+    }, 
+    {
+        "contributions": 17, 
+        "login": "harperreed", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18504?v=2", 
+        "repositories": 3, 
+        "html_url": "https://github.com/harperreed"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "harry-wood", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/227525?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/harry-wood"
+    }, 
+    {
+        "contributions": 66, 
+        "login": "hbillings", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/509309?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/hbillings"
+    }, 
+    {
+        "contributions": 3, 
+        "login": "hdiwan", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/121179?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/hdiwan"
+    }, 
+    {
+        "contributions": 2, 
+        "login": "hellojwilde", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/44190?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/hellojwilde"
+    }, 
+    {
+        "contributions": 229, 
         "login": "hunterowens", 
-        "contributions": 229
+        "avatar_url": "https://avatars.githubusercontent.com/u/1735650?v=2", 
+        "repositories": 6, 
+        "html_url": "https://github.com/hunterowens"
     }, 
     {
-        "name": "Ian Dees", 
-        "company": null, 
-        "repositories": 8, 
-        "html_url": "https://github.com/iandees", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/261584?v=2", 
-        "location": null, 
+        "contributions": 595, 
         "login": "iandees", 
-        "contributions": 595
+        "avatar_url": "https://avatars.githubusercontent.com/u/261584?v=2", 
+        "repositories": 8, 
+        "html_url": "https://github.com/iandees"
     }, 
     {
-        "name": "Idan Gazit", 
-        "company": "Heroku", 
-        "repositories": 1, 
-        "html_url": "https://github.com/idan", 
-        "blog": "http://gazit.me", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/22723?v=2", 
-        "location": "Tel Aviv, Israel", 
+        "contributions": 1, 
         "login": "idan", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/22723?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/idan"
     }, 
     {
-        "name": "Irwin", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/irwinwilliams", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1428703?v=2", 
-        "location": null, 
+        "contributions": 3, 
         "login": "irwinwilliams", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/1428703?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/irwinwilliams"
     }, 
     {
-        "name": "Istvan Pusztai", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/istvanp", 
-        "blog": "istvan.co", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/179335?v=2", 
-        "location": "Montreal, Canada", 
+        "contributions": 4, 
         "login": "istvanp", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/179335?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/istvanp"
     }, 
     {
-        "name": "Paul Ivanov", 
-        "company": "IPython", 
-        "repositories": 1, 
-        "html_url": "https://github.com/ivanov", 
-        "blog": "http://pirsquared.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/118211?v=2", 
-        "location": "", 
+        "contributions": 4, 
         "login": "ivanov", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/118211?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ivanov"
     }, 
     {
-        "name": "Jonathan Polin", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/j-po", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3677798?v=2", 
-        "location": "Oakland, CA", 
+        "contributions": 4, 
         "login": "j-po", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/3677798?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/j-po"
     }, 
     {
-        "name": "Jaakko Helleranta", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/jaakkoh", 
-        "blog": "http://about.me/jaakkoh", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/352079?v=2", 
-        "location": "Managua, NI", 
+        "contributions": 3, 
         "login": "jaakkoh", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/352079?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jaakkoh"
     }, 
     {
-        "name": "James Turk", 
-        "company": "Sunlight Foundation", 
-        "repositories": 2, 
-        "html_url": "https://github.com/jamesturk", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/8034?v=2", 
-        "location": "Somerville, MA", 
+        "contributions": 24, 
         "login": "jamesturk", 
-        "contributions": 24
+        "avatar_url": "https://avatars.githubusercontent.com/u/8034?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/jamesturk"
     }, 
     {
-        "name": "Jason Lally", 
-        "company": "San Francisco Mayor's Office of Civic Innovation", 
-        "repositories": 1, 
-        "html_url": "https://github.com/jasonlally", 
-        "blog": "http://www.jasonlally.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/534176?v=2", 
-        "location": "San Francisco, CA", 
+        "contributions": 2, 
         "login": "jasonlally", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/534176?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jasonlally"
     }, 
     {
-        "name": "Jason Wright", 
-        "company": "Dissident Design", 
-        "repositories": 1, 
-        "html_url": "https://github.com/jasontwright", 
-        "blog": "www.dissidentdesign.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/418087?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 2, 
         "login": "jasontwright", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/418087?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jasontwright"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jbranigan", 
-        "blog": "branigan.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1508618?v=2", 
-        "location": "Philadelphia", 
+        "contributions": 5, 
         "login": "jbranigan", 
-        "contributions": 5
+        "avatar_url": "https://avatars.githubusercontent.com/u/1508618?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jbranigan"
     }, 
     {
-        "name": "Justin Bozonier", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jcbozonier", 
-        "blog": "http://www.databozo.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/29409?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 30, 
         "login": "jcbozonier", 
-        "contributions": 30
+        "avatar_url": "https://avatars.githubusercontent.com/u/29409?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jcbozonier"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jcourtois", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/5313148?v=2", 
-        "location": null, 
+        "contributions": 11, 
         "login": "jcourtois", 
-        "contributions": 11
+        "avatar_url": "https://avatars.githubusercontent.com/u/5313148?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jcourtois"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jeffhaack", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/322468?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "jeffhaack", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/322468?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jeffhaack"
     }, 
     {
-        "name": "Jennifer Lindner", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jenlindner", 
-        "blog": "http://photosandrockets.tumblr.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/186452?v=2", 
-        "location": null, 
+        "contributions": 11, 
         "login": "jenlindner", 
-        "contributions": 11
+        "avatar_url": "https://avatars.githubusercontent.com/u/186452?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jenlindner"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jeremygilbert", 
-        "blog": "http://www.jeremygilbert.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/740388?v=2", 
-        "location": null, 
+        "contributions": 7, 
         "login": "jeremygilbert", 
-        "contributions": 7
+        "avatar_url": "https://avatars.githubusercontent.com/u/740388?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jeremygilbert"
     }, 
     {
-        "name": "Jim Breen", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jimbreen", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/131489?v=2", 
-        "location": null, 
+        "contributions": 4, 
         "login": "jimbreen", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/131489?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jimbreen"
     }, 
     {
-        "name": "Jesse Kriss", 
-        "company": "jklabs", 
-        "repositories": 2, 
-        "html_url": "https://github.com/jkriss", 
-        "blog": "jklabs.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6276?v=2", 
-        "location": "Pasadena, CA", 
+        "contributions": 8, 
         "login": "jkriss", 
-        "contributions": 8
+        "avatar_url": "https://avatars.githubusercontent.com/u/6276?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/jkriss"
     }, 
     {
-        "name": "Joanne", 
-        "company": "thoughtbot, inc.", 
-        "repositories": 1, 
-        "html_url": "https://github.com/joannecheng", 
-        "blog": "http://joannecheng.me", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/638351?v=2", 
-        "location": "Denver, CO", 
+        "contributions": 1, 
         "login": "joannecheng", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/638351?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/joannecheng"
     }, 
     {
-        "name": "Joao Antunes", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/joao", 
-        "blog": "joaoantunes.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1041?v=2", 
-        "location": "Portugal", 
+        "contributions": 2, 
         "login": "joao", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/1041?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/joao"
     }, 
     {
-        "name": "Giorgio Cavaggion", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/johnbyron", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2515595?v=2", 
-        "location": null, 
+        "contributions": 43, 
         "login": "johnbyron", 
-        "contributions": 43
+        "avatar_url": "https://avatars.githubusercontent.com/u/2515595?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/johnbyron"
     }, 
     {
-        "name": "Josh Marcus", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/joshmarcus", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/241093?v=2", 
-        "location": "Philadelphia, PA", 
+        "contributions": 13, 
         "login": "joshmarcus", 
-        "contributions": 13
+        "avatar_url": "https://avatars.githubusercontent.com/u/241093?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/joshmarcus"
     }, 
     {
-        "name": "John Fahrenbach", 
-        "company": "`", 
-        "repositories": 1, 
-        "html_url": "https://github.com/jpfahrenbach", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3661180?v=2", 
-        "location": null, 
+        "contributions": 7, 
         "login": "jpfahrenbach", 
-        "contributions": 7
+        "avatar_url": "https://avatars.githubusercontent.com/u/3661180?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jpfahrenbach"
     }, 
     {
-        "name": "James McKinney", 
-        "company": "@mckinneyjames", 
-        "repositories": 1, 
-        "html_url": "https://github.com/jpmckinney", 
-        "blog": "http://opennorth.ca", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/26463?v=2", 
-        "location": "Montreal, Quebec, Canada", 
+        "contributions": 3, 
         "login": "jpmckinney", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/26463?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jpmckinney"
     }, 
     {
-        "name": "Juan-Pablo Velez", 
-        "company": "Open City", 
-        "repositories": 18, 
-        "html_url": "https://github.com/jpvelez", 
-        "blog": "http://www.twitter.com/jpvelez", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/533641?v=2", 
-        "location": "Chicago", 
+        "contributions": 289, 
         "login": "jpvelez", 
-        "contributions": 289
+        "avatar_url": "https://avatars.githubusercontent.com/u/533641?v=2", 
+        "repositories": 18, 
+        "html_url": "https://github.com/jpvelez"
     }, 
     {
-        "name": "Jeremy Satterfield", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jsatt", 
-        "blog": "http://jsatt.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/498431?v=2", 
-        "location": "Tulsa, OK", 
+        "contributions": 3, 
         "login": "jsatt", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/498431?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jsatt"
     }, 
     {
-        "name": "Jim", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jstoddart", 
-        "blog": "jstoddart.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3048733?v=2", 
-        "location": "NYC", 
+        "contributions": 1, 
         "login": "jstoddart", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/3048733?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jstoddart"
     }, 
     {
-        "name": "Joe Walsh", 
-        "company": "", 
-        "repositories": 2, 
-        "html_url": "https://github.com/jtwalsh0", 
-        "blog": "http://joestradam.us", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4280678?v=2", 
-        "location": "", 
+        "contributions": 162, 
         "login": "jtwalsh0", 
-        "contributions": 162
+        "avatar_url": "https://avatars.githubusercontent.com/u/4280678?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/jtwalsh0"
     }, 
     {
-        "name": "J Wilson", 
-        "company": "", 
-        "repositories": 3, 
-        "html_url": "https://github.com/jywsn", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=2", 
-        "location": "", 
+        "contributions": 369, 
         "login": "jywsn", 
-        "contributions": 369
+        "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=2", 
+        "repositories": 3, 
+        "html_url": "https://github.com/jywsn"
     }, 
     {
-        "name": "Andrew Kos", 
-        "company": "CITYTECH, Inc.", 
-        "repositories": 1, 
-        "html_url": "https://github.com/kand", 
-        "blog": "andrewkos.xxx", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/484777?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 2, 
         "login": "kand", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/484777?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kand"
     }, 
     {
-        "name": "Keith Gordon", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/keithgordon", 
-        "blog": "www.keithgordon.co", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2928450?v=2", 
-        "location": "Chicago", 
+        "contributions": 3, 
         "login": "keithgordon", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/2928450?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/keithgordon"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/kevinbandy", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1041911?v=2", 
-        "location": null, 
+        "contributions": 2, 
         "login": "kevinbandy", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/1041911?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kevinbandy"
     }, 
     {
-        "name": "Kevin Schaul", 
-        "company": "The Washington Post", 
-        "repositories": 1, 
-        "html_url": "https://github.com/kevinschaul", 
-        "blog": "http://kevin.schaul.io", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/675639?v=2", 
-        "location": "Washington, D.C.", 
+        "contributions": 1, 
         "login": "kevinschaul", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/675639?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kevinschaul"
     }, 
     {
-        "name": "Karl Fogel", 
-        "company": "Open Tech Strategies, LLC", 
-        "repositories": 3, 
-        "html_url": "https://github.com/kfogel", 
-        "blog": "http://www.red-bean.com/kfogel", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/401111?v=2", 
-        "location": "Chicago, IL, USA", 
+        "contributions": 27, 
         "login": "kfogel", 
-        "contributions": 27
+        "avatar_url": "https://avatars.githubusercontent.com/u/401111?v=2", 
+        "repositories": 3, 
+        "html_url": "https://github.com/kfogel"
     }, 
     {
-        "name": "Konstantin K\u00e4fer", 
-        "company": "Mapbox", 
-        "repositories": 1, 
-        "html_url": "https://github.com/kkaefer", 
-        "blog": "http://kkaefer.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/52399?v=2", 
-        "location": "Berlin, Germany", 
+        "contributions": 2, 
         "login": "kkaefer", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/52399?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kkaefer"
     }, 
     {
-        "name": "KK Rebecca Lai", 
-        "company": "Knight Lab", 
-        "repositories": 1, 
-        "html_url": "https://github.com/kklai", 
-        "blog": "kkrebeccalai.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2809173?v=2", 
-        "location": "Evanston, IL", 
+        "contributions": 11, 
         "login": "kklai", 
-        "contributions": 11
+        "avatar_url": "https://avatars.githubusercontent.com/u/2809173?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kklai"
     }, 
     {
-        "name": "Klas Karlsson", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/klakar", 
-        "blog": "http://geosupportsystem.wordpress.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6375959?v=2", 
-        "location": null, 
+        "contributions": 4, 
         "login": "klakar", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/6375959?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/klakar"
     }, 
     {
-        "name": "Karla Macedo", 
-        "company": "FABERNOVEL", 
-        "repositories": 2, 
-        "html_url": "https://github.com/kmacedo", 
-        "blog": "twitter.com/#!/KMimagine", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/437140?v=2", 
-        "location": "United States", 
+        "contributions": 2, 
         "login": "kmacedo", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/437140?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/kmacedo"
     }, 
     {
-        "name": "Karen Tracey", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/kmtracey", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/430048?v=2", 
-        "location": "Apex, NC USA", 
+        "contributions": 4, 
         "login": "kmtracey", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/430048?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kmtracey"
     }, 
     {
-        "name": "Bill Hunt", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/krues8dr", 
-        "blog": "http://krues8dr.com/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/127904?v=2", 
-        "location": "Charlottesville, VA", 
+        "contributions": 37, 
         "login": "krues8dr", 
-        "contributions": 37
+        "avatar_url": "https://avatars.githubusercontent.com/u/127904?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/krues8dr"
     }, 
     {
-        "name": "Kenny Shepard", 
-        "company": "Azavea", 
-        "repositories": 1, 
-        "html_url": "https://github.com/kshepard", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6386?v=2", 
-        "location": "Philadelphia, PA", 
+        "contributions": 16, 
         "login": "kshepard", 
-        "contributions": 16
+        "avatar_url": "https://avatars.githubusercontent.com/u/6386?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kshepard"
     }, 
     {
-        "name": "Kagan", 
-        "company": "Reflectto", 
-        "repositories": 2, 
-        "html_url": "https://github.com/kunaldi", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/146836?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 250, 
         "login": "kunaldi", 
-        "contributions": 250
+        "avatar_url": "https://avatars.githubusercontent.com/u/146836?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/kunaldi"
     }, 
     {
-        "name": "Kyle Kurtenbach", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/kurtenbachkyle", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/684241?v=2", 
-        "location": "Chicago IL", 
+        "contributions": 1, 
         "login": "kurtenbachkyle", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/684241?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kurtenbachkyle"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/kwade27", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4378607?v=2", 
-        "location": null, 
+        "contributions": 5, 
         "login": "kwade27", 
-        "contributions": 5
+        "avatar_url": "https://avatars.githubusercontent.com/u/4378607?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kwade27"
     }, 
     {
-        "name": "Moln\u00e1r L\u00e1szl\u00f3", 
-        "company": "Statlogics Zrt", 
-        "repositories": 1, 
-        "html_url": "https://github.com/lacimol", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/623747?v=2", 
-        "location": "Budapest, Hungary", 
+        "contributions": 1, 
         "login": "lacimol", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/623747?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/lacimol"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/ladyson", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1771715?v=2", 
-        "location": null, 
+        "contributions": 21, 
         "login": "ladyson", 
-        "contributions": 21
+        "avatar_url": "https://avatars.githubusercontent.com/u/1771715?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ladyson"
     }, 
     {
-        "name": "Laura Hamilton", 
-        "company": "Additive Analytics", 
-        "repositories": 1, 
-        "html_url": "https://github.com/lauradhamilton", 
-        "blog": "www.lauradhamilton.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1467775?v=2", 
-        "location": "Chicago", 
+        "contributions": 1, 
         "login": "lauradhamilton", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/1467775?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/lauradhamilton"
     }, 
     {
-        "name": "Lee Hachadoorian", 
-        "company": "Dartmouth College", 
-        "repositories": 1, 
-        "html_url": "https://github.com/leehach", 
-        "blog": "http://geospatial.commons.gc.cuny.edu/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1497156?v=2", 
-        "location": "Hanover, NH", 
+        "contributions": 9, 
         "login": "leehach", 
-        "contributions": 9
+        "avatar_url": "https://avatars.githubusercontent.com/u/1497156?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/leehach"
     }, 
     {
-        "name": "Bill Mill", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/llimllib", 
-        "blog": "http://billmill.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/7150?v=2", 
-        "location": "Portland, ME", 
+        "contributions": 2, 
         "login": "llimllib", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/7150?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/llimllib"
     }, 
     {
-        "name": "Greg Kempe", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/longhotsummer", 
-        "blog": "http://kempe.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4178542?v=2", 
-        "location": "Cape Town, South Africa", 
+        "contributions": 1, 
         "login": "longhotsummer", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/4178542?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/longhotsummer"
     }, 
     {
-        "name": "Lou Huang", 
-        "company": "Socrata", 
-        "repositories": 1, 
-        "html_url": "https://github.com/louh", 
-        "blog": "louhuang.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2553268?v=2", 
-        "location": "Washington, D.C.", 
+        "contributions": 5, 
         "login": "louh", 
-        "contributions": 5
+        "avatar_url": "https://avatars.githubusercontent.com/u/2553268?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/louh"
     }, 
     {
-        "name": "Luke Tucker", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/ltucker", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/64618?v=2", 
-        "location": "New York, NY", 
+        "contributions": 177, 
         "login": "ltucker", 
-        "contributions": 177
+        "avatar_url": "https://avatars.githubusercontent.com/u/64618?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ltucker"
     }, 
     {
-        "name": "Jonathan Giuffrida", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/lucaluca", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1857606?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 10, 
         "login": "lucaluca", 
-        "contributions": 10
+        "avatar_url": "https://avatars.githubusercontent.com/u/1857606?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/lucaluca"
     }, 
     {
-        "name": "Magnus Persson", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/magnusp", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1431685?v=2", 
-        "location": "Sweden", 
+        "contributions": 1, 
         "login": "magnusp", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/1431685?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/magnusp"
     }, 
     {
-        "name": "Maning Sambale", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/maning", 
-        "blog": "http://epsg4253.wordpress.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/353700?v=2", 
-        "location": "Philippines", 
+        "contributions": 2, 
         "login": "maning", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/353700?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/maning"
     }, 
     {
-        "name": "Nick Doiron", 
-        "company": "Museum of Modern Art", 
-        "repositories": 7, 
-        "html_url": "https://github.com/mapmeld", 
-        "blog": "http://mapmeld.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/643918?v=2", 
-        "location": "New York City, NY", 
+        "contributions": 135, 
         "login": "mapmeld", 
-        "contributions": 135
+        "avatar_url": "https://avatars.githubusercontent.com/u/643918?v=2", 
+        "repositories": 7, 
+        "html_url": "https://github.com/mapmeld"
     }, 
     {
-        "name": "Marcell Mars", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/marcellmars", 
-        "blog": "http://ki.ber.kom.uni.st", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/288208?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "marcellmars", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/288208?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/marcellmars"
     }, 
     {
-        "name": "Mark Huberty", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/markhuberty", 
-        "blog": "http://markhuberty.berkeley.edu", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/290369?v=2", 
-        "location": null, 
+        "contributions": 35, 
         "login": "markhuberty", 
-        "contributions": 35
+        "avatar_url": "https://avatars.githubusercontent.com/u/290369?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/markhuberty"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/matthewgee", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/320542?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "matthewgee", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/320542?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/matthewgee"
     }, 
     {
-        "name": "Matthew Wigginton Conway", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/mattwigway", 
-        "blog": "www.indicatrix.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/566958?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 4, 
         "login": "mattwigway", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/566958?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mattwigway"
     }, 
     {
-        "name": "Max Ogden", 
-        "company": "Not available for hire", 
-        "repositories": 2, 
-        "html_url": "https://github.com/maxogden", 
-        "blog": "https://gittip.com/maxogden/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/39759?v=2", 
-        "location": "Oakland, CA", 
+        "contributions": 2, 
         "login": "maxogden", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/39759?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/maxogden"
     }, 
     {
-        "name": "Michael E. Karpeles", 
-        "company": "Hackerlist, Inc", 
-        "repositories": 1, 
-        "html_url": "https://github.com/mekarpeles", 
-        "blog": "http://michaelkarpeles.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/978325?v=2", 
-        "location": "San Francisco", 
+        "contributions": 4, 
         "login": "mekarpeles", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/978325?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mekarpeles"
     }, 
     {
-        "name": "Michael Hartl", 
-        "company": "Softcover, Ruby on Rails Tutorial", 
-        "repositories": 1, 
-        "html_url": "https://github.com/mhartl", 
-        "blog": "http://railstutorial.org/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6232?v=2", 
-        "location": "Pasadena, CA", 
+        "contributions": 14, 
         "login": "mhartl", 
-        "contributions": 14
+        "avatar_url": "https://avatars.githubusercontent.com/u/6232?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mhartl"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/mhong19414", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/7455622?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "mhong19414", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/7455622?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mhong19414"
     }, 
     {
-        "name": "Mike Helmick", 
-        "company": "Drund", 
-        "repositories": 1, 
-        "html_url": "https://github.com/michaelhelmick", 
-        "blog": "http://blog.michaelhelmick.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/352270?v=2", 
-        "location": "Austintown, OH", 
+        "contributions": 1, 
         "login": "michaelhelmick", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/352270?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/michaelhelmick"
     }, 
     {
-        "name": "Mick Thompson", 
-        "company": "Mapbox", 
-        "repositories": 1, 
-        "html_url": "https://github.com/mick", 
-        "blog": "http://mick.im", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/26278?v=2", 
-        "location": "San Francisco, CA", 
+        "contributions": 66, 
         "login": "mick", 
-        "contributions": 66
+        "avatar_url": "https://avatars.githubusercontent.com/u/26278?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mick"
     }, 
     {
-        "name": "Miguel Peixe", 
-        "company": "Cardume", 
-        "repositories": 1, 
-        "html_url": "https://github.com/miguelpeixe", 
-        "blog": "http://cardume.art.br/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/820752?v=2", 
-        "location": "S\u00e3o Paulo, SP - Brazil", 
+        "contributions": 1, 
         "login": "miguelpeixe", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/820752?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/miguelpeixe"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 2, 
-        "html_url": "https://github.com/migurski", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/58730?v=2", 
-        "location": "", 
+        "contributions": 244, 
         "login": "migurski", 
-        "contributions": 244
+        "avatar_url": "https://avatars.githubusercontent.com/u/58730?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/migurski"
     }, 
     {
-        "name": "Milton Mazzarri", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/milmazz", 
-        "blog": "milmazz.uno", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/34700?v=2", 
-        "location": "M\u00e9xico", 
+        "contributions": 2, 
         "login": "milmazz", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/34700?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/milmazz"
     }, 
     {
-        "name": "Mike Ivanov", 
-        "company": "LocalWiki", 
-        "repositories": 1, 
-        "html_url": "https://github.com/mivanov", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/611807?v=2", 
-        "location": "San Francisco, CA", 
+        "contributions": 442, 
         "login": "mivanov", 
-        "contributions": 442
+        "avatar_url": "https://avatars.githubusercontent.com/u/611807?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mivanov"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/mizamudio", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/5233474?v=2", 
-        "location": null, 
+        "contributions": 5, 
         "login": "mizamudio", 
-        "contributions": 5
+        "avatar_url": "https://avatars.githubusercontent.com/u/5233474?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mizamudio"
     }, 
     {
-        "name": "Mjumbe Poe", 
-        "company": "", 
-        "repositories": 3, 
-        "html_url": "https://github.com/mjumbewu", 
-        "blog": "flavors.me/mjumbewu", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/146749?v=2", 
-        "location": "Philadelphia, PA", 
+        "contributions": 765, 
         "login": "mjumbewu", 
-        "contributions": 765
+        "avatar_url": "https://avatars.githubusercontent.com/u/146749?v=2", 
+        "repositories": 3, 
+        "html_url": "https://github.com/mjumbewu"
     }, 
     {
-        "name": "Michael Lawrence Evans", 
-        "company": "Mayor's Office of New Urban Mechanics", 
-        "repositories": 1, 
-        "html_url": "https://github.com/mlevans", 
-        "blog": "http://twitter.com/EvansML", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/386185?v=2", 
-        "location": "Boston, MA", 
+        "contributions": 1, 
         "login": "mlevans", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/386185?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mlevans"
     }, 
     {
-        "name": "Mike Linksvayer", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/mlinksva", 
-        "blog": "http://gondwanaland.com/mlog/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/40415?v=2", 
-        "location": "Oakland, California", 
+        "contributions": 1, 
         "login": "mlinksva", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/40415?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mlinksva"
     }, 
     {
-        "name": "Moncef Belyamani", 
-        "company": "Ohana API / Code for America", 
-        "repositories": 1, 
-        "html_url": "https://github.com/monfresh", 
-        "blog": "http://www.moncefbelyamani.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/811150?v=2", 
-        "location": "Washington, D.C.", 
+        "contributions": 4, 
         "login": "monfresh", 
-        "contributions": 4
+        "avatar_url": "https://avatars.githubusercontent.com/u/811150?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/monfresh"
     }, 
     {
-        "name": "David Laing", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/mrdavidlaing", 
-        "blog": "davidlaing.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/227505?v=2", 
-        "location": "London, UK", 
+        "contributions": 1, 
         "login": "mrdavidlaing", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/227505?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mrdavidlaing"
     }, 
     {
-        "name": "Marjorie Roswell", 
-        "company": "Roswell Infographics", 
-        "repositories": 1, 
-        "html_url": "https://github.com/mroswell", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/192568?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "mroswell", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/192568?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mroswell"
     }, 
     {
-        "name": "Michael Tedeschi", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/mtedeschi", 
-        "blog": "http://www.mtedeschi.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/842387?v=2", 
-        "location": "Philadelphia", 
+        "contributions": 5, 
         "login": "mtedeschi", 
-        "contributions": 5
+        "avatar_url": "https://avatars.githubusercontent.com/u/842387?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mtedeschi"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/mtorok", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6428317?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "mtorok", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/6428317?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mtorok"
     }, 
     {
-        "name": "Nathan Leiby", 
-        "company": "Clever, Inc.", 
-        "repositories": 1, 
-        "html_url": "https://github.com/nathanleiby", 
-        "blog": "http://www.nathanleiby.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/102242?v=2", 
-        "location": "Sojourner", 
+        "contributions": 39, 
         "login": "nathanleiby", 
-        "contributions": 39
+        "avatar_url": "https://avatars.githubusercontent.com/u/102242?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nathanleiby"
     }, 
     {
-        "name": "Nick", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/nb-ofs", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1595439?v=2", 
-        "location": null, 
+        "contributions": 7, 
         "login": "nb-ofs", 
-        "contributions": 7
+        "avatar_url": "https://avatars.githubusercontent.com/u/1595439?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nb-ofs"
     }, 
     {
-        "name": "Nick Stenning", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/nickstenning", 
-        "blog": "https://whiteink.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3602?v=2", 
-        "location": "", 
+        "contributions": 1, 
         "login": "nickstenning", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/3602?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nickstenning"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/nikitsaraf", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1829737?v=2", 
-        "location": null, 
+        "contributions": 107, 
         "login": "nikitsaraf", 
-        "contributions": 107
+        "avatar_url": "https://avatars.githubusercontent.com/u/1829737?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nikitsaraf"
     }, 
     {
-        "name": "Niran Babalola", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/niran", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/106437?v=2", 
-        "location": "Austin, TX", 
+        "contributions": 10, 
         "login": "niran", 
-        "contributions": 10
+        "avatar_url": "https://avatars.githubusercontent.com/u/106437?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/niran"
     }, 
     {
-        "name": "David Nivens", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/nivensd", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/535125?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "nivensd", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/535125?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nivensd"
     }, 
     {
-        "name": "Nick Leeper", 
-        "company": "Dwolla", 
-        "repositories": 2, 
-        "html_url": "https://github.com/nleeper", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/915517?v=2", 
-        "location": "West Des Moinese, IA", 
+        "contributions": 6, 
         "login": "nleeper", 
-        "contributions": 6
+        "avatar_url": "https://avatars.githubusercontent.com/u/915517?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/nleeper"
     }, 
     {
-        "name": "Nuno Maltez", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/nmfm", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1138894?v=2", 
-        "location": null, 
+        "contributions": 19, 
         "login": "nmfm", 
-        "contributions": 19
+        "avatar_url": "https://avatars.githubusercontent.com/u/1138894?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nmfm"
     }, 
     {
-        "name": "Erik Osheim", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/non", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/218045?v=2", 
-        "location": "Providence / Philly / NYC", 
+        "contributions": 6, 
         "login": "non", 
-        "contributions": 6
+        "avatar_url": "https://avatars.githubusercontent.com/u/218045?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/non"
     }, 
     {
-        "name": "Chris Brown", 
-        "company": null, 
-        "repositories": 3, 
-        "html_url": "https://github.com/notthatbreezy", 
-        "blog": "www.cmbrown.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/898060?v=2", 
-        "location": null, 
+        "contributions": 418, 
         "login": "notthatbreezy", 
-        "contributions": 418
+        "avatar_url": "https://avatars.githubusercontent.com/u/898060?v=2", 
+        "repositories": 3, 
+        "html_url": "https://github.com/notthatbreezy"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/nsmader", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1679625?v=2", 
-        "location": null, 
+        "contributions": 15, 
         "login": "nsmader", 
-        "contributions": 15
+        "avatar_url": "https://avatars.githubusercontent.com/u/1679625?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nsmader"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/nwinklareth", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3521756?v=2", 
-        "location": null, 
+        "contributions": 226, 
         "login": "nwinklareth", 
-        "contributions": 226
+        "avatar_url": "https://avatars.githubusercontent.com/u/3521756?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nwinklareth"
     }, 
     {
-        "name": "Satoshi IIDA", 
-        "company": "OpenSteetMap Foundation Japan", 
-        "repositories": 1, 
-        "html_url": "https://github.com/nyampire", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/428218?v=2", 
-        "location": "Yokohama, Japan", 
+        "contributions": 2, 
         "login": "nyampire", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/428218?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nyampire"
     }, 
     {
-        "name": "Christopher Groskopf", 
-        "company": "NPR", 
-        "repositories": 2, 
-        "html_url": "https://github.com/onyxfish", 
-        "blog": "http://twitter.com/onyxfish", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/33046?v=2", 
-        "location": "Tyler, TX || Oakland, CA || DC", 
+        "contributions": 51, 
         "login": "onyxfish", 
-        "contributions": 51
+        "avatar_url": "https://avatars.githubusercontent.com/u/33046?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/onyxfish"
     }, 
     {
-        "name": "Paavo Huhtala", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/paavohuhtala", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/803180?v=2", 
-        "location": "", 
+        "contributions": 1, 
         "login": "paavohuhtala", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/803180?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/paavohuhtala"
     }, 
     {
-        "name": "Patricio Aguilar", 
-        "company": "Chapin Hall At The University of Chicago", 
-        "repositories": 1, 
-        "html_url": "https://github.com/paguilarCH", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4522191?v=2", 
-        "location": "Chicago", 
+        "contributions": 2, 
         "login": "paguilarCH", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/4522191?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/paguilarCH"
     }, 
     {
-        "name": "Ben Welsh", 
-        "company": "Los Angeles Times", 
-        "repositories": 1, 
-        "html_url": "https://github.com/palewire", 
-        "blog": "http://palewi.re", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/9993?v=2", 
-        "location": "Los Angeles", 
+        "contributions": 28, 
         "login": "palewire", 
-        "contributions": 28
+        "avatar_url": "https://avatars.githubusercontent.com/u/9993?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/palewire"
     }, 
     {
-        "name": "Paul Tagliamonte", 
-        "company": "Sunlight Foundation", 
-        "repositories": 1, 
-        "html_url": "https://github.com/paultag", 
-        "blog": "http://blog.pault.ag", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/132447?v=2", 
-        "location": "Boston, Massachusetts", 
+        "contributions": 98, 
         "login": "paultag", 
-        "contributions": 98
+        "avatar_url": "https://avatars.githubusercontent.com/u/132447?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/paultag"
     }, 
     {
-        "name": "Philip Neustrom", 
-        "company": "LocalWiki", 
-        "repositories": 2, 
-        "html_url": "https://github.com/philipn", 
-        "blog": "http://localwiki.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/96469?v=2", 
-        "location": "San Francisco, CA", 
+        "contributions": 1040, 
         "login": "philipn", 
-        "contributions": 1040
+        "avatar_url": "https://avatars.githubusercontent.com/u/96469?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/philipn"
     }, 
     {
-        "name": "Phoenix Gao", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/phoenixgao", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/853338?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "phoenixgao", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/853338?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/phoenixgao"
     }, 
     {
-        "name": "Arun Ganesh", 
-        "company": "Studio 4th Main", 
-        "repositories": 1, 
-        "html_url": "https://github.com/planemad", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/126868?v=2", 
-        "location": "Dharamshala", 
+        "contributions": 1, 
         "login": "planemad", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/126868?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/planemad"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/potash", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1166000?v=2", 
-        "location": null, 
+        "contributions": 41, 
         "login": "potash", 
-        "contributions": 41
+        "avatar_url": "https://avatars.githubusercontent.com/u/1166000?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/potash"
     }, 
     {
-        "name": "Peter Harkins", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/pushcx", 
-        "blog": "http://push.cx", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6262?v=2", 
-        "location": "Chicago, IL, USA", 
+        "contributions": 41, 
         "login": "pushcx", 
-        "contributions": 41
+        "avatar_url": "https://avatars.githubusercontent.com/u/6262?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/pushcx"
     }, 
     {
-        "name": "Pedro Lima", 
-        "company": "Cognitiva", 
-        "repositories": 1, 
-        "html_url": "https://github.com/pvl", 
-        "blog": "http://cognitiva.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3596?v=2", 
-        "location": null, 
+        "contributions": 18, 
         "login": "pvl", 
-        "contributions": 18
+        "avatar_url": "https://avatars.githubusercontent.com/u/3596?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/pvl"
     }, 
     {
-        "name": "Phil Wolstenholme", 
-        "company": "University of Manchester", 
-        "repositories": 1, 
-        "html_url": "https://github.com/pwolstenholme", 
-        "blog": "http://wolstenhol.me", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6339853?v=2", 
-        "location": "United Kingdom", 
+        "contributions": 1, 
         "login": "pwolstenholme", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/6339853?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/pwolstenholme"
     }, 
     {
-        "name": "", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/qethanm", 
-        "blog": "http://qetahnm.cc/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1245311?v=2", 
-        "location": "", 
+        "contributions": 8, 
         "login": "qethanm", 
-        "contributions": 8
+        "avatar_url": "https://avatars.githubusercontent.com/u/1245311?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/qethanm"
     }, 
     {
-        "name": "Quentin Smith", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/quentinmit", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/115761?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "quentinmit", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/115761?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/quentinmit"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/ragnaroh", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1862501?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "ragnaroh", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/1862501?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ragnaroh"
     }, 
     {
-        "name": "Rebecca Ackerman", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/rcackerman", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1258266?v=2", 
-        "location": null, 
+        "contributions": 1, 
         "login": "rcackerman", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/1258266?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rcackerman"
     }, 
     {
-        "name": "Ryan ", 
-        "company": "Knight Lab", 
-        "repositories": 2, 
-        "html_url": "https://github.com/rcgraff", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2432665?v=2", 
-        "location": null, 
+        "contributions": 21, 
         "login": "rcgraff", 
-        "contributions": 21
+        "avatar_url": "https://avatars.githubusercontent.com/u/2432665?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/rcgraff"
     }, 
     {
-        "name": "Rebecca", 
-        "company": "Caktus Group", 
-        "repositories": 1, 
-        "html_url": "https://github.com/rebecca-caktus", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1759718?v=2", 
-        "location": "Carrboro, NC", 
+        "contributions": 2, 
         "login": "rebecca-caktus", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/1759718?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rebecca-caktus"
     }, 
     {
-        "name": "Rebecca Williams", 
-        "company": "Sunlight Foundation", 
-        "repositories": 2, 
-        "html_url": "https://github.com/rebeccawilliams", 
-        "blog": "rebeccawilliams.us", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1725454?v=2", 
-        "location": "Washington, D.C.", 
+        "contributions": 2, 
         "login": "rebeccawilliams", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/1725454?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/rebeccawilliams"
     }, 
     {
-        "name": "Greg", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/remremz", 
-        "blog": "www.gregremiasz.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1437534?v=2", 
-        "location": "Chicagoland Area", 
+        "contributions": 12, 
         "login": "remremz", 
-        "contributions": 12
+        "avatar_url": "https://avatars.githubusercontent.com/u/1437534?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/remremz"
     }, 
     {
-        "name": "", 
-        "company": "", 
-        "repositories": 3, 
-        "html_url": "https://github.com/renemarcelo", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1162669?v=2", 
-        "location": "Chicago", 
+        "contributions": 148, 
         "login": "renemarcelo", 
-        "contributions": 148
+        "avatar_url": "https://avatars.githubusercontent.com/u/1162669?v=2", 
+        "repositories": 3, 
+        "html_url": "https://github.com/renemarcelo"
     }, 
     {
-        "name": "Rufus Pollock", 
-        "company": "Open Knowledge Foundation <http://okfn.org/>", 
-        "repositories": 1, 
-        "html_url": "https://github.com/rgrp", 
-        "blog": "http://rufuspollock.org/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/180658?v=2", 
-        "location": null, 
+        "contributions": 15, 
         "login": "rgrp", 
-        "contributions": 15
+        "avatar_url": "https://avatars.githubusercontent.com/u/180658?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rgrp"
     }, 
     {
-        "name": "Robert Guico", 
-        "company": "GoHealth", 
-        "repositories": 1, 
-        "html_url": "https://github.com/rguico", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4085127?v=2", 
-        "location": "Carol Stream, Illinois", 
+        "contributions": 36, 
         "login": "rguico", 
-        "contributions": 36
+        "avatar_url": "https://avatars.githubusercontent.com/u/4085127?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rguico"
     }, 
     {
-        "name": "Michael Mulley", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/rhymeswithcycle", 
-        "blog": "http://michaelmulley.com/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/220759?v=2", 
-        "location": "Montreal", 
+        "contributions": 1, 
         "login": "rhymeswithcycle", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/220759?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rhymeswithcycle"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 2, 
-        "html_url": "https://github.com/richardlee", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/329707?v=2", 
-        "location": null, 
+        "contributions": 8, 
         "login": "richardlee", 
-        "contributions": 8
+        "avatar_url": "https://avatars.githubusercontent.com/u/329707?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/richardlee"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/rkalidindi", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2342400?v=2", 
-        "location": null, 
+        "contributions": 12, 
         "login": "rkalidindi", 
-        "contributions": 12
+        "avatar_url": "https://avatars.githubusercontent.com/u/2342400?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rkalidindi"
     }, 
     {
-        "name": "Ryan Nagle", 
-        "company": "INN", 
-        "repositories": 2, 
-        "html_url": "https://github.com/rnagle", 
-        "blog": "investigativenewsnetwork.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/72608?v=2", 
-        "location": "Chicago, Il", 
+        "contributions": 21, 
         "login": "rnagle", 
-        "contributions": 21
+        "avatar_url": "https://avatars.githubusercontent.com/u/72608?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/rnagle"
     }, 
     {
-        "name": "Nick Rougeux", 
-        "company": "Webitects", 
-        "repositories": 3, 
-        "html_url": "https://github.com/rougeux", 
-        "blog": "http://www.c82.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/613534?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 26, 
         "login": "rougeux", 
-        "contributions": 26
+        "avatar_url": "https://avatars.githubusercontent.com/u/613534?v=2", 
+        "repositories": 3, 
+        "html_url": "https://github.com/rougeux"
     }, 
     {
-        "name": "Ash Roughani", 
-        "company": "Public Innovation", 
-        "repositories": 1, 
-        "html_url": "https://github.com/roughani", 
-        "blog": "http://publicinnovation.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4371233?v=2", 
-        "location": "Sacramento, CA", 
+        "contributions": 1, 
         "login": "roughani", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/4371233?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/roughani"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/royhodgman", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/451054?v=2", 
-        "location": null, 
+        "contributions": 2, 
         "login": "royhodgman", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/451054?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/royhodgman"
     }, 
     {
-        "name": "Ryan Tucker", 
-        "company": "Suspension of Disbelief Technologies", 
-        "repositories": 1, 
-        "html_url": "https://github.com/rtucker", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/97437?v=2", 
-        "location": "Rochester, NY, USA", 
+        "contributions": 6, 
         "login": "rtucker", 
-        "contributions": 6
+        "avatar_url": "https://avatars.githubusercontent.com/u/97437?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rtucker"
     }, 
     {
-        "name": "Kurt Robert Rudolph", 
-        "company": "Eris Exchange, LLC", 
-        "repositories": 1, 
-        "html_url": "https://github.com/rudolph9", 
-        "blog": "http://kurtrudolph.net/about", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/641859?v=2", 
-        "location": "Urbana, Illinois", 
+        "contributions": 56, 
         "login": "rudolph9", 
-        "contributions": 56
+        "avatar_url": "https://avatars.githubusercontent.com/u/641859?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rudolph9"
     }, 
     {
-        "name": "Ryan Resella", 
-        "company": "Upworthy", 
-        "repositories": 2, 
-        "html_url": "https://github.com/ryanatwork", 
-        "blog": "ryanresella.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/437339?v=2", 
-        "location": "Los Angeles, CA", 
+        "contributions": 2, 
         "login": "ryanatwork", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/437339?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/ryanatwork"
     }, 
     {
-        "name": "Ryan Carmelo Briones", 
-        "company": "", 
-        "repositories": 8, 
-        "html_url": "https://github.com/ryanbriones", 
-        "blog": "http://ryanbriones.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/202?v=2", 
-        "location": "Chicago, IL", 
+        "contributions": 59, 
         "login": "ryanbriones", 
-        "contributions": 59
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/ryandasher", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2091285?v=2", 
-        "location": null, 
-        "login": "ryandasher", 
-        "contributions": 3
-    }, 
-    {
-        "name": "Ryan Mark", 
-        "company": "Vox Media", 
-        "repositories": 2, 
-        "html_url": "https://github.com/ryanmark", 
-        "blog": "http://ryan-mark.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/114194?v=2", 
-        "location": "Washington DC", 
-        "login": "ryanmark", 
-        "contributions": 20
-    }, 
-    {
-        "name": "Ryan Pitts", 
-        "company": "Census Reporter", 
-        "repositories": 2, 
-        "html_url": "https://github.com/ryanpitts", 
-        "blog": "http://www.ryanpitts.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/56477?v=2", 
-        "location": "Spokane, Wash.", 
-        "login": "ryanpitts", 
-        "contributions": 874
-    }, 
-    {
-        "name": "Samarth Bhaskar", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/samarthbhaskar", 
-        "blog": "www.samarthbhaskar.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1093748?v=2", 
-        "location": null, 
-        "login": "samarthbhaskar", 
-        "contributions": 3
-    }, 
-    {
-        "name": "Sandor Weisz", 
-        "company": "The Starter League", 
-        "repositories": 1, 
-        "html_url": "https://github.com/santheo", 
-        "blog": "http://about.me/santheo", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/98248?v=2", 
-        "location": "Chicago, IL", 
-        "login": "santheo", 
-        "contributions": 756
-    }, 
-    {
-        "name": "Sarah", 
-        "company": "", 
-        "repositories": 2, 
-        "html_url": "https://github.com/sarahelizabeth", 
-        "blog": "portfolio.sarahemurray.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4665373?v=2", 
-        "location": "Chicago, IL", 
-        "login": "sarahelizabeth", 
-        "contributions": 66
-    }, 
-    {
-        "name": "Scott Beslow", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/sbeslow", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3475751?v=2", 
-        "location": "", 
-        "login": "sbeslow", 
-        "contributions": 56
-    }, 
-    {
-        "name": "Tom Lee", 
-        "company": "Sunlight Foundation", 
-        "repositories": 1, 
-        "html_url": "https://github.com/sbma44", 
-        "blog": "http://manifestdensity.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/31717?v=2", 
-        "location": "Washington, DC", 
-        "login": "sbma44", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Scott Bradley", 
-        "company": "", 
-        "repositories": 2, 
-        "html_url": "https://github.com/scott2b", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/307713?v=2", 
-        "location": "Chicago", 
-        "login": "scott2b", 
-        "contributions": 16
-    }, 
-    {
-        "name": "Sean Hellwig", 
-        "company": "ThoughtMatrix, a Rauxa company.", 
-        "repositories": 1, 
-        "html_url": "https://github.com/seanhellwig", 
-        "blog": "http://www.thought-matrix.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/147074?v=2", 
-        "location": "San Francisco, CA / Bend, OR", 
-        "login": "seanhellwig", 
-        "contributions": 2
-    }, 
-    {
-        "name": "Erik Michaels-Ober", 
-        "company": "SoundCloud", 
-        "repositories": 2, 
-        "html_url": "https://github.com/sferik", 
-        "blog": "http://twitter.com/sferik", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/10308?v=2", 
-        "location": "Prussia", 
-        "login": "sferik", 
-        "contributions": 896
-    }, 
-    {
-        "name": "Shane Shifflett", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/shaneshifflett", 
-        "blog": "shaneshifflett.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/433755?v=2", 
-        "location": "New York City", 
-        "login": "shaneshifflett", 
-        "contributions": 1
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/sharonelizch", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3150043?v=2", 
-        "location": null, 
-        "login": "sharonelizch", 
-        "contributions": 4
-    }, 
-    {
-        "name": "Alexander Sapozhnikov", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/shoorick", 
-        "blog": "http://shoorick.ru/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/190892?v=2", 
-        "location": "Chelyabinsk, Russia", 
-        "login": "shoorick", 
-        "contributions": 2
-    }, 
-    {
-        "name": "Josh Kalov", 
-        "company": null, 
-        "repositories": 5, 
-        "html_url": "https://github.com/shua123", 
-        "blog": "http://kalov.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1593537?v=2", 
-        "location": "Chicago", 
-        "login": "shua123", 
-        "contributions": 128
-    }, 
-    {
-        "name": "David Baumgold", 
-        "company": "edX", 
-        "repositories": 1, 
-        "html_url": "https://github.com/singingwolfboy", 
-        "blog": "http://davidbaumgold.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/132355?v=2", 
-        "location": "Massachusetts, USA", 
-        "login": "singingwolfboy", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Sameer S", 
-        "company": "Digital Strategies", 
-        "repositories": 1, 
-        "html_url": "https://github.com/siruguri", 
-        "blog": "http://www.dstrategies.org/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/40653?v=2", 
-        "location": "Oakland, CA", 
-        "login": "siruguri", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Paul Winkler", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/slinkp", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/98610?v=2", 
-        "location": null, 
-        "login": "slinkp", 
-        "contributions": 2034
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/smarziano", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/5550969?v=2", 
-        "location": null, 
-        "login": "smarziano", 
-        "contributions": 2
-    }, 
-    {
-        "name": "Taro Matsuzawa aka. btm", 
-        "company": "Georepublic Japan", 
-        "repositories": 1, 
-        "html_url": "https://github.com/smellman", 
-        "blog": "http://d.hatena.ne.jp/smellman/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/135112?v=2", 
-        "location": "Tokyo, Japan", 
-        "login": "smellman", 
-        "contributions": 12
-    }, 
-    {
-        "name": "Abhi", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/spationics", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1476829?v=2", 
-        "location": null, 
-        "login": "spationics", 
-        "contributions": 4
-    }, 
-    {
-        "name": "Scott Robbin", 
-        "company": "Robbin & Co.", 
-        "repositories": 3, 
-        "html_url": "https://github.com/srobbin", 
-        "blog": "http://srobbin.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/44719?v=2", 
-        "location": "Chicago", 
-        "login": "srobbin", 
-        "contributions": 37
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/stefanct", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/457881?v=2", 
-        "location": "Vienna, Austria", 
-        "login": "stefanct", 
-        "contributions": 2
-    }, 
-    {
-        "name": "Steven Vance", 
-        "company": null, 
-        "repositories": 5, 
-        "html_url": "https://github.com/stevevance", 
-        "blog": "http://stevevance.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1330459?v=2", 
-        "location": "Chicago, Illinois", 
-        "login": "stevevance", 
-        "contributions": 103
-    }, 
-    {
-        "name": "Firman Rosdiansyah", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/supirman", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/329333?v=2", 
-        "location": "Surabaya", 
-        "login": "supirman", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Peter W", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/techieshark", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1072292?v=2", 
-        "location": "Portland, OR, Cascadia", 
-        "login": "techieshark", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Graham", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/telegraham", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/5315925?v=2", 
-        "location": "Chicago", 
-        "login": "telegraham", 
-        "contributions": 7
-    }, 
-    {
-        "name": "Cosmo Wolfe", 
-        "company": "Clever", 
-        "repositories": 1, 
-        "html_url": "https://github.com/templaedhel", 
-        "blog": "templaedhel.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/696340?v=2", 
-        "location": "San Francisco", 
-        "login": "templaedhel", 
-        "contributions": 16
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/thejordan", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2432672?v=2", 
-        "location": null, 
-        "login": "thejordan", 
-        "contributions": 14
-    }, 
-    {
-        "name": "Chris Alfano", 
-        "company": "Jarv.us Innovations", 
-        "repositories": 1, 
-        "html_url": "https://github.com/themightychris", 
-        "blog": "http://jarv.us", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/458494?v=2", 
-        "location": "Northern Liberties, Philadelphia", 
-        "login": "themightychris", 
-        "contributions": 1
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/tjakester", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6795069?v=2", 
-        "location": null, 
-        "login": "tjakester", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Tom Kompare", 
-        "company": null, 
-        "repositories": 5, 
-        "html_url": "https://github.com/tkompare", 
-        "blog": "http://about.me/tomkompare", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/788638?v=2", 
-        "location": "Chicago, Illinois USA", 
-        "login": "tkompare", 
-        "contributions": 201
-    }, 
-    {
-        "name": "Tom Schenk Jr", 
-        "company": "City of Chicago", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/202?v=2", 
         "repositories": 8, 
-        "html_url": "https://github.com/tomschenkjr", 
-        "blog": "www.tomschenkjr.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=2", 
-        "location": "Chicago, IL", 
-        "login": "tomschenkjr", 
-        "contributions": 78
+        "html_url": "https://github.com/ryanbriones"
     }, 
     {
-        "name": "Nick Bennett", 
-        "company": "Hoy Chicago", 
-        "repositories": 3, 
-        "html_url": "https://github.com/tothebeat", 
-        "blog": "http://goggl.es", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/486230?v=2", 
-        "location": "Chicago, IL", 
-        "login": "tothebeat", 
-        "contributions": 26
+        "contributions": 3, 
+        "login": "ryandasher", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2091285?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ryandasher"
     }, 
     {
-        "name": "Tom Plagge", 
-        "company": null, 
+        "contributions": 20, 
+        "login": "ryanmark", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/114194?v=2", 
         "repositories": 2, 
-        "html_url": "https://github.com/tplagge", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1732982?v=2", 
-        "location": null, 
-        "login": "tplagge", 
-        "contributions": 5
+        "html_url": "https://github.com/ryanmark"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/treddy", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4576339?v=2", 
-        "location": null, 
-        "login": "treddy", 
-        "contributions": 6
-    }, 
-    {
-        "name": "Trevor Powell", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/trevorpowell", 
-        "blog": "trevorpowell.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/525402?v=2", 
-        "location": "", 
-        "login": "trevorpowell", 
-        "contributions": 6
-    }, 
-    {
-        "name": "Tim Shedor", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/tshedor", 
-        "blog": "http://timshedor.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/865897?v=2", 
-        "location": "Kansas", 
-        "login": "tshedor", 
-        "contributions": 11
-    }, 
-    {
-        "name": "Thom Neale", 
-        "company": "sunlightfoundation.com", 
-        "repositories": 1, 
-        "html_url": "https://github.com/twneale", 
-        "blog": "twneale.github.io", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/70850?v=2", 
-        "location": "Boston, MA", 
-        "login": "twneale", 
-        "contributions": 29
-    }, 
-    {
-        "name": "Boguslaw Tarnowski", 
-        "company": "Agile Programming", 
-        "repositories": 1, 
-        "html_url": "https://github.com/ubik86", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/165675?v=2", 
-        "location": "Szczecin, Poland", 
-        "login": "ubik86", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Jay Strybis", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/unreal", 
-        "blog": "http://strybis.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/9277?v=2", 
-        "location": "Chicago", 
-        "login": "unreal", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Ruthie BenDor", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/unruthless", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/142906?v=2", 
-        "location": null, 
-        "login": "unruthless", 
-        "contributions": 48
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/valentinaKibuyaga", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1754063?v=2", 
-        "location": null, 
-        "login": "valentinaKibuyaga", 
-        "contributions": 2
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/vaskalas", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/768692?v=2", 
-        "location": null, 
-        "login": "vaskalas", 
-        "contributions": 3
-    }, 
-    {
-        "name": "Max Bechdel", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/veritascs", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4104863?v=2", 
-        "location": "", 
-        "login": "veritascs", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Edward Vielmetti", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/vielmetti", 
-        "blog": "http://vielmetti.typepad.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/35047?v=2", 
-        "location": "Ann Arbor, MI", 
-        "login": "vielmetti", 
-        "contributions": 2
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/visibletrue", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1294410?v=2", 
-        "location": null, 
-        "login": "visibletrue", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Making GitHub Delicious.", 
-        "company": "Rally Software", 
-        "repositories": 1, 
-        "html_url": "https://github.com/waffle-iron", 
-        "blog": "waffle.io", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6912981?v=2", 
-        "location": "Boulder, CO", 
-        "login": "waffle-iron", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Waldo Jaquith", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/waldoj", 
-        "blog": "http://waldo.jaquith.org/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/656758?v=2", 
-        "location": "Charlottesville, Virginia, USA", 
-        "login": "waldoj", 
-        "contributions": 542
-    }, 
-    {
-        "name": "Walter McGinnis", 
-        "company": "Walter McGinnis and Associates", 
+        "contributions": 874, 
+        "login": "ryanpitts", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/56477?v=2", 
         "repositories": 2, 
-        "html_url": "https://github.com/walter", 
-        "blog": "http://waltermcginnis.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/10767?v=2", 
-        "location": "Wellington, New Zealand", 
-        "login": "walter", 
-        "contributions": 3
+        "html_url": "https://github.com/ryanpitts"
     }, 
     {
-        "name": "Wilberto Morales", 
-        "company": "", 
+        "contributions": 3, 
+        "login": "samarthbhaskar", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1093748?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/samarthbhaskar"
+    }, 
+    {
+        "contributions": 756, 
+        "login": "santheo", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/98248?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/santheo"
+    }, 
+    {
+        "contributions": 66, 
+        "login": "sarahelizabeth", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4665373?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/sarahelizabeth"
+    }, 
+    {
+        "contributions": 56, 
+        "login": "sbeslow", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3475751?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/sbeslow"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "sbma44", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/31717?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/sbma44"
+    }, 
+    {
+        "contributions": 16, 
+        "login": "scott2b", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/307713?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/scott2b"
+    }, 
+    {
+        "contributions": 2, 
+        "login": "seanhellwig", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/147074?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/seanhellwig"
+    }, 
+    {
+        "contributions": 896, 
+        "login": "sferik", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10308?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/sferik"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "shaneshifflett", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/433755?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/shaneshifflett"
+    }, 
+    {
+        "contributions": 4, 
+        "login": "sharonelizch", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3150043?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/sharonelizch"
+    }, 
+    {
+        "contributions": 2, 
+        "login": "shoorick", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/190892?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/shoorick"
+    }, 
+    {
+        "contributions": 128, 
+        "login": "shua123", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1593537?v=2", 
         "repositories": 5, 
-        "html_url": "https://github.com/wilbertom", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2273055?v=2", 
-        "location": "Chicago", 
-        "login": "wilbertom", 
-        "contributions": 142
+        "html_url": "https://github.com/shua123"
     }, 
     {
-        "name": "Matt Senate", 
-        "company": null, 
+        "contributions": 1, 
+        "login": "singingwolfboy", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/132355?v=2", 
         "repositories": 1, 
-        "html_url": "https://github.com/wrought", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/764063?v=2", 
-        "location": null, 
-        "login": "wrought", 
-        "contributions": 1
+        "html_url": "https://github.com/singingwolfboy"
     }, 
     {
-        "name": "ycz", 
-        "company": null, 
+        "contributions": 1, 
+        "login": "siruguri", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/40653?v=2", 
         "repositories": 1, 
-        "html_url": "https://github.com/ycz87", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/891286?v=2", 
-        "location": null, 
-        "login": "ycz87", 
-        "contributions": 1
+        "html_url": "https://github.com/siruguri"
     }, 
     {
-        "name": "Mallory Busch", 
-        "company": "Knight Lab", 
+        "contributions": 2034, 
+        "login": "slinkp", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/98610?v=2", 
         "repositories": 1, 
-        "html_url": "https://github.com/yeamal", 
-        "blog": "MalloryBusch.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/5952437?v=2", 
-        "location": "Evanston, Il", 
-        "login": "yeamal", 
-        "contributions": 6
+        "html_url": "https://github.com/slinkp"
     }, 
     {
-        "name": null, 
-        "company": "Data Science for Social Good", 
+        "contributions": 2, 
+        "login": "smarziano", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5550969?v=2", 
         "repositories": 1, 
-        "html_url": "https://github.com/yokkay", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4612892?v=2", 
-        "location": "New York, Chicago", 
-        "login": "yokkay", 
-        "contributions": 1
+        "html_url": "https://github.com/smarziano"
     }, 
     {
-        "name": "Zach Williams", 
-        "company": "Portland Trail Blazers", 
-        "repositories": 2, 
-        "html_url": "https://github.com/zachwill", 
-        "blog": "zachwill.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/172692?v=2", 
-        "location": "Portland, OR", 
-        "login": "zachwill", 
-        "contributions": 94
+        "contributions": 12, 
+        "login": "smellman", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/135112?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/smellman"
     }, 
     {
-        "name": "Zach Wise", 
-        "company": "VeriteCo", 
+        "contributions": 4, 
+        "login": "spationics", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1476829?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/spationics"
+    }, 
+    {
+        "contributions": 37, 
+        "login": "srobbin", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/44719?v=2", 
         "repositories": 3, 
-        "html_url": "https://github.com/zachwise", 
-        "blog": "http://zachwise.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/741789?v=2", 
-        "location": "", 
-        "login": "zachwise", 
-        "contributions": 826
+        "html_url": "https://github.com/srobbin"
     }, 
     {
-        "name": "Citizen", 
-        "company": "'murica", 
+        "contributions": 2, 
+        "login": "stefanct", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/457881?v=2", 
         "repositories": 1, 
-        "html_url": "https://github.com/zmaril", 
-        "blog": "twitter.com/zackmaril", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/539927?v=2", 
-        "location": "", 
-        "login": "zmaril", 
-        "contributions": 4
+        "html_url": "https://github.com/stefanct"
     }, 
     {
-        "name": "Alan Palazzolo", 
-        "company": "", 
+        "contributions": 103, 
+        "login": "stevevance", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1330459?v=2", 
+        "repositories": 5, 
+        "html_url": "https://github.com/stevevance"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "supirman", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/329333?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/supirman"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "techieshark", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1072292?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/techieshark"
+    }, 
+    {
+        "contributions": 7, 
+        "login": "telegraham", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5315925?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/telegraham"
+    }, 
+    {
+        "contributions": 16, 
+        "login": "templaedhel", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/696340?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/templaedhel"
+    }, 
+    {
+        "contributions": 14, 
+        "login": "thejordan", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2432672?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/thejordan"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "themightychris", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/458494?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/themightychris"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "tjakester", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6795069?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/tjakester"
+    }, 
+    {
+        "contributions": 201, 
+        "login": "tkompare", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/788638?v=2", 
+        "repositories": 5, 
+        "html_url": "https://github.com/tkompare"
+    }, 
+    {
+        "contributions": 78, 
+        "login": "tomschenkjr", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=2", 
+        "repositories": 8, 
+        "html_url": "https://github.com/tomschenkjr"
+    }, 
+    {
+        "contributions": 26, 
+        "login": "tothebeat", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/486230?v=2", 
+        "repositories": 3, 
+        "html_url": "https://github.com/tothebeat"
+    }, 
+    {
+        "contributions": 5, 
+        "login": "tplagge", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1732982?v=2", 
         "repositories": 2, 
-        "html_url": "https://github.com/zzolo", 
-        "blog": "http://zzolo.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/190733?v=2", 
-        "location": "Minneapolis, MN", 
+        "html_url": "https://github.com/tplagge"
+    }, 
+    {
+        "contributions": 6, 
+        "login": "treddy", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4576339?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/treddy"
+    }, 
+    {
+        "contributions": 6, 
+        "login": "trevorpowell", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/525402?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/trevorpowell"
+    }, 
+    {
+        "contributions": 11, 
+        "login": "tshedor", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/865897?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/tshedor"
+    }, 
+    {
+        "contributions": 29, 
+        "login": "twneale", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/70850?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/twneale"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "ubik86", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/165675?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ubik86"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "unreal", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9277?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/unreal"
+    }, 
+    {
+        "contributions": 48, 
+        "login": "unruthless", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/142906?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/unruthless"
+    }, 
+    {
+        "contributions": 2, 
+        "login": "valentinaKibuyaga", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1754063?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/valentinaKibuyaga"
+    }, 
+    {
+        "contributions": 3, 
+        "login": "vaskalas", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/768692?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/vaskalas"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "veritascs", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4104863?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/veritascs"
+    }, 
+    {
+        "contributions": 2, 
+        "login": "vielmetti", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/35047?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/vielmetti"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "visibletrue", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1294410?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/visibletrue"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "waffle-iron", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6912981?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/waffle-iron"
+    }, 
+    {
+        "contributions": 542, 
+        "login": "waldoj", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/656758?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/waldoj"
+    }, 
+    {
+        "contributions": 3, 
+        "login": "walter", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10767?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/walter"
+    }, 
+    {
+        "contributions": 142, 
+        "login": "wilbertom", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2273055?v=2", 
+        "repositories": 5, 
+        "html_url": "https://github.com/wilbertom"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "wrought", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/764063?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/wrought"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "ycz87", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/891286?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ycz87"
+    }, 
+    {
+        "contributions": 6, 
+        "login": "yeamal", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5952437?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/yeamal"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "yokkay", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4612892?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/yokkay"
+    }, 
+    {
+        "contributions": 94, 
+        "login": "zachwill", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/172692?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/zachwill"
+    }, 
+    {
+        "contributions": 826, 
+        "login": "zachwise", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/741789?v=2", 
+        "repositories": 3, 
+        "html_url": "https://github.com/zachwise"
+    }, 
+    {
+        "contributions": 4, 
+        "login": "zmaril", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/539927?v=2", 
+        "repositories": 1, 
+        "html_url": "https://github.com/zmaril"
+    }, 
+    {
+        "contributions": 3, 
         "login": "zzolo", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/190733?v=2", 
+        "repositories": 2, 
+        "html_url": "https://github.com/zzolo"
     }
 ]

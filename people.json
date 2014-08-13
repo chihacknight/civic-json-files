@@ -242,11 +242,15 @@
         "contributions": 119
     }, 
     {
-        "contributions": 13, 
-        "login": "NelsonMinar", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/382136?v=2", 
+        "name": "Nelson Minar", 
+        "company": null, 
         "repositories": 1, 
-        "html_url": "https://github.com/NelsonMinar"
+        "html_url": "https://github.com/NelsonMinar", 
+        "blog": "http://www.somebits.com/weblog/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/382136?v=2", 
+        "location": "San Francisco, CA, USA", 
+        "login": "NelsonMinar", 
+        "contributions": 13
     }, 
     {
         "contributions": 4, 

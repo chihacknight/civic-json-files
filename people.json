@@ -891,6 +891,17 @@
         "contributions": 28
     }, 
     {
+        "name": "Christopher L Pulec", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/cpulec", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6475470?v=2", 
+        "location": "Illinois", 
+        "login": "cpulec", 
+        "contributions": 3
+    }, 
+    {
         "name": "Dave Guarino", 
         "company": "", 
         "repositories": 1, 
@@ -2222,6 +2233,17 @@
         "contributions": 2
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/miningchi", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6955765?v=2", 
+        "location": null, 
+        "login": "miningchi", 
+        "contributions": 1
+    }, 
+    {
         "name": "Mike Ivanov", 
         "company": "LocalWiki", 
         "repositories": 1, 
@@ -2638,6 +2660,17 @@
         "location": null, 
         "login": "ragnaroh", 
         "contributions": 1
+    }, 
+    {
+        "name": "Rajiv Shah", 
+        "company": "", 
+        "repositories": 2, 
+        "html_url": "https://github.com/rajshah4", 
+        "blog": "www.rajivshah.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6808012?v=2", 
+        "location": "", 
+        "login": "rajshah4", 
+        "contributions": 75
     }, 
     {
         "name": "Rebecca Ackerman", 

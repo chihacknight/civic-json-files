@@ -206,7 +206,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=2", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 600
+        "contributions": 601
     }, 
     {
         "name": "John Brock", 
@@ -1240,7 +1240,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=2", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1595
+        "contributions": 1596
     }, 
     {
         "name": null, 
@@ -2167,13 +2167,13 @@
         "contributions": 14
     }, 
     {
-        "name": null, 
-        "company": null, 
+        "name": "Matt Hong", 
+        "company": "Northwestern University", 
         "repositories": 1, 
         "html_url": "https://github.com/mhong19414", 
-        "blog": null, 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/7455622?v=2", 
-        "location": null, 
+        "location": "", 
         "login": "mhong19414", 
         "contributions": 1
     }, 
@@ -3506,7 +3506,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/741789?v=2", 
         "location": "", 
         "login": "zachwise", 
-        "contributions": 826
+        "contributions": 833
     }, 
     {
         "name": "Citizen", 

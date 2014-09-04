@@ -1,12 +1,12 @@
 [
     {
-        "name": null, 
+        "name": "City of Chicago", 
         "company": null, 
         "repositories": 12, 
         "html_url": "https://github.com/Chicago", 
-        "blog": null, 
+        "blog": "http://dev.cityofchicago.org/", 
         "avatar_url": "https://avatars.githubusercontent.com/u/838189?v=2", 
-        "location": null, 
+        "location": "Chicago, IL", 
         "login": "Chicago"
     }, 
     {

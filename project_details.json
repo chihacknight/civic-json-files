@@ -6751,7 +6751,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/newsapps/englewood/contributors", 
-        "forks_count": 7, 
+        "forks_count": 6, 
         "html_url": "https://github.com/newsapps/englewood", 
         "updated_at": "2014-07-27T02:50:03Z", 
         "project_needs": [], 
@@ -8433,7 +8433,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
-                "contributions": 89, 
+                "contributions": 91, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -8473,9 +8473,9 @@
         "name": "plenario", 
         "language": "Python", 
         "created_at": "2013-12-04T21:12:31Z", 
-        "pushed_at": "2014-09-05T21:41:19Z", 
+        "pushed_at": "2014-09-06T03:47:49Z", 
         "watchers_count": 4, 
-        "open_issues": 25, 
+        "open_issues": 24, 
         "homepage": "http://plenar.io", 
         "participation": [
             0, 
@@ -11135,9 +11135,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
-        "forks_count": 1358, 
+        "forks_count": 1359, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2014-09-05T20:00:20Z", 
+        "updated_at": "2014-09-06T04:05:53Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -11150,7 +11150,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2014-08-28T14:37:15Z", 
-        "watchers_count": 6697, 
+        "watchers_count": 6698, 
         "open_issues": 146, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [

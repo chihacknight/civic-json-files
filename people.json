@@ -121,6 +121,17 @@
         "contributions": 11
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/Deepika21", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7934941?v=2", 
+        "location": null, 
+        "login": "Deepika21", 
+        "contributions": 3
+    }, 
+    {
         "name": "Daniel Ronan", 
         "company": "", 
         "repositories": 1, 
@@ -289,6 +300,17 @@
         "name": null, 
         "company": null, 
         "repositories": 1, 
+        "html_url": "https://github.com/RobertAshley-REISys", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6390280?v=2", 
+        "location": null, 
+        "login": "RobertAshley-REISys", 
+        "contributions": 37
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
         "html_url": "https://github.com/SaraSchnadt", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/3248981?v=2", 
@@ -372,6 +394,17 @@
         "location": null, 
         "login": "alexbordens", 
         "contributions": 3
+    }, 
+    {
+        "name": "Alex Mach", 
+        "company": "CGI", 
+        "repositories": 1, 
+        "html_url": "https://github.com/alexmach", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1028886?v=2", 
+        "location": "Ohio", 
+        "login": "alexmach", 
+        "contributions": 2
     }, 
     {
         "name": "Alex Soble", 
@@ -493,6 +526,17 @@
         "location": null, 
         "login": "atleb", 
         "contributions": 1
+    }, 
+    {
+        "name": "Alicia Torkelson", 
+        "company": "REI Systems Inc.", 
+        "repositories": 1, 
+        "html_url": "https://github.com/atorkels", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6642615?v=2", 
+        "location": "", 
+        "login": "atorkels", 
+        "contributions": 268
     }, 
     {
         "name": "Ahmad Qamar", 
@@ -691,6 +735,17 @@
         "location": "Grand Rapids, MI, USA", 
         "login": "brousch", 
         "contributions": 7
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/bruleyii", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2052979?v=2", 
+        "location": null, 
+        "login": "bruleyii", 
+        "contributions": 59
     }, 
     {
         "name": "Suman Bhattacharya", 
@@ -1639,6 +1694,17 @@
         "contributions": 7
     }, 
     {
+        "name": "Jeremy Styers", 
+        "company": "REI Systems", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jeremys18", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2172410?v=2", 
+        "location": "Leesburg Va", 
+        "login": "jeremys18", 
+        "contributions": 21
+    }, 
+    {
         "name": "Jim Breen", 
         "company": null, 
         "repositories": 1, 
@@ -1834,7 +1900,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/401111?v=2", 
         "location": "Chicago, IL, USA", 
         "login": "kfogel", 
-        "contributions": 29
+        "contributions": 22
     }, 
     {
         "name": "Konstantin K\u00e4fer", 
@@ -2791,7 +2857,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/2342400?v=2", 
         "location": null, 
         "login": "rkalidindi", 
-        "contributions": 12
+        "contributions": 219
     }, 
     {
         "name": "Ryan Nagle", 
@@ -3275,7 +3341,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4576339?v=2", 
         "location": null, 
         "login": "treddy", 
-        "contributions": 7
+        "contributions": 5
     }, 
     {
         "name": "Trevor Powell", 

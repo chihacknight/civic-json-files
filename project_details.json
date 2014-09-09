@@ -6298,7 +6298,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/dssg/bikeshare/contributors", 
-        "forks_count": 9, 
+        "forks_count": 10, 
         "html_url": "https://github.com/dssg/bikeshare", 
         "updated_at": "2014-08-15T16:32:19Z", 
         "project_needs": [], 
@@ -8433,14 +8433,14 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
-                "contributions": 98, 
+                "contributions": 104, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
                 "owner": false, 
                 "login": "lucaluca", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1857606?v=2", 
-                "contributions": 16, 
+                "contributions": 17, 
                 "html_url": "https://github.com/lucaluca"
             }, 
             {
@@ -8473,7 +8473,7 @@
         "name": "plenario", 
         "language": "Python", 
         "created_at": "2013-12-04T21:12:31Z", 
-        "pushed_at": "2014-09-08T23:30:28Z", 
+        "pushed_at": "2014-09-09T02:17:56Z", 
         "watchers_count": 4, 
         "open_issues": 26, 
         "homepage": "http://plenar.io", 

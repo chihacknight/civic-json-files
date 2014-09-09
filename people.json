@@ -217,7 +217,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=2", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 607
+        "contributions": 610
     }, 
     {
         "name": "John Brock", 
@@ -936,7 +936,7 @@
     }, 
     {
         "name": "cory nissen", 
-        "company": null, 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/corynissen", 
         "blog": "https://twitter.com/corynissen", 
@@ -1053,7 +1053,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2789
+        "contributions": 2796
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2758,7 +2758,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/2432665?v=2", 
         "location": null, 
         "login": "rcgraff", 
-        "contributions": 21
+        "contributions": 22
     }, 
     {
         "name": "Rebecca", 
@@ -3473,6 +3473,17 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/6912981?v=2", 
         "location": "Boulder, CO", 
         "login": "waffle-iron", 
+        "contributions": 1
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/waffle-with-pears", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8701611?v=2", 
+        "location": null, 
+        "login": "waffle-with-pears", 
         "contributions": 1
     }, 
     {

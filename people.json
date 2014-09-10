@@ -1287,13 +1287,13 @@
         "contributions": 1655
     }, 
     {
-        "name": null, 
-        "company": null, 
+        "name": "", 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/fisch42", 
         "blog": "http://fionaschmidtke.de/", 
         "avatar_url": "https://avatars.githubusercontent.com/u/847843?v=2", 
-        "location": null, 
+        "location": "Germany", 
         "login": "fisch42", 
         "contributions": 1
     }, 

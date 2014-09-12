@@ -33,6 +33,17 @@
         "contributions": 5
     }, 
     {
+        "name": "Agos", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/Agos", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/111486?v=2", 
+        "location": null, 
+        "login": "Agos", 
+        "contributions": 1
+    }, 
+    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -1262,7 +1273,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 912
+        "contributions": 918
     }, 
     {
         "name": "David Fawcett", 
@@ -1461,17 +1472,6 @@
         "location": "Chicago, Il", 
         "login": "harperreed", 
         "contributions": 17
-    }, 
-    {
-        "name": "Harry Wood", 
-        "company": "TransportAPI.com + OpenStreetMap & HOT volunteer", 
-        "repositories": 1, 
-        "html_url": "https://github.com/harry-wood", 
-        "blog": "http://harrywood.co.uk", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/227525?v=2", 
-        "location": "London, UK", 
-        "login": "harry-wood", 
-        "contributions": 1
     }, 
     {
         "name": "Heather Billings", 
@@ -1903,17 +1903,6 @@
         "contributions": 22
     }, 
     {
-        "name": "Konstantin K\u00e4fer", 
-        "company": "Mapbox", 
-        "repositories": 1, 
-        "html_url": "https://github.com/kkaefer", 
-        "blog": "http://kkaefer.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/52399?v=2", 
-        "location": "Berlin, Germany", 
-        "login": "kkaefer", 
-        "contributions": 2
-    }, 
-    {
         "name": "KK Rebecca Lai", 
         "company": "Knight Lab", 
         "repositories": 1, 
@@ -2011,6 +2000,17 @@
         "location": null, 
         "login": "kwade27", 
         "contributions": 5
+    }, 
+    {
+        "name": "Leo Lou", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/l4u", 
+        "blog": "https://twitter.com/0xl4u", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/97841?v=2", 
+        "location": "Hong Kong, China", 
+        "login": "l4u", 
+        "contributions": 1
     }, 
     {
         "name": "Moln\u00e1r L\u00e1szl\u00f3", 
@@ -2219,7 +2219,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/205007?v=2", 
         "location": "Chicago, IL", 
         "login": "mccc", 
-        "contributions": 11
+        "contributions": 12
     }, 
     {
         "name": "Michael E. Karpeles", 
@@ -3594,7 +3594,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/741789?v=2", 
         "location": "", 
         "login": "zachwise", 
-        "contributions": 847
+        "contributions": 857
     }, 
     {
         "name": "Citizen", 

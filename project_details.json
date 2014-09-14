@@ -8171,7 +8171,7 @@
         "contributors_url": "https://api.github.com/repos/corynissen/foodborne_classifier/contributors", 
         "forks_count": 22, 
         "html_url": "https://github.com/corynissen/foodborne_classifier", 
-        "updated_at": "2014-08-16T19:58:55Z", 
+        "updated_at": "2014-09-14T05:36:23Z", 
         "project_needs": [], 
         "owner": {
             "login": "corynissen", 
@@ -8184,7 +8184,7 @@
         "language": "R", 
         "created_at": "2013-04-23T17:27:51Z", 
         "pushed_at": "2014-02-04T15:52:18Z", 
-        "watchers_count": 30, 
+        "watchers_count": 31, 
         "open_issues": 0, 
         "homepage": null, 
         "participation": [

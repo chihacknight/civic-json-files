@@ -140,7 +140,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/7934941?v=2", 
         "location": null, 
         "login": "Deepika21", 
-        "contributions": 3
+        "contributions": 4
     }, 
     {
         "name": "Daniel Ronan", 
@@ -228,7 +228,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=2", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 616
+        "contributions": 620
     }, 
     {
         "name": "John Brock", 
@@ -1064,7 +1064,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2828
+        "contributions": 2832
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1273,7 +1273,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 929
+        "contributions": 933
     }, 
     {
         "name": "David Fawcett", 
@@ -1295,7 +1295,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=2", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1655
+        "contributions": 1658
     }, 
     {
         "name": "", 
@@ -2626,7 +2626,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/132447?v=2", 
         "location": "Boston, Massachusetts", 
         "login": "paultag", 
-        "contributions": 98
+        "contributions": 117
     }, 
     {
         "name": "Philip Neustrom", 
@@ -3192,13 +3192,13 @@
     {
         "name": "Scott Robbin", 
         "company": "Robbin & Co.", 
-        "repositories": 3, 
+        "repositories": 4, 
         "html_url": "https://github.com/srobbin", 
         "blog": "http://srobbin.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/44719?v=2", 
         "location": "Chicago", 
         "login": "srobbin", 
-        "contributions": 37
+        "contributions": 38
     }, 
     {
         "name": null, 
@@ -3385,7 +3385,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/70850?v=2", 
         "location": "Boston, MA", 
         "login": "twneale", 
-        "contributions": 29
+        "contributions": 39
     }, 
     {
         "name": "Boguslaw Tarnowski", 
@@ -3594,7 +3594,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/741789?v=2", 
         "location": "", 
         "login": "zachwise", 
-        "contributions": 862
+        "contributions": 867
     }, 
     {
         "name": "Citizen", 

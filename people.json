@@ -228,7 +228,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=2", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 620
+        "contributions": 622
     }, 
     {
         "name": "John Brock", 
@@ -979,6 +979,17 @@
         "contributions": 1
     }, 
     {
+        "name": "Daniel E. Acuna", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/daniel-acuna", 
+        "blog": "http://www.scienceofscience.org", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/842569?v=2", 
+        "location": "Chicago, IL", 
+        "login": "daniel-acuna", 
+        "contributions": 3
+    }, 
+    {
         "name": "Dan Melton", 
         "company": "Granicus", 
         "repositories": 3, 
@@ -1064,7 +1075,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2836
+        "contributions": 2840
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1273,7 +1284,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 934
+        "contributions": 936
     }, 
     {
         "name": "David Fawcett", 
@@ -1295,7 +1306,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=2", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1658
+        "contributions": 1661
     }, 
     {
         "name": "", 
@@ -3594,7 +3605,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/741789?v=2", 
         "location": "", 
         "login": "zachwise", 
-        "contributions": 867
+        "contributions": 869
     }, 
     {
         "name": "Citizen", 

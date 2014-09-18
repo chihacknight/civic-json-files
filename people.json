@@ -228,7 +228,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=2", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 622
+        "contributions": 626
     }, 
     {
         "name": "John Brock", 
@@ -1284,7 +1284,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 936
+        "contributions": 938
     }, 
     {
         "name": "David Fawcett", 
@@ -2091,7 +2091,7 @@
     }, 
     {
         "name": "Lou Huang", 
-        "company": "Socrata", 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/louh", 
         "blog": "louhuang.com", 

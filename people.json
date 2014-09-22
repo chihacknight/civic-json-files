@@ -484,17 +484,6 @@
         "contributions": 57
     }, 
     {
-        "name": "Alessandro Panella", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/apanella", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4671134?v=2", 
-        "location": "", 
-        "login": "apanella", 
-        "contributions": 8
-    }, 
-    {
         "name": "Richard", 
         "company": "", 
         "repositories": 1, 
@@ -1069,13 +1058,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade, Open City", 
-        "repositories": 39, 
+        "repositories": 38, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2866
+        "contributions": 2704
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1278,13 +1267,13 @@
     {
         "name": "Eric van Zanten", 
         "company": "", 
-        "repositories": 22, 
+        "repositories": 21, 
         "html_url": "https://github.com/evz", 
         "blog": "www.static-eric.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 950
+        "contributions": 747
     }, 
     {
         "name": "David Fawcett", 
@@ -1300,13 +1289,13 @@
     {
         "name": "Forest Gregg", 
         "company": "University of Chicago, Department of Sociology", 
-        "repositories": 19, 
+        "repositories": 18, 
         "html_url": "https://github.com/fgregg", 
         "blog": "http://bunkum.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=2", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1663
+        "contributions": 1647
     }, 
     {
         "name": "", 
@@ -2112,17 +2101,6 @@
         "contributions": 177
     }, 
     {
-        "name": "Jonathan Giuffrida", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/lucaluca", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1857606?v=2", 
-        "location": "Chicago, IL", 
-        "login": "lucaluca", 
-        "contributions": 28
-    }, 
-    {
         "name": "Magnus Persson", 
         "company": null, 
         "repositories": 1, 
@@ -2220,17 +2198,6 @@
         "location": "Oakland, CA", 
         "login": "maxogden", 
         "contributions": 2
-    }, 
-    {
-        "name": "Michael Castelle", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/mccc", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/205007?v=2", 
-        "location": "Chicago, IL", 
-        "login": "mccc", 
-        "contributions": 15
     }, 
     {
         "name": "Michael E. Karpeles", 

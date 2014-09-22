@@ -8434,126 +8434,6 @@
         ]
     }, 
     {
-        "description": "RESTful API for geospatial and time aggregation across multiple open datasets.", 
-        "contributors": [
-            {
-                "owner": false, 
-                "login": "evz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
-                "contributions": 203, 
-                "html_url": "https://github.com/evz"
-            }, 
-            {
-                "owner": false, 
-                "login": "derekeder", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
-                "contributions": 162, 
-                "html_url": "https://github.com/derekeder"
-            }, 
-            {
-                "owner": false, 
-                "login": "lucaluca", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1857606?v=2", 
-                "contributions": 28, 
-                "html_url": "https://github.com/lucaluca"
-            }, 
-            {
-                "owner": false, 
-                "login": "fgregg", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=2", 
-                "contributions": 16, 
-                "html_url": "https://github.com/fgregg"
-            }, 
-            {
-                "owner": false, 
-                "login": "mccc", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/205007?v=2", 
-                "contributions": 15, 
-                "html_url": "https://github.com/mccc"
-            }, 
-            {
-                "owner": false, 
-                "login": "apanella", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/4671134?v=2", 
-                "contributions": 8, 
-                "html_url": "https://github.com/apanella"
-            }
-        ], 
-        "contributors_url": "https://api.github.com/repos/datamade/plenario/contributors", 
-        "forks_count": 3, 
-        "html_url": "https://github.com/datamade/plenario", 
-        "updated_at": "2014-09-18T21:07:21Z", 
-        "project_needs": [], 
-        "owner": {
-            "login": "datamade", 
-            "avatar_url": "https://avatars.githubusercontent.com/u/3723931?v=2", 
-            "type": "Organization", 
-            "html_url": "https://github.com/datamade"
-        }, 
-        "id": 14935974, 
-        "name": "plenario", 
-        "language": "Python", 
-        "created_at": "2013-12-04T21:12:31Z", 
-        "pushed_at": "2014-09-21T22:09:11Z", 
-        "watchers_count": 5, 
-        "open_issues": 19, 
-        "homepage": "http://plenar.io", 
-        "participation": [
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            6, 
-            8, 
-            3, 
-            2, 
-            0, 
-            8, 
-            7, 
-            8, 
-            1, 
-            0, 
-            2, 
-            0, 
-            0, 
-            1, 
-            0, 
-            0, 
-            0, 
-            0, 
-            2, 
-            0, 
-            4, 
-            3, 
-            12, 
-            12, 
-            6, 
-            2, 
-            3, 
-            5, 
-            4, 
-            3, 
-            4, 
-            21, 
-            18, 
-            14, 
-            2, 
-            11, 
-            44, 
-            29, 
-            21, 
-            28, 
-            62, 
-            71
-        ]
-    }, 
-    {
         "description": "visualizing Chicago employment data", 
         "contributors": [
             {
@@ -11200,7 +11080,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1369, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2014-09-21T22:44:38Z", 
+        "updated_at": "2014-09-22T01:45:14Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 

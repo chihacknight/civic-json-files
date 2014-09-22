@@ -352,6 +352,17 @@
         "contributions": 45
     }, 
     {
+        "name": "Zach Collier", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/Zamicol", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5232965?v=2", 
+        "location": "Pueblo, CO", 
+        "login": "Zamicol", 
+        "contributions": 1
+    }, 
+    {
         "name": "Aaron U. Salmon", 
         "company": "Auraworks Ltd.", 
         "repositories": 1, 
@@ -2846,7 +2857,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/2342400?v=2", 
         "location": null, 
         "login": "rkalidindi", 
-        "contributions": 219
+        "contributions": 220
     }, 
     {
         "name": "Ryan Nagle", 

@@ -228,7 +228,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=2", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 640
+        "contributions": 643
     }, 
     {
         "name": "John Brock", 
@@ -1813,6 +1813,17 @@
         "location": "Chicago", 
         "login": "jpvelez", 
         "contributions": 289
+    }, 
+    {
+        "name": "James", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/jsal13", 
+        "blog": "www.dyinglovegrape.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4589605?v=2", 
+        "location": null, 
+        "login": "jsal13", 
+        "contributions": 2
     }, 
     {
         "name": "Jeremy Satterfield", 

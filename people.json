@@ -1284,7 +1284,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 747
+        "contributions": 748
     }, 
     {
         "name": "David Fawcett", 
@@ -1518,13 +1518,13 @@
         "contributions": 2
     }, 
     {
-        "name": null, 
-        "company": null, 
+        "name": "Hunter Owens", 
+        "company": "", 
         "repositories": 6, 
         "html_url": "https://github.com/hunterowens", 
-        "blog": null, 
+        "blog": "http://hunterowens.net", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1735650?v=2", 
-        "location": null, 
+        "location": "Chicago", 
         "login": "hunterowens", 
         "contributions": 229
     }, 

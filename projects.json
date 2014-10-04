@@ -95,11 +95,13 @@
     "https://github.com/smartchicago/chicagoworksforyou", 
     "https://github.com/biolithic/banpweb", 
     "https://github.com/smartchicago/connect-chicago", 
+    "https://github.com/datamade/us-address-parser-api", 
     "https://github.com/newsapps/chicagocrime", 
     "https://github.com/harperreed/chicago-card-crawler", 
     "https://github.com/Chicago/adopt-a-sidewalk", 
     "https://github.com/open-city/second-city-zoning", 
     "https://github.com/fgregg/legistar-scrape", 
+    "https://github.com/jsal13/Reading_Group", 
     "https://github.com/Chicago/open-data-annual-report", 
     "https://github.com/open-city/metra-service-changes", 
     "https://github.com/NUKnightLab/TimelineJS", 
@@ -135,8 +137,10 @@
     "https://github.com/Chicago/metalicious", 
     "https://github.com/ryanbriones/open311-clj", 
     "https://github.com/trevorpowell/chicago-buildings", 
+    "https://github.com/datamade/geomancer", 
     "https://github.com/smartchicago/Wufoo-to-Twilio-SMS", 
     "https://github.com/derekeder/Fusion-Tables-to-HTML-Table", 
+    "https://github.com/datamade/us-address-parser", 
     "https://github.com/open-city/open-gov-hack-night", 
-    "https://github.com/jsal13/Reading_Group"
+    "https://github.com/datamade/address-matching"
 ]

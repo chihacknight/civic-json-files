@@ -783,13 +783,13 @@
     {
         "name": "Cathy Deng", 
         "company": null, 
-        "repositories": 6, 
+        "repositories": 8, 
         "html_url": "https://github.com/cathydeng", 
         "blog": "twitter.com/cthydng", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=2", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 171
+        "contributions": 287
     }, 
     {
         "name": "Chris Gansen", 
@@ -970,13 +970,13 @@
     {
         "name": "Dave Guarino", 
         "company": "", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/daguar", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/994938?v=2", 
         "location": "Oakland, CA", 
         "login": "daguar", 
-        "contributions": 1
+        "contributions": 2
     }, 
     {
         "name": "Daniel E. Acuna", 
@@ -1069,13 +1069,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade, Open City", 
-        "repositories": 38, 
+        "repositories": 41, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2707
+        "contributions": 2734
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1278,13 +1278,13 @@
     {
         "name": "Eric van Zanten", 
         "company": "", 
-        "repositories": 21, 
+        "repositories": 22, 
         "html_url": "https://github.com/evz", 
         "blog": "www.static-eric.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 748
+        "contributions": 768
     }, 
     {
         "name": "David Fawcett", 
@@ -1300,13 +1300,13 @@
     {
         "name": "Forest Gregg", 
         "company": "University of Chicago, Department of Sociology", 
-        "repositories": 18, 
+        "repositories": 20, 
         "html_url": "https://github.com/fgregg", 
         "blog": "http://bunkum.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=2", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1647
+        "contributions": 1751
     }, 
     {
         "name": "", 
@@ -1806,13 +1806,13 @@
     {
         "name": "Juan-Pablo Velez", 
         "company": "Open City", 
-        "repositories": 18, 
+        "repositories": 19, 
         "html_url": "https://github.com/jpvelez", 
         "blog": "http://www.twitter.com/jpvelez", 
         "avatar_url": "https://avatars.githubusercontent.com/u/533641?v=2", 
         "location": "Chicago", 
         "login": "jpvelez", 
-        "contributions": 289
+        "contributions": 294
     }, 
     {
         "name": "James", 
@@ -3033,7 +3033,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/3475751?v=2", 
         "location": "", 
         "login": "sbeslow", 
-        "contributions": 61
+        "contributions": 62
     }, 
     {
         "name": "Tom Lee", 
@@ -3375,6 +3375,17 @@
         "location": "Kansas", 
         "login": "tshedor", 
         "contributions": 11
+    }, 
+    {
+        "name": "Troy Thibodeaux", 
+        "company": "The Associated Press", 
+        "repositories": 1, 
+        "html_url": "https://github.com/tthibo", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/217394?v=2", 
+        "location": "New Orleans, LA", 
+        "login": "tthibo", 
+        "contributions": 1
     }, 
     {
         "name": "Thom Neale", 

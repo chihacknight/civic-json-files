@@ -1320,13 +1320,13 @@
         "contributions": 1
     }, 
     {
-        "name": null, 
-        "company": null, 
+        "name": "Adam Fishman", 
+        "company": "", 
         "repositories": 3, 
         "html_url": "https://github.com/fishmanadam", 
-        "blog": null, 
+        "blog": "http://www.fishmanadam.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1256533?v=2", 
-        "location": null, 
+        "location": "Oakland, CA", 
         "login": "fishmanadam", 
         "contributions": 113
     }, 

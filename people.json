@@ -783,13 +783,13 @@
     {
         "name": "Cathy Deng", 
         "company": null, 
-        "repositories": 8, 
+        "repositories": 7, 
         "html_url": "https://github.com/cathydeng", 
         "blog": "twitter.com/cthydng", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=2", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 288
+        "contributions": 191
     }, 
     {
         "name": "Chris Gansen", 
@@ -1069,13 +1069,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade, Open City", 
-        "repositories": 42, 
+        "repositories": 41, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2745
+        "contributions": 2743
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1284,7 +1284,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 768
+        "contributions": 770
     }, 
     {
         "name": "David Fawcett", 
@@ -1300,13 +1300,13 @@
     {
         "name": "Forest Gregg", 
         "company": "University of Chicago, Department of Sociology", 
-        "repositories": 20, 
+        "repositories": 19, 
         "html_url": "https://github.com/fgregg", 
         "blog": "http://bunkum.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=2", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1752
+        "contributions": 1658
     }, 
     {
         "name": "", 

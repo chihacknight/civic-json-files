@@ -2750,6 +2750,17 @@
         "contributions": 81
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/randy7771026", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3345191?v=2", 
+        "location": null, 
+        "login": "randy7771026", 
+        "contributions": 1
+    }, 
+    {
         "name": "Rebecca Ackerman", 
         "company": null, 
         "repositories": 1, 
@@ -3075,7 +3086,7 @@
         "html_url": "https://github.com/sferik", 
         "blog": "http://twitter.com/sferik", 
         "avatar_url": "https://avatars.githubusercontent.com/u/10308?v=2", 
-        "location": "Prussia", 
+        "location": "", 
         "login": "sferik", 
         "contributions": 896
     }, 

@@ -228,7 +228,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=2", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 655
+        "contributions": 661
     }, 
     {
         "name": "John Brock", 
@@ -925,7 +925,7 @@
     }, 
     {
         "name": "Sheila Miguez", 
-        "company": "", 
+        "company": "Canonical", 
         "repositories": 1, 
         "html_url": "https://github.com/codersquid", 
         "blog": "", 
@@ -1056,6 +1056,17 @@
         "contributions": 26
     }, 
     {
+        "name": "Chris Davis", 
+        "company": "Threespot", 
+        "repositories": 1, 
+        "html_url": "https://github.com/defbyte", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/338892?v=2", 
+        "location": "Washington, DC", 
+        "login": "defbyte", 
+        "contributions": 1
+    }, 
+    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -1069,13 +1080,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade, Open City", 
-        "repositories": 41, 
+        "repositories": 40, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2759
+        "contributions": 2740
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2418,17 +2429,6 @@
         "location": "Philadelphia", 
         "login": "mtedeschi", 
         "contributions": 5
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/mtorok", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6428317?v=2", 
-        "location": null, 
-        "login": "mtorok", 
-        "contributions": 1
     }, 
     {
         "name": "Nathan Leiby", 

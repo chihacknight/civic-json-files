@@ -1086,7 +1086,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2740
+        "contributions": 2741
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1295,7 +1295,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 786
+        "contributions": 787
     }, 
     {
         "name": "David Fawcett", 
@@ -2857,6 +2857,17 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/220759?v=2", 
         "location": "Montreal", 
         "login": "rhymeswithcycle", 
+        "contributions": 1
+    }, 
+    {
+        "name": "Richard Cornish", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/richardcornish", 
+        "blog": "http://richardcornish.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/76278?v=2", 
+        "location": "", 
+        "login": "richardcornish", 
         "contributions": 1
     }, 
     {

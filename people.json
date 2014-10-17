@@ -1112,7 +1112,7 @@
     }, 
     {
         "name": "Drew Dara-Abrams", 
-        "company": null, 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/drewda", 
         "blog": "http://drew.dara-abrams.com/", 
@@ -1295,7 +1295,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=2", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 788
+        "contributions": 789
     }, 
     {
         "name": "David Fawcett", 
@@ -1379,7 +1379,7 @@
         "company": "Code for America / Fureigh Consulting", 
         "repositories": 1, 
         "html_url": "https://github.com/fureigh", 
-        "blog": "http://www.fureigh.com", 
+        "blog": "http://www.twitter.com/fureigh", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1244599?v=2", 
         "location": "San Francisco, CA / Brooklyn, NY", 
         "login": "fureigh", 
@@ -1834,7 +1834,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4589605?v=2", 
         "location": null, 
         "login": "jsal13", 
-        "contributions": 4
+        "contributions": 5
     }, 
     {
         "name": "Jeremy Satterfield", 

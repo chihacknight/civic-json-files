@@ -228,7 +228,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=2", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 661
+        "contributions": 662
     }, 
     {
         "name": "John Brock", 
@@ -1086,7 +1086,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2743
+        "contributions": 2746
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1626,6 +1626,17 @@
         "location": "Washington, DC", 
         "login": "jamesturk", 
         "contributions": 24
+    }, 
+    {
+        "name": "Jason Davies", 
+        "company": "Jason Davies Ltd", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jasondavies", 
+        "blog": "http://www.jasondavies.com/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/31223?v=2", 
+        "location": "London, UK", 
+        "login": "jasondavies", 
+        "contributions": 1
     }, 
     {
         "name": "Jason Lally", 
@@ -2787,9 +2798,9 @@
         "company": "Caktus Group", 
         "repositories": 1, 
         "html_url": "https://github.com/rebecca-caktus", 
-        "blog": null, 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1759718?v=2", 
-        "location": "Carrboro, NC", 
+        "location": "Durham, NC", 
         "login": "rebecca-caktus", 
         "contributions": 2
     }, 
@@ -3059,7 +3070,7 @@
     }, 
     {
         "name": "Tom Lee", 
-        "company": "Sunlight Foundation", 
+        "company": "Mapbox", 
         "repositories": 1, 
         "html_url": "https://github.com/sbma44", 
         "blog": "http://manifestdensity.net", 

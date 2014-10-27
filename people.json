@@ -3147,7 +3147,7 @@
     }, 
     {
         "name": "Josh Kalov", 
-        "company": null, 
+        "company": "", 
         "repositories": 5, 
         "html_url": "https://github.com/shua123", 
         "blog": "http://kalov.net", 

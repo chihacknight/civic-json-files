@@ -1163,7 +1163,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/634572?v=2", 
         "location": null, 
         "login": "eads", 
-        "contributions": 804
+        "contributions": 817
     }, 
     {
         "name": null, 
@@ -1531,13 +1531,13 @@
     {
         "name": "Hunter Owens", 
         "company": "", 
-        "repositories": 6, 
+        "repositories": 7, 
         "html_url": "https://github.com/hunterowens", 
         "blog": "http://hunterowens.net", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1735650?v=2", 
         "location": "Chicago", 
         "login": "hunterowens", 
-        "contributions": 229
+        "contributions": 230
     }, 
     {
         "name": "Ian Dees", 
@@ -1548,7 +1548,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?v=2", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 604
+        "contributions": 607
     }, 
     {
         "name": "Idan Gazit", 

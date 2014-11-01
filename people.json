@@ -228,7 +228,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=2", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 680
+        "contributions": 681
     }, 
     {
         "name": "John Brock", 
@@ -1097,7 +1097,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2783
+        "contributions": 2785
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2143,6 +2143,17 @@
         "location": "New York, NY", 
         "login": "ltucker", 
         "contributions": 177
+    }, 
+    {
+        "name": "Lucio Villa", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/luciovilla", 
+        "blog": "www.luciovilla.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4227347?v=2", 
+        "location": "Chicago", 
+        "login": "luciovilla", 
+        "contributions": 1
     }, 
     {
         "name": "Magnus Persson", 
@@ -3374,7 +3385,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/486230?v=2", 
         "location": "Chicago, IL", 
         "login": "tothebeat", 
-        "contributions": 29
+        "contributions": 30
     }, 
     {
         "name": "Tom Plagge", 

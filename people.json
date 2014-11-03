@@ -1328,7 +1328,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=2", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1671
+        "contributions": 1672
     }, 
     {
         "name": "", 
@@ -1705,13 +1705,13 @@
         "contributions": 11
     }, 
     {
-        "name": null, 
-        "company": null, 
+        "name": "", 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/jeffhaack", 
-        "blog": null, 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/322468?v=2", 
-        "location": null, 
+        "location": "", 
         "login": "jeffhaack", 
         "contributions": 1
     }, 

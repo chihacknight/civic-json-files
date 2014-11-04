@@ -451,6 +451,17 @@
         "contributions": 14
     }, 
     {
+        "name": "Felipe Figueroa", 
+        "company": "Lemontech S.A.", 
+        "repositories": 1, 
+        "html_url": "https://github.com/amenadiel", 
+        "blog": "http://ffflabs.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/238439?v=2", 
+        "location": "Santiago, Chile", 
+        "login": "amenadiel", 
+        "contributions": 1
+    }, 
+    {
         "name": "Anna Marie Tamayo", 
         "company": "Webitects", 
         "repositories": 1, 
@@ -1097,7 +1108,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=2", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2788
+        "contributions": 2790
     }, 
     {
         "name": "Anatoly Bondarenko", 

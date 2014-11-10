@@ -122,7 +122,7 @@
     {
         "name": null, 
         "company": null, 
-        "repositories": 2, 
+        "repositories": 3, 
         "html_url": "https://github.com/sc3", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/2393454?v=3", 
@@ -132,7 +132,7 @@
     {
         "name": "Smart Chicago Collaborative", 
         "company": null, 
-        "repositories": 11, 
+        "repositories": 14, 
         "html_url": "https://github.com/smartchicago", 
         "blog": "http://www.smartchicagocollaborative.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/2008099?v=3", 

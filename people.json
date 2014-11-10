@@ -352,6 +352,17 @@
         "contributions": 45
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/Yana715", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7957750?v=3", 
+        "location": null, 
+        "login": "Yana715", 
+        "contributions": 148
+    }, 
+    {
         "name": "Zach Collier", 
         "company": null, 
         "repositories": 1, 
@@ -618,13 +629,13 @@
     {
         "name": "Brian Everett Peterson", 
         "company": null, 
-        "repositories": 3, 
+        "repositories": 4, 
         "html_url": "https://github.com/bepetersn", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/1389463?v=3", 
         "location": "Chicago, IL", 
         "login": "bepetersn", 
-        "contributions": 516
+        "contributions": 581
     }, 
     {
         "name": "Andy Martha", 
@@ -816,13 +827,13 @@
     {
         "name": "Chris Gansen", 
         "company": "Make No Little Plans, LLC", 
-        "repositories": 8, 
+        "repositories": 10, 
         "html_url": "https://github.com/cgansen", 
         "blog": "http://www.chrisgansen.com/", 
         "avatar_url": "https://avatars.githubusercontent.com/u/88998?v=3", 
         "location": "Chicago, IL", 
         "login": "cgansen", 
-        "contributions": 584
+        "contributions": 786
     }, 
     {
         "name": null, 
@@ -1025,13 +1036,13 @@
     {
         "name": "Daniel X. O'Neil", 
         "company": "Smart Chicago Collaborative", 
-        "repositories": 6, 
+        "repositories": 7, 
         "html_url": "https://github.com/danxoneil", 
         "blog": "http://www.derivativeworks.com/", 
         "avatar_url": "https://avatars.githubusercontent.com/u/100556?v=3", 
         "location": "Chicago", 
         "login": "danxoneil", 
-        "contributions": 40
+        "contributions": 41
     }, 
     {
         "name": "Vidhur Vohra", 
@@ -1417,6 +1428,17 @@
         "location": "", 
         "login": "gburt", 
         "contributions": 1
+    }, 
+    {
+        "name": "Geoffrey Hing", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ghing", 
+        "blog": "http://geoff.terrorware.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/110420?v=3", 
+        "location": "Chicago, IL", 
+        "login": "ghing", 
+        "contributions": 94
     }, 
     {
         "name": "Gilles Doge", 
@@ -3247,13 +3269,13 @@
     {
         "name": "Scott Robbin", 
         "company": "Robbin & Co.", 
-        "repositories": 4, 
+        "repositories": 5, 
         "html_url": "https://github.com/srobbin", 
         "blog": "http://srobbin.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/44719?v=3", 
         "location": "Chicago", 
         "login": "srobbin", 
-        "contributions": 38
+        "contributions": 39
     }, 
     {
         "name": null, 
@@ -3269,13 +3291,13 @@
     {
         "name": "Steven Vance", 
         "company": null, 
-        "repositories": 5, 
+        "repositories": 6, 
         "html_url": "https://github.com/stevevance", 
         "blog": "http://stevevance.net", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1330459?v=3", 
         "location": "Chicago, Illinois", 
         "login": "stevevance", 
-        "contributions": 114
+        "contributions": 115
     }, 
     {
         "name": "Firman Rosdiansyah", 

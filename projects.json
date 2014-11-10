@@ -17,6 +17,7 @@
     "https://github.com/alexsoble/DivvyBrags", 
     "https://github.com/smartchicago/chicago-early-learning", 
     "https://github.com/datamade/csvdedupe", 
+    "https://github.com/dssg/ushine-learning", 
     "https://github.com/AdamGluck/DivvyAPI", 
     "https://github.com/censusreporter/census-api", 
     "https://github.com/Chicago/osd-pedway-routes", 
@@ -31,6 +32,7 @@
     "https://github.com/datamade/election-money", 
     "https://github.com/jcbozonier/DivvyData", 
     "https://github.com/open-city/capsure", 
+    "https://github.com/smartchicago/kimball", 
     "https://github.com/NUKnightLab/TimelineJS-Wordpress-Plugin", 
     "https://github.com/open-city/crime-in-chicago", 
     "https://github.com/codeforamerica/civic-tech-patterns", 
@@ -45,6 +47,7 @@
     "https://github.com/iandees/divvy-dump", 
     "https://github.com/smartchicago/cutgroup", 
     "https://github.com/iandees/ctaapi", 
+    "https://github.com/sc3/cook-convictions", 
     "https://github.com/newsapps/ctabustracker", 
     "https://github.com/sc3/cookcountyjail", 
     "https://github.com/evz/crimeapi", 
@@ -105,6 +108,7 @@
     "https://github.com/open-city/metra-service-changes", 
     "https://github.com/NUKnightLab/TimelineJS", 
     "https://github.com/datamade/large-lots", 
+    "https://github.com/smartchicago/www.smartchicagoapps.org", 
     "https://github.com/stevevance/Chicago-Crash-Browser", 
     "https://github.com/codeforamerica/beyondtransparency", 
     "https://github.com/Chicago/osd-bike-routes", 
@@ -117,7 +121,7 @@
     "https://github.com/open-city/councilmatic", 
     "https://github.com/dssg/cta-otp", 
     "https://github.com/datamade/school-boundary-merge", 
-    "https://github.com/dssg/ushine-learning", 
+    "https://github.com/datamade/address-matching", 
     "https://github.com/cgansen/health-near-me", 
     "https://github.com/jpvelez/geography_of_hunger", 
     "https://github.com/smartchicago/wasmycartowed", 
@@ -140,5 +144,5 @@
     "https://github.com/smartchicago/Wufoo-to-Twilio-SMS", 
     "https://github.com/derekeder/Fusion-Tables-to-HTML-Table", 
     "https://github.com/open-city/open-gov-hack-night", 
-    "https://github.com/datamade/address-matching"
+    "https://github.com/smartchicago/TweetCollector"
 ]

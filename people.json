@@ -1119,7 +1119,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2803
+        "contributions": 2804
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1350,7 +1350,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1697
+        "contributions": 1699
     }, 
     {
         "name": "", 
@@ -3686,7 +3686,7 @@
     }, 
     {
         "name": "Zach Wise", 
-        "company": "VeriteCo", 
+        "company": "Knight Lab", 
         "repositories": 3, 
         "html_url": "https://github.com/zachwise", 
         "blog": "http://zachwise.com", 

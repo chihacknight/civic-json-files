@@ -1166,6 +1166,17 @@
         "contributions": 11
     }, 
     {
+        "name": "Kevin Dwyer", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/dwyerk", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/467978?v=3", 
+        "location": "Takoma Park, MD", 
+        "login": "dwyerk", 
+        "contributions": 2
+    }, 
+    {
         "name": "David Zwarg", 
         "company": "", 
         "repositories": 1, 
@@ -1350,7 +1361,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1701
+        "contributions": 1703
     }, 
     {
         "name": "Adam Fishman", 

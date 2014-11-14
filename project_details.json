@@ -275,7 +275,7 @@
                 "owner": false, 
                 "login": "jywsn", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=3", 
-                "contributions": 311, 
+                "contributions": 317, 
                 "html_url": "https://github.com/jywsn"
             }, 
             {
@@ -322,16 +322,9 @@
             }, 
             {
                 "owner": false, 
-                "login": "jywsn", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=3", 
-                "contributions": 6, 
-                "html_url": "https://github.com/jywsn"
-            }, 
-            {
-                "owner": false, 
                 "login": "klakar", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/6375959?v=3", 
-                "contributions": 3, 
+                "contributions": 4, 
                 "html_url": "https://github.com/klakar"
             }, 
             {
@@ -350,10 +343,10 @@
             }, 
             {
                 "owner": false, 
-                "login": "klakar", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/6375959?v=3", 
+                "login": "flawyte", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1585006?v=3", 
                 "contributions": 1, 
-                "html_url": "https://github.com/klakar"
+                "html_url": "https://github.com/flawyte"
             }, 
             {
                 "owner": false, 
@@ -361,13 +354,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/190733?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/zzolo"
-            }, 
-            {
-                "owner": false, 
-                "login": "flawyte", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1585006?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/flawyte"
             }, 
             {
                 "owner": false, 
@@ -492,9 +478,9 @@
             0, 
             0, 
             0, 
+            7, 
+            3, 
             0, 
-            8, 
-            2, 
             0, 
             0, 
             0, 
@@ -627,7 +613,7 @@
         "contributors_url": "https://api.github.com/repos/newsapps/flask-tarbell/contributors", 
         "forks_count": 21, 
         "html_url": "https://github.com/newsapps/flask-tarbell", 
-        "updated_at": "2014-11-12T21:49:26Z", 
+        "updated_at": "2014-11-13T23:43:43Z", 
         "project_needs": [], 
         "owner": {
             "login": "newsapps", 
@@ -640,7 +626,7 @@
         "language": "Python", 
         "created_at": "2012-12-31T19:13:28Z", 
         "pushed_at": "2014-10-29T02:56:25Z", 
-        "watchers_count": 78, 
+        "watchers_count": 79, 
         "open_issues": 18, 
         "homepage": "", 
         "participation": [
@@ -1155,13 +1141,13 @@
             0, 
             0, 
             0, 
+            1, 
+            13, 
             0, 
-            10, 
-            4, 
             0, 
             0, 
-            7, 
-            4, 
+            8, 
+            3, 
             0, 
             0, 
             0, 
@@ -1499,12 +1485,12 @@
         "open_issues": 31, 
         "homepage": "http://www.chicagohealthatlas.org/", 
         "participation": [
-            0, 
-            10, 
+            5, 
             9, 
+            5, 
             0, 
-            4, 
-            6, 
+            7, 
+            3, 
             0, 
             0, 
             0, 
@@ -1514,17 +1500,16 @@
             0, 
             3, 
             0, 
+            2, 
+            6, 
             0, 
+            9, 
+            3, 
+            4, 
             8, 
-            0, 
-            6, 
-            3, 
-            4, 
-            11, 
-            5, 
+            10, 
+            14, 
             19, 
-            17, 
-            2, 
             0, 
             0, 
             0, 
@@ -1532,8 +1517,9 @@
             0, 
             0, 
             0, 
-            11, 
-            5, 
+            0, 
+            15, 
+            1, 
             0, 
             0, 
             0, 
@@ -1737,14 +1723,7 @@
                 "owner": false, 
                 "login": "CloudNiner", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1818302?v=3", 
-                "contributions": 213, 
-                "html_url": "https://github.com/CloudNiner"
-            }, 
-            {
-                "owner": false, 
-                "login": "CloudNiner", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1818302?v=3", 
-                "contributions": 119, 
+                "contributions": 332, 
                 "html_url": "https://github.com/CloudNiner"
             }, 
             {
@@ -1758,7 +1737,7 @@
                 "owner": false, 
                 "login": "kshepard", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/6386?v=3", 
-                "contributions": 12, 
+                "contributions": 16, 
                 "html_url": "https://github.com/kshepard"
             }, 
             {
@@ -1781,13 +1760,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/1508618?v=3", 
                 "contributions": 5, 
                 "html_url": "https://github.com/jbranigan"
-            }, 
-            {
-                "owner": false, 
-                "login": "kshepard", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/6386?v=3", 
-                "contributions": 4, 
-                "html_url": "https://github.com/kshepard"
             }, 
             {
                 "owner": false, 
@@ -2274,7 +2246,7 @@
                 "owner": false, 
                 "login": "tomschenkjr", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 6, 
+                "contributions": 7, 
                 "html_url": "https://github.com/tomschenkjr"
             }, 
             {
@@ -2283,13 +2255,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/58693?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/ericcf"
-            }, 
-            {
-                "owner": false, 
-                "login": "tomschenkjr", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/tomschenkjr"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/Chicago/osd-pedway-routes/contributors", 
@@ -2465,14 +2430,7 @@
                 "owner": false, 
                 "login": "tothebeat", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/486230?v=3", 
-                "contributions": 10, 
-                "html_url": "https://github.com/tothebeat"
-            }, 
-            {
-                "owner": false, 
-                "login": "tothebeat", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/486230?v=3", 
-                "contributions": 2, 
+                "contributions": 13, 
                 "html_url": "https://github.com/tothebeat"
             }, 
             {
@@ -2481,13 +2439,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/4227347?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/luciovilla"
-            }, 
-            {
-                "owner": false, 
-                "login": "tothebeat", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/486230?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/tothebeat"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/vivelohoy/foodinspections/contributors", 
@@ -2811,22 +2762,8 @@
                 "owner": false, 
                 "login": "zzolo", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/190733?v=3", 
-                "contributions": 1, 
+                "contributions": 2, 
                 "html_url": "https://github.com/zzolo"
-            }, 
-            {
-                "owner": false, 
-                "login": "zzolo", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/190733?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/zzolo"
-            }, 
-            {
-                "owner": false, 
-                "login": "jamesturk", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/8034?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/jamesturk"
             }, 
             {
                 "owner": false, 
@@ -2834,6 +2771,13 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/675639?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/kevinschaul"
+            }, 
+            {
+                "owner": false, 
+                "login": "jamesturk", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/8034?v=3", 
+                "contributions": 1, 
+                "html_url": "https://github.com/jamesturk"
             }, 
             {
                 "owner": false, 
@@ -3320,14 +3264,7 @@
                 "owner": false, 
                 "login": "aslotnick", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/3629046?v=3", 
-                "contributions": 6, 
-                "html_url": "https://github.com/aslotnick"
-            }, 
-            {
-                "owner": false, 
-                "login": "aslotnick", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/3629046?v=3", 
-                "contributions": 3, 
+                "contributions": 9, 
                 "html_url": "https://github.com/aslotnick"
             }
         ], 
@@ -4316,7 +4253,7 @@
                 "owner": false, 
                 "login": "krues8dr", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/127904?v=3", 
-                "contributions": 36, 
+                "contributions": 37, 
                 "html_url": "https://github.com/krues8dr"
             }, 
             {
@@ -4332,13 +4269,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/764851?v=3", 
                 "contributions": 3, 
                 "html_url": "https://github.com/cmbirk"
-            }, 
-            {
-                "owner": false, 
-                "login": "krues8dr", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/127904?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/krues8dr"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/cmbirk/chicagocode.org/contributors", 
@@ -4781,16 +4711,16 @@
             0, 
             0, 
             0, 
-            3, 
-            18, 
-            1, 
-            1, 
-            1, 
+            15, 
             6, 
+            1, 
+            1, 
+            2, 
+            5, 
             3, 
-            0, 
             0, 
             2, 
+            0, 
             0, 
             0, 
             0, 
@@ -5122,7 +5052,7 @@
                 "owner": false, 
                 "login": "ghing", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/110420?v=3", 
-                "contributions": 93, 
+                "contributions": 94, 
                 "html_url": "https://github.com/ghing"
             }, 
             {
@@ -5131,13 +5061,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/1389463?v=3", 
                 "contributions": 65, 
                 "html_url": "https://github.com/bepetersn"
-            }, 
-            {
-                "owner": false, 
-                "login": "ghing", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/110420?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/ghing"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/sc3/cook-convictions/contributors", 
@@ -5488,14 +5411,7 @@
                 "owner": true, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 43, 
-                "html_url": "https://github.com/evz"
-            }, 
-            {
-                "owner": true, 
-                "login": "evz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 40, 
+                "contributions": 83, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -5788,8 +5704,8 @@
             0, 
             0, 
             2, 
-            2, 
             10, 
+            2, 
             5, 
             0, 
             6, 
@@ -5911,7 +5827,7 @@
                 "owner": true, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 139, 
+                "contributions": 174, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -5920,13 +5836,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
                 "contributions": 38, 
                 "html_url": "https://github.com/derekeder"
-            }, 
-            {
-                "owner": true, 
-                "login": "evz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 35, 
-                "html_url": "https://github.com/evz"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/evz/crimearound.us/contributors", 
@@ -6102,7 +6011,7 @@
                 "owner": true, 
                 "login": "bosgood", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/540290?v=3", 
-                "contributions": 63, 
+                "contributions": 64, 
                 "html_url": "https://github.com/bosgood"
             }, 
             {
@@ -6118,13 +6027,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/5315925?v=3", 
                 "contributions": 7, 
                 "html_url": "https://github.com/telegraham"
-            }, 
-            {
-                "owner": true, 
-                "login": "bosgood", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/540290?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/bosgood"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/bosgood/chi-text/contributors", 
@@ -6543,8 +6445,8 @@
             0, 
             0, 
             0, 
-            4, 
-            1, 
+            5, 
+            0, 
             0, 
             0, 
             0, 
@@ -7244,14 +7146,14 @@
             0, 
             0, 
             0, 
-            0, 
-            8, 
+            5, 
+            3, 
             0, 
             0, 
             0, 
             3, 
-            0, 
-            3, 
+            2, 
+            1, 
             0, 
             0, 
             0, 
@@ -7467,14 +7369,14 @@
                 "owner": false, 
                 "login": "jywsn", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=3", 
-                "contributions": 47, 
+                "contributions": 48, 
                 "html_url": "https://github.com/jywsn"
             }, 
             {
                 "owner": false, 
                 "login": "TylerFisher", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1077075?v=3", 
-                "contributions": 43, 
+                "contributions": 45, 
                 "html_url": "https://github.com/TylerFisher"
             }, 
             {
@@ -7490,20 +7392,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/740388?v=3", 
                 "contributions": 7, 
                 "html_url": "https://github.com/jeremygilbert"
-            }, 
-            {
-                "owner": false, 
-                "login": "TylerFisher", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1077075?v=3", 
-                "contributions": 2, 
-                "html_url": "https://github.com/TylerFisher"
-            }, 
-            {
-                "owner": false, 
-                "login": "jywsn", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/jywsn"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/soundcite/contributors", 
@@ -7655,14 +7543,14 @@
             1, 
             0, 
             0, 
+            1, 
+            2, 
+            9, 
+            2, 
             0, 
-            3, 
-            3, 
-            8, 
+            1, 
+            2, 
             0, 
-            1, 
-            1, 
-            1, 
             0, 
             0, 
             8, 
@@ -7830,17 +7718,17 @@
             }, 
             {
                 "owner": false, 
+                "login": "jkriss", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/6276?v=3", 
+                "contributions": 4, 
+                "html_url": "https://github.com/jkriss"
+            }, 
+            {
+                "owner": false, 
                 "login": "nleeper", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/915517?v=3", 
                 "contributions": 3, 
                 "html_url": "https://github.com/nleeper"
-            }, 
-            {
-                "owner": false, 
-                "login": "jkriss", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/6276?v=3", 
-                "contributions": 3, 
-                "html_url": "https://github.com/jkriss"
             }, 
             {
                 "owner": false, 
@@ -7851,24 +7739,17 @@
             }, 
             {
                 "owner": false, 
-                "login": "danmelton", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/99731?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/danmelton"
-            }, 
-            {
-                "owner": false, 
-                "login": "jkriss", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/6276?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/jkriss"
-            }, 
-            {
-                "owner": false, 
                 "login": "kmacedo", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/437140?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/kmacedo"
+            }, 
+            {
+                "owner": false, 
+                "login": "danmelton", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/99731?v=3", 
+                "contributions": 1, 
+                "html_url": "https://github.com/danmelton"
             }, 
             {
                 "owner": false, 
@@ -8050,14 +7931,7 @@
                 "owner": false, 
                 "login": "tomschenkjr", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 3, 
-                "html_url": "https://github.com/tomschenkjr"
-            }, 
-            {
-                "owner": false, 
-                "login": "tomschenkjr", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 1, 
+                "contributions": 4, 
                 "html_url": "https://github.com/tomschenkjr"
             }
         ], 
@@ -8227,7 +8101,7 @@
                 "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 140, 
+                "contributions": 192, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -8236,13 +8110,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
                 "contributions": 83, 
                 "html_url": "https://github.com/derekeder"
-            }, 
-            {
-                "owner": false, 
-                "login": "evz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 52, 
-                "html_url": "https://github.com/evz"
             }, 
             {
                 "owner": false, 
@@ -8283,10 +8150,10 @@
             0, 
             0, 
             0, 
-            5, 
-            35, 
-            70, 
-            3, 
+            13, 
+            64, 
+            36, 
+            0, 
             0, 
             0, 
             3, 
@@ -8297,11 +8164,11 @@
             0, 
             4, 
             0, 
-            2, 
             3, 
-            41, 
-            23, 
-            12, 
+            5, 
+            51, 
+            13, 
+            9, 
             0, 
             0, 
             1, 
@@ -8616,14 +8483,7 @@
                 "owner": true, 
                 "login": "remremz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1437534?v=3", 
-                "contributions": 11, 
-                "html_url": "https://github.com/remremz"
-            }, 
-            {
-                "owner": true, 
-                "login": "remremz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1437534?v=3", 
-                "contributions": 1, 
+                "contributions": 12, 
                 "html_url": "https://github.com/remremz"
             }
         ], 
@@ -8647,7 +8507,7 @@
         "open_issues": 0, 
         "homepage": "http://www.chicagowarmingcenters.com", 
         "participation": [
-            1, 
+            0, 
             0, 
             0, 
             0, 
@@ -8807,14 +8667,7 @@
                 "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 3, 
-                "html_url": "https://github.com/evz"
-            }, 
-            {
-                "owner": false, 
-                "login": "evz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 1, 
+                "contributions": 4, 
                 "html_url": "https://github.com/evz"
             }
         ], 
@@ -9372,7 +9225,7 @@
                 "owner": false, 
                 "login": "alexmach", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1028886?v=3", 
-                "contributions": 1, 
+                "contributions": 2, 
                 "html_url": "https://github.com/alexmach"
             }, 
             {
@@ -9381,13 +9234,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/5232965?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/Zamicol"
-            }, 
-            {
-                "owner": false, 
-                "login": "alexmach", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1028886?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/alexmach"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NYCComptroller/Checkbook/contributors", 
@@ -9405,7 +9251,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2014-11-13T17:23:44Z", 
+        "pushed_at": "2014-11-13T23:26:20Z", 
         "watchers_count": 31, 
         "open_issues": 21, 
         "homepage": null, 
@@ -9730,6 +9576,13 @@
             }, 
             {
                 "owner": false, 
+                "login": "ivanov", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/118211?v=3", 
+                "contributions": 4, 
+                "html_url": "https://github.com/ivanov"
+            }, 
+            {
+                "owner": false, 
                 "login": "j-po", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/3677798?v=3", 
                 "contributions": 4, 
@@ -9737,24 +9590,17 @@
             }, 
             {
                 "owner": false, 
-                "login": "JayBazuzi", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1259628?v=3", 
-                "contributions": 3, 
-                "html_url": "https://github.com/JayBazuzi"
-            }, 
-            {
-                "owner": false, 
-                "login": "ivanov", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/118211?v=3", 
-                "contributions": 3, 
-                "html_url": "https://github.com/ivanov"
-            }, 
-            {
-                "owner": false, 
                 "login": "GovInTrenches", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1302753?v=3", 
                 "contributions": 3, 
                 "html_url": "https://github.com/GovInTrenches"
+            }, 
+            {
+                "owner": false, 
+                "login": "JayBazuzi", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1259628?v=3", 
+                "contributions": 3, 
+                "html_url": "https://github.com/JayBazuzi"
             }, 
             {
                 "owner": false, 
@@ -9774,15 +9620,8 @@
                 "owner": false, 
                 "login": "hellojwilde", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/44190?v=3", 
-                "contributions": 1, 
+                "contributions": 2, 
                 "html_url": "https://github.com/hellojwilde"
-            }, 
-            {
-                "owner": false, 
-                "login": "singingwolfboy", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/132355?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/singingwolfboy"
             }, 
             {
                 "owner": false, 
@@ -9793,17 +9632,10 @@
             }, 
             {
                 "owner": false, 
-                "login": "hellojwilde", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/44190?v=3", 
+                "login": "singingwolfboy", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/132355?v=3", 
                 "contributions": 1, 
-                "html_url": "https://github.com/hellojwilde"
-            }, 
-            {
-                "owner": false, 
-                "login": "ivanov", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/118211?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/ivanov"
+                "html_url": "https://github.com/singingwolfboy"
             }, 
             {
                 "owner": false, 
@@ -9908,7 +9740,7 @@
                 "owner": false, 
                 "login": "erowewiegand", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/3254445?v=3", 
-                "contributions": 122, 
+                "contributions": 126, 
                 "html_url": "https://github.com/erowewiegand"
             }, 
             {
@@ -9931,13 +9763,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/533641?v=3", 
                 "contributions": 12, 
                 "html_url": "https://github.com/jpvelez"
-            }, 
-            {
-                "owner": false, 
-                "login": "erowewiegand", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/3254445?v=3", 
-                "contributions": 4, 
-                "html_url": "https://github.com/erowewiegand"
             }, 
             {
                 "owner": false, 
@@ -10035,14 +9860,7 @@
                 "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 35, 
-                "html_url": "https://github.com/evz"
-            }, 
-            {
-                "owner": false, 
-                "login": "evz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 20, 
+                "contributions": 55, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -10254,7 +10072,7 @@
                 "owner": false, 
                 "login": "santheo", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/98248?v=3", 
-                "contributions": 683, 
+                "contributions": 756, 
                 "html_url": "https://github.com/santheo"
             }, 
             {
@@ -10263,13 +10081,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/88998?v=3", 
                 "contributions": 372, 
                 "html_url": "https://github.com/cgansen"
-            }, 
-            {
-                "owner": false, 
-                "login": "santheo", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/98248?v=3", 
-                "contributions": 73, 
-                "html_url": "https://github.com/santheo"
             }, 
             {
                 "owner": false, 
@@ -10819,7 +10630,7 @@
                 "owner": false, 
                 "login": "jkriss", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/6276?v=3", 
-                "contributions": 3, 
+                "contributions": 4, 
                 "html_url": "https://github.com/jkriss"
             }, 
             {
@@ -10835,13 +10646,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/99731?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/danmelton"
-            }, 
-            {
-                "owner": false, 
-                "login": "jkriss", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/6276?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/jkriss"
             }, 
             {
                 "owner": false, 
@@ -11080,7 +10884,7 @@
                 "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 4, 
+                "contributions": 5, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -11089,13 +10893,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/10767?v=3", 
                 "contributions": 2, 
                 "html_url": "https://github.com/walter"
-            }, 
-            {
-                "owner": false, 
-                "login": "evz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/evz"
             }, 
             {
                 "owner": false, 
@@ -11125,7 +10922,7 @@
         "open_issues": 7, 
         "homepage": "", 
         "participation": [
-            1, 
+            0, 
             0, 
             0, 
             0, 
@@ -11271,7 +11068,7 @@
                 "owner": false, 
                 "login": "tomschenkjr", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 29, 
+                "contributions": 30, 
                 "html_url": "https://github.com/tomschenkjr"
             }, 
             {
@@ -11280,13 +11077,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/533641?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/jpvelez"
-            }, 
-            {
-                "owner": false, 
-                "login": "tomschenkjr", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/tomschenkjr"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/Chicago/open-data-annual-report/contributors", 
@@ -11476,7 +11266,7 @@
                 "owner": false, 
                 "login": "jywsn", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=3", 
-                "contributions": 15, 
+                "contributions": 17, 
                 "html_url": "https://github.com/jywsn"
             }, 
             {
@@ -11509,17 +11299,10 @@
             }, 
             {
                 "owner": false, 
-                "login": "jywsn", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=3", 
-                "contributions": 2, 
-                "html_url": "https://github.com/jywsn"
-            }, 
-            {
-                "owner": false, 
-                "login": "gido", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/101859?v=3", 
+                "login": "gunnarlium", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/207556?v=3", 
                 "contributions": 1, 
-                "html_url": "https://github.com/gido"
+                "html_url": "https://github.com/gunnarlium"
             }, 
             {
                 "owner": false, 
@@ -11579,17 +11362,17 @@
             }, 
             {
                 "owner": false, 
+                "login": "gido", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/101859?v=3", 
+                "contributions": 1, 
+                "html_url": "https://github.com/gido"
+            }, 
+            {
+                "owner": false, 
                 "login": "atomantic", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/70015?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/atomantic"
-            }, 
-            {
-                "owner": false, 
-                "login": "gunnarlium", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/207556?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/gunnarlium"
             }, 
             {
                 "owner": false, 
@@ -11660,12 +11443,19 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/1449387?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/bmcorser"
+            }, 
+            {
+                "owner": false, 
+                "login": "fisch42", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/847843?v=3", 
+                "contributions": 1, 
+                "html_url": "https://github.com/fisch42"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1411, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2014-11-13T17:13:36Z", 
+        "updated_at": "2014-11-13T21:09:17Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -11678,21 +11468,21 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2014-10-29T20:10:23Z", 
-        "watchers_count": 6950, 
+        "watchers_count": 6953, 
         "open_issues": 154, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
-            2, 
-            7, 
             1, 
             7, 
-            10, 
-            0, 
-            0, 
+            7, 
             3, 
-            10, 
+            8, 
             0, 
-            2, 
+            0, 
+            4, 
+            9, 
+            1, 
+            1, 
             6, 
             2, 
             0, 
@@ -11700,39 +11490,39 @@
             1, 
             0, 
             4, 
-            1, 
-            1, 
+            2, 
+            0, 
             2, 
             1, 
-            1, 
+            3, 
             2, 
-            16, 
-            34, 
-            1, 
-            4, 
+            26, 
+            22, 
+            5, 
             0, 
             4, 
+            0, 
             4, 
             6, 
             1, 
             0, 
             0, 
             0, 
-            0, 
-            6, 
+            1, 
+            5, 
             0, 
             2, 
             0, 
             1, 
             1, 
-            0, 
             2, 
             1, 
+            0, 
             0, 
             8, 
             3, 
-            0, 
             5, 
+            0, 
             0
         ]
     }, 
@@ -11764,7 +11554,7 @@
                 "owner": false, 
                 "login": "citizendrummer", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/2779691?v=3", 
-                "contributions": 4, 
+                "contributions": 6, 
                 "html_url": "https://github.com/citizendrummer"
             }, 
             {
@@ -11773,13 +11563,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/533641?v=3", 
                 "contributions": 2, 
                 "html_url": "https://github.com/jpvelez"
-            }, 
-            {
-                "owner": false, 
-                "login": "citizendrummer", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/2779691?v=3", 
-                "contributions": 2, 
-                "html_url": "https://github.com/citizendrummer"
             }, 
             {
                 "owner": false, 
@@ -12230,7 +12013,7 @@
                 "owner": false, 
                 "login": "tomschenkjr", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 7, 
+                "contributions": 8, 
                 "html_url": "https://github.com/tomschenkjr"
             }, 
             {
@@ -12239,13 +12022,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/383250?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/JeanMertz"
-            }, 
-            {
-                "owner": false, 
-                "login": "tomschenkjr", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/tomschenkjr"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/Chicago/osd-bike-routes/contributors", 
@@ -12329,7 +12105,7 @@
                 "owner": false, 
                 "login": "tothebeat", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/486230?v=3", 
-                "contributions": 14, 
+                "contributions": 16, 
                 "html_url": "https://github.com/tothebeat"
             }, 
             {
@@ -12338,13 +12114,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/768692?v=3", 
                 "contributions": 3, 
                 "html_url": "https://github.com/vaskalas"
-            }, 
-            {
-                "owner": false, 
-                "login": "tothebeat", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/486230?v=3", 
-                "contributions": 2, 
-                "html_url": "https://github.com/tothebeat"
             }, 
             {
                 "owner": false, 
@@ -12534,7 +12303,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
-                "contributions": 1128, 
+                "contributions": 1130, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -12569,7 +12338,7 @@
                 "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 21, 
+                "contributions": 22, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -12602,24 +12371,17 @@
             }, 
             {
                 "owner": false, 
-                "login": "boblannon", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1092694?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/boblannon"
-            }, 
-            {
-                "owner": false, 
-                "login": "evz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/evz"
-            }, 
-            {
-                "owner": false, 
                 "login": "gburt", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/2048?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/gburt"
+            }, 
+            {
+                "owner": false, 
+                "login": "boblannon", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1092694?v=3", 
+                "contributions": 1, 
+                "html_url": "https://github.com/boblannon"
             }, 
             {
                 "owner": false, 
@@ -12658,9 +12420,9 @@
         "name": "dedupe", 
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2014-11-13T16:13:37Z", 
+        "pushed_at": "2014-11-13T20:18:14Z", 
         "watchers_count": 389, 
-        "open_issues": 23, 
+        "open_issues": 22, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
             0, 
@@ -12986,14 +12748,7 @@
                 "owner": false, 
                 "login": "mjumbewu", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/146749?v=3", 
-                "contributions": 531, 
-                "html_url": "https://github.com/mjumbewu"
-            }, 
-            {
-                "owner": false, 
-                "login": "mjumbewu", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/146749?v=3", 
-                "contributions": 136, 
+                "contributions": 667, 
                 "html_url": "https://github.com/mjumbewu"
             }, 
             {
@@ -13379,8 +13134,8 @@
             3, 
             0, 
             0, 
-            0, 
             3, 
+            0, 
             8, 
             0, 
             0, 
@@ -13402,8 +13157,8 @@
             0, 
             0, 
             2, 
-            0, 
-            5, 
+            2, 
+            3, 
             1, 
             0, 
             0, 
@@ -13756,21 +13511,7 @@
                 "owner": true, 
                 "login": "migurski", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/58730?v=3", 
-                "contributions": 170, 
-                "html_url": "https://github.com/migurski"
-            }, 
-            {
-                "owner": true, 
-                "login": "migurski", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/58730?v=3", 
-                "contributions": 39, 
-                "html_url": "https://github.com/migurski"
-            }, 
-            {
-                "owner": true, 
-                "login": "migurski", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/58730?v=3", 
-                "contributions": 16, 
+                "contributions": 243, 
                 "html_url": "https://github.com/migurski"
             }, 
             {
@@ -13781,18 +13522,11 @@
                 "html_url": "https://github.com/NelsonMinar"
             }, 
             {
-                "owner": true, 
-                "login": "migurski", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/58730?v=3", 
-                "contributions": 11, 
-                "html_url": "https://github.com/migurski"
-            }, 
-            {
-                "owner": true, 
-                "login": "migurski", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/58730?v=3", 
-                "contributions": 7, 
-                "html_url": "https://github.com/migurski"
+                "owner": false, 
+                "login": "spationics", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/1476829?v=3", 
+                "contributions": 4, 
+                "html_url": "https://github.com/spationics"
             }, 
             {
                 "owner": false, 
@@ -13800,13 +13534,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/566958?v=3", 
                 "contributions": 4, 
                 "html_url": "https://github.com/mattwigway"
-            }, 
-            {
-                "owner": false, 
-                "login": "spationics", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1476829?v=3", 
-                "contributions": 4, 
-                "html_url": "https://github.com/spationics"
             }, 
             {
                 "owner": false, 
@@ -13824,10 +13551,10 @@
             }, 
             {
                 "owner": false, 
-                "login": "jaakkoh", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/352079?v=3", 
+                "login": "booo", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/424513?v=3", 
                 "contributions": 3, 
-                "html_url": "https://github.com/jaakkoh"
+                "html_url": "https://github.com/booo"
             }, 
             {
                 "owner": false, 
@@ -13838,17 +13565,17 @@
             }, 
             {
                 "owner": false, 
-                "login": "booo", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/424513?v=3", 
+                "login": "jaakkoh", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/352079?v=3", 
                 "contributions": 3, 
-                "html_url": "https://github.com/booo"
+                "html_url": "https://github.com/jaakkoh"
             }, 
             {
                 "owner": false, 
-                "login": "devrand", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/45061?v=3", 
+                "login": "shoorick", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/190892?v=3", 
                 "contributions": 2, 
-                "html_url": "https://github.com/devrand"
+                "html_url": "https://github.com/shoorick"
             }, 
             {
                 "owner": false, 
@@ -13880,10 +13607,10 @@
             }, 
             {
                 "owner": false, 
-                "login": "shoorick", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/190892?v=3", 
+                "login": "devrand", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/45061?v=3", 
                 "contributions": 2, 
-                "html_url": "https://github.com/shoorick"
+                "html_url": "https://github.com/devrand"
             }, 
             {
                 "owner": false, 
@@ -13901,10 +13628,10 @@
             }, 
             {
                 "owner": false, 
-                "login": "egofer", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/3096716?v=3", 
+                "login": "l4u", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/97841?v=3", 
                 "contributions": 1, 
-                "html_url": "https://github.com/egofer"
+                "html_url": "https://github.com/l4u"
             }, 
             {
                 "owner": false, 
@@ -13961,6 +13688,34 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/874884?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/EugeneBorshch"
+            }, 
+            {
+                "owner": false, 
+                "login": "idan", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/22723?v=3", 
+                "contributions": 1, 
+                "html_url": "https://github.com/idan"
+            }, 
+            {
+                "owner": false, 
+                "login": "jeffhaack", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/322468?v=3", 
+                "contributions": 1, 
+                "html_url": "https://github.com/jeffhaack"
+            }, 
+            {
+                "owner": false, 
+                "login": "jstoddart", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/3048733?v=3", 
+                "contributions": 1, 
+                "html_url": "https://github.com/jstoddart"
+            }, 
+            {
+                "owner": false, 
+                "login": "Agos", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/111486?v=3", 
+                "contributions": 1, 
+                "html_url": "https://github.com/Agos"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/migurski/Extractotron/contributors", 
@@ -14150,7 +13905,7 @@
                 "owner": false, 
                 "login": "sbeslow", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/3475751?v=3", 
-                "contributions": 60, 
+                "contributions": 66, 
                 "html_url": "https://github.com/sbeslow"
             }, 
             {
@@ -14176,16 +13931,9 @@
             }, 
             {
                 "owner": false, 
-                "login": "sbeslow", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/3475751?v=3", 
-                "contributions": 6, 
-                "html_url": "https://github.com/sbeslow"
-            }, 
-            {
-                "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 5, 
+                "contributions": 6, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -14204,13 +13952,6 @@
             }, 
             {
                 "owner": false, 
-                "login": "kand", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/484777?v=3", 
-                "contributions": 2, 
-                "html_url": "https://github.com/kand"
-            }, 
-            {
-                "owner": false, 
                 "login": "GongYiLiao", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/129343?v=3", 
                 "contributions": 2, 
@@ -14218,10 +13959,10 @@
             }, 
             {
                 "owner": false, 
-                "login": "evz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/evz"
+                "login": "kand", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/484777?v=3", 
+                "contributions": 2, 
+                "html_url": "https://github.com/kand"
             }, 
             {
                 "owner": false, 
@@ -14756,7 +14497,7 @@
                 "owner": false, 
                 "login": "tomschenkjr", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 6, 
+                "contributions": 7, 
                 "html_url": "https://github.com/tomschenkjr"
             }, 
             {
@@ -14765,13 +14506,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/202?v=3", 
                 "contributions": 2, 
                 "html_url": "https://github.com/ryanbriones"
-            }, 
-            {
-                "owner": false, 
-                "login": "tomschenkjr", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/tomschenkjr"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/Chicago/osd-street-center-line/contributors", 
@@ -15032,7 +14766,7 @@
                 "owner": false, 
                 "login": "tomschenkjr", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 17, 
+                "contributions": 18, 
                 "html_url": "https://github.com/tomschenkjr"
             }, 
             {
@@ -15044,13 +14778,6 @@
             }, 
             {
                 "owner": false, 
-                "login": "paguilarCH", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/4522191?v=3", 
-                "contributions": 2, 
-                "html_url": "https://github.com/paguilarCH"
-            }, 
-            {
-                "owner": false, 
                 "login": "kfogel", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/401111?v=3", 
                 "contributions": 2, 
@@ -15058,10 +14785,10 @@
             }, 
             {
                 "owner": false, 
-                "login": "tomschenkjr", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/tomschenkjr"
+                "login": "paguilarCH", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/4522191?v=3", 
+                "contributions": 2, 
+                "html_url": "https://github.com/paguilarCH"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/Chicago/metalicious/contributors", 

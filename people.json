@@ -1108,7 +1108,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2825
+        "contributions": 2838
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1328,7 +1328,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 812
+        "contributions": 827
     }, 
     {
         "name": "David Fawcett", 
@@ -1351,17 +1351,6 @@
         "location": "Chicago, IL", 
         "login": "fgregg", 
         "contributions": 1722
-    }, 
-    {
-        "name": "", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/fisch42", 
-        "blog": "http://fionaschmidtke.de/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/847843?v=3", 
-        "location": "Germany", 
-        "login": "fisch42", 
-        "contributions": 1
     }, 
     {
         "name": "Adam Fishman", 
@@ -1542,13 +1531,13 @@
     {
         "name": "Heather Billings", 
         "company": "", 
-        "repositories": 1, 
+        "repositories": 3, 
         "html_url": "https://github.com/hbillings", 
         "blog": "http://heatherjaybillings.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/509309?v=3", 
         "location": "Chicago, IL", 
         "login": "hbillings", 
-        "contributions": 14
+        "contributions": 16
     }, 
     {
         "name": "Hasan", 

@@ -2695,13 +2695,13 @@
         "contributions": 1
     }, 
     {
-        "name": null, 
-        "company": null, 
+        "name": "Eric Potash", 
+        "company": "University of Chicago", 
         "repositories": 1, 
         "html_url": "https://github.com/potash", 
-        "blog": null, 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1166000?v=3", 
-        "location": null, 
+        "location": "", 
         "login": "potash", 
         "contributions": 41
     }, 

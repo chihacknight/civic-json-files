@@ -396,17 +396,6 @@
         "contributions": 2
     }, 
     {
-        "name": "Abraham Epton", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/aepton", 
-        "blog": "http://epton.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/470427?v=3", 
-        "location": "", 
-        "login": "aepton", 
-        "contributions": 2
-    }, 
-    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -882,13 +871,13 @@
     {
         "name": "Chris Keller", 
         "company": "Southern California Public Radio", 
-        "repositories": 2, 
+        "repositories": 1, 
         "html_url": "https://github.com/chrislkeller", 
         "blog": "www.chrislkeller.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/433780?v=3", 
         "location": "Los Angeles", 
         "login": "chrislkeller", 
-        "contributions": 2
+        "contributions": 1
     }, 
     {
         "name": "Christopher Manning", 
@@ -1190,13 +1179,13 @@
     {
         "name": "David Eads", 
         "company": null, 
-        "repositories": 4, 
+        "repositories": 3, 
         "html_url": "https://github.com/eads", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/634572?v=3", 
         "location": null, 
         "login": "eads", 
-        "contributions": 276
+        "contributions": 199
     }, 
     {
         "name": null, 
@@ -3599,13 +3588,13 @@
     {
         "name": "Wilberto Morales", 
         "company": "", 
-        "repositories": 4, 
+        "repositories": 3, 
         "html_url": "https://github.com/wilbertom", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/2273055?v=3", 
         "location": "Chicago", 
         "login": "wilbertom", 
-        "contributions": 141
+        "contributions": 139
     }, 
     {
         "name": "Matt Senate", 

@@ -228,7 +228,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 693
+        "contributions": 695
     }, 
     {
         "name": "John Brock", 
@@ -240,6 +240,17 @@
         "location": "University of California, Irvine, California", 
         "login": "JohnHBrock", 
         "contributions": 79
+    }, 
+    {
+        "name": "Kelvin", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/KLVN", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8047980?v=3", 
+        "location": "Germany", 
+        "login": "KLVN", 
+        "contributions": 1
     }, 
     {
         "name": null, 
@@ -635,17 +646,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/92603?v=3", 
         "location": "Lexington, KY", 
         "login": "blakeshall", 
-        "contributions": 1
-    }, 
-    {
-        "name": "B M Corser", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/bmcorser", 
-        "blog": "http://www.originalenclosure.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1449387?v=3", 
-        "location": "London, UK", 
-        "login": "bmcorser", 
         "contributions": 1
     }, 
     {
@@ -1097,7 +1097,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2875
+        "contributions": 2876
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2442,6 +2442,17 @@
         "contributions": 1
     }, 
     {
+        "name": "Maciej Rzepi\u0144ski", 
+        "company": "Wolters Kluwer SA", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mrzepinski", 
+        "blog": "http://mrzepinski.pl", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/435196?v=3", 
+        "location": "Gdansk, Poland", 
+        "login": "mrzepinski", 
+        "contributions": 1
+    }, 
+    {
         "name": "Michael Tedeschi", 
         "company": "", 
         "repositories": 1, 
@@ -2747,17 +2758,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/115761?v=3", 
         "location": null, 
         "login": "quentinmit", 
-        "contributions": 1
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/ragnaroh", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1862501?v=3", 
-        "location": null, 
-        "login": "ragnaroh", 
         "contributions": 1
     }, 
     {
@@ -3374,7 +3374,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 86
+        "contributions": 91
     }, 
     {
         "name": "Nick Bennett", 

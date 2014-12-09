@@ -228,7 +228,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 695
+        "contributions": 699
     }, 
     {
         "name": "John Brock", 
@@ -1615,6 +1615,17 @@
         "location": "", 
         "login": "ivanov", 
         "contributions": 4
+    }, 
+    {
+        "name": "Ivar Vong", 
+        "company": "The Marshall Project", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ivarvong", 
+        "blog": "http://twitter.com/ivarvong", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/183226?v=3", 
+        "location": "", 
+        "login": "ivarvong", 
+        "contributions": 1
     }, 
     {
         "name": "Jonathan Polin", 
@@ -3374,7 +3385,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 91
+        "contributions": 94
     }, 
     {
         "name": "Nick Bennett", 

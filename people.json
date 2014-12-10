@@ -228,7 +228,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 699
+        "contributions": 703
     }, 
     {
         "name": "John Brock", 
@@ -1097,7 +1097,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2876
+        "contributions": 2881
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2684,17 +2684,6 @@
         "contributions": 1040
     }, 
     {
-        "name": "Phoenix Gao", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/phoenixgao", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/853338?v=3", 
-        "location": null, 
-        "login": "phoenixgao", 
-        "contributions": 1
-    }, 
-    {
         "name": "Arun Ganesh", 
         "company": "Studio 4th Main", 
         "repositories": 1, 
@@ -3298,6 +3287,17 @@
         "location": "", 
         "login": "suyeonson", 
         "contributions": 19
+    }, 
+    {
+        "name": "Igor Timoshenkov", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/t1gor", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1280013?v=3", 
+        "location": "Germany, Frankfurt am Main", 
+        "login": "t1gor", 
+        "contributions": 1
     }, 
     {
         "name": "Peter W", 

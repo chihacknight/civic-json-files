@@ -800,7 +800,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 358
+        "contributions": 367
     }, 
     {
         "name": "Chris Gansen", 
@@ -1097,7 +1097,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2886
+        "contributions": 2888
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2112,6 +2112,17 @@
         "contributions": 9
     }, 
     {
+        "name": "Jonathan Levy", 
+        "company": "City of Chicago", 
+        "repositories": 1, 
+        "html_url": "https://github.com/levyj", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5519959?v=3", 
+        "location": "Chicago, IL", 
+        "login": "levyj", 
+        "contributions": 1
+    }, 
+    {
         "name": "Bill Mill", 
         "company": "", 
         "repositories": 1, 
@@ -2846,7 +2857,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1162669?v=3", 
         "location": "Chicago", 
         "login": "renemarcelo", 
-        "contributions": 148
+        "contributions": 150
     }, 
     {
         "name": "Rufus Pollock", 

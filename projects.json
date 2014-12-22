@@ -24,6 +24,7 @@
     "https://github.com/derekeder/FusionTable-Map-Template", 
     "https://github.com/newsapps/django-boundaryservice", 
     "https://github.com/iandees/metraapi", 
+    "https://github.com/smartchicago/TweetCollector", 
     "https://github.com/ryanbriones/open311-api-tests", 
     "https://github.com/codeforamerica/super-mayor", 
     "https://github.com/datamade/election-money", 
@@ -44,7 +45,6 @@
     "https://github.com/iandees/divvy-dump", 
     "https://github.com/smartchicago/cutgroup", 
     "https://github.com/iandees/ctaapi", 
-    "https://github.com/sc3/cook-convictions", 
     "https://github.com/newsapps/ctabustracker", 
     "https://github.com/sc3/cookcountyjail", 
     "https://github.com/evz/crimeapi", 
@@ -109,6 +109,7 @@
     "https://github.com/stevevance/Chicago-Crash-Browser", 
     "https://github.com/codeforamerica/beyondtransparency", 
     "https://github.com/Chicago/osd-bike-routes", 
+    "https://github.com/UrbanCCD-UChicago/generator-plenario", 
     "https://github.com/bnjy-opengov/chi-solicitations-feed", 
     "https://github.com/jpvelez/food-poison.us", 
     "https://github.com/datamade/dedupe", 
@@ -135,11 +136,12 @@
     "https://github.com/tkompare/potholes", 
     "https://github.com/mapmeld/majurojs", 
     "https://github.com/Chicago/metalicious", 
+    "https://github.com/sc3/cook-convictions", 
     "https://github.com/ryanbriones/open311-clj", 
     "https://github.com/trevorpowell/chicago-buildings", 
     "https://github.com/datamade/geomancer", 
     "https://github.com/smartchicago/Wufoo-to-Twilio-SMS", 
     "https://github.com/derekeder/Fusion-Tables-to-HTML-Table", 
     "https://github.com/open-city/open-gov-hack-night", 
-    "https://github.com/smartchicago/TweetCollector"
+    "https://github.com/UrbanCCD-UChicago/plenario"
 ]

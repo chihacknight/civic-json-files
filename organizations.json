@@ -32,6 +32,16 @@
     {
         "name": null, 
         "company": null, 
+        "repositories": 2, 
+        "html_url": "https://github.com/UrbanCCD-UChicago", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6922503?v=3", 
+        "location": null, 
+        "login": "UrbanCCD-UChicago"
+    }, 
+    {
+        "name": null, 
+        "company": null, 
         "repositories": 1, 
         "html_url": "https://github.com/bnjy-opengov", 
         "blog": null, 

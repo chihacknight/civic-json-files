@@ -506,6 +506,17 @@
         "contributions": 57
     }, 
     {
+        "name": "Alessandro Panella", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/apanella", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4671134?v=3", 
+        "location": "", 
+        "login": "apanella", 
+        "contributions": 8
+    }, 
+    {
         "name": "Richard", 
         "company": "", 
         "repositories": 1, 
@@ -803,6 +814,17 @@
         "contributions": 367
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/cecat", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/752971?v=3", 
+        "location": null, 
+        "login": "cecat", 
+        "contributions": 3
+    }, 
+    {
         "name": "Chris Gansen", 
         "company": "Make No Little Plans, LLC", 
         "repositories": 10, 
@@ -1091,13 +1113,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade, Open City", 
-        "repositories": 40, 
+        "repositories": 41, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 2890
+        "contributions": 3113
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1311,13 +1333,13 @@
     {
         "name": "Eric van Zanten", 
         "company": "", 
-        "repositories": 22, 
+        "repositories": 23, 
         "html_url": "https://github.com/evz", 
         "blog": "www.static-eric.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 831
+        "contributions": 1061
     }, 
     {
         "name": "David Fawcett", 
@@ -1333,13 +1355,13 @@
     {
         "name": "Forest Gregg", 
         "company": "University of Chicago, Department of Sociology", 
-        "repositories": 19, 
+        "repositories": 20, 
         "html_url": "https://github.com/fgregg", 
         "blog": "http://bunkum.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1732
+        "contributions": 1748
     }, 
     {
         "name": "Adam Fishman", 
@@ -1553,13 +1575,13 @@
     {
         "name": "Hunter Owens", 
         "company": "", 
-        "repositories": 6, 
+        "repositories": 8, 
         "html_url": "https://github.com/hunterowens", 
         "blog": "http://hunterowens.net", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1735650?v=3", 
         "location": "Chicago", 
         "login": "hunterowens", 
-        "contributions": 229
+        "contributions": 249
     }, 
     {
         "name": "Ian Dees", 
@@ -2167,6 +2189,17 @@
         "contributions": 177
     }, 
     {
+        "name": "Jonathan Giuffrida", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/lucaluca", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1857606?v=3", 
+        "location": "Chicago, IL", 
+        "login": "lucaluca", 
+        "contributions": 29
+    }, 
+    {
         "name": "Lucio Villa", 
         "company": null, 
         "repositories": 1, 
@@ -2275,6 +2308,17 @@
         "location": "Oakland, CA", 
         "login": "maxogden", 
         "contributions": 2
+    }, 
+    {
+        "name": "Michael Castelle", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/mccc", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/205007?v=3", 
+        "location": "Chicago, IL", 
+        "login": "mccc", 
+        "contributions": 62
     }, 
     {
         "name": "Michael E. Karpeles", 

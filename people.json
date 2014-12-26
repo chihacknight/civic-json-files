@@ -264,6 +264,17 @@
         "contributions": 1
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/Lorp", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/587440?v=3", 
+        "location": null, 
+        "login": "Lorp", 
+        "contributions": 1
+    }, 
+    {
         "name": "Rob Brackett", 
         "company": null, 
         "repositories": 2, 
@@ -2286,17 +2297,6 @@
         "location": null, 
         "login": "matthewgee", 
         "contributions": 1
-    }, 
-    {
-        "name": "Matthew Wigginton Conway", 
-        "company": "Conveyal", 
-        "repositories": 1, 
-        "html_url": "https://github.com/mattwigway", 
-        "blog": "http://www.indicatrix.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/566958?v=3", 
-        "location": "Washington, DC", 
-        "login": "mattwigway", 
-        "contributions": 4
     }, 
     {
         "name": "Max Ogden", 

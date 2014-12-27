@@ -2124,10 +2124,10 @@
     }, 
     {
         "name": "Laura Hamilton", 
-        "company": "Additive Analytics", 
+        "company": "Groupon", 
         "repositories": 1, 
         "html_url": "https://github.com/lauradhamilton", 
-        "blog": "www.lauradhamilton.com", 
+        "blog": "http://www.lauradhamilton.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1467775?v=3", 
         "location": "Chicago", 
         "login": "lauradhamilton", 
@@ -3440,7 +3440,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 100
+        "contributions": 103
     }, 
     {
         "name": "Nick Bennett", 

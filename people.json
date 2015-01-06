@@ -1130,7 +1130,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3134
+        "contributions": 3135
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2300,7 +2300,7 @@
     }, 
     {
         "name": "Max Ogden", 
-        "company": "Not available for hire", 
+        "company": "recruiters: dont email me", 
         "repositories": 2, 
         "html_url": "https://github.com/maxogden", 
         "blog": "https://github.com/maxogden/messages", 
@@ -3088,7 +3088,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/56477?v=3", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 895
+        "contributions": 896
     }, 
     {
         "name": "Samarth Bhaskar", 
@@ -3631,7 +3631,7 @@
     }, 
     {
         "name": "Waldo Jaquith", 
-        "company": "U.S. Open Data Institute", 
+        "company": "U.S. Open Data", 
         "repositories": 1, 
         "html_url": "https://github.com/waldoj", 
         "blog": "http://waldo.jaquith.org/", 

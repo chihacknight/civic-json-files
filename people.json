@@ -2993,10 +2993,10 @@
     }, 
     {
         "name": "Ash Roughani", 
-        "company": "Public Innovation", 
+        "company": "SAC2050", 
         "repositories": 1, 
         "html_url": "https://github.com/roughani", 
-        "blog": "http://publicinnovation.org", 
+        "blog": "http://sac2050.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/4371233?v=3", 
         "location": "Sacramento, CA", 
         "login": "roughani", 
@@ -3345,7 +3345,7 @@
     }, 
     {
         "name": "Igor Timoshenkov", 
-        "company": "", 
+        "company": "Crytek GmbH", 
         "repositories": 1, 
         "html_url": "https://github.com/t1gor", 
         "blog": "", 

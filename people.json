@@ -1130,7 +1130,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3181
+        "contributions": 3184
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2761,6 +2761,17 @@
         "contributions": 41
     }, 
     {
+        "name": "Peter Schmiedeskamp", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/pschmied", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1065905?v=3", 
+        "location": "Seattle", 
+        "login": "pschmied", 
+        "contributions": 6
+    }, 
+    {
         "name": "Peter Harkins", 
         "company": "", 
         "repositories": 1, 
@@ -3440,7 +3451,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 103
+        "contributions": 104
     }, 
     {
         "name": "Nick Bennett", 

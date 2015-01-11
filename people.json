@@ -408,12 +408,12 @@
     }, 
     {
         "name": "Abhi Nemani", 
-        "company": "Code for America", 
+        "company": "City of Los Angeles", 
         "repositories": 1, 
         "html_url": "https://github.com/abhinemani", 
-        "blog": "abhinemani.com", 
+        "blog": "http://abhinemani.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/423599?v=3", 
-        "location": "San Francisco", 
+        "location": "Los Angeles, CA", 
         "login": "abhinemani", 
         "contributions": 2
     }, 

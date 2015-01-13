@@ -371,7 +371,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/StoryMapJS/contributors", 
-        "forks_count": 46, 
+        "forks_count": 47, 
         "html_url": "https://github.com/NUKnightLab/StoryMapJS", 
         "updated_at": "2015-01-12T05:15:46Z", 
         "project_needs": [], 
@@ -385,9 +385,9 @@
         "name": "StoryMapJS", 
         "language": "JavaScript", 
         "created_at": "2013-07-22T16:43:23Z", 
-        "pushed_at": "2014-11-18T17:14:50Z", 
+        "pushed_at": "2015-01-12T23:58:48Z", 
         "watchers_count": 134, 
-        "open_issues": 31, 
+        "open_issues": 30, 
         "homepage": null, 
         "participation": [
             43, 
@@ -1205,7 +1205,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/smartchicago/chicago-atlas/contributors", 
-        "forks_count": 238, 
+        "forks_count": 239, 
         "html_url": "https://github.com/smartchicago/chicago-atlas", 
         "updated_at": "2015-01-06T15:34:31Z", 
         "project_needs": [], 
@@ -7974,7 +7974,7 @@
         "contributors_url": "https://api.github.com/repos/corynissen/foodborne_classifier/contributors", 
         "forks_count": 31, 
         "html_url": "https://github.com/corynissen/foodborne_classifier", 
-        "updated_at": "2015-01-12T06:38:51Z", 
+        "updated_at": "2015-01-12T18:45:41Z", 
         "project_needs": [], 
         "owner": {
             "login": "corynissen", 
@@ -7987,7 +7987,7 @@
         "language": "R", 
         "created_at": "2013-04-23T17:27:51Z", 
         "pushed_at": "2014-02-04T15:52:18Z", 
-        "watchers_count": 42, 
+        "watchers_count": 43, 
         "open_issues": 0, 
         "homepage": null, 
         "participation": [
@@ -8912,7 +8912,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2015-01-12T16:11:34Z", 
+        "pushed_at": "2015-01-12T23:07:31Z", 
         "watchers_count": 31, 
         "open_issues": 20, 
         "homepage": null, 
@@ -10821,7 +10821,7 @@
                 "owner": false, 
                 "login": "JoeGermuska", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
-                "contributions": 220, 
+                "contributions": 221, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
@@ -11024,7 +11024,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1453, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-01-12T14:41:13Z", 
+        "updated_at": "2015-01-12T20:05:08Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -11036,8 +11036,8 @@
         "name": "TimelineJS", 
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
-        "pushed_at": "2015-01-06T16:27:57Z", 
-        "watchers_count": 7118, 
+        "pushed_at": "2015-01-12T18:15:32Z", 
+        "watchers_count": 7119, 
         "open_issues": 171, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
@@ -15345,7 +15345,7 @@
         "name": "plenario", 
         "language": "JavaScript", 
         "created_at": "2013-12-04T21:12:31Z", 
-        "pushed_at": "2015-01-11T23:00:22Z", 
+        "pushed_at": "2015-01-12T20:05:41Z", 
         "watchers_count": 50, 
         "open_issues": 28, 
         "homepage": "http://plenar.io", 

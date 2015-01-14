@@ -1130,7 +1130,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3202
+        "contributions": 3203
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -3177,6 +3177,17 @@
         "location": "Bend, OR", 
         "login": "seanhellwig", 
         "contributions": 2
+    }, 
+    {
+        "name": "S\u00e9bastien Boisvert", 
+        "company": "Argonne National Laboratory", 
+        "repositories": 1, 
+        "html_url": "https://github.com/sebhtml", 
+        "blog": "http://twitter.com/sebhtml", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/824460?v=3", 
+        "location": "Lemont, Illinois", 
+        "login": "sebhtml", 
+        "contributions": 1
     }, 
     {
         "name": "Erik Michaels-Ober", 

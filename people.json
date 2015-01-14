@@ -228,7 +228,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 711
+        "contributions": 715
     }, 
     {
         "name": "John Brock", 
@@ -1944,7 +1944,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=3", 
         "location": "", 
         "login": "jywsn", 
-        "contributions": 382
+        "contributions": 391
     }, 
     {
         "name": "Andrew Kos", 
@@ -2220,6 +2220,17 @@
         "location": "Chicago", 
         "login": "luciovilla", 
         "contributions": 1
+    }, 
+    {
+        "name": "Luke Rague", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/lukerague", 
+        "blog": "http://www.lukerague.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7632315?v=3", 
+        "location": "Chicago, IL", 
+        "login": "lukerague", 
+        "contributions": 8
     }, 
     {
         "name": "Magnus Persson", 

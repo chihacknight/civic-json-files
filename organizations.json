@@ -40,6 +40,16 @@
         "login": "UrbanCCD-UChicago"
     }, 
     {
+        "name": "Associated Press", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/associatedpress", 
+        "blog": "http://www.ap.org/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1165910?v=3", 
+        "location": "Tri-coastal!", 
+        "login": "associatedpress"
+    }, 
+    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -92,7 +102,7 @@
     {
         "name": "datamade", 
         "company": null, 
-        "repositories": 12, 
+        "repositories": 15, 
         "html_url": "https://github.com/datamade", 
         "blog": "http://datamade.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/3723931?v=3", 

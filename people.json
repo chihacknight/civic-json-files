@@ -1372,7 +1372,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1801
+        "contributions": 1804
     }, 
     {
         "name": "Adam Fishman", 
@@ -2487,7 +2487,7 @@
     }, 
     {
         "name": "Moncef Belyamani", 
-        "company": "Ohana API / Code for America", 
+        "company": "18F", 
         "repositories": 1, 
         "html_url": "https://github.com/monfresh", 
         "blog": "http://www.moncefbelyamani.com", 

@@ -1130,7 +1130,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3425
+        "contributions": 3427
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2652,12 +2652,12 @@
     }, 
     {
         "name": "Chris Brown", 
-        "company": null, 
+        "company": "", 
         "repositories": 3, 
         "html_url": "https://github.com/notthatbreezy", 
-        "blog": "www.cmbrown.org", 
+        "blog": "http://notthatbreezy.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/898060?v=3", 
-        "location": null, 
+        "location": "", 
         "login": "notthatbreezy", 
         "contributions": 418
     }, 

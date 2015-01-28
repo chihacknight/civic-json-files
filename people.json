@@ -176,6 +176,17 @@
         "contributions": 1
     }, 
     {
+        "name": "Nathan Hoeft", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/Fideln8", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1190558?v=3", 
+        "location": "", 
+        "login": "Fideln8", 
+        "contributions": 4
+    }, 
+    {
         "name": "Gong-Yi Liao", 
         "company": "Financial institute", 
         "repositories": 1, 
@@ -444,7 +455,7 @@
         "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/alexsoble", 
-        "blog": "www.alexsoble.com", 
+        "blog": "http://www.alexsoble.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/3209501?v=3", 
         "location": "", 
         "login": "alexsoble", 
@@ -1141,7 +1152,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3443
+        "contributions": 3444
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1383,7 +1394,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1944
+        "contributions": 1946
     }, 
     {
         "name": "Adam Fishman", 

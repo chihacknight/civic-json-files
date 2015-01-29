@@ -239,7 +239,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 722
+        "contributions": 727
     }, 
     {
         "name": "John Brock", 
@@ -1394,7 +1394,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1947
+        "contributions": 1949
     }, 
     {
         "name": "Adam Fishman", 
@@ -2263,7 +2263,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/7632315?v=3", 
         "location": "Chicago, IL", 
         "login": "lukerague", 
-        "contributions": 19
+        "contributions": 25
     }, 
     {
         "name": "Magnus Persson", 
@@ -2787,7 +2787,7 @@
         "company": "LocalWiki", 
         "repositories": 2, 
         "html_url": "https://github.com/philipn", 
-        "blog": "http://localwiki.org", 
+        "blog": "https://localwiki.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/96469?v=3", 
         "location": "San Francisco, CA", 
         "login": "philipn", 

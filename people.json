@@ -844,7 +844,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 521
+        "contributions": 523
     }, 
     {
         "name": null, 
@@ -2085,7 +2085,7 @@
         "html_url": "https://github.com/krues8dr", 
         "blog": "http://krues8dr.com/", 
         "avatar_url": "https://avatars.githubusercontent.com/u/127904?v=3", 
-        "location": "Charlottesville, VA", 
+        "location": "Washington, DC", 
         "login": "krues8dr", 
         "contributions": 37
     }, 
@@ -3254,6 +3254,17 @@
         "location": "", 
         "login": "sferik", 
         "contributions": 896
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/sgade-reisys", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10760388?v=3", 
+        "location": null, 
+        "login": "sgade-reisys", 
+        "contributions": 557
     }, 
     {
         "name": "Shane Shifflett", 

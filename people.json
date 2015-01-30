@@ -239,7 +239,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 727
+        "contributions": 728
     }, 
     {
         "name": "John Brock", 
@@ -1152,7 +1152,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3446
+        "contributions": 3449
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2849,17 +2849,6 @@
         "contributions": 18
     }, 
     {
-        "name": "Phil Wolstenholme", 
-        "company": "University of Manchester", 
-        "repositories": 1, 
-        "html_url": "https://github.com/pwolstenholme", 
-        "blog": "http://wolstenhol.me", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6339853?v=3", 
-        "location": "United Kingdom", 
-        "login": "pwolstenholme", 
-        "contributions": 1
-    }, 
-    {
         "name": "", 
         "company": "", 
         "repositories": 1, 
@@ -3792,6 +3781,17 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4612892?v=3", 
         "location": "New York, Chicago", 
         "login": "yokkay", 
+        "contributions": 1
+    }, 
+    {
+        "name": "Charlie DeTar", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/yourcelf", 
+        "blog": "http://tirl.org", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/21318?v=3", 
+        "location": null, 
+        "login": "yourcelf", 
         "contributions": 1
     }, 
     {

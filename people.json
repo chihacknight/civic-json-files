@@ -1152,7 +1152,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3449
+        "contributions": 3450
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -3229,7 +3229,7 @@
         "html_url": "https://github.com/sebhtml", 
         "blog": "http://twitter.com/sebhtml", 
         "avatar_url": "https://avatars.githubusercontent.com/u/824460?v=3", 
-        "location": "United States", 
+        "location": "", 
         "login": "sebhtml", 
         "contributions": 1
     }, 

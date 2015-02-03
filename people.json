@@ -1152,7 +1152,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3456
+        "contributions": 3457
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1372,7 +1372,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1176
+        "contributions": 1177
     }, 
     {
         "name": "David Fawcett", 
@@ -1460,7 +1460,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4506159?v=3", 
         "location": "", 
         "login": "gaelle2030", 
-        "contributions": 77
+        "contributions": 78
     }, 
     {
         "name": "Gabriel Burt", 
@@ -1849,7 +1849,7 @@
     }, 
     {
         "name": "Joanne", 
-        "company": "thoughtbot, inc.", 
+        "company": "thoughtbot", 
         "repositories": 1, 
         "html_url": "https://github.com/joannecheng", 
         "blog": "http://joannecheng.me", 

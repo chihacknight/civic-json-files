@@ -838,13 +838,13 @@
     {
         "name": "Cathy Deng", 
         "company": null, 
-        "repositories": 10, 
+        "repositories": 9, 
         "html_url": "https://github.com/cathydeng", 
         "blog": "twitter.com/cthydng", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 528
+        "contributions": 399
     }, 
     {
         "name": null, 
@@ -1163,7 +1163,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3474
+        "contributions": 3477
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1405,7 +1405,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1959
+        "contributions": 1979
     }, 
     {
         "name": "Adam Fishman", 
@@ -2961,13 +2961,13 @@
     {
         "name": "", 
         "company": "", 
-        "repositories": 3, 
+        "repositories": 2, 
         "html_url": "https://github.com/renemarcelo", 
         "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1162669?v=3", 
         "location": "Chicago", 
         "login": "renemarcelo", 
-        "contributions": 150
+        "contributions": 11
     }, 
     {
         "name": "Rufus Pollock", 
@@ -3379,13 +3379,13 @@
     {
         "name": "Scott Robbin", 
         "company": "Robbin & Co.", 
-        "repositories": 5, 
+        "repositories": 4, 
         "html_url": "https://github.com/srobbin", 
         "blog": "http://srobbin.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/44719?v=3", 
         "location": "Chicago", 
         "login": "srobbin", 
-        "contributions": 39
+        "contributions": 38
     }, 
     {
         "name": null, 
@@ -3407,7 +3407,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1330459?v=3", 
         "location": "Chicago, Illinois", 
         "login": "stevevance", 
-        "contributions": 126
+        "contributions": 128
     }, 
     {
         "name": "Firman Rosdiansyah", 

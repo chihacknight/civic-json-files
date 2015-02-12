@@ -1062,7 +1062,7 @@
         "html_url": "https://github.com/daniel-acuna", 
         "blog": "http://www.scienceofscience.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/842569?v=3", 
-        "location": "Chicago, IL", 
+        "location": "", 
         "login": "daniel-acuna", 
         "contributions": 3
     }, 
@@ -1405,7 +1405,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1979
+        "contributions": 1983
     }, 
     {
         "name": "Adam Fishman", 

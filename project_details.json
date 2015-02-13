@@ -3492,7 +3492,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/crime-in-chicago/contributors", 
-        "forks_count": 13, 
+        "forks_count": 12, 
         "html_url": "https://github.com/open-city/crime-in-chicago", 
         "updated_at": "2015-02-06T13:28:28Z", 
         "project_needs": [], 
@@ -3873,7 +3873,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/edifice-maps/contributors", 
-        "forks_count": 2, 
+        "forks_count": 1, 
         "html_url": "https://github.com/open-city/edifice-maps", 
         "updated_at": "2014-03-26T15:08:57Z", 
         "project_needs": [], 
@@ -5838,14 +5838,14 @@
                 "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 234, 
+                "contributions": 235, 
                 "html_url": "https://github.com/evz"
             }, 
             {
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
-                "contributions": 226, 
+                "contributions": 229, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -5894,7 +5894,7 @@
         "contributors_url": "https://api.github.com/repos/UrbanCCD-UChicago/plenario/contributors", 
         "forks_count": 13, 
         "html_url": "https://github.com/UrbanCCD-UChicago/plenario", 
-        "updated_at": "2015-02-09T16:14:57Z", 
+        "updated_at": "2015-02-12T21:54:13Z", 
         "project_needs": [], 
         "owner": {
             "login": "UrbanCCD-UChicago", 
@@ -5906,9 +5906,9 @@
         "name": "plenario", 
         "language": "JavaScript", 
         "created_at": "2013-12-04T21:12:31Z", 
-        "pushed_at": "2015-02-09T16:14:56Z", 
+        "pushed_at": "2015-02-12T21:54:13Z", 
         "watchers_count": 56, 
-        "open_issues": 29, 
+        "open_issues": 28, 
         "homepage": "http://plenar.io", 
         "participation": [
             2, 
@@ -6939,7 +6939,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/newsapps/englewood/contributors", 
-        "forks_count": 7, 
+        "forks_count": 6, 
         "html_url": "https://github.com/newsapps/englewood", 
         "updated_at": "2014-11-12T15:48:07Z", 
         "project_needs": [], 
@@ -8277,7 +8277,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/censusreporter/contributors", 
         "forks_count": 27, 
         "html_url": "https://github.com/censusreporter/censusreporter", 
-        "updated_at": "2015-02-09T04:06:38Z", 
+        "updated_at": "2015-02-12T22:22:43Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -8290,7 +8290,7 @@
         "language": "JavaScript", 
         "created_at": "2013-05-20T22:46:00Z", 
         "pushed_at": "2015-02-09T16:21:54Z", 
-        "watchers_count": 71, 
+        "watchers_count": 73, 
         "open_issues": 48, 
         "homepage": "http://censusreporter.org", 
         "participation": [
@@ -8461,7 +8461,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
-                "contributions": 58, 
+                "contributions": 59, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -8480,9 +8480,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/hows-business/contributors", 
-        "forks_count": 10, 
+        "forks_count": 9, 
         "html_url": "https://github.com/open-city/hows-business", 
-        "updated_at": "2014-12-04T12:33:22Z", 
+        "updated_at": "2015-02-12T21:37:54Z", 
         "project_needs": [], 
         "owner": {
             "login": "open-city", 
@@ -8494,7 +8494,7 @@
         "name": "hows-business", 
         "language": "R", 
         "created_at": "2012-07-20T20:20:48Z", 
-        "pushed_at": "2014-12-04T12:34:58Z", 
+        "pushed_at": "2015-02-12T21:37:54Z", 
         "watchers_count": 17, 
         "open_issues": 6, 
         "homepage": "http://howsbusinesschicago.org", 
@@ -8940,7 +8940,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/cps-tiers/contributors", 
-        "forks_count": 12, 
+        "forks_count": 11, 
         "html_url": "https://github.com/open-city/cps-tiers", 
         "updated_at": "2015-01-26T04:59:19Z", 
         "project_needs": [], 
@@ -9338,21 +9338,21 @@
                 "owner": false, 
                 "login": "sgade-reisys", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/10760388?v=3", 
-                "contributions": 557, 
+                "contributions": 922, 
                 "html_url": "https://github.com/sgade-reisys"
             }, 
             {
                 "owner": false, 
                 "login": "atorkels", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/6642615?v=3", 
-                "contributions": 268, 
+                "contributions": 823, 
                 "html_url": "https://github.com/atorkels"
             }, 
             {
                 "owner": false, 
                 "login": "rkalidindi", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/2342400?v=3", 
-                "contributions": 238, 
+                "contributions": 477, 
                 "html_url": "https://github.com/rkalidindi"
             }, 
             {
@@ -9366,7 +9366,7 @@
                 "owner": false, 
                 "login": "RobertAshley-REISys", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/6390280?v=3", 
-                "contributions": 37, 
+                "contributions": 43, 
                 "html_url": "https://github.com/RobertAshley-REISys"
             }, 
             {
@@ -9380,29 +9380,15 @@
                 "owner": false, 
                 "login": "kfogel", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/401111?v=3", 
-                "contributions": 15, 
+                "contributions": 13, 
                 "html_url": "https://github.com/kfogel"
             }, 
             {
                 "owner": false, 
                 "login": "treddy", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/4576339?v=3", 
-                "contributions": 5, 
+                "contributions": 8, 
                 "html_url": "https://github.com/treddy"
-            }, 
-            {
-                "owner": false, 
-                "login": "Deepika21", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/7934941?v=3", 
-                "contributions": 4, 
-                "html_url": "https://github.com/Deepika21"
-            }, 
-            {
-                "owner": false, 
-                "login": "Zamicol", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/5232965?v=3", 
-                "contributions": 2, 
-                "html_url": "https://github.com/Zamicol"
             }, 
             {
                 "owner": false, 
@@ -9427,7 +9413,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2015-02-12T17:33:04Z", 
+        "pushed_at": "2015-02-12T19:52:51Z", 
         "watchers_count": 32, 
         "open_issues": 20, 
         "homepage": null, 
@@ -10985,11 +10971,11 @@
             0, 
             0, 
             0, 
-            6, 
             7, 
-            1, 
+            7, 
             0, 
-            21, 
+            7, 
+            14, 
             4, 
             0, 
             0, 
@@ -11287,7 +11273,7 @@
                 "owner": false, 
                 "login": "JoeGermuska", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
-                "contributions": 222, 
+                "contributions": 226, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
@@ -11320,6 +11306,20 @@
             }, 
             {
                 "owner": false, 
+                "login": "yourcelf", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/21318?v=3", 
+                "contributions": 2, 
+                "html_url": "https://github.com/yourcelf"
+            }, 
+            {
+                "owner": false, 
+                "login": "KLVN", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/8047980?v=3", 
+                "contributions": 2, 
+                "html_url": "https://github.com/KLVN"
+            }, 
+            {
+                "owner": false, 
                 "login": "seanhellwig", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/147074?v=3", 
                 "contributions": 2, 
@@ -11334,10 +11334,17 @@
             }, 
             {
                 "owner": false, 
-                "login": "hbillings", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/509309?v=3", 
+                "login": "rootseire", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/474551?v=3", 
+                "contributions": 2, 
+                "html_url": "https://github.com/rootseire"
+            }, 
+            {
+                "owner": false, 
+                "login": "gunnarlium", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/207556?v=3", 
                 "contributions": 1, 
-                "html_url": "https://github.com/hbillings"
+                "html_url": "https://github.com/gunnarlium"
             }, 
             {
                 "owner": false, 
@@ -11352,13 +11359,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/4149987?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/cantonbecker"
-            }, 
-            {
-                "owner": false, 
-                "login": "yourcelf", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/21318?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/yourcelf"
             }, 
             {
                 "owner": false, 
@@ -11411,13 +11411,6 @@
             }, 
             {
                 "owner": false, 
-                "login": "gunnarlium", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/207556?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/gunnarlium"
-            }, 
-            {
-                "owner": false, 
                 "login": "atomantic", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/70015?v=3", 
                 "contributions": 1, 
@@ -11425,17 +11418,17 @@
             }, 
             {
                 "owner": false, 
+                "login": "hbillings", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/509309?v=3", 
+                "contributions": 1, 
+                "html_url": "https://github.com/hbillings"
+            }, 
+            {
+                "owner": false, 
                 "login": "t1gor", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1280013?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/t1gor"
-            }, 
-            {
-                "owner": false, 
-                "login": "KLVN", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/8047980?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/KLVN"
             }, 
             {
                 "owner": false, 
@@ -11478,19 +11471,12 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/4104863?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/veritascs"
-            }, 
-            {
-                "owner": false, 
-                "login": "paavohuhtala", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/803180?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/paavohuhtala"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
-        "forks_count": 1471, 
+        "forks_count": 1470, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-02-12T16:04:31Z", 
+        "updated_at": "2015-02-12T22:30:49Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -11502,9 +11488,9 @@
         "name": "TimelineJS", 
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
-        "pushed_at": "2015-01-30T16:49:55Z", 
+        "pushed_at": "2015-02-12T22:30:48Z", 
         "watchers_count": 7226, 
-        "open_issues": 176, 
+        "open_issues": 172, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
             0, 
@@ -12416,7 +12402,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
-                "contributions": 1251, 
+                "contributions": 1255, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -12535,7 +12521,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 74, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-02-12T01:41:25Z", 
+        "updated_at": "2015-02-12T23:37:31Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -12547,9 +12533,9 @@
         "name": "dedupe", 
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2015-02-12T01:41:24Z", 
+        "pushed_at": "2015-02-12T23:48:14Z", 
         "watchers_count": 514, 
-        "open_issues": 27, 
+        "open_issues": 16, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
             22, 
@@ -13540,8 +13526,8 @@
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -14559,17 +14545,17 @@
             0, 
             0, 
             20, 
-            1, 
-            18, 
-            4, 
-            1, 
-            0, 
-            0, 
-            0, 
-            0, 
-            0, 
-            4, 
+            2, 
+            17, 
             5, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            0, 
+            6, 
+            3, 
             0, 
             0, 
             1, 
@@ -15357,7 +15343,7 @@
         "name": "geomancer", 
         "language": "Python", 
         "created_at": "2014-08-07T22:00:48Z", 
-        "pushed_at": "2015-01-09T19:29:40Z", 
+        "pushed_at": "2015-02-12T19:35:32Z", 
         "watchers_count": 2, 
         "open_issues": 0, 
         "homepage": "", 
@@ -15878,8 +15864,8 @@
             0, 
             0, 
             23, 
-            0, 
-            24, 
+            21, 
+            3, 
             9, 
             0
         ]

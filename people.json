@@ -132,17 +132,6 @@
         "contributions": 11
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/Deepika21", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/7934941?v=3", 
-        "location": null, 
-        "login": "Deepika21", 
-        "contributions": 4
-    }, 
-    {
         "name": "Daniel Ronan", 
         "company": "", 
         "repositories": 1, 
@@ -239,7 +228,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 729
+        "contributions": 733
     }, 
     {
         "name": "John Brock", 
@@ -261,7 +250,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/8047980?v=3", 
         "location": "Germany", 
         "login": "KLVN", 
-        "contributions": 1
+        "contributions": 2
     }, 
     {
         "name": null, 
@@ -349,7 +338,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/6390280?v=3", 
         "location": null, 
         "login": "RobertAshley-REISys", 
-        "contributions": 37
+        "contributions": 43
     }, 
     {
         "name": null, 
@@ -394,17 +383,6 @@
         "location": null, 
         "login": "Yana715", 
         "contributions": 198
-    }, 
-    {
-        "name": "Zach Collier", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/Zamicol", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/5232965?v=3", 
-        "location": "Pueblo, CO", 
-        "login": "Zamicol", 
-        "contributions": 2
     }, 
     {
         "name": "Aaron U. Salmon", 
@@ -602,7 +580,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/6642615?v=3", 
         "location": "", 
         "login": "atorkels", 
-        "contributions": 268
+        "contributions": 823
     }, 
     {
         "name": "Ahmad Qamar", 
@@ -1163,7 +1141,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3481
+        "contributions": 3484
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1383,7 +1361,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1177
+        "contributions": 1178
     }, 
     {
         "name": "David Fawcett", 
@@ -1405,7 +1383,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 1984
+        "contributions": 1989
     }, 
     {
         "name": "Adam Fishman", 
@@ -2043,7 +2021,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/401111?v=3", 
         "location": "Chicago, IL, USA", 
         "login": "kfogel", 
-        "contributions": 25
+        "contributions": 23
     }, 
     {
         "name": "KK Rebecca Lai", 
@@ -2750,17 +2728,6 @@
         "contributions": 51
     }, 
     {
-        "name": "Paavo Huhtala", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/paavohuhtala", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/803180?v=3", 
-        "location": "", 
-        "login": "paavohuhtala", 
-        "contributions": 1
-    }, 
-    {
         "name": "Patricio Aguilar", 
         "company": "Chapin Hall At The University of Chicago", 
         "repositories": 1, 
@@ -3033,7 +3000,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/2342400?v=3", 
         "location": null, 
         "login": "rkalidindi", 
-        "contributions": 238
+        "contributions": 477
     }, 
     {
         "name": "Ryan Nagle", 
@@ -3045,6 +3012,17 @@
         "location": "Chicago, Il", 
         "login": "rnagle", 
         "contributions": 9
+    }, 
+    {
+        "name": "rootseire", 
+        "company": "Web Craft London", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rootseire", 
+        "blog": "http://www.o-em.org", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/474551?v=3", 
+        "location": "", 
+        "login": "rootseire", 
+        "contributions": 2
     }, 
     {
         "name": "Nick Rougeux", 
@@ -3264,7 +3242,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/10760388?v=3", 
         "location": null, 
         "login": "sgade-reisys", 
-        "contributions": 557
+        "contributions": 922
     }, 
     {
         "name": "", 
@@ -3572,7 +3550,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4576339?v=3", 
         "location": null, 
         "login": "treddy", 
-        "contributions": 5
+        "contributions": 8
     }, 
     {
         "name": "Trevor Powell", 
@@ -3814,7 +3792,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/21318?v=3", 
         "location": null, 
         "login": "yourcelf", 
-        "contributions": 1
+        "contributions": 2
     }, 
     {
         "name": "Zach Williams", 

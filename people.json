@@ -1141,7 +1141,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3484
+        "contributions": 3485
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1552,12 +1552,12 @@
     }, 
     {
         "name": "Matt Hampel", 
-        "company": null, 
+        "company": "LocalData", 
         "repositories": 2, 
         "html_url": "https://github.com/hampelm", 
-        "blog": null, 
+        "blog": "http://matth.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/86435?v=3", 
-        "location": "Detroit, MI", 
+        "location": "Brooklyn, NY", 
         "login": "hampelm", 
         "contributions": 6
     }, 
@@ -3444,7 +3444,7 @@
     }, 
     {
         "name": "Graham", 
-        "company": "", 
+        "company": "The Field Museum", 
         "repositories": 1, 
         "html_url": "https://github.com/telegraham", 
         "blog": "", 

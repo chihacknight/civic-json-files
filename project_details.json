@@ -8249,7 +8249,7 @@
                 "owner": false, 
                 "login": "JoeGermuska", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
-                "contributions": 102, 
+                "contributions": 111, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
@@ -8277,7 +8277,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/censusreporter/contributors", 
         "forks_count": 28, 
         "html_url": "https://github.com/censusreporter/censusreporter", 
-        "updated_at": "2015-02-15T06:10:05Z", 
+        "updated_at": "2015-02-16T01:37:13Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -8289,9 +8289,9 @@
         "name": "censusreporter", 
         "language": "JavaScript", 
         "created_at": "2013-05-20T22:46:00Z", 
-        "pushed_at": "2015-02-15T16:57:16Z", 
+        "pushed_at": "2015-02-16T01:37:12Z", 
         "watchers_count": 76, 
-        "open_issues": 48, 
+        "open_issues": 47, 
         "homepage": "http://censusreporter.org", 
         "participation": [
             15, 
@@ -12402,7 +12402,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
-                "contributions": 1257, 
+                "contributions": 1281, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -12521,7 +12521,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 74, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-02-15T19:04:44Z", 
+        "updated_at": "2015-02-16T05:43:10Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -12533,9 +12533,9 @@
         "name": "dedupe", 
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2015-02-14T03:33:13Z", 
+        "pushed_at": "2015-02-16T05:43:10Z", 
         "watchers_count": 515, 
-        "open_issues": 21, 
+        "open_issues": 18, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
             25, 

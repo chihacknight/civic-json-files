@@ -1141,7 +1141,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3487
+        "contributions": 3490
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1383,7 +1383,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2016
+        "contributions": 2017
     }, 
     {
         "name": "Adam Fishman", 
@@ -2288,7 +2288,7 @@
         "contributions": 2
     }, 
     {
-        "name": "Nick Mapmeld", 
+        "name": "Nick Doiron", 
         "company": "Museum of Modern Art", 
         "repositories": 7, 
         "html_url": "https://github.com/mapmeld", 

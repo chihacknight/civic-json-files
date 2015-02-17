@@ -1058,13 +1058,13 @@
     {
         "name": "Daniel X. O'Neil", 
         "company": "Smart Chicago Collaborative", 
-        "repositories": 7, 
+        "repositories": 8, 
         "html_url": "https://github.com/danxoneil", 
         "blog": "http://www.derivativeworks.com/", 
         "avatar_url": "https://avatars.githubusercontent.com/u/100556?v=3", 
         "location": "Chicago", 
         "login": "danxoneil", 
-        "contributions": 41
+        "contributions": 42
     }, 
     {
         "name": "Vidhur Vohra", 
@@ -1141,7 +1141,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3490
+        "contributions": 3491
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2773,7 +2773,7 @@
     }, 
     {
         "name": "Arun Ganesh", 
-        "company": "Studio 4th Main", 
+        "company": "Mapbox", 
         "repositories": 1, 
         "html_url": "https://github.com/planemad", 
         "blog": "", 

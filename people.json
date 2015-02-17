@@ -847,14 +847,14 @@
         "contributions": 786
     }, 
     {
-        "name": null, 
-        "company": null, 
+        "name": "", 
+        "company": "", 
         "repositories": 1, 
-        "html_url": "https://github.com/cguira", 
-        "blog": null, 
+        "html_url": "https://github.com/cgcalabria", 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/3106916?v=3", 
-        "location": null, 
-        "login": "cguira", 
+        "location": "", 
+        "login": "cgcalabria", 
         "contributions": 2
     }, 
     {

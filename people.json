@@ -14,6 +14,17 @@
         "name": null, 
         "company": null, 
         "repositories": 1, 
+        "html_url": "https://github.com/1492sen", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8294049?v=3", 
+        "location": null, 
+        "login": "1492sen", 
+        "contributions": 2
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
         "html_url": "https://github.com/35thLair", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/3107161?v=3", 
@@ -176,6 +187,17 @@
         "contributions": 4
     }, 
     {
+        "name": "Fokko Driesprong", 
+        "company": "Qwoty", 
+        "repositories": 1, 
+        "html_url": "https://github.com/Fokko", 
+        "blog": "http://www.driesprongen.nl", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1134248?v=3", 
+        "location": "Netherlands", 
+        "login": "Fokko", 
+        "contributions": 2
+    }, 
+    {
         "name": "Gong-Yi Liao", 
         "company": "Financial institute", 
         "repositories": 1, 
@@ -228,7 +250,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 742
+        "contributions": 768
     }, 
     {
         "name": "John Brock", 
@@ -248,7 +270,7 @@
         "html_url": "https://github.com/KLVN", 
         "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/8047980?v=3", 
-        "location": "Germany", 
+        "location": "Hamburg", 
         "login": "KLVN", 
         "contributions": 2
     }, 
@@ -404,6 +426,28 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/423599?v=3", 
         "location": "Los Angeles, CA", 
         "login": "abhinemani", 
+        "contributions": 2
+    }, 
+    {
+        "name": "Chris Adams", 
+        "company": "Library of Congress as cadams@loc.gov; personal projects as chris@improbable.org", 
+        "repositories": 1, 
+        "html_url": "https://github.com/acdha", 
+        "blog": "http://chris.improbable.org/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/46565?v=3", 
+        "location": "Washington, DC", 
+        "login": "acdha", 
+        "contributions": 9
+    }, 
+    {
+        "name": "Ahwan Kumar", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ahwankumar", 
+        "blog": "https://www.ahwan.in", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7369801?v=3", 
+        "location": "New Delhi", 
+        "login": "ahwankumar", 
         "contributions": 2
     }, 
     {
@@ -2246,13 +2290,13 @@
     {
         "name": "Luke Rague", 
         "company": "", 
-        "repositories": 2, 
+        "repositories": 3, 
         "html_url": "https://github.com/lukerague", 
         "blog": "http://www.lukerague.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/7632315?v=3", 
         "location": "Chicago, IL", 
         "login": "lukerague", 
-        "contributions": 26
+        "contributions": 27
     }, 
     {
         "name": "Magnus Persson", 
@@ -2297,17 +2341,6 @@
         "location": "New York City, NY", 
         "login": "mapmeld", 
         "contributions": 135
-    }, 
-    {
-        "name": "Marcell Mars", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/marcellmars", 
-        "blog": "http://ki.ber.kom.uni.st", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/288208?v=3", 
-        "location": null, 
-        "login": "marcellmars", 
-        "contributions": 1
     }, 
     {
         "name": "Mark Huberty", 
@@ -2538,28 +2571,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/227505?v=3", 
         "location": "London, UK", 
         "login": "mrdavidlaing", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Marjorie Roswell", 
-        "company": "Roswell Infographics", 
-        "repositories": 1, 
-        "html_url": "https://github.com/mroswell", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/192568?v=3", 
-        "location": null, 
-        "login": "mroswell", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Maciej Rzepi\u0144ski", 
-        "company": "Wolters Kluwer SA", 
-        "repositories": 1, 
-        "html_url": "https://github.com/mrzepinski", 
-        "blog": "http://mrzepinski.pl", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/435196?v=3", 
-        "location": "Gdansk, Poland", 
-        "login": "mrzepinski", 
         "contributions": 1
     }, 
     {
@@ -2956,7 +2967,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4085127?v=3", 
         "location": "Carol Stream, Illinois", 
         "login": "rguico", 
-        "contributions": 40
+        "contributions": 41
     }, 
     {
         "name": "Michael Mulley", 
@@ -3396,7 +3407,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1330459?v=3", 
         "location": "Chicago, Illinois", 
         "login": "stevevance", 
-        "contributions": 130
+        "contributions": 131
     }, 
     {
         "name": "Firman Rosdiansyah", 
@@ -3652,17 +3663,6 @@
         "contributions": 3
     }, 
     {
-        "name": "Max Bechdel", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/veritascs", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4104863?v=3", 
-        "location": "", 
-        "login": "veritascs", 
-        "contributions": 1
-    }, 
-    {
         "name": "Edward Vielmetti", 
         "company": "", 
         "repositories": 1, 
@@ -3748,17 +3748,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/764063?v=3", 
         "location": null, 
         "login": "wrought", 
-        "contributions": 1
-    }, 
-    {
-        "name": "ycz", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/ycz87", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/891286?v=3", 
-        "location": null, 
-        "login": "ycz87", 
         "contributions": 1
     }, 
     {

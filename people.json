@@ -572,6 +572,28 @@
         "contributions": 1
     }, 
     {
+        "name": "Andrew Douglass", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/ardouglass", 
+        "blog": "wasteddaylight.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1390578?v=3", 
+        "location": "Houston, TX", 
+        "login": "ardouglass", 
+        "contributions": 8
+    }, 
+    {
+        "name": "Ariel Kennan", 
+        "company": "Code for America", 
+        "repositories": 1, 
+        "html_url": "https://github.com/arielkennan", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3219885?v=3", 
+        "location": null, 
+        "login": "arielkennan", 
+        "contributions": 3
+    }, 
+    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -979,6 +1001,17 @@
         "contributions": 241
     }, 
     {
+        "name": "Chris Whong", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/chriswhong", 
+        "blog": "http://www.chriswhong.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1833820?v=3", 
+        "location": "New York, NY", 
+        "login": "chriswhong", 
+        "contributions": 3
+    }, 
+    {
         "name": "", 
         "company": "", 
         "repositories": 2, 
@@ -1199,6 +1232,17 @@
         "contributions": 2
     }, 
     {
+        "name": "Dirk Kelly", 
+        "company": "InterExchange", 
+        "repositories": 1, 
+        "html_url": "https://github.com/dirkkelly", 
+        "blog": "http://www.dirkkelly.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/81055?v=3", 
+        "location": "Brooklyn, New York", 
+        "login": "dirkkelly", 
+        "contributions": 14
+    }, 
+    {
         "name": "Dan Fehrenbach", 
         "company": null, 
         "repositories": 1, 
@@ -1274,6 +1318,17 @@
         "location": null, 
         "login": "eads", 
         "contributions": 199
+    }, 
+    {
+        "name": "Erik Schwartz", 
+        "company": "Code for America", 
+        "repositories": 1, 
+        "html_url": "https://github.com/eeeschwartz", 
+        "blog": "http://erikschwartz.net", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/428684?v=3", 
+        "location": "San Francisco/Lexington/Nomad", 
+        "login": "eeeschwartz", 
+        "contributions": 35
     }, 
     {
         "name": null, 
@@ -1681,6 +1736,17 @@
         "location": "Tel Aviv, Israel", 
         "login": "idan", 
         "contributions": 1
+    }, 
+    {
+        "name": "Danny Whalen", 
+        "company": "Code for America", 
+        "repositories": 1, 
+        "html_url": "https://github.com/invisiblefunnel", 
+        "blog": "http://invisiblefunnel.com/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/331023?v=3", 
+        "location": "San Francisco, CA", 
+        "login": "invisiblefunnel", 
+        "contributions": 324
     }, 
     {
         "name": "Irwin", 
@@ -2222,6 +2288,17 @@
         "contributions": 1
     }, 
     {
+        "name": "", 
+        "company": "Code for America", 
+        "repositories": 1, 
+        "html_url": "https://github.com/livienyin", 
+        "blog": "www.livienyin.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3459947?v=3", 
+        "location": "San Francisco", 
+        "login": "livienyin", 
+        "contributions": 31
+    }, 
+    {
         "name": "Bill Mill", 
         "company": "", 
         "repositories": 1, 
@@ -2297,6 +2374,17 @@
         "location": "Chicago, IL", 
         "login": "lukerague", 
         "contributions": 27
+    }, 
+    {
+        "name": "Lyzi Diamond", 
+        "company": "Mapbox", 
+        "repositories": 1, 
+        "html_url": "https://github.com/lyzidiamond", 
+        "blog": "http://lyzidiamond.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2523165?v=3", 
+        "location": "Oakland, CA", 
+        "login": "lyzidiamond", 
+        "contributions": 6
     }, 
     {
         "name": "Magnus Persson", 
@@ -2682,6 +2770,17 @@
         "location": "Providence / Philly / NYC", 
         "login": "non", 
         "contributions": 6
+    }, 
+    {
+        "name": "Noel Hidalgo", 
+        "company": "betaNYC", 
+        "repositories": 1, 
+        "html_url": "https://github.com/noneck", 
+        "blog": "blog.noneck.org", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/94735?v=3", 
+        "location": "New York, NY", 
+        "login": "noneck", 
+        "contributions": 2
     }, 
     {
         "name": "Chris Brown", 
@@ -3157,6 +3256,17 @@
         "contributions": 3
     }, 
     {
+        "name": "Sam Hashemi", 
+        "company": "Code for America", 
+        "repositories": 1, 
+        "html_url": "https://github.com/samhashemi", 
+        "blog": "http://www.samhashemi.com/work/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1435836?v=3", 
+        "location": "San Francisco, CA", 
+        "login": "samhashemi", 
+        "contributions": 35
+    }, 
+    {
         "name": "Sandor Weisz", 
         "company": "Methodtree, Inc.", 
         "repositories": 1, 
@@ -3441,6 +3551,17 @@
         "location": "Germany, Frankfurt am Main", 
         "login": "t1gor", 
         "contributions": 1
+    }, 
+    {
+        "name": "Tiffany Chu", 
+        "company": "Code for America", 
+        "repositories": 1, 
+        "html_url": "https://github.com/tchu88", 
+        "blog": "t-chu.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5245720?v=3", 
+        "location": "San Francisco", 
+        "login": "tchu88", 
+        "contributions": 17
     }, 
     {
         "name": "Peter W", 

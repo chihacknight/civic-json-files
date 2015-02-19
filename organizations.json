@@ -1,5 +1,15 @@
 [
     {
+        "name": "BetaNYC", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/BetaNYC", 
+        "blog": "http://beta.nyc", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3756624?v=3", 
+        "location": "New York City, NY", 
+        "login": "BetaNYC"
+    }, 
+    {
         "name": "City of Chicago", 
         "company": null, 
         "repositories": 11, 

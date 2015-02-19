@@ -1324,7 +1324,7 @@
         "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/elnaz", 
-        "blog": "", 
+        "blog": "http://www.elnaz.is", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1043187?v=3", 
         "location": "", 
         "login": "elnaz", 
@@ -1427,7 +1427,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2017
+        "contributions": 2022
     }, 
     {
         "name": "Adam Fishman", 
@@ -3407,7 +3407,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1330459?v=3", 
         "location": "Chicago, Illinois", 
         "login": "stevevance", 
-        "contributions": 133
+        "contributions": 136
     }, 
     {
         "name": "Firman Rosdiansyah", 

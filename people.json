@@ -250,7 +250,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 773
+        "contributions": 777
     }, 
     {
         "name": "John Brock", 
@@ -1218,7 +1218,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3494
+        "contributions": 3495
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1500,7 +1500,7 @@
         "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/flawyte", 
-        "blog": "", 
+        "blog": "https://flawyte.github.io", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1585006?v=3", 
         "location": "France", 
         "login": "flawyte", 

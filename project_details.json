@@ -1362,7 +1362,7 @@
         "created_at": "2012-07-19T23:08:40Z", 
         "pushed_at": "2015-02-22T20:06:04Z", 
         "watchers_count": 11, 
-        "open_issues": 22, 
+        "open_issues": 19, 
         "homepage": "http://chicagoearlylearning.org/", 
         "participation": [
             0, 
@@ -6636,7 +6636,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/dssg/bikeshare/contributors", 
-        "forks_count": 13, 
+        "forks_count": 14, 
         "html_url": "https://github.com/dssg/bikeshare", 
         "updated_at": "2015-02-05T10:47:13Z", 
         "project_needs": [], 
@@ -8085,21 +8085,28 @@
                 "owner": false, 
                 "login": "tomschenkjr", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
-                "contributions": 45, 
+                "contributions": 51, 
                 "html_url": "https://github.com/tomschenkjr"
             }, 
             {
                 "owner": false, 
                 "login": "pschmied", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1065905?v=3", 
-                "contributions": 6, 
+                "contributions": 8, 
                 "html_url": "https://github.com/pschmied"
+            }, 
+            {
+                "owner": false, 
+                "login": "kent37", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/187033?v=3", 
+                "contributions": 1, 
+                "html_url": "https://github.com/kent37"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/Chicago/RSocrata/contributors", 
         "forks_count": 17, 
         "html_url": "https://github.com/Chicago/RSocrata", 
-        "updated_at": "2015-02-17T22:32:02Z", 
+        "updated_at": "2015-02-23T02:33:34Z", 
         "project_needs": [], 
         "owner": {
             "login": "Chicago", 
@@ -8111,9 +8118,9 @@
         "name": "RSocrata", 
         "language": "R", 
         "created_at": "2013-09-16T21:03:40Z", 
-        "pushed_at": "2015-01-15T04:25:16Z", 
+        "pushed_at": "2015-02-23T02:33:34Z", 
         "watchers_count": 33, 
-        "open_issues": 18, 
+        "open_issues": 14, 
         "homepage": null, 
         "participation": [
             0, 

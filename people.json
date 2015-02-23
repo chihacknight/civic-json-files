@@ -2101,6 +2101,17 @@
         "contributions": 3
     }, 
     {
+        "name": "Kent Johnson", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kent37", 
+        "blog": "http://kentsjohnson.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/187033?v=3", 
+        "location": "Cambridge, MA, USA", 
+        "login": "kent37", 
+        "contributions": 1
+    }, 
+    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -2912,7 +2923,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1065905?v=3", 
         "location": "Seattle", 
         "login": "pschmied", 
-        "contributions": 6
+        "contributions": 8
     }, 
     {
         "name": "Peter Harkins", 
@@ -3649,7 +3660,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 93
+        "contributions": 99
     }, 
     {
         "name": "Nick Bennett", 

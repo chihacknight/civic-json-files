@@ -1218,7 +1218,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3495
+        "contributions": 3497
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1482,7 +1482,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2023
+        "contributions": 2024
     }, 
     {
         "name": "Adam Fishman", 
@@ -3708,12 +3708,12 @@
     }, 
     {
         "name": "Tim Shedor", 
-        "company": null, 
+        "company": "FINE", 
         "repositories": 1, 
         "html_url": "https://github.com/tshedor", 
         "blog": "http://timshedor.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/865897?v=3", 
-        "location": "Kansas", 
+        "location": "Portland via Kansas", 
         "login": "tshedor", 
         "contributions": 11
     }, 

@@ -1120,7 +1120,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/smartchicago/chicago-atlas/contributors", 
-        "forks_count": 242, 
+        "forks_count": 241, 
         "html_url": "https://github.com/smartchicago/chicago-atlas", 
         "updated_at": "2015-01-06T15:34:31Z", 
         "project_needs": [], 
@@ -2216,7 +2216,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/stevevance/divvy-munging/contributors", 
-        "forks_count": 1, 
+        "forks_count": 2, 
         "html_url": "https://github.com/stevevance/divvy-munging", 
         "updated_at": "2015-02-22T19:38:10Z", 
         "project_needs": [], 
@@ -2329,9 +2329,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/derekeder/FusionTable-Map-Template/contributors", 
-        "forks_count": 151, 
+        "forks_count": 152, 
         "html_url": "https://github.com/derekeder/FusionTable-Map-Template", 
-        "updated_at": "2015-02-25T19:20:59Z", 
+        "updated_at": "2015-02-26T23:05:56Z", 
         "project_needs": [], 
         "owner": {
             "login": "derekeder", 
@@ -2344,7 +2344,7 @@
         "language": "CSS", 
         "created_at": "2011-09-26T16:28:57Z", 
         "pushed_at": "2015-02-24T19:18:07Z", 
-        "watchers_count": 197, 
+        "watchers_count": 198, 
         "open_issues": 5, 
         "homepage": "http://derekeder.com/searchable_map_template/", 
         "participation": [
@@ -3021,23 +3021,23 @@
         "contributors": [
             {
                 "owner": false, 
-                "login": "derekeder", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
-                "contributions": 69, 
-                "html_url": "https://github.com/derekeder"
+                "login": "evz", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
+                "contributions": 83, 
+                "html_url": "https://github.com/evz"
             }, 
             {
                 "owner": false, 
-                "login": "evz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 64, 
-                "html_url": "https://github.com/evz"
+                "login": "derekeder", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
+                "contributions": 72, 
+                "html_url": "https://github.com/derekeder"
             }, 
             {
                 "owner": false, 
                 "login": "cathydeng", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
-                "contributions": 21, 
+                "contributions": 27, 
                 "html_url": "https://github.com/cathydeng"
             }, 
             {
@@ -3058,7 +3058,7 @@
         "contributors_url": "https://api.github.com/repos/associatedpress/geomancer/contributors", 
         "forks_count": 4, 
         "html_url": "https://github.com/associatedpress/geomancer", 
-        "updated_at": "2015-02-22T02:53:19Z", 
+        "updated_at": "2015-02-26T20:38:42Z", 
         "project_needs": [], 
         "owner": {
             "login": "associatedpress", 
@@ -3070,9 +3070,9 @@
         "name": "geomancer", 
         "language": "Python", 
         "created_at": "2014-07-17T21:10:46Z", 
-        "pushed_at": "2014-12-19T15:56:13Z", 
+        "pushed_at": "2015-02-26T20:38:42Z", 
         "watchers_count": 22, 
-        "open_issues": 16, 
+        "open_issues": 8, 
         "homepage": "", 
         "participation": [
             0, 
@@ -3334,7 +3334,7 @@
                 "owner": false, 
                 "login": "JoeGermuska", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
-                "contributions": 48, 
+                "contributions": 49, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
@@ -3383,7 +3383,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS-Wordpress-Plugin/contributors", 
         "forks_count": 41, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS-Wordpress-Plugin", 
-        "updated_at": "2015-02-17T22:07:01Z", 
+        "updated_at": "2015-02-26T22:01:00Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -3395,7 +3395,7 @@
         "name": "TimelineJS-Wordpress-Plugin", 
         "language": "JavaScript", 
         "created_at": "2012-04-22T18:40:28Z", 
-        "pushed_at": "2015-02-17T22:07:10Z", 
+        "pushed_at": "2015-02-26T22:01:16Z", 
         "watchers_count": 165, 
         "open_issues": 22, 
         "homepage": null, 
@@ -5283,7 +5283,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
-                "contributions": 1285, 
+                "contributions": 1287, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -5402,7 +5402,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 75, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-02-24T11:42:50Z", 
+        "updated_at": "2015-02-26T22:46:05Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -5414,9 +5414,9 @@
         "name": "dedupe", 
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2015-02-23T18:16:20Z", 
+        "pushed_at": "2015-02-26T22:46:04Z", 
         "watchers_count": 520, 
-        "open_issues": 18, 
+        "open_issues": 13, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
             4, 
@@ -9483,9 +9483,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NYCComptroller/Checkbook/contributors", 
-        "forks_count": 13, 
+        "forks_count": 14, 
         "html_url": "https://github.com/NYCComptroller/Checkbook", 
-        "updated_at": "2015-01-25T02:30:57Z", 
+        "updated_at": "2015-02-26T18:48:45Z", 
         "project_needs": [], 
         "owner": {
             "login": "NYCComptroller", 
@@ -9497,8 +9497,8 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2015-02-20T22:11:48Z", 
-        "watchers_count": 32, 
+        "pushed_at": "2015-02-26T19:35:14Z", 
+        "watchers_count": 33, 
         "open_issues": 20, 
         "homepage": null, 
         "participation": [
@@ -11420,7 +11420,7 @@
                 "owner": false, 
                 "login": "JoeGermuska", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
-                "contributions": 248, 
+                "contributions": 251, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
@@ -11621,9 +11621,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
-        "forks_count": 1481, 
+        "forks_count": 1480, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-02-26T15:06:09Z", 
+        "updated_at": "2015-02-26T21:50:36Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -11635,9 +11635,9 @@
         "name": "TimelineJS", 
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
-        "pushed_at": "2015-02-17T22:24:28Z", 
+        "pushed_at": "2015-02-26T21:50:36Z", 
         "watchers_count": 7263, 
-        "open_issues": 163, 
+        "open_issues": 162, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
             1, 
@@ -15393,23 +15393,23 @@
         "contributors": [
             {
                 "owner": false, 
-                "login": "derekeder", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
-                "contributions": 69, 
-                "html_url": "https://github.com/derekeder"
+                "login": "evz", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
+                "contributions": 82, 
+                "html_url": "https://github.com/evz"
             }, 
             {
                 "owner": false, 
-                "login": "evz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 63, 
-                "html_url": "https://github.com/evz"
+                "login": "derekeder", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
+                "contributions": 72, 
+                "html_url": "https://github.com/derekeder"
             }, 
             {
                 "owner": false, 
                 "login": "cathydeng", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
-                "contributions": 21, 
+                "contributions": 27, 
                 "html_url": "https://github.com/cathydeng"
             }, 
             {
@@ -15430,7 +15430,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/geomancer/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/datamade/geomancer", 
-        "updated_at": "2014-12-19T15:55:18Z", 
+        "updated_at": "2015-02-26T20:15:40Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -15442,9 +15442,9 @@
         "name": "geomancer", 
         "language": "Python", 
         "created_at": "2014-08-07T22:00:48Z", 
-        "pushed_at": "2015-02-16T21:53:09Z", 
+        "pushed_at": "2015-02-26T20:15:40Z", 
         "watchers_count": 2, 
-        "open_issues": 0, 
+        "open_issues": 1, 
         "homepage": "", 
         "participation": [
             0, 

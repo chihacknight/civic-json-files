@@ -250,7 +250,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 788
+        "contributions": 817
     }, 
     {
         "name": "John Brock", 
@@ -1218,7 +1218,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3505
+        "contributions": 3506
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1482,7 +1482,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2026
+        "contributions": 2027
     }, 
     {
         "name": "Adam Fishman", 
@@ -2006,7 +2006,7 @@
         "company": "@mckinneyjames", 
         "repositories": 1, 
         "html_url": "https://github.com/jpmckinney", 
-        "blog": "http://opennorth.ca", 
+        "blog": "http://www.opennorth.ca", 
         "avatar_url": "https://avatars.githubusercontent.com/u/26463?v=3", 
         "location": "Montreal, Quebec, Canada", 
         "login": "jpmckinney", 
@@ -2787,7 +2787,7 @@
         "company": "betaNYC", 
         "repositories": 1, 
         "html_url": "https://github.com/noneck", 
-        "blog": "blog.noneck.org", 
+        "blog": "http://noneck.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/94735?v=3", 
         "location": "New York, NY", 
         "login": "noneck", 
@@ -3253,7 +3253,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/56477?v=3", 
         "location": "Spokane, Wash.", 
         "login": "ryanpitts", 
-        "contributions": 897
+        "contributions": 900
     }, 
     {
         "name": "Samarth Bhaskar", 

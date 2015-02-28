@@ -250,7 +250,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 818
+        "contributions": 819
     }, 
     {
         "name": "John Brock", 
@@ -719,9 +719,9 @@
         "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/blakeshall", 
-        "blog": "blakeshall.github.com", 
+        "blog": "http://www.blakeshall.github.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/92603?v=3", 
-        "location": "Lexington, KY", 
+        "location": "San Francisco, CA", 
         "login": "blakeshall", 
         "contributions": 1
     }, 

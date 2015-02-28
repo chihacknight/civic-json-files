@@ -250,7 +250,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 817
+        "contributions": 818
     }, 
     {
         "name": "John Brock", 
@@ -1218,7 +1218,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3506
+        "contributions": 3511
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2022,17 +2022,6 @@
         "location": "Chicago", 
         "login": "jpvelez", 
         "contributions": 294
-    }, 
-    {
-        "name": "James", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jsal13", 
-        "blog": "www.dyinglovegrape.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4589605?v=3", 
-        "location": null, 
-        "login": "jsal13", 
-        "contributions": 5
     }, 
     {
         "name": "Jeremy Satterfield", 

@@ -1482,7 +1482,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2036
+        "contributions": 2037
     }, 
     {
         "name": "Adam Fishman", 
@@ -2325,9 +2325,9 @@
         "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/louh", 
-        "blog": "louhuang.com", 
+        "blog": "http://louhuang.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/2553268?v=3", 
-        "location": "Washington, D.C.", 
+        "location": "New York City", 
         "login": "louh", 
         "contributions": 5
     }, 

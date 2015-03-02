@@ -5402,7 +5402,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 74, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-03-01T03:54:34Z", 
+        "updated_at": "2015-03-01T23:28:02Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -5414,9 +5414,9 @@
         "name": "dedupe", 
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2015-03-01T03:54:34Z", 
+        "pushed_at": "2015-03-01T23:28:02Z", 
         "watchers_count": 521, 
-        "open_issues": 8, 
+        "open_issues": 7, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
             2, 
@@ -6815,7 +6815,7 @@
                 "owner": false, 
                 "login": "JoeGermuska", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
-                "contributions": 155, 
+                "contributions": 160, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
@@ -6850,7 +6850,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/censusreporter/contributors", 
         "forks_count": 28, 
         "html_url": "https://github.com/censusreporter/censusreporter", 
-        "updated_at": "2015-03-01T16:04:56Z", 
+        "updated_at": "2015-03-01T19:12:59Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -6862,7 +6862,7 @@
         "name": "censusreporter", 
         "language": "HTML", 
         "created_at": "2013-05-20T22:46:00Z", 
-        "pushed_at": "2015-03-01T16:04:56Z", 
+        "pushed_at": "2015-03-01T19:12:59Z", 
         "watchers_count": 77, 
         "open_issues": 48, 
         "homepage": "http://censusreporter.org", 
@@ -10035,7 +10035,7 @@
         "contributors_url": "https://api.github.com/repos/dssg/nfp/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/dssg/nfp", 
-        "updated_at": "2013-11-17T02:18:22Z", 
+        "updated_at": "2015-03-01T21:39:23Z", 
         "project_needs": [], 
         "owner": {
             "login": "dssg", 
@@ -10048,7 +10048,7 @@
         "language": "R", 
         "created_at": "2013-06-10T19:00:36Z", 
         "pushed_at": "2013-11-17T02:18:15Z", 
-        "watchers_count": 2, 
+        "watchers_count": 3, 
         "open_issues": 6, 
         "homepage": "http://dssg.io/projects#nfp", 
         "participation": [
@@ -11538,7 +11538,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1481, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-03-01T18:08:06Z", 
+        "updated_at": "2015-03-01T22:02:39Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -11551,7 +11551,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-02-26T21:50:36Z", 
-        "watchers_count": 7273, 
+        "watchers_count": 7275, 
         "open_issues": 163, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [

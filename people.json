@@ -1482,7 +1482,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2035
+        "contributions": 2037
     }, 
     {
         "name": "Adam Fishman", 
@@ -1593,6 +1593,17 @@
         "location": "St. Gallen", 
         "login": "grahl", 
         "contributions": 4
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/grant-humphries", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1002875?v=3", 
+        "location": null, 
+        "login": "grant-humphries", 
+        "contributions": 1
     }, 
     {
         "name": null, 
@@ -1724,7 +1735,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?v=3", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 628
+        "contributions": 629
     }, 
     {
         "name": "Idan Gazit", 

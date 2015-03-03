@@ -1212,13 +1212,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade, Open City", 
-        "repositories": 45, 
+        "repositories": 44, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3511
+        "contributions": 3216
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1399,13 +1399,13 @@
     {
         "name": null, 
         "company": "ThoughtWorks", 
-        "repositories": 2, 
+        "repositories": 1, 
         "html_url": "https://github.com/emirose", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/971283?v=3", 
         "location": "Chicago, IL", 
         "login": "emirose", 
-        "contributions": 10
+        "contributions": 9
     }, 
     {
         "name": "Tharique Azeez", 
@@ -1454,13 +1454,13 @@
     {
         "name": "Eric van Zanten", 
         "company": "", 
-        "repositories": 26, 
+        "repositories": 25, 
         "html_url": "https://github.com/evz", 
         "blog": "www.static-eric.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1216
+        "contributions": 1210
     }, 
     {
         "name": "David Fawcett", 
@@ -1476,13 +1476,13 @@
     {
         "name": "Forest Gregg", 
         "company": "University of Chicago, Department of Sociology", 
-        "repositories": 21, 
+        "repositories": 20, 
         "html_url": "https://github.com/fgregg", 
         "blog": "http://bunkum.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2037
+        "contributions": 2035
     }, 
     {
         "name": "Adam Fishman", 
@@ -1848,17 +1848,6 @@
         "contributions": 2
     }, 
     {
-        "name": "Jason Wright", 
-        "company": "Dissident Design", 
-        "repositories": 1, 
-        "html_url": "https://github.com/jasontwright", 
-        "blog": "www.dissidentdesign.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/418087?v=3", 
-        "location": "Chicago, IL", 
-        "login": "jasontwright", 
-        "contributions": 2
-    }, 
-    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -2015,13 +2004,13 @@
     {
         "name": "Juan-Pablo Velez", 
         "company": "Open City", 
-        "repositories": 19, 
+        "repositories": 18, 
         "html_url": "https://github.com/jpvelez", 
         "blog": "http://www.twitter.com/jpvelez", 
         "avatar_url": "https://avatars.githubusercontent.com/u/533641?v=3", 
         "location": "Chicago", 
         "login": "jpvelez", 
-        "contributions": 294
+        "contributions": 281
     }, 
     {
         "name": "Jeremy Satterfield", 
@@ -2125,13 +2114,13 @@
     {
         "name": "Karl Fogel", 
         "company": "Open Tech Strategies, LLC", 
-        "repositories": 3, 
+        "repositories": 2, 
         "html_url": "https://github.com/kfogel", 
         "blog": "http://www.red-bean.com/kfogel", 
         "avatar_url": "https://avatars.githubusercontent.com/u/401111?v=3", 
         "location": "Chicago, IL, USA", 
         "login": "kfogel", 
-        "contributions": 23
+        "contributions": 15
     }, 
     {
         "name": "KK Rebecca Lai", 
@@ -2253,17 +2242,6 @@
         "location": null, 
         "login": "ladyson", 
         "contributions": 21
-    }, 
-    {
-        "name": "Laura Hamilton", 
-        "company": "Groupon", 
-        "repositories": 1, 
-        "html_url": "https://github.com/lauradhamilton", 
-        "blog": "http://www.lauradhamilton.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1467775?v=3", 
-        "location": "Chicago", 
-        "login": "lauradhamilton", 
-        "contributions": 1
     }, 
     {
         "name": "Lee Hachadoorian", 
@@ -2422,13 +2400,13 @@
     {
         "name": "Nick Doiron", 
         "company": "Museum of Modern Art", 
-        "repositories": 7, 
+        "repositories": 6, 
         "html_url": "https://github.com/mapmeld", 
         "blog": "http://mapmeld.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/643918?v=3", 
         "location": "New York City, NY", 
         "login": "mapmeld", 
-        "contributions": 135
+        "contributions": 132
     }, 
     {
         "name": "Mark Huberty", 
@@ -2561,17 +2539,6 @@
         "location": "", 
         "login": "migurski", 
         "contributions": 244
-    }, 
-    {
-        "name": "Milton Mazzarri", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/milmazz", 
-        "blog": "http://milmazz.uno", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/34700?v=3", 
-        "location": "Houston, TX", 
-        "login": "milmazz", 
-        "contributions": 2
     }, 
     {
         "name": null, 
@@ -3016,13 +2983,13 @@
     {
         "name": "Rebecca Williams", 
         "company": "", 
-        "repositories": 2, 
+        "repositories": 1, 
         "html_url": "https://github.com/rebeccawilliams", 
         "blog": "rebeccawilliams.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1725454?v=3", 
         "location": "Washington, D.C.", 
         "login": "rebeccawilliams", 
-        "contributions": 2
+        "contributions": 1
     }, 
     {
         "name": "Greg", 
@@ -3144,17 +3111,6 @@
         "location": "Chicago, IL", 
         "login": "rougeux", 
         "contributions": 26
-    }, 
-    {
-        "name": "Ash Roughani", 
-        "company": "SAC2050", 
-        "repositories": 1, 
-        "html_url": "https://github.com/roughani", 
-        "blog": "http://sac2050.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4371233?v=3", 
-        "location": "Sacramento, CA", 
-        "login": "roughani", 
-        "contributions": 1
     }, 
     {
         "name": null, 
@@ -3333,17 +3289,6 @@
         "contributions": 2
     }, 
     {
-        "name": "S\u00e9bastien Boisvert", 
-        "company": "Argonne National Laboratory", 
-        "repositories": 1, 
-        "html_url": "https://github.com/sebhtml", 
-        "blog": "http://twitter.com/sebhtml", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/824460?v=3", 
-        "location": "", 
-        "login": "sebhtml", 
-        "contributions": 1
-    }, 
-    {
         "name": "Erik Michaels-Ober", 
         "company": "SoundCloud", 
         "repositories": 2, 
@@ -3412,13 +3357,13 @@
     {
         "name": "Josh Kalov", 
         "company": "", 
-        "repositories": 5, 
+        "repositories": 4, 
         "html_url": "https://github.com/shua123", 
         "blog": "http://kalov.net", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1593537?v=3", 
         "location": "Chicago", 
         "login": "shua123", 
-        "contributions": 128
+        "contributions": 126
     }, 
     {
         "name": "David Baumgold", 
@@ -3511,13 +3456,13 @@
     {
         "name": "Steven Vance", 
         "company": null, 
-        "repositories": 6, 
+        "repositories": 5, 
         "html_url": "https://github.com/stevevance", 
         "blog": "http://stevevance.net", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1330459?v=3", 
         "location": "Chicago, Illinois", 
         "login": "stevevance", 
-        "contributions": 138
+        "contributions": 135
     }, 
     {
         "name": "Firman Rosdiansyah", 

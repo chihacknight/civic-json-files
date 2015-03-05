@@ -2296,7 +2296,7 @@
                 "owner": true, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
-                "contributions": 142, 
+                "contributions": 148, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -2331,7 +2331,7 @@
         "contributors_url": "https://api.github.com/repos/derekeder/FusionTable-Map-Template/contributors", 
         "forks_count": 150, 
         "html_url": "https://github.com/derekeder/FusionTable-Map-Template", 
-        "updated_at": "2015-03-04T12:21:26Z", 
+        "updated_at": "2015-03-04T23:00:23Z", 
         "project_needs": [], 
         "owner": {
             "login": "derekeder", 
@@ -2343,9 +2343,9 @@
         "name": "FusionTable-Map-Template", 
         "language": "CSS", 
         "created_at": "2011-09-26T16:28:57Z", 
-        "pushed_at": "2015-03-03T16:26:53Z", 
-        "watchers_count": 201, 
-        "open_issues": 6, 
+        "pushed_at": "2015-03-04T21:56:19Z", 
+        "watchers_count": 202, 
+        "open_issues": 5, 
         "homepage": "http://derekeder.com/searchable_map_template/", 
         "participation": [
             0, 
@@ -3023,7 +3023,7 @@
                 "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 83, 
+                "contributions": 84, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -3058,7 +3058,7 @@
         "contributors_url": "https://api.github.com/repos/associatedpress/geomancer/contributors", 
         "forks_count": 4, 
         "html_url": "https://github.com/associatedpress/geomancer", 
-        "updated_at": "2015-03-04T04:25:37Z", 
+        "updated_at": "2015-03-04T18:29:02Z", 
         "project_needs": [], 
         "owner": {
             "login": "associatedpress", 
@@ -3070,9 +3070,9 @@
         "name": "geomancer", 
         "language": "Python", 
         "created_at": "2014-07-17T21:10:46Z", 
-        "pushed_at": "2015-03-04T04:25:37Z", 
+        "pushed_at": "2015-03-04T18:29:01Z", 
         "watchers_count": 22, 
-        "open_issues": 17, 
+        "open_issues": 18, 
         "homepage": "", 
         "participation": [
             0, 
@@ -8564,7 +8564,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/corynissen/foodborne_classifier/contributors", 
-        "forks_count": 40, 
+        "forks_count": 41, 
         "html_url": "https://github.com/corynissen/foodborne_classifier", 
         "updated_at": "2015-02-28T12:50:21Z", 
         "project_needs": [], 
@@ -11543,9 +11543,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
-        "forks_count": 1481, 
+        "forks_count": 1482, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-03-04T15:49:08Z", 
+        "updated_at": "2015-03-04T22:01:44Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -11849,7 +11849,7 @@
                 "owner": true, 
                 "login": "stevevance", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1330459?v=3", 
-                "contributions": 82, 
+                "contributions": 83, 
                 "html_url": "https://github.com/stevevance"
             }, 
             {
@@ -11870,7 +11870,7 @@
         "contributors_url": "https://api.github.com/repos/stevevance/Chicago-Crash-Browser/contributors", 
         "forks_count": 3, 
         "html_url": "https://github.com/stevevance/Chicago-Crash-Browser", 
-        "updated_at": "2015-03-04T17:10:25Z", 
+        "updated_at": "2015-03-04T18:41:48Z", 
         "project_needs": [], 
         "owner": {
             "login": "stevevance", 
@@ -11882,7 +11882,7 @@
         "name": "Chicago-Crash-Browser", 
         "language": "JavaScript", 
         "created_at": "2013-02-16T00:58:59Z", 
-        "pushed_at": "2015-03-04T17:10:23Z", 
+        "pushed_at": "2015-03-04T18:41:48Z", 
         "watchers_count": 9, 
         "open_issues": 19, 
         "homepage": "http://chicagocrashes.org", 
@@ -15317,7 +15317,7 @@
                 "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 83, 
+                "contributions": 88, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -15331,7 +15331,7 @@
                 "owner": false, 
                 "login": "cathydeng", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
-                "contributions": 27, 
+                "contributions": 30, 
                 "html_url": "https://github.com/cathydeng"
             }, 
             {
@@ -15352,7 +15352,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/geomancer/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/datamade/geomancer", 
-        "updated_at": "2015-03-04T16:38:48Z", 
+        "updated_at": "2015-03-04T22:59:57Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -15364,7 +15364,7 @@
         "name": "geomancer", 
         "language": "Python", 
         "created_at": "2014-08-07T22:00:48Z", 
-        "pushed_at": "2015-03-04T17:40:19Z", 
+        "pushed_at": "2015-03-04T22:59:57Z", 
         "watchers_count": 2, 
         "open_issues": 1, 
         "homepage": "", 

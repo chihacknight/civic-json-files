@@ -3056,7 +3056,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/associatedpress/geomancer/contributors", 
-        "forks_count": 4, 
+        "forks_count": 5, 
         "html_url": "https://github.com/associatedpress/geomancer", 
         "updated_at": "2015-03-06T16:32:52Z", 
         "project_needs": [], 
@@ -5400,9 +5400,9 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
-        "forks_count": 73, 
+        "forks_count": 74, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-03-06T03:25:12Z", 
+        "updated_at": "2015-03-07T21:10:14Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -5415,7 +5415,7 @@
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2015-03-05T22:31:37Z", 
-        "watchers_count": 525, 
+        "watchers_count": 528, 
         "open_issues": 9, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
@@ -15352,7 +15352,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/geomancer/contributors", 
         "forks_count": 0, 
         "html_url": "https://github.com/datamade/geomancer", 
-        "updated_at": "2015-03-06T11:01:30Z", 
+        "updated_at": "2015-03-07T21:01:04Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -15365,7 +15365,7 @@
         "language": "Python", 
         "created_at": "2014-08-07T22:00:48Z", 
         "pushed_at": "2015-03-06T11:01:29Z", 
-        "watchers_count": 3, 
+        "watchers_count": 4, 
         "open_issues": 1, 
         "homepage": "", 
         "participation": [

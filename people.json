@@ -244,13 +244,13 @@
     {
         "name": "Joe Germuska", 
         "company": "Northwestern University Knight Lab", 
-        "repositories": 9, 
+        "repositories": 10, 
         "html_url": "https://github.com/JoeGermuska", 
         "blog": "http://blog.germuska.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 830
+        "contributions": 832
     }, 
     {
         "name": "John Brock", 
@@ -805,13 +805,13 @@
     {
         "name": "Brent Payne", 
         "company": null, 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/brentpayne", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/49027?v=3", 
         "location": null, 
         "login": "brentpayne", 
-        "contributions": 4
+        "contributions": 11
     }, 
     {
         "name": "Bret Walker", 
@@ -882,13 +882,13 @@
     {
         "name": "Cathy Deng", 
         "company": null, 
-        "repositories": 9, 
+        "repositories": 11, 
         "html_url": "https://github.com/cathydeng", 
         "blog": "twitter.com/cthydng", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 419
+        "contributions": 723
     }, 
     {
         "name": null, 
@@ -1212,13 +1212,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade, Open City", 
-        "repositories": 44, 
+        "repositories": 46, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3223
+        "contributions": 3236
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1285,6 +1285,17 @@
         "location": null, 
         "login": "dtrebbien", 
         "contributions": 11
+    }, 
+    {
+        "name": "Derek Willis", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/dwillis", 
+        "blog": "http://thescoop.org/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2214?v=3", 
+        "location": null, 
+        "login": "dwillis", 
+        "contributions": 1
     }, 
     {
         "name": "Kevin Dwyer", 
@@ -1476,13 +1487,13 @@
     {
         "name": "Forest Gregg", 
         "company": "University of Chicago, Department of Sociology", 
-        "repositories": 20, 
+        "repositories": 22, 
         "html_url": "https://github.com/fgregg", 
         "blog": "http://bunkum.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2071
+        "contributions": 2196
     }, 
     {
         "name": "Adam Fishman", 
@@ -2455,13 +2466,13 @@
     {
         "name": "Miroslav Batchkarov", 
         "company": "University of Sussex", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/mbatchkarov", 
         "blog": "http://mbatchkarov.github.io", 
         "avatar_url": "https://avatars.githubusercontent.com/u/937114?v=3", 
         "location": "United Kingdom", 
         "login": "mbatchkarov", 
-        "contributions": 13
+        "contributions": 26
     }, 
     {
         "name": "Michael Castelle", 

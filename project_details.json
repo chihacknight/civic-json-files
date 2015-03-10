@@ -449,13 +449,13 @@
             21, 
             26, 
             13, 
-            11, 
-            68, 
+            12, 
+            67, 
             7, 
             2, 
             0, 
-            19, 
-            42, 
+            22, 
+            39, 
             0, 
             0, 
             0, 
@@ -1327,7 +1327,7 @@
         "contributors_url": "https://api.github.com/repos/smartchicago/chicago-atlas/contributors", 
         "forks_count": 240, 
         "html_url": "https://github.com/smartchicago/chicago-atlas", 
-        "updated_at": "2015-01-06T15:34:31Z", 
+        "updated_at": "2015-03-09T22:15:45Z", 
         "project_needs": [], 
         "owner": {
             "login": "smartchicago", 
@@ -1340,7 +1340,7 @@
         "language": "Ruby", 
         "created_at": "2013-02-07T16:57:22Z", 
         "pushed_at": "2014-12-01T21:54:01Z", 
-        "watchers_count": 84, 
+        "watchers_count": 85, 
         "open_issues": 18, 
         "homepage": "http://www.chicagohealthatlas.org/", 
         "participation": [
@@ -1567,7 +1567,7 @@
         "created_at": "2012-07-19T23:08:40Z", 
         "pushed_at": "2015-03-05T04:28:26Z", 
         "watchers_count": 11, 
-        "open_issues": 16, 
+        "open_issues": 15, 
         "homepage": "http://chicagoearlylearning.org/", 
         "participation": [
             1, 
@@ -1652,7 +1652,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/csvdedupe/contributors", 
         "forks_count": 8, 
         "html_url": "https://github.com/datamade/csvdedupe", 
-        "updated_at": "2015-02-18T15:01:24Z", 
+        "updated_at": "2015-03-09T19:59:15Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -1665,7 +1665,7 @@
         "language": "Python", 
         "created_at": "2013-07-11T14:23:33Z", 
         "pushed_at": "2014-09-17T12:43:54Z", 
-        "watchers_count": 55, 
+        "watchers_count": 56, 
         "open_issues": 5, 
         "homepage": null, 
         "participation": [
@@ -8763,7 +8763,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/censusreporter/census-postgres/contributors", 
-        "forks_count": 4, 
+        "forks_count": 5, 
         "html_url": "https://github.com/censusreporter/census-postgres", 
         "updated_at": "2015-03-03T01:07:00Z", 
         "project_needs": [], 
@@ -9434,7 +9434,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2015-03-06T21:04:53Z", 
+        "pushed_at": "2015-03-09T21:40:28Z", 
         "watchers_count": 34, 
         "open_issues": 20, 
         "homepage": null, 
@@ -11427,7 +11427,7 @@
                 "owner": false, 
                 "login": "JoeGermuska", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
-                "contributions": 251, 
+                "contributions": 252, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
@@ -11523,10 +11523,10 @@
             }, 
             {
                 "owner": false, 
-                "login": "supirman", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/329333?v=3", 
+                "login": "gido", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/101859?v=3", 
                 "contributions": 1, 
-                "html_url": "https://github.com/supirman"
+                "html_url": "https://github.com/gido"
             }, 
             {
                 "owner": false, 
@@ -11579,17 +11579,17 @@
             }, 
             {
                 "owner": false, 
+                "login": "supirman", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/329333?v=3", 
+                "contributions": 1, 
+                "html_url": "https://github.com/supirman"
+            }, 
+            {
+                "owner": false, 
                 "login": "atomantic", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/70015?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/atomantic"
-            }, 
-            {
-                "owner": false, 
-                "login": "gido", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/101859?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/gido"
             }, 
             {
                 "owner": false, 
@@ -11630,7 +11630,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1486, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-03-09T17:24:59Z", 
+        "updated_at": "2015-03-09T21:40:56Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -11642,9 +11642,9 @@
         "name": "TimelineJS", 
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
-        "pushed_at": "2015-02-26T21:50:36Z", 
+        "pushed_at": "2015-03-09T21:40:56Z", 
         "watchers_count": 7304, 
-        "open_issues": 165, 
+        "open_issues": 164, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
             2, 
@@ -11934,14 +11934,14 @@
                 "owner": true, 
                 "login": "stevevance", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1330459?v=3", 
-                "contributions": 83, 
+                "contributions": 84, 
                 "html_url": "https://github.com/stevevance"
             }, 
             {
                 "owner": false, 
                 "login": "rguico", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/4085127?v=3", 
-                "contributions": 54, 
+                "contributions": 56, 
                 "html_url": "https://github.com/rguico"
             }, 
             {
@@ -11955,7 +11955,7 @@
         "contributors_url": "https://api.github.com/repos/stevevance/Chicago-Crash-Browser/contributors", 
         "forks_count": 4, 
         "html_url": "https://github.com/stevevance/Chicago-Crash-Browser", 
-        "updated_at": "2015-03-04T18:41:48Z", 
+        "updated_at": "2015-03-09T20:13:48Z", 
         "project_needs": [], 
         "owner": {
             "login": "stevevance", 
@@ -11967,9 +11967,9 @@
         "name": "Chicago-Crash-Browser", 
         "language": "JavaScript", 
         "created_at": "2013-02-16T00:58:59Z", 
-        "pushed_at": "2015-03-04T18:41:48Z", 
+        "pushed_at": "2015-03-09T20:13:48Z", 
         "watchers_count": 9, 
-        "open_issues": 20, 
+        "open_issues": 19, 
         "homepage": "http://chicagocrashes.org", 
         "participation": [
             0, 
@@ -11983,8 +11983,8 @@
             0, 
             0, 
             2, 
-            0, 
             3, 
+            0, 
             0, 
             0, 
             0, 
@@ -12774,7 +12774,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 74, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-03-09T14:44:39Z", 
+        "updated_at": "2015-03-09T23:52:32Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -12787,7 +12787,7 @@
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2015-03-05T22:31:37Z", 
-        "watchers_count": 545, 
+        "watchers_count": 548, 
         "open_issues": 9, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
@@ -13570,8 +13570,8 @@
         "homepage": "http://healthnear.me", 
         "participation": [
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -14366,8 +14366,8 @@
             0, 
             13, 
             1, 
-            5, 
-            1, 
+            6, 
+            0, 
             9, 
             3, 
             0, 
@@ -15924,7 +15924,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/parserator/contributors", 
         "forks_count": 1, 
         "html_url": "https://github.com/datamade/parserator", 
-        "updated_at": "2015-03-08T15:56:22Z", 
+        "updated_at": "2015-03-09T19:42:53Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -15937,7 +15937,7 @@
         "language": "Python", 
         "created_at": "2014-10-16T03:54:11Z", 
         "pushed_at": "2015-02-20T20:56:47Z", 
-        "watchers_count": 14, 
+        "watchers_count": 15, 
         "open_issues": 1, 
         "homepage": "", 
         "participation": [

@@ -250,7 +250,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 833
+        "contributions": 834
     }, 
     {
         "name": "John Brock", 
@@ -1364,6 +1364,17 @@
         "contributions": 34
     }, 
     {
+        "name": "Andr\u00e9s Saraos Luna", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/eldruz", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/527770?v=3", 
+        "location": "Rennes, France", 
+        "login": "eldruz", 
+        "contributions": 1
+    }, 
+    {
         "name": "Elena Eneva", 
         "company": null, 
         "repositories": 1, 
@@ -2367,13 +2378,13 @@
     {
         "name": "Luke Rague", 
         "company": "", 
-        "repositories": 3, 
+        "repositories": 2, 
         "html_url": "https://github.com/lukerague", 
         "blog": "http://www.lukerague.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/7632315?v=3", 
         "location": "Chicago, IL", 
         "login": "lukerague", 
-        "contributions": 29
+        "contributions": 28
     }, 
     {
         "name": "Lyzi Diamond", 

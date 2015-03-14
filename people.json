@@ -1504,7 +1504,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2215
+        "contributions": 2216
     }, 
     {
         "name": "Adam Fishman", 
@@ -3631,10 +3631,10 @@
     }, 
     {
         "name": "Nick Bennett", 
-        "company": "Hoy Chicago", 
+        "company": "INN", 
         "repositories": 3, 
         "html_url": "https://github.com/tothebeat", 
-        "blog": "http://goggl.es", 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/486230?v=3", 
         "location": "Chicago, IL", 
         "login": "tothebeat", 

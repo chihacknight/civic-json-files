@@ -190,7 +190,7 @@
                 "owner": false, 
                 "login": "JoeGermuska", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
-                "contributions": 283, 
+                "contributions": 285, 
                 "html_url": "https://github.com/JoeGermuska"
             }, 
             {
@@ -288,7 +288,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/StoryMapJS/contributors", 
         "forks_count": 52, 
         "html_url": "https://github.com/NUKnightLab/StoryMapJS", 
-        "updated_at": "2015-03-16T16:37:51Z", 
+        "updated_at": "2015-03-16T21:21:25Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -300,9 +300,9 @@
         "name": "StoryMapJS", 
         "language": "JavaScript", 
         "created_at": "2013-07-22T16:43:23Z", 
-        "pushed_at": "2015-03-16T16:37:50Z", 
+        "pushed_at": "2015-03-16T21:21:24Z", 
         "watchers_count": 154, 
-        "open_issues": 30, 
+        "open_issues": 31, 
         "homepage": null, 
         "participation": [
             41, 
@@ -360,13 +360,13 @@
         ]
     }, 
     {
-        "description": "a probabilistic person parser", 
+        "description": "a python library for parsing unstructured western names into name components.", 
         "contributors": [
             {
                 "owner": false, 
                 "login": "cathydeng", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
-                "contributions": 227, 
+                "contributions": 229, 
                 "html_url": "https://github.com/cathydeng"
             }, 
             {
@@ -408,7 +408,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/probablepeople/contributors", 
         "forks_count": 4, 
         "html_url": "https://github.com/datamade/probablepeople", 
-        "updated_at": "2015-03-13T02:53:30Z", 
+        "updated_at": "2015-03-16T21:43:21Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -420,10 +420,10 @@
         "name": "probablepeople", 
         "language": "Python", 
         "created_at": "2014-11-06T16:31:00Z", 
-        "pushed_at": "2015-03-15T00:49:37Z", 
+        "pushed_at": "2015-03-16T21:43:20Z", 
         "watchers_count": 23, 
-        "open_issues": 5, 
-        "homepage": "http://probablepeople.datamade.us", 
+        "open_issues": 6, 
+        "homepage": "http://parserator.datamade.us/probablepeople", 
         "participation": [
             0, 
             0, 
@@ -448,13 +448,13 @@
             21, 
             26, 
             13, 
-            11, 
-            68, 
+            12, 
+            67, 
             7, 
             2, 
             0, 
-            19, 
-            42, 
+            22, 
+            39, 
             0, 
             0, 
             0, 
@@ -1224,7 +1224,7 @@
         "open_issues": 11, 
         "homepage": "http://crime-punishment.smartchicagoapps.org/", 
         "participation": [
-            50, 
+            47, 
             76, 
             33, 
             3, 
@@ -2198,13 +2198,13 @@
         ]
     }, 
     {
-        "description": "US address parsing", 
+        "description": "a python library for parsing unstructured address strings into address components", 
         "contributors": [
             {
                 "owner": false, 
                 "login": "cathydeng", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
-                "contributions": 144, 
+                "contributions": 146, 
                 "html_url": "https://github.com/cathydeng"
             }, 
             {
@@ -2239,7 +2239,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/usaddress/contributors", 
         "forks_count": 33, 
         "html_url": "https://github.com/datamade/usaddress", 
-        "updated_at": "2015-03-13T19:18:05Z", 
+        "updated_at": "2015-03-16T21:13:15Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -2251,10 +2251,10 @@
         "name": "usaddress", 
         "language": "Python", 
         "created_at": "2014-07-17T19:22:46Z", 
-        "pushed_at": "2015-03-12T17:06:21Z", 
+        "pushed_at": "2015-03-16T21:13:15Z", 
         "watchers_count": 283, 
-        "open_issues": 22, 
-        "homepage": "http://usaddress.datamade.us", 
+        "open_issues": 23, 
+        "homepage": "http://parserator.datamade.us/usaddress", 
         "participation": [
             0, 
             0, 
@@ -7445,7 +7445,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/soundcite/contributors", 
         "forks_count": 16, 
         "html_url": "https://github.com/NUKnightLab/soundcite", 
-        "updated_at": "2015-03-11T04:53:47Z", 
+        "updated_at": "2015-03-16T21:43:40Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -7458,7 +7458,7 @@
         "language": "JavaScript", 
         "created_at": "2013-02-27T13:14:32Z", 
         "pushed_at": "2015-01-28T18:48:31Z", 
-        "watchers_count": 68, 
+        "watchers_count": 69, 
         "open_issues": 8, 
         "homepage": "http://soundcite.com", 
         "participation": [
@@ -8027,7 +8027,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/Chicago/RSocrata/contributors", 
-        "forks_count": 17, 
+        "forks_count": 18, 
         "html_url": "https://github.com/Chicago/RSocrata", 
         "updated_at": "2015-03-02T13:44:30Z", 
         "project_needs": [], 
@@ -8489,7 +8489,7 @@
         "contributors_url": "https://api.github.com/repos/corynissen/foodborne_classifier/contributors", 
         "forks_count": 41, 
         "html_url": "https://github.com/corynissen/foodborne_classifier", 
-        "updated_at": "2015-03-12T16:38:43Z", 
+        "updated_at": "2015-03-16T20:33:34Z", 
         "project_needs": [], 
         "owner": {
             "login": "corynissen", 
@@ -8502,7 +8502,7 @@
         "language": "R", 
         "created_at": "2013-04-23T17:27:51Z", 
         "pushed_at": "2014-02-04T15:52:18Z", 
-        "watchers_count": 54, 
+        "watchers_count": 55, 
         "open_issues": 0, 
         "homepage": null, 
         "participation": [
@@ -8819,8 +8819,8 @@
             0, 
             0, 
             0, 
-            2, 
-            1, 
+            3, 
+            0, 
             0, 
             0, 
             0, 
@@ -9434,7 +9434,7 @@
         "name": "Checkbook", 
         "language": "PHP", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2015-03-16T16:01:26Z", 
+        "pushed_at": "2015-03-16T22:02:16Z", 
         "watchers_count": 34, 
         "open_issues": 20, 
         "homepage": null, 
@@ -9685,14 +9685,14 @@
             0, 
             0, 
             0, 
-            0, 
-            15, 
+            1, 
+            16, 
+            2, 
+            1, 
             4, 
-            0, 
-            5, 
-            12, 
+            13, 
             3, 
-            4, 
+            3, 
             2, 
             0, 
             0
@@ -11630,7 +11630,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1490, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-03-16T17:21:38Z", 
+        "updated_at": "2015-03-16T18:14:00Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -11644,7 +11644,7 @@
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-03-11T15:12:41Z", 
         "watchers_count": 7322, 
-        "open_issues": 166, 
+        "open_issues": 165, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
             3, 
@@ -11982,8 +11982,8 @@
             0, 
             0, 
             2, 
-            0, 
             3, 
+            0, 
             0, 
             0, 
             0, 
@@ -13569,8 +13569,8 @@
         "open_issues": 3, 
         "homepage": "http://healthnear.me", 
         "participation": [
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -14271,7 +14271,7 @@
                 "owner": false, 
                 "login": "sbeslow", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/3475751?v=3", 
-                "contributions": 67, 
+                "contributions": 68, 
                 "html_url": "https://github.com/sbeslow"
             }, 
             {
@@ -14341,7 +14341,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/chicago-river-sewage/contributors", 
         "forks_count": 12, 
         "html_url": "https://github.com/open-city/chicago-river-sewage", 
-        "updated_at": "2015-02-02T14:44:35Z", 
+        "updated_at": "2015-03-16T21:35:31Z", 
         "project_needs": [
             {
                 "issue_url": "https://github.com/open-city/chicago-river-sewage/issues/24", 
@@ -14358,15 +14358,15 @@
         "name": "chicago-river-sewage", 
         "language": "Java", 
         "created_at": "2013-12-04T04:37:27Z", 
-        "pushed_at": "2014-12-02T23:12:31Z", 
+        "pushed_at": "2015-03-16T21:35:20Z", 
         "watchers_count": 20, 
         "open_issues": 13, 
         "homepage": "http://istheresewageinthechicagoriver.com", 
         "participation": [
             13, 
             1, 
-            5, 
-            1, 
+            6, 
+            0, 
             9, 
             3, 
             0, 
@@ -15890,7 +15890,7 @@
         ]
     }, 
     {
-        "description": "Make your own domain-specific NLP parser!", 
+        "description": "A toolkit for making domain-specific probabilistic parsers", 
         "contributors": [
             {
                 "owner": false, 
@@ -15917,14 +15917,14 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
-                "contributions": 1, 
+                "contributions": 2, 
                 "html_url": "https://github.com/derekeder"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/datamade/parserator/contributors", 
         "forks_count": 1, 
         "html_url": "https://github.com/datamade/parserator", 
-        "updated_at": "2015-03-14T00:54:33Z", 
+        "updated_at": "2015-03-16T19:31:45Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -15936,10 +15936,10 @@
         "name": "parserator", 
         "language": "Python", 
         "created_at": "2014-10-16T03:54:11Z", 
-        "pushed_at": "2015-03-10T23:58:18Z", 
+        "pushed_at": "2015-03-16T19:31:45Z", 
         "watchers_count": 19, 
         "open_issues": 1, 
-        "homepage": "", 
+        "homepage": "http://parserator.datamade.us", 
         "participation": [
             0, 
             0, 

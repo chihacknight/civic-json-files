@@ -1504,7 +1504,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2218
+        "contributions": 2221
     }, 
     {
         "name": "Adam Fishman", 
@@ -1757,7 +1757,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?v=3", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 629
+        "contributions": 630
     }, 
     {
         "name": "Idan Gazit", 
@@ -3495,7 +3495,18 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1330459?v=3", 
         "location": "Chicago, Illinois", 
         "login": "stevevance", 
-        "contributions": 139
+        "contributions": 140
+    }, 
+    {
+        "name": "Mike Stringer", 
+        "company": "Datascope Analytics", 
+        "repositories": 1, 
+        "html_url": "https://github.com/stringertheory", 
+        "blog": "http://datascopeanalytics.com/who-we-are/mike-stringer", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1110950?v=3", 
+        "location": "Chicago", 
+        "login": "stringertheory", 
+        "contributions": 1
     }, 
     {
         "name": "Firman Rosdiansyah", 

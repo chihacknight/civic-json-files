@@ -671,17 +671,6 @@
         "contributions": 89
     }, 
     {
-        "name": "Benjamin Golder", 
-        "company": "MIT", 
-        "repositories": 1, 
-        "html_url": "https://github.com/bengolder", 
-        "blog": "benjamingolder.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/451510?v=3", 
-        "location": "Cambridge, MA, USA", 
-        "login": "bengolder", 
-        "contributions": 3
-    }, 
-    {
         "name": "Ben Sheldon", 
         "company": "", 
         "repositories": 4, 
@@ -1218,7 +1207,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3238
+        "contributions": 3239
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2373,6 +2362,17 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4227347?v=3", 
         "location": "Chicago", 
         "login": "luciovilla", 
+        "contributions": 1
+    }, 
+    {
+        "name": "Luke Baker", 
+        "company": "Agathon Group", 
+        "repositories": 1, 
+        "html_url": "https://github.com/lukebaker", 
+        "blog": "http://lukebaker.org/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/84748?v=3", 
+        "location": "Grand Rapids, MI", 
+        "login": "lukebaker", 
         "contributions": 1
     }, 
     {

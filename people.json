@@ -278,17 +278,6 @@
         "name": null, 
         "company": null, 
         "repositories": 1, 
-        "html_url": "https://github.com/LaurentJuvanon", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1799003?v=3", 
-        "location": null, 
-        "login": "LaurentJuvanon", 
-        "contributions": 1
-    }, 
-    {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
         "html_url": "https://github.com/Lorp", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/587440?v=3", 
@@ -1493,7 +1482,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2232
+        "contributions": 2234
     }, 
     {
         "name": "Adam Fishman", 
@@ -2378,13 +2367,13 @@
     {
         "name": "Luke Rague", 
         "company": "", 
-        "repositories": 2, 
+        "repositories": 3, 
         "html_url": "https://github.com/lukerague", 
         "blog": "http://www.lukerague.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/7632315?v=3", 
         "location": "Chicago, IL", 
         "login": "lukerague", 
-        "contributions": 29
+        "contributions": 35
     }, 
     {
         "name": "Lyzi Diamond", 

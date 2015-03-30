@@ -2266,6 +2266,17 @@
         "contributions": 9
     }, 
     {
+        "name": "Mathieu Leplatre", 
+        "company": "Mozilla", 
+        "repositories": 1, 
+        "html_url": "https://github.com/leplatrem", 
+        "blog": "http://mathieu-leplatre.info", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/546692?v=3", 
+        "location": "Toulouse, France", 
+        "login": "leplatrem", 
+        "contributions": 1
+    }, 
+    {
         "name": "Jonathan Levy", 
         "company": "City of Chicago", 
         "repositories": 1, 
@@ -2286,17 +2297,6 @@
         "location": "San Francisco", 
         "login": "livienyin", 
         "contributions": 31
-    }, 
-    {
-        "name": "Bill Mill", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/llimllib", 
-        "blog": "http://billmill.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/7150?v=3", 
-        "location": "Portland, ME", 
-        "login": "llimllib", 
-        "contributions": 2
     }, 
     {
         "name": "Greg Kempe", 

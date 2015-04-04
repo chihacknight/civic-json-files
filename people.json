@@ -2344,10 +2344,10 @@
     }, 
     {
         "name": "Lucio Villa", 
-        "company": null, 
+        "company": "Hoy Chicago", 
         "repositories": 1, 
         "html_url": "https://github.com/luciovilla", 
-        "blog": "www.luciovilla.com", 
+        "blog": "http://www.luciovilla.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/4227347?v=3", 
         "location": "Chicago", 
         "login": "luciovilla", 

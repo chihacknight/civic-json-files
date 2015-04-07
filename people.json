@@ -1595,13 +1595,13 @@
         "contributions": 4
     }, 
     {
-        "name": null, 
-        "company": null, 
+        "name": "Grant Humphries", 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/grant-humphries", 
-        "blog": null, 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1002875?v=3", 
-        "location": null, 
+        "location": "Portland, OR, USA", 
         "login": "grant-humphries", 
         "contributions": 1
     }, 
@@ -1735,7 +1735,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?v=3", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 632
+        "contributions": 633
     }, 
     {
         "name": "Idan Gazit", 

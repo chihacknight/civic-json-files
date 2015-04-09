@@ -804,10 +804,10 @@
     }, 
     {
         "name": "Brian Kung", 
-        "company": null, 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/briankung", 
-        "blog": "http://vizify.com/BrianKung", 
+        "blog": "http://about.me/BrianKung", 
         "avatar_url": "https://avatars.githubusercontent.com/u/2836167?v=3", 
         "location": "Chicago", 
         "login": "briankung", 

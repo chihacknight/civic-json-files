@@ -250,7 +250,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 860
+        "contributions": 862
     }, 
     {
         "name": "John Brock", 
@@ -866,7 +866,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 782
+        "contributions": 783
     }, 
     {
         "name": null, 
@@ -1460,7 +1460,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1236
+        "contributions": 1237
     }, 
     {
         "name": "David Fawcett", 
@@ -2266,17 +2266,6 @@
         "contributions": 9
     }, 
     {
-        "name": "Mathieu Leplatre", 
-        "company": "Mozilla", 
-        "repositories": 1, 
-        "html_url": "https://github.com/leplatrem", 
-        "blog": "http://mathieu-leplatre.info", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/546692?v=3", 
-        "location": "Barcelona, Spain", 
-        "login": "leplatrem", 
-        "contributions": 1
-    }, 
-    {
         "name": "Jonathan Levy", 
         "company": "City of Chicago", 
         "repositories": 1, 
@@ -2297,6 +2286,17 @@
         "location": "San Francisco", 
         "login": "livienyin", 
         "contributions": 31
+    }, 
+    {
+        "name": "Bill Mill", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/llimllib", 
+        "blog": "http://billmill.org", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7150?v=3", 
+        "location": "Portland, ME", 
+        "login": "llimllib", 
+        "contributions": 2
     }, 
     {
         "name": "Greg Kempe", 

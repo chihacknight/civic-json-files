@@ -866,7 +866,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 783
+        "contributions": 787
     }, 
     {
         "name": null, 
@@ -3771,6 +3771,17 @@
         "location": "Ann Arbor, MI", 
         "login": "vielmetti", 
         "contributions": 2
+    }, 
+    {
+        "name": "Javier Rey", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/vierja", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/653497?v=3", 
+        "location": "Montevideo, Uruguay", 
+        "login": "vierja", 
+        "contributions": 1
     }, 
     {
         "name": null, 

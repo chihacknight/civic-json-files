@@ -44,17 +44,6 @@
         "contributions": 5
     }, 
     {
-        "name": "Agostino Carandente", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/Agos", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/111486?v=3", 
-        "location": "", 
-        "login": "Agos", 
-        "contributions": 1
-    }, 
-    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -166,12 +155,12 @@
     }, 
     {
         "name": "Eugene Borshch", 
-        "company": null, 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/EugeneBorshch", 
-        "blog": null, 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/874884?v=3", 
-        "location": "Odessa", 
+        "location": "Munich", 
         "login": "EugeneBorshch", 
         "contributions": 1
     }, 
@@ -427,6 +416,17 @@
         "location": "Washington, DC", 
         "login": "acdha", 
         "contributions": 9
+    }, 
+    {
+        "name": "Agostino Carandente", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/agos", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/111486?v=3", 
+        "location": "", 
+        "login": "agos", 
+        "contributions": 1
     }, 
     {
         "name": "Ahwan Kumar", 

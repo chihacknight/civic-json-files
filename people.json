@@ -239,7 +239,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 864
+        "contributions": 868
     }, 
     {
         "name": "John Brock", 
@@ -449,6 +449,17 @@
         "location": null, 
         "login": "ahwolf", 
         "contributions": 116
+    }, 
+    {
+        "name": "Alaa Ali", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/alaasdk", 
+        "blog": "alaasdk.wordpress.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/728394?v=3", 
+        "location": "cairo, Egypt", 
+        "login": "alaasdk", 
+        "contributions": 3
     }, 
     {
         "name": "Alex Mach", 
@@ -866,7 +877,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 798
+        "contributions": 800
     }, 
     {
         "name": null, 
@@ -1685,13 +1696,13 @@
     {
         "name": "Heather Billings", 
         "company": "", 
-        "repositories": 4, 
+        "repositories": 3, 
         "html_url": "https://github.com/hbillings", 
         "blog": "http://heatherjaybillings.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/509309?v=3", 
         "location": "Chicago, IL", 
         "login": "hbillings", 
-        "contributions": 18
+        "contributions": 17
     }, 
     {
         "name": "Hasan", 
@@ -2571,6 +2582,17 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/6955765?v=3", 
         "location": null, 
         "login": "miningchi", 
+        "contributions": 1
+    }, 
+    {
+        "name": "Dimitar Dimitrov", 
+        "company": "Live Ltd", 
+        "repositories": 1, 
+        "html_url": "https://github.com/mitio", 
+        "blog": "http://ddimitrov.name", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/129307?v=3", 
+        "location": "Sofia, Bulgaria", 
+        "login": "mitio", 
         "contributions": 1
     }, 
     {
@@ -3518,17 +3540,6 @@
         "location": "", 
         "login": "suyeonson", 
         "contributions": 19
-    }, 
-    {
-        "name": "Igor Timoshenkov", 
-        "company": "Crytek GmbH", 
-        "repositories": 1, 
-        "html_url": "https://github.com/t1gor", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1280013?v=3", 
-        "location": "Germany, Frankfurt am Main", 
-        "login": "t1gor", 
-        "contributions": 1
     }, 
     {
         "name": "Tiffany Chu", 

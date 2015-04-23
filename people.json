@@ -749,12 +749,12 @@
     }, 
     {
         "name": "Brad Osgood", 
-        "company": "dough", 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/bosgood", 
         "blog": "http://bosgood.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/540290?v=3", 
-        "location": "Chicago, IL", 
+        "location": "New York, NY", 
         "login": "bosgood", 
         "contributions": 64
     }, 
@@ -877,7 +877,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 800
+        "contributions": 801
     }, 
     {
         "name": null, 

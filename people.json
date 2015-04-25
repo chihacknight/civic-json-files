@@ -1493,7 +1493,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2256
+        "contributions": 2262
     }, 
     {
         "name": "Adam Fishman", 
@@ -1696,13 +1696,13 @@
     {
         "name": "Heather Billings", 
         "company": "", 
-        "repositories": 3, 
+        "repositories": 4, 
         "html_url": "https://github.com/hbillings", 
         "blog": "http://heatherjaybillings.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/509309?v=3", 
         "location": "Chicago, IL", 
         "login": "hbillings", 
-        "contributions": 17
+        "contributions": 18
     }, 
     {
         "name": "Hasan", 
@@ -2374,17 +2374,6 @@
         "location": "Grand Rapids, MI", 
         "login": "lukebaker", 
         "contributions": 1
-    }, 
-    {
-        "name": "Luke Rague", 
-        "company": "", 
-        "repositories": 3, 
-        "html_url": "https://github.com/lukerague", 
-        "blog": "http://www.lukerague.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/7632315?v=3", 
-        "location": "Chicago, IL", 
-        "login": "lukerague", 
-        "contributions": 37
     }, 
     {
         "name": "Lyzi Diamond", 

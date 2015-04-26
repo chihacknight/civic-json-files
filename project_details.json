@@ -2232,7 +2232,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/usaddress/contributors", 
         "forks_count": 33, 
         "html_url": "https://github.com/datamade/usaddress", 
-        "updated_at": "2015-04-24T17:10:29Z", 
+        "updated_at": "2015-04-26T05:57:14Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -2571,8 +2571,8 @@
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -6771,7 +6771,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/censusreporter/censusreporter/contributors", 
-        "forks_count": 33, 
+        "forks_count": 34, 
         "html_url": "https://github.com/censusreporter/censusreporter", 
         "updated_at": "2015-04-24T22:14:46Z", 
         "project_needs": [], 
@@ -11623,7 +11623,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1517, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-04-25T16:56:48Z", 
+        "updated_at": "2015-04-26T04:07:59Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -12774,7 +12774,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 76, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-04-25T17:08:31Z", 
+        "updated_at": "2015-04-26T05:57:00Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -12787,7 +12787,7 @@
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2015-04-24T19:53:24Z", 
-        "watchers_count": 576, 
+        "watchers_count": 577, 
         "open_issues": 6, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [

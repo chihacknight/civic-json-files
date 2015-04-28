@@ -239,7 +239,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 868
+        "contributions": 869
     }, 
     {
         "name": "John Brock", 
@@ -1471,7 +1471,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1237
+        "contributions": 1240
     }, 
     {
         "name": "David Fawcett", 
@@ -1493,7 +1493,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2262
+        "contributions": 2266
     }, 
     {
         "name": "Adam Fishman", 
@@ -2288,11 +2288,11 @@
         "contributions": 1
     }, 
     {
-        "name": "", 
-        "company": "Code for America", 
+        "name": "Livien Yin", 
+        "company": "OpenGov", 
         "repositories": 1, 
         "html_url": "https://github.com/livienyin", 
-        "blog": "www.livienyin.com", 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/3459947?v=3", 
         "location": "San Francisco", 
         "login": "livienyin", 
@@ -2868,7 +2868,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/132447?v=3", 
         "location": "Washington, DC", 
         "login": "paultag", 
-        "contributions": 131
+        "contributions": 133
     }, 
     {
         "name": "Philip Neustrom", 
@@ -3154,6 +3154,17 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/451054?v=3", 
         "location": null, 
         "login": "royhodgman", 
+        "contributions": 2
+    }, 
+    {
+        "name": "Rachel", 
+        "company": "Sunlight Foundation", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rshorey", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/901091?v=3", 
+        "location": "United States", 
+        "login": "rshorey", 
         "contributions": 2
     }, 
     {

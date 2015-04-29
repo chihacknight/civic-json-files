@@ -11,6 +11,17 @@
         "contributions": 1
     }, 
     {
+        "name": "David", 
+        "company": "11hundred", 
+        "repositories": 1, 
+        "html_url": "https://github.com/11hundred", 
+        "blog": "www.11hundred.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1188576?v=3", 
+        "location": "Chicago", 
+        "login": "11hundred", 
+        "contributions": 255
+    }, 
+    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -1493,7 +1504,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2268
+        "contributions": 2269
     }, 
     {
         "name": "Adam Fishman", 
@@ -2076,7 +2087,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=3", 
         "location": "", 
         "login": "jywsn", 
-        "contributions": 479
+        "contributions": 480
     }, 
     {
         "name": "Andrew Kos", 
@@ -3155,6 +3166,17 @@
         "location": null, 
         "login": "royhodgman", 
         "contributions": 2
+    }, 
+    {
+        "name": "Robert Sefer", 
+        "company": "Sefer Design Co.", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rsefer", 
+        "blog": "http://rsefer.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/539765?v=3", 
+        "location": "Chicago", 
+        "login": "rsefer", 
+        "contributions": 5
     }, 
     {
         "name": "Rachel", 

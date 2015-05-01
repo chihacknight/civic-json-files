@@ -1188,6 +1188,17 @@
         "contributions": 26
     }, 
     {
+        "name": "Matt DeFano", 
+        "company": "STA Group, LLC", 
+        "repositories": 1, 
+        "html_url": "https://github.com/defano", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/451305?v=3", 
+        "location": "Chicago, IL", 
+        "login": "defano", 
+        "contributions": 94
+    }, 
+    {
         "name": "Chris Davis", 
         "company": "Threespot", 
         "repositories": 1, 
@@ -1482,7 +1493,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1240
+        "contributions": 1241
     }, 
     {
         "name": "David Fawcett", 
@@ -1757,7 +1768,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?v=3", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 635
+        "contributions": 636
     }, 
     {
         "name": "Idan Gazit", 
@@ -2000,6 +2011,17 @@
         "location": null, 
         "login": "johnbyron", 
         "contributions": 43
+    }, 
+    {
+        "name": "Jon Mountjoy", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/jonmountjoy", 
+        "blog": "http://www.jonmountjoy.com/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/545244?v=3", 
+        "location": null, 
+        "login": "jonmountjoy", 
+        "contributions": 3
     }, 
     {
         "name": "Josh Marcus", 
@@ -2453,6 +2475,17 @@
         "contributions": 35
     }, 
     {
+        "name": "Mark Pundsack", 
+        "company": "Heroku", 
+        "repositories": 1, 
+        "html_url": "https://github.com/markpundsack", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/319891?v=3", 
+        "location": null, 
+        "login": "markpundsack", 
+        "contributions": 6
+    }, 
+    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -2875,7 +2908,7 @@
         "company": "Sunlight Foundation", 
         "repositories": 1, 
         "html_url": "https://github.com/paultag", 
-        "blog": "http://blog.pault.ag", 
+        "blog": "https://pault.ag/", 
         "avatar_url": "https://avatars.githubusercontent.com/u/132447?v=3", 
         "location": "Washington, DC", 
         "login": "paultag", 
@@ -2970,6 +3003,17 @@
         "contributions": 1
     }, 
     {
+        "name": "Romain Dauby", 
+        "company": "Orange Business Services", 
+        "repositories": 1, 
+        "html_url": "https://github.com/r0mdau", 
+        "blog": "http://www.romaindauby.fr", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3662999?v=3", 
+        "location": "France", 
+        "login": "r0mdau", 
+        "contributions": 1
+    }, 
+    {
         "name": "Rajiv Shah", 
         "company": "", 
         "repositories": 2, 
@@ -2990,6 +3034,17 @@
         "location": null, 
         "login": "randy7771026", 
         "contributions": 1
+    }, 
+    {
+        "name": "raul murciano", 
+        "company": "Heroku", 
+        "repositories": 1, 
+        "html_url": "https://github.com/raul", 
+        "blog": "http://www.raulmurciano.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2270?v=3", 
+        "location": "San Francisco", 
+        "login": "raul", 
+        "contributions": 3
     }, 
     {
         "name": "Rebecca Ackerman", 
@@ -3275,6 +3330,17 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1093748?v=3", 
         "location": null, 
         "login": "samarthbhaskar", 
+        "contributions": 3
+    }, 
+    {
+        "name": "Sam Saccone", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/samccone", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/883126?v=3", 
+        "location": "\u2206\u2206\u2206", 
+        "login": "samccone", 
         "contributions": 3
     }, 
     {
@@ -3958,6 +4024,17 @@
         "location": "", 
         "login": "zachwise", 
         "contributions": 873
+    }, 
+    {
+        "name": "Zeke Sikelianos", 
+        "company": "npm", 
+        "repositories": 1, 
+        "html_url": "https://github.com/zeke", 
+        "blog": "http://zeke.sikelianos.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2289?v=3", 
+        "location": "Oakland, CA", 
+        "login": "zeke", 
+        "contributions": 20
     }, 
     {
         "name": "Citizen", 

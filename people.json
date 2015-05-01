@@ -2102,10 +2102,10 @@
     }, 
     {
         "name": "Keith Gordon", 
-        "company": null, 
+        "company": "Keith The Computer Guy", 
         "repositories": 1, 
         "html_url": "https://github.com/keithgordon", 
-        "blog": "www.keithgordon.co", 
+        "blog": "www.keiththecomputerguy.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/2928450?v=3", 
         "location": "Chicago", 
         "login": "keithgordon", 

@@ -250,7 +250,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 871
+        "contributions": 874
     }, 
     {
         "name": "John Brock", 
@@ -1551,6 +1551,17 @@
         "contributions": 2
     }, 
     {
+        "name": "Frank Wiles", 
+        "company": "Revolution Systems", 
+        "repositories": 1, 
+        "html_url": "https://github.com/frankwiles", 
+        "blog": "http://www.revsys.com/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/144159?v=3", 
+        "location": "Lawrence, KS", 
+        "login": "frankwiles", 
+        "contributions": 1
+    }, 
+    {
         "name": "Jonathan Freeman", 
         "company": null, 
         "repositories": 1, 
@@ -2109,7 +2120,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=3", 
         "location": "", 
         "login": "jywsn", 
-        "contributions": 481
+        "contributions": 482
     }, 
     {
         "name": "Andrew Kos", 

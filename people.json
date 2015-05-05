@@ -1223,13 +1223,13 @@
     {
         "name": "Derek Eder", 
         "company": "DataMade, Open City", 
-        "repositories": 46, 
+        "repositories": 45, 
         "html_url": "https://github.com/derekeder", 
         "blog": "derekeder.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3256
+        "contributions": 3229
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1487,13 +1487,13 @@
     {
         "name": "Eric van Zanten", 
         "company": "", 
-        "repositories": 25, 
+        "repositories": 24, 
         "html_url": "https://github.com/evz", 
         "blog": "www.static-eric.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1241
+        "contributions": 1239
     }, 
     {
         "name": "David Fawcett", 

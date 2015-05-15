@@ -1606,6 +1606,17 @@
         "contributions": 1
     }, 
     {
+        "name": "Gene Leynes", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/geneorama", 
+        "blog": "http://geneorama.com/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1392068?v=3", 
+        "location": "Chicago", 
+        "login": "geneorama", 
+        "contributions": 15
+    }, 
+    {
         "name": "Geoffrey Hing", 
         "company": "", 
         "repositories": 1, 
@@ -2120,7 +2131,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=3", 
         "location": "", 
         "login": "jywsn", 
-        "contributions": 502
+        "contributions": 503
     }, 
     {
         "name": "Andrew Kos", 
@@ -3531,6 +3542,17 @@
         "contributions": 1
     }, 
     {
+        "name": "Aakash Solanki", 
+        "company": "City of Chicago", 
+        "repositories": 1, 
+        "html_url": "https://github.com/skishchampi", 
+        "blog": "http://linkd.in/17rMzkc", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/996985?v=3", 
+        "location": "Chicago, IL", 
+        "login": "skishchampi", 
+        "contributions": 19
+    }, 
+    {
         "name": "Paul Winkler", 
         "company": null, 
         "repositories": 1, 
@@ -3742,13 +3764,13 @@
     {
         "name": "Tom Schenk Jr", 
         "company": "City of Chicago", 
-        "repositories": 9, 
+        "repositories": 10, 
         "html_url": "https://github.com/tomschenkjr", 
         "blog": "www.tomschenkjr.net", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 168
+        "contributions": 225
     }, 
     {
         "name": "Nick Bennett", 

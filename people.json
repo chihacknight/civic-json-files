@@ -1498,13 +1498,13 @@
     {
         "name": "Forest Gregg", 
         "company": "University of Chicago, Department of Sociology", 
-        "repositories": 23, 
+        "repositories": 24, 
         "html_url": "https://github.com/fgregg", 
         "blog": "http://bunkum.us", 
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2277
+        "contributions": 2286
     }, 
     {
         "name": "Adam Fishman", 
@@ -3759,7 +3759,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 225
+        "contributions": 226
     }, 
     {
         "name": "Nick Bennett", 

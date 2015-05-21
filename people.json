@@ -451,6 +451,17 @@
         "contributions": 116
     }, 
     {
+        "name": "Aaron Schumacher", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ajschumacher", 
+        "blog": "http://planspace.org/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1071322?v=3", 
+        "location": "NYC", 
+        "login": "ajschumacher", 
+        "contributions": 1
+    }, 
+    {
         "name": "Alaa Ali", 
         "company": null, 
         "repositories": 1, 
@@ -1504,7 +1515,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2290
+        "contributions": 2291
     }, 
     {
         "name": "Adam Fishman", 

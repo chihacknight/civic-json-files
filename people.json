@@ -1445,7 +1445,7 @@
         "company": "Niram Labs", 
         "repositories": 1, 
         "html_url": "https://github.com/enathu", 
-        "blog": "https://twitter.com/enathu", 
+        "blog": "http://thariqueazeez.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/62147?v=3", 
         "location": "London, England", 
         "login": "enathu", 
@@ -1493,7 +1493,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1241
+        "contributions": 1244
     }, 
     {
         "name": "David Fawcett", 
@@ -3840,7 +3840,7 @@
     }, 
     {
         "name": "Thom Neale", 
-        "company": "sunlightfoundation.com", 
+        "company": "Mass Mutual Financial Group", 
         "repositories": 1, 
         "html_url": "https://github.com/twneale", 
         "blog": "twneale.github.io", 

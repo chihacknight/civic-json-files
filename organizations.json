@@ -160,15 +160,23 @@
         "login": "sc3"
     }, 
     {
-        "login": "smartchicago", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2008099?v=3", 
+        "name": "Smart Chicago Collaborative", 
+        "company": null, 
         "repositories": 13, 
-        "html_url": "https://github.com/smartchicago"
+        "html_url": "https://github.com/smartchicago", 
+        "blog": "http://www.smartchicagocollaborative.org", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2008099?v=3", 
+        "location": "Chicago, Illinois, USA", 
+        "login": "smartchicago"
     }, 
     {
-        "login": "vivelohoy", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4359684?v=3", 
+        "name": "Hoy", 
+        "company": null, 
         "repositories": 1, 
-        "html_url": "https://github.com/vivelohoy"
+        "html_url": "https://github.com/vivelohoy", 
+        "blog": "http://www.vivelohoy.com/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4359684?v=3", 
+        "location": "435 N. Michigan Ave., 2nd floor, Chicago, IL 60611", 
+        "login": "vivelohoy"
     }
 ]

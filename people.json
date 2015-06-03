@@ -341,6 +341,17 @@
         "contributions": 43
     }, 
     {
+        "name": "Stephen Chan", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/S-Chan", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3014163?v=3", 
+        "location": "Evanston, IL", 
+        "login": "S-Chan", 
+        "contributions": 1
+    }, 
+    {
         "name": null, 
         "company": null, 
         "repositories": 1, 
@@ -473,6 +484,17 @@
         "contributions": 3
     }, 
     {
+        "name": "Alex Kahn", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/alexkahn", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4401271?v=3", 
+        "location": "Chicago, IL, USA", 
+        "login": "alexkahn", 
+        "contributions": 68
+    }, 
+    {
         "name": "Alex Mach", 
         "company": "CGI", 
         "repositories": 1, 
@@ -574,13 +596,13 @@
     {
         "name": "Richard", 
         "company": "", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/arbylee", 
         "blog": "www.thisishardtoread.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1334584?v=3", 
         "location": "Chicago", 
         "login": "arbylee", 
-        "contributions": 1
+        "contributions": 43
     }, 
     {
         "name": "Andrew Douglass", 
@@ -671,6 +693,17 @@
         "contributions": 4
     }, 
     {
+        "name": "Alaa Ayach", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ayacha", 
+        "blog": "recpass.com/people/mhacks180", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6751649?v=3", 
+        "location": "United States", 
+        "login": "ayacha", 
+        "contributions": 1
+    }, 
+    {
         "name": "Brian Alexandrowicz", 
         "company": "", 
         "repositories": 1, 
@@ -691,6 +724,17 @@
         "location": "San Francisco, CA", 
         "login": "bensheldon", 
         "contributions": 79
+    }, 
+    {
+        "name": "Ben", 
+        "company": "", 
+        "repositories": 2, 
+        "html_url": "https://github.com/benwilhelm", 
+        "blog": "benwilhelm.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/692678?v=3", 
+        "location": "Chicago, IL", 
+        "login": "benwilhelm", 
+        "contributions": 238
     }, 
     {
         "name": "Brian Everett Peterson", 
@@ -867,6 +911,17 @@
         "location": "Chicago IL", 
         "login": "bsuman79", 
         "contributions": 3
+    }, 
+    {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/bwilhelm-nni", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9012168?v=3", 
+        "location": null, 
+        "login": "bwilhelm-nni", 
+        "contributions": 4
     }, 
     {
         "name": null, 
@@ -2475,6 +2530,17 @@
         "contributions": 2
     }, 
     {
+        "name": "Justin Manley", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/manleyjster", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1668487?v=3", 
+        "location": "Chicago, IL", 
+        "login": "manleyjster", 
+        "contributions": 10
+    }, 
+    {
         "name": "Nick Doiron", 
         "company": "The Asia Foundation", 
         "repositories": 6, 
@@ -2506,6 +2572,17 @@
         "location": null, 
         "login": "markpundsack", 
         "contributions": 6
+    }, 
+    {
+        "name": "Claire M.", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/matiaskitty", 
+        "blog": "http://www.mybuildingdoesntrecycle.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6717960?v=3", 
+        "location": "Chicago", 
+        "login": "matiaskitty", 
+        "contributions": 1
     }, 
     {
         "name": null, 
@@ -2948,6 +3025,17 @@
         "contributions": 1040
     }, 
     {
+        "name": "Marina Goldshteyn", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/pizzaglittermountain", 
+        "blog": "marinagoldshteyn.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8091900?v=3", 
+        "location": "Chicago, IL", 
+        "login": "pizzaglittermountain", 
+        "contributions": 3
+    }, 
+    {
         "name": "Arun Ganesh", 
         "company": "Mapbox", 
         "repositories": 1, 
@@ -3170,13 +3258,13 @@
     {
         "name": "Richard Cornish", 
         "company": "", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/richardcornish", 
         "blog": "http://richardcornish.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/76278?v=3", 
         "location": "", 
         "login": "richardcornish", 
-        "contributions": 1
+        "contributions": 3
     }, 
     {
         "name": null, 
@@ -3401,13 +3489,13 @@
     {
         "name": "Scott Beslow", 
         "company": "", 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/sbeslow", 
         "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/3475751?v=3", 
         "location": "", 
         "login": "sbeslow", 
-        "contributions": 75
+        "contributions": 81
     }, 
     {
         "name": "Tom Lee", 

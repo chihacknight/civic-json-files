@@ -690,7 +690,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/6642615?v=3", 
         "location": "", 
         "login": "atorkels", 
-        "contributions": 823
+        "contributions": 959
     }, 
     {
         "name": "Ahmad Qamar", 
@@ -745,7 +745,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/692678?v=3", 
         "location": "Chicago, IL", 
         "login": "benwilhelm", 
-        "contributions": 238
+        "contributions": 243
     }, 
     {
         "name": "Brian Everett Peterson", 
@@ -3247,13 +3247,13 @@
     {
         "name": "R M P", 
         "company": "", 
-        "repositories": 2, 
+        "repositories": 3, 
         "html_url": "https://github.com/renemarcelo", 
         "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1162669?v=3", 
         "location": "Chicago", 
         "login": "renemarcelo", 
-        "contributions": 11
+        "contributions": 29
     }, 
     {
         "name": "Rufus Pollock", 
@@ -3740,7 +3740,7 @@
         "html_url": "https://github.com/tplagge"
     }, 
     {
-        "contributions": 8, 
+        "contributions": 10, 
         "login": "treddy", 
         "avatar_url": "https://avatars.githubusercontent.com/u/4576339?v=3", 
         "repositories": 1, 

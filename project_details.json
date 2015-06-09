@@ -281,7 +281,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/StoryMapJS/contributors", 
         "forks_count": 60, 
         "html_url": "https://github.com/NUKnightLab/StoryMapJS", 
-        "updated_at": "2015-06-04T08:22:22Z", 
+        "updated_at": "2015-06-09T00:48:36Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -294,7 +294,7 @@
         "language": "JavaScript", 
         "created_at": "2013-07-22T16:43:23Z", 
         "pushed_at": "2015-06-08T22:45:49Z", 
-        "watchers_count": 183, 
+        "watchers_count": 184, 
         "open_issues": 29, 
         "homepage": null, 
         "participation": [
@@ -12124,7 +12124,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1543, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-06-08T23:34:18Z", 
+        "updated_at": "2015-06-09T02:01:43Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -12137,7 +12137,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-05-27T23:26:41Z", 
-        "watchers_count": 7599, 
+        "watchers_count": 7602, 
         "open_issues": 165, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
@@ -15309,8 +15309,8 @@
             0, 
             5, 
             0, 
-            54, 
-            16, 
+            68, 
+            2, 
             0, 
             0, 
             0, 

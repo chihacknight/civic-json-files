@@ -12124,7 +12124,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1549, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-06-17T20:12:27Z", 
+        "updated_at": "2015-06-18T05:11:53Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -12137,7 +12137,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-06-17T15:27:47Z", 
-        "watchers_count": 7632, 
+        "watchers_count": 7636, 
         "open_issues": 167, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [

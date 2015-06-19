@@ -2277,6 +2277,17 @@
         "contributions": 15
     }, 
     {
+        "name": "Konstantin K\u00e4fer", 
+        "company": "Mapbox", 
+        "repositories": 1, 
+        "html_url": "https://github.com/kkaefer", 
+        "blog": "http://kkaefer.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/52399?v=3", 
+        "location": "Berlin, Germany", 
+        "login": "kkaefer", 
+        "contributions": 2
+    }, 
+    {
         "name": "KK Rebecca Lai", 
         "company": "Knight Lab", 
         "repositories": 1, 
@@ -2417,7 +2428,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/5519959?v=3", 
         "location": "Chicago, IL", 
         "login": "levyj", 
-        "contributions": 21
+        "contributions": 22
     }, 
     {
         "name": "Livien Yin", 
@@ -2494,17 +2505,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4227347?v=3", 
         "location": "Chicago", 
         "login": "luciovilla", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Luke Baker", 
-        "company": "Agathon Group", 
-        "repositories": 1, 
-        "html_url": "https://github.com/lukebaker", 
-        "blog": "http://lukebaker.org/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/84748?v=3", 
-        "location": "Grand Rapids, MI", 
-        "login": "lukebaker", 
         "contributions": 1
     }, 
     {

@@ -965,7 +965,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 843
+        "contributions": 848
     }, 
     {
         "name": null, 
@@ -1570,7 +1570,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1254
+        "contributions": 1255
     }, 
     {
         "name": "David Fawcett", 
@@ -2882,114 +2882,74 @@
         "contributions": 1
     }, 
     {
-        "name": "Nikit Saraf", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/nikitsaraf", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1829737?v=3", 
-        "location": "Gandhinagar, India", 
+        "contributions": 107, 
         "login": "nikitsaraf", 
-        "contributions": 107
+        "avatar_url": "https://avatars.githubusercontent.com/u/1829737?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nikitsaraf"
     }, 
     {
-        "name": "Niran Babalola", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/niran", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/106437?v=3", 
-        "location": "Austin, TX", 
+        "contributions": 10, 
         "login": "niran", 
-        "contributions": 10
+        "avatar_url": "https://avatars.githubusercontent.com/u/106437?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/niran"
     }, 
     {
-        "name": "David Nivens", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/nivensd", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/535125?v=3", 
-        "location": null, 
+        "contributions": 1, 
         "login": "nivensd", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/535125?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nivensd"
     }, 
     {
-        "name": "Nick Leeper", 
-        "company": "Dwolla", 
-        "repositories": 2, 
-        "html_url": "https://github.com/nleeper", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/915517?v=3", 
-        "location": "West Des Moinese, IA", 
+        "contributions": 6, 
         "login": "nleeper", 
-        "contributions": 6
+        "avatar_url": "https://avatars.githubusercontent.com/u/915517?v=3", 
+        "repositories": 2, 
+        "html_url": "https://github.com/nleeper"
     }, 
     {
-        "name": "Nuno Maltez", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/nmfm", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1138894?v=3", 
-        "location": null, 
+        "contributions": 19, 
         "login": "nmfm", 
-        "contributions": 19
+        "avatar_url": "https://avatars.githubusercontent.com/u/1138894?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nmfm"
     }, 
     {
-        "name": "Erik Osheim", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/non", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/218045?v=3", 
-        "location": "Providence / Philly / NYC", 
+        "contributions": 6, 
         "login": "non", 
-        "contributions": 6
+        "avatar_url": "https://avatars.githubusercontent.com/u/218045?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/non"
     }, 
     {
-        "name": "Noel Hidalgo", 
-        "company": "betaNYC", 
-        "repositories": 1, 
-        "html_url": "https://github.com/noneck", 
-        "blog": "http://noneck.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/94735?v=3", 
-        "location": "New York, NY", 
+        "contributions": 2, 
         "login": "noneck", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/94735?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/noneck"
     }, 
     {
-        "name": "Chris Brown", 
-        "company": "", 
-        "repositories": 3, 
-        "html_url": "https://github.com/notthatbreezy", 
-        "blog": "http://notthatbreezy.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/898060?v=3", 
-        "location": "", 
+        "contributions": 418, 
         "login": "notthatbreezy", 
-        "contributions": 418
+        "avatar_url": "https://avatars.githubusercontent.com/u/898060?v=3", 
+        "repositories": 3, 
+        "html_url": "https://github.com/notthatbreezy"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/nsmader", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1679625?v=3", 
-        "location": null, 
+        "contributions": 15, 
         "login": "nsmader", 
-        "contributions": 15
+        "avatar_url": "https://avatars.githubusercontent.com/u/1679625?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nsmader"
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/nwinklareth", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3521756?v=3", 
-        "location": null, 
+        "contributions": 236, 
         "login": "nwinklareth", 
-        "contributions": 236
+        "avatar_url": "https://avatars.githubusercontent.com/u/3521756?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nwinklareth"
     }, 
     {
         "contributions": 2, 
@@ -3328,7 +3288,7 @@
         "html_url": "https://github.com/sarahelizabeth"
     }, 
     {
-        "contributions": 145, 
+        "contributions": 146, 
         "login": "sbeslow", 
         "avatar_url": "https://avatars.githubusercontent.com/u/3475751?v=3", 
         "repositories": 3, 

@@ -12172,7 +12172,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1553, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-06-22T21:48:48Z", 
+        "updated_at": "2015-06-23T04:53:12Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -12185,7 +12185,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-06-17T15:27:47Z", 
-        "watchers_count": 7646, 
+        "watchers_count": 7649, 
         "open_issues": 168, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
@@ -13279,9 +13279,9 @@
         "name": "recycling", 
         "language": "JavaScript", 
         "created_at": "2014-07-16T01:30:22Z", 
-        "pushed_at": "2015-05-12T02:45:16Z", 
+        "pushed_at": "2015-06-23T01:14:03Z", 
         "watchers_count": 7, 
-        "open_issues": 8, 
+        "open_issues": 7, 
         "homepage": null, 
         "participation": [
             0, 
@@ -14377,7 +14377,7 @@
         "contributors_url": "https://api.github.com/repos/derekeder/csv-to-html-table/contributors", 
         "forks_count": 3, 
         "html_url": "https://github.com/derekeder/csv-to-html-table", 
-        "updated_at": "2015-06-22T18:28:00Z", 
+        "updated_at": "2015-06-23T03:40:00Z", 
         "project_needs": [], 
         "owner": {
             "login": "derekeder", 
@@ -14390,7 +14390,7 @@
         "language": "CSS", 
         "created_at": "2015-06-13T19:23:11Z", 
         "pushed_at": "2015-06-16T00:57:25Z", 
-        "watchers_count": 99, 
+        "watchers_count": 102, 
         "open_issues": 2, 
         "homepage": "http://derekeder.github.io/csv-to-html-table/", 
         "participation": [
@@ -15021,7 +15021,7 @@
         "name": "chicago-river-sewage", 
         "language": "HTML", 
         "created_at": "2013-12-04T04:37:27Z", 
-        "pushed_at": "2015-06-22T06:10:19Z", 
+        "pushed_at": "2015-06-23T06:10:34Z", 
         "watchers_count": 20, 
         "open_issues": 14, 
         "homepage": "http://istheresewageinthechicagoriver.com", 
@@ -16750,7 +16750,7 @@
                 "owner": true, 
                 "login": "sbeslow", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/3475751?v=3", 
-                "contributions": 63, 
+                "contributions": 64, 
                 "html_url": "https://github.com/sbeslow"
             }
         ], 

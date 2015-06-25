@@ -3234,17 +3234,6 @@
         "contributions": 1
     }, 
     {
-        "name": "Greg", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/remremz", 
-        "blog": "www.gregremiasz.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1437534?v=3", 
-        "location": "Chicagoland Area", 
-        "login": "remremz", 
-        "contributions": 12
-    }, 
-    {
         "name": "R M P", 
         "company": "", 
         "repositories": 3, 
@@ -3488,7 +3477,7 @@
     }, 
     {
         "name": "Sam Hashemi", 
-        "company": "Transitmix", 
+        "company": "Remix", 
         "repositories": 1, 
         "html_url": "https://github.com/samhashemi", 
         "blog": "http://www.samhashemi.com/work/", 

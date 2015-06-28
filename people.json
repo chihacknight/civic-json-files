@@ -1328,7 +1328,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/81055?v=3", 
         "location": "Brooklyn, New York", 
         "login": "dirkkelly", 
-        "contributions": 43
+        "contributions": 45
     }, 
     {
         "name": "Dan Fehrenbach", 
@@ -3870,6 +3870,17 @@
         "location": "Chicago, Illinois USA", 
         "login": "tkompare", 
         "contributions": 201
+    }, 
+    {
+        "name": "Thomas Apodaca", 
+        "company": "Code for America", 
+        "repositories": 1, 
+        "html_url": "https://github.com/tmaybe", 
+        "blog": "http://tomapodaca.org/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/546665?v=3", 
+        "location": "San Francisco, CA", 
+        "login": "tmaybe", 
+        "contributions": 1
     }, 
     {
         "name": "Tom Schenk Jr", 

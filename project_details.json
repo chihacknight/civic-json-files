@@ -12094,7 +12094,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1557, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-06-29T23:28:05Z", 
+        "updated_at": "2015-06-30T02:20:49Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -12107,7 +12107,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-06-26T00:57:29Z", 
-        "watchers_count": 7671, 
+        "watchers_count": 7673, 
         "open_issues": 170, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
@@ -14943,7 +14943,7 @@
         "name": "chicago-river-sewage", 
         "language": "HTML", 
         "created_at": "2013-12-04T04:37:27Z", 
-        "pushed_at": "2015-06-29T06:10:28Z", 
+        "pushed_at": "2015-06-30T06:10:31Z", 
         "watchers_count": 20, 
         "open_issues": 14, 
         "homepage": "http://istheresewageinthechicagoriver.com", 

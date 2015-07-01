@@ -6751,7 +6751,7 @@
         "contributors_url": "https://api.github.com/repos/dssg/bikeshare/contributors", 
         "forks_count": 15, 
         "html_url": "https://github.com/dssg/bikeshare", 
-        "updated_at": "2015-06-19T13:25:51Z", 
+        "updated_at": "2015-07-01T02:12:42Z", 
         "project_needs": [], 
         "owner": {
             "login": "dssg", 
@@ -6764,7 +6764,7 @@
         "language": "JavaScript", 
         "created_at": "2013-07-08T14:42:12Z", 
         "pushed_at": "2014-02-10T05:44:06Z", 
-        "watchers_count": 68, 
+        "watchers_count": 69, 
         "open_issues": 6, 
         "homepage": "http://bikeshare.dssg.io/", 
         "participation": [
@@ -14863,7 +14863,7 @@
                 "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 24, 
+                "contributions": 25, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -14943,7 +14943,7 @@
         "name": "chicago-river-sewage", 
         "language": "HTML", 
         "created_at": "2013-12-04T04:37:27Z", 
-        "pushed_at": "2015-06-30T06:10:31Z", 
+        "pushed_at": "2015-07-01T06:10:29Z", 
         "watchers_count": 20, 
         "open_issues": 14, 
         "homepage": "http://istheresewageinthechicagoriver.com", 

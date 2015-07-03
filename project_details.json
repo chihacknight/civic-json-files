@@ -2316,7 +2316,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/usaddress/contributors", 
         "forks_count": 40, 
         "html_url": "https://github.com/datamade/usaddress", 
-        "updated_at": "2015-06-30T16:38:10Z", 
+        "updated_at": "2015-07-03T00:13:24Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -2329,7 +2329,7 @@
         "language": "Python", 
         "created_at": "2014-07-17T19:22:46Z", 
         "pushed_at": "2015-06-30T16:56:46Z", 
-        "watchers_count": 336, 
+        "watchers_count": 337, 
         "open_issues": 11, 
         "homepage": "http://parserator.datamade.us/usaddress", 
         "participation": [
@@ -3545,7 +3545,7 @@
                 "owner": false, 
                 "login": "shua123", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/1593537?v=3", 
-                "contributions": 51, 
+                "contributions": 54, 
                 "html_url": "https://github.com/shua123"
             }
         ], 
@@ -3564,7 +3564,7 @@
         "name": "kimball", 
         "language": "Ruby", 
         "created_at": "2013-03-28T03:41:02Z", 
-        "pushed_at": "2015-06-29T20:16:45Z", 
+        "pushed_at": "2015-07-03T05:11:36Z", 
         "watchers_count": 2, 
         "open_issues": 37, 
         "homepage": "http://patterns.smartchicagoapps.org", 
@@ -8297,7 +8297,7 @@
         "contributors_url": "https://api.github.com/repos/Chicago/food-deserts/contributors", 
         "forks_count": 2, 
         "html_url": "https://github.com/Chicago/food-deserts", 
-        "updated_at": "2015-06-06T15:49:53Z", 
+        "updated_at": "2015-07-03T05:19:33Z", 
         "project_needs": [], 
         "owner": {
             "login": "Chicago", 
@@ -8310,7 +8310,7 @@
         "language": null, 
         "created_at": "2013-08-27T02:52:23Z", 
         "pushed_at": "2013-09-04T18:56:37Z", 
-        "watchers_count": 4, 
+        "watchers_count": 5, 
         "open_issues": 5, 
         "homepage": null, 
         "participation": [
@@ -8792,7 +8792,7 @@
         "contributors_url": "https://api.github.com/repos/corynissen/foodborne_classifier/contributors", 
         "forks_count": 60, 
         "html_url": "https://github.com/corynissen/foodborne_classifier", 
-        "updated_at": "2015-06-10T15:20:16Z", 
+        "updated_at": "2015-07-03T01:42:38Z", 
         "project_needs": [], 
         "owner": {
             "login": "corynissen", 
@@ -8805,7 +8805,7 @@
         "language": "R", 
         "created_at": "2013-04-23T17:27:51Z", 
         "pushed_at": "2014-02-04T15:52:18Z", 
-        "watchers_count": 64, 
+        "watchers_count": 65, 
         "open_issues": 0, 
         "homepage": null, 
         "participation": [
@@ -12094,7 +12094,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1557, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-07-02T07:35:12Z", 
+        "updated_at": "2015-07-03T04:51:34Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -12107,7 +12107,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-06-26T00:57:29Z", 
-        "watchers_count": 7679, 
+        "watchers_count": 7680, 
         "open_issues": 170, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
@@ -14943,7 +14943,7 @@
         "name": "chicago-river-sewage", 
         "language": "HTML", 
         "created_at": "2013-12-04T04:37:27Z", 
-        "pushed_at": "2015-07-02T06:10:29Z", 
+        "pushed_at": "2015-07-03T06:10:36Z", 
         "watchers_count": 20, 
         "open_issues": 14, 
         "homepage": "http://istheresewageinthechicagoriver.com", 

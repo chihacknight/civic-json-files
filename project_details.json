@@ -3458,7 +3458,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/capsure/contributors", 
-        "forks_count": 4, 
+        "forks_count": 5, 
         "html_url": "https://github.com/open-city/capsure", 
         "updated_at": "2015-01-09T06:04:18Z", 
         "project_needs": [], 
@@ -3790,7 +3790,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/crime-in-chicago/contributors", 
-        "forks_count": 12, 
+        "forks_count": 13, 
         "html_url": "https://github.com/open-city/crime-in-chicago", 
         "updated_at": "2015-03-07T16:42:07Z", 
         "project_needs": [], 
@@ -4468,7 +4468,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/chicago-lobbyists-web/contributors", 
-        "forks_count": 3, 
+        "forks_count": 4, 
         "html_url": "https://github.com/open-city/chicago-lobbyists-web", 
         "updated_at": "2014-08-14T20:57:07Z", 
         "project_needs": [], 
@@ -5598,7 +5598,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/vacant-building-finder/contributors", 
-        "forks_count": 12, 
+        "forks_count": 13, 
         "html_url": "https://github.com/open-city/vacant-building-finder", 
         "updated_at": "2014-11-25T18:10:53Z", 
         "project_needs": [], 
@@ -7046,7 +7046,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/look-at-cook/contributors", 
-        "forks_count": 30, 
+        "forks_count": 31, 
         "html_url": "https://github.com/open-city/look-at-cook", 
         "updated_at": "2015-03-03T03:53:50Z", 
         "project_needs": [], 
@@ -8585,7 +8585,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/hows-business/contributors", 
-        "forks_count": 10, 
+        "forks_count": 11, 
         "html_url": "https://github.com/open-city/hows-business", 
         "updated_at": "2015-05-12T15:57:04Z", 
         "project_needs": [], 
@@ -8790,7 +8790,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/corynissen/foodborne_classifier/contributors", 
-        "forks_count": 60, 
+        "forks_count": 61, 
         "html_url": "https://github.com/corynissen/foodborne_classifier", 
         "updated_at": "2015-07-03T01:42:38Z", 
         "project_needs": [], 
@@ -9179,7 +9179,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/cps-tiers/contributors", 
-        "forks_count": 11, 
+        "forks_count": 12, 
         "html_url": "https://github.com/open-city/cps-tiers", 
         "updated_at": "2015-02-18T23:31:57Z", 
         "project_needs": [], 
@@ -9259,7 +9259,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
-                "contributions": 1397, 
+                "contributions": 1398, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -9397,9 +9397,9 @@
         "name": "dedupe", 
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2015-06-15T17:06:53Z", 
+        "pushed_at": "2015-07-06T04:38:54Z", 
         "watchers_count": 605, 
-        "open_issues": 7, 
+        "open_issues": 5, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
             45, 
@@ -11592,7 +11592,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/Chicago/food-inspections-evaluation/contributors", 
-        "forks_count": 9, 
+        "forks_count": 10, 
         "html_url": "https://github.com/Chicago/food-inspections-evaluation", 
         "updated_at": "2015-07-02T06:19:30Z", 
         "project_needs": [], 
@@ -13187,7 +13187,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/recycling/contributors", 
-        "forks_count": 5, 
+        "forks_count": 6, 
         "html_url": "https://github.com/open-city/recycling", 
         "updated_at": "2015-07-03T19:47:13Z", 
         "project_needs": [], 
@@ -13675,7 +13675,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/councilmatic/contributors", 
-        "forks_count": 8, 
+        "forks_count": 9, 
         "html_url": "https://github.com/open-city/councilmatic", 
         "updated_at": "2015-01-07T15:42:26Z", 
         "project_needs": [], 
@@ -14299,7 +14299,7 @@
         "contributors_url": "https://api.github.com/repos/derekeder/csv-to-html-table/contributors", 
         "forks_count": 4, 
         "html_url": "https://github.com/derekeder/csv-to-html-table", 
-        "updated_at": "2015-07-02T16:37:13Z", 
+        "updated_at": "2015-07-06T03:18:19Z", 
         "project_needs": [], 
         "owner": {
             "login": "derekeder", 
@@ -14312,7 +14312,7 @@
         "language": "CSS", 
         "created_at": "2015-06-13T19:23:11Z", 
         "pushed_at": "2015-06-16T00:57:25Z", 
-        "watchers_count": 108, 
+        "watchers_count": 109, 
         "open_issues": 2, 
         "homepage": "http://derekeder.github.io/csv-to-html-table/", 
         "participation": [
@@ -14924,7 +14924,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/chicago-river-sewage/contributors", 
-        "forks_count": 11, 
+        "forks_count": 12, 
         "html_url": "https://github.com/open-city/chicago-river-sewage", 
         "updated_at": "2015-04-12T20:55:41Z", 
         "project_needs": [

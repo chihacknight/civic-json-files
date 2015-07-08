@@ -1123,10 +1123,10 @@
     }, 
     {
         "name": "Cory Mollet", 
-        "company": "CityScan", 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/cmollet", 
-        "blog": "edifice.io", 
+        "blog": "http://corymollet.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/2855448?v=3", 
         "location": "Chicago", 
         "login": "cmollet", 
@@ -1570,7 +1570,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1273
+        "contributions": 1274
     }, 
     {
         "name": "David Fawcett", 

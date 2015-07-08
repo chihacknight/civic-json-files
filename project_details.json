@@ -2316,7 +2316,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/usaddress/contributors", 
         "forks_count": 40, 
         "html_url": "https://github.com/datamade/usaddress", 
-        "updated_at": "2015-07-05T09:36:57Z", 
+        "updated_at": "2015-07-08T00:41:03Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -2329,7 +2329,7 @@
         "language": "Python", 
         "created_at": "2014-07-17T19:22:46Z", 
         "pushed_at": "2015-06-30T16:56:46Z", 
-        "watchers_count": 339, 
+        "watchers_count": 340, 
         "open_issues": 11, 
         "homepage": "http://parserator.datamade.us/usaddress", 
         "participation": [
@@ -8983,7 +8983,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/census-postgres/contributors", 
         "forks_count": 11, 
         "html_url": "https://github.com/censusreporter/census-postgres", 
-        "updated_at": "2015-05-19T03:34:53Z", 
+        "updated_at": "2015-07-08T00:54:03Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -8996,7 +8996,7 @@
         "language": "Python", 
         "created_at": "2013-03-28T20:06:23Z", 
         "pushed_at": "2015-03-03T01:06:56Z", 
-        "watchers_count": 22, 
+        "watchers_count": 23, 
         "open_issues": 7, 
         "homepage": "", 
         "participation": [
@@ -12094,7 +12094,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1559, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-07-07T14:11:10Z", 
+        "updated_at": "2015-07-08T04:52:52Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -12107,7 +12107,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-06-26T00:57:29Z", 
-        "watchers_count": 7688, 
+        "watchers_count": 7689, 
         "open_issues": 170, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [
@@ -14863,7 +14863,7 @@
                 "owner": false, 
                 "login": "evz", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 31, 
+                "contributions": 32, 
                 "html_url": "https://github.com/evz"
             }, 
             {
@@ -14943,7 +14943,7 @@
         "name": "chicago-river-sewage", 
         "language": "HTML", 
         "created_at": "2013-12-04T04:37:27Z", 
-        "pushed_at": "2015-07-07T06:10:38Z", 
+        "pushed_at": "2015-07-08T06:10:39Z", 
         "watchers_count": 20, 
         "open_issues": 14, 
         "homepage": "http://istheresewageinthechicagoriver.com", 
@@ -16693,7 +16693,7 @@
         "created_at": "2015-03-15T02:17:27Z", 
         "pushed_at": "2015-07-01T11:42:56Z", 
         "watchers_count": 0, 
-        "open_issues": 6, 
+        "open_issues": 7, 
         "homepage": null, 
         "participation": [
             0, 

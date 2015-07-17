@@ -452,12 +452,12 @@
     }, 
     {
         "name": "Ahwan Kumar", 
-        "company": "", 
+        "company": "ParallelDots", 
         "repositories": 1, 
         "html_url": "https://github.com/ahwankumar", 
-        "blog": "https://www.ahwan.in", 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/7369801?v=3", 
-        "location": "New Delhi", 
+        "location": "", 
         "login": "ahwankumar", 
         "contributions": 2
     }, 
@@ -1581,7 +1581,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1282
+        "contributions": 1283
     }, 
     {
         "name": "David Fawcett", 

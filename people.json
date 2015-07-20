@@ -66,6 +66,17 @@
         "contributions": 1
     }, 
     {
+        "name": "Adam \u017durek", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/CZechBoY", 
+        "blog": "http://www.jabko.net/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4347332?v=3", 
+        "location": "Czech republic, Brno, Hradec Kr\u00e1lov\u00e9", 
+        "login": "CZechBoY", 
+        "contributions": 1
+    }, 
+    {
         "name": "Cliffs Dover", 
         "company": "Dancing Bottle", 
         "repositories": 1, 
@@ -250,7 +261,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
         "location": "Chicago, IL", 
         "login": "JoeGermuska", 
-        "contributions": 899
+        "contributions": 906
     }, 
     {
         "name": "John Brock", 
@@ -1771,17 +1782,6 @@
         "contributions": 2
     }, 
     {
-        "name": "Gunnar Lium", 
-        "company": "Aptoma AS", 
-        "repositories": 1, 
-        "html_url": "https://github.com/gunnarlium", 
-        "blog": "http://www.gunnarlium.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/207556?v=3", 
-        "location": "Oslo, Norway", 
-        "login": "gunnarlium", 
-        "contributions": 1
-    }, 
-    {
         "name": "James Michael DuPont", 
         "company": "Kansas Linux Festival, an open source, knowledge, hw festival for the great plains", 
         "repositories": 1, 
@@ -2110,6 +2110,17 @@
         "location": null, 
         "login": "johnbyron", 
         "contributions": 43
+    }, 
+    {
+        "name": "", 
+        "company": "", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jolson7168", 
+        "blog": "", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4396515?v=3", 
+        "location": "", 
+        "login": "jolson7168", 
+        "contributions": 1
     }, 
     {
         "name": "Jon Mountjoy", 
@@ -3037,7 +3048,7 @@
     }, 
     {
         "name": "Paul\u202eetnomailgaT\u202d", 
-        "company": "Sunlight Foundation", 
+        "company": "", 
         "repositories": 1, 
         "html_url": "https://github.com/paultag", 
         "blog": "https://pault.ag/", 
@@ -3377,59 +3388,39 @@
         "contributions": 22
     }, 
     {
-        "name": "Ryan Tucker", 
-        "company": "Suspension of Disbelief Technologies", 
-        "repositories": 1, 
-        "html_url": "https://github.com/rtucker", 
-        "blog": "", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/97437?v=3", 
-        "location": "Rochester, NY, USA", 
+        "contributions": 6, 
         "login": "rtucker", 
-        "contributions": 6
+        "avatar_url": "https://avatars.githubusercontent.com/u/97437?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/rtucker"
     }, 
     {
-        "name": "Kurt Robert Rudolph", 
-        "company": "Eris Exchange, LLC", 
-        "repositories": 1, 
-        "html_url": "https://github.com/rudolph9", 
-        "blog": "http://kurtrudolph.net/about", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/641859?v=3", 
-        "location": "Chicago, IL", 
+        "contributions": 56, 
         "login": "rudolph9", 
-        "contributions": 56
-    }, 
-    {
-        "name": "Ryan Resella", 
-        "company": "Upworthy", 
-        "repositories": 2, 
-        "html_url": "https://github.com/ryanatwork", 
-        "blog": "ryanresella.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/437339?v=3", 
-        "location": "Los Angeles, CA", 
-        "login": "ryanatwork", 
-        "contributions": 2
-    }, 
-    {
-        "name": "Ryan Carmelo Briones", 
-        "company": "BellyCard", 
-        "repositories": 8, 
-        "html_url": "https://github.com/ryanbriones", 
-        "blog": "http://ryanbriones.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/202?v=3", 
-        "location": "Chicago, IL", 
-        "login": "ryanbriones", 
-        "contributions": 59
-    }, 
-    {
-        "name": null, 
-        "company": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/641859?v=3", 
         "repositories": 1, 
-        "html_url": "https://github.com/ryandasher", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2091285?v=3", 
-        "location": null, 
+        "html_url": "https://github.com/rudolph9"
+    }, 
+    {
+        "contributions": 2, 
+        "login": "ryanatwork", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/437339?v=3", 
+        "repositories": 2, 
+        "html_url": "https://github.com/ryanatwork"
+    }, 
+    {
+        "contributions": 59, 
+        "login": "ryanbriones", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/202?v=3", 
+        "repositories": 8, 
+        "html_url": "https://github.com/ryanbriones"
+    }, 
+    {
+        "contributions": 3, 
         "login": "ryandasher", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/2091285?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ryandasher"
     }, 
     {
         "contributions": 13, 

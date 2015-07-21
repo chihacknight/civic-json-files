@@ -2316,7 +2316,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/usaddress/contributors", 
         "forks_count": 42, 
         "html_url": "https://github.com/datamade/usaddress", 
-        "updated_at": "2015-07-19T18:56:27Z", 
+        "updated_at": "2015-07-21T04:41:44Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -2329,7 +2329,7 @@
         "language": "Python", 
         "created_at": "2014-07-17T19:22:46Z", 
         "pushed_at": "2015-07-14T20:48:28Z", 
-        "watchers_count": 345, 
+        "watchers_count": 346, 
         "open_issues": 11, 
         "homepage": "http://parserator.datamade.us/usaddress", 
         "participation": [
@@ -3353,7 +3353,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/associatedpress/geomancer/contributors", 
-        "forks_count": 5, 
+        "forks_count": 6, 
         "html_url": "https://github.com/associatedpress/geomancer", 
         "updated_at": "2015-07-09T21:06:13Z", 
         "project_needs": [], 

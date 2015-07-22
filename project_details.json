@@ -8819,7 +8819,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/corynissen/foodborne_classifier/contributors", 
-        "forks_count": 62, 
+        "forks_count": 61, 
         "html_url": "https://github.com/corynissen/foodborne_classifier", 
         "updated_at": "2015-07-03T01:42:38Z", 
         "project_needs": [], 
@@ -9414,7 +9414,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 79, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-07-19T18:54:22Z", 
+        "updated_at": "2015-07-22T01:35:55Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -9427,7 +9427,7 @@
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2015-07-16T20:53:20Z", 
-        "watchers_count": 616, 
+        "watchers_count": 617, 
         "open_issues": 6, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
@@ -12031,7 +12031,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1569, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-07-21T09:43:55Z", 
+        "updated_at": "2015-07-22T03:50:02Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -12044,7 +12044,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-07-21T17:55:30Z", 
-        "watchers_count": 7726, 
+        "watchers_count": 7727, 
         "open_issues": 172, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [

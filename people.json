@@ -760,10 +760,10 @@
     }, 
     {
         "name": "Brian Everett Peterson", 
-        "company": null, 
+        "company": "", 
         "repositories": 3, 
         "html_url": "https://github.com/bepetersn", 
-        "blog": null, 
+        "blog": "", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1389463?v=3", 
         "location": "Chicago, IL", 
         "login": "bepetersn", 

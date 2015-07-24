@@ -401,7 +401,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/probablepeople/contributors", 
         "forks_count": 8, 
         "html_url": "https://github.com/datamade/probablepeople", 
-        "updated_at": "2015-07-22T21:25:39Z", 
+        "updated_at": "2015-07-24T05:20:46Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -414,7 +414,7 @@
         "language": "Python", 
         "created_at": "2014-11-06T16:31:00Z", 
         "pushed_at": "2015-05-28T20:39:55Z", 
-        "watchers_count": 61, 
+        "watchers_count": 62, 
         "open_issues": 4, 
         "homepage": "http://parserator.datamade.us/probablepeople", 
         "participation": [
@@ -1461,7 +1461,7 @@
         "contributors_url": "https://api.github.com/repos/fgregg/scraping-intro/contributors", 
         "forks_count": 31, 
         "html_url": "https://github.com/fgregg/scraping-intro", 
-        "updated_at": "2015-05-27T01:18:24Z", 
+        "updated_at": "2015-07-24T01:57:25Z", 
         "project_needs": [], 
         "owner": {
             "login": "fgregg", 
@@ -1474,7 +1474,7 @@
         "language": "Python", 
         "created_at": "2012-10-30T13:41:51Z", 
         "pushed_at": "2013-05-08T22:27:10Z", 
-        "watchers_count": 12, 
+        "watchers_count": 13, 
         "open_issues": 1, 
         "homepage": "", 
         "participation": [
@@ -2316,7 +2316,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/usaddress/contributors", 
         "forks_count": 42, 
         "html_url": "https://github.com/datamade/usaddress", 
-        "updated_at": "2015-07-21T04:41:44Z", 
+        "updated_at": "2015-07-24T05:20:19Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -2329,7 +2329,7 @@
         "language": "Python", 
         "created_at": "2014-07-17T19:22:46Z", 
         "pushed_at": "2015-07-14T20:48:28Z", 
-        "watchers_count": 346, 
+        "watchers_count": 347, 
         "open_issues": 11, 
         "homepage": "http://parserator.datamade.us/usaddress", 
         "participation": [
@@ -9288,7 +9288,7 @@
                 "owner": false, 
                 "login": "fgregg", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
-                "contributions": 1405, 
+                "contributions": 1406, 
                 "html_url": "https://github.com/fgregg"
             }, 
             {
@@ -9328,10 +9328,10 @@
             }, 
             {
                 "owner": false, 
-                "login": "mekarpeles", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/978325?v=3", 
+                "login": "zmaril", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/539927?v=3", 
                 "contributions": 4, 
-                "html_url": "https://github.com/mekarpeles"
+                "html_url": "https://github.com/zmaril"
             }, 
             {
                 "owner": false, 
@@ -9342,10 +9342,10 @@
             }, 
             {
                 "owner": false, 
-                "login": "zmaril", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/539927?v=3", 
+                "login": "mekarpeles", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/978325?v=3", 
                 "contributions": 4, 
-                "html_url": "https://github.com/zmaril"
+                "html_url": "https://github.com/mekarpeles"
             }, 
             {
                 "owner": false, 
@@ -9360,6 +9360,13 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/20877?v=3", 
                 "contributions": 2, 
                 "html_url": "https://github.com/shahin"
+            }, 
+            {
+                "owner": false, 
+                "login": "nmiranda", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/7562065?v=3", 
+                "contributions": 2, 
+                "html_url": "https://github.com/nmiranda"
             }, 
             {
                 "owner": false, 
@@ -9409,19 +9416,12 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/1731217?v=3", 
                 "contributions": 1, 
                 "html_url": "https://github.com/chancyk"
-            }, 
-            {
-                "owner": false, 
-                "login": "nmiranda", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/7562065?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/nmiranda"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 80, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-07-22T21:30:38Z", 
+        "updated_at": "2015-07-24T05:18:56Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -9433,9 +9433,9 @@
         "name": "dedupe", 
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
-        "pushed_at": "2015-07-23T17:58:07Z", 
-        "watchers_count": 619, 
-        "open_issues": 6, 
+        "pushed_at": "2015-07-24T02:11:52Z", 
+        "watchers_count": 620, 
+        "open_issues": 5, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
             0, 
@@ -12038,7 +12038,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1569, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-07-23T08:54:49Z", 
+        "updated_at": "2015-07-24T05:14:08Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -12051,7 +12051,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-07-23T09:23:39Z", 
-        "watchers_count": 7731, 
+        "watchers_count": 7733, 
         "open_issues": 173, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [

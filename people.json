@@ -1317,7 +1317,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3254
+        "contributions": 3256
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1724,6 +1724,17 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/101859?v=3", 
         "location": "Lausanne, Switzerland", 
         "login": "gido", 
+        "contributions": 1
+    }, 
+    {
+        "name": "The Gitter Badger", 
+        "company": "Gitter", 
+        "repositories": 1, 
+        "html_url": "https://github.com/gitter-badger", 
+        "blog": "https://gitter.im", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8518239?v=3", 
+        "location": "Safe in the Gitter den", 
+        "login": "gitter-badger", 
         "contributions": 1
     }, 
     {

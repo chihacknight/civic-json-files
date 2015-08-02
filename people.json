@@ -3080,26 +3080,18 @@
         "contributions": 29
     }, 
     {
-        "name": "Paul\u202eetnomailgaT\u202d", 
-        "company": "", 
-        "repositories": 1, 
-        "html_url": "https://github.com/paultag", 
-        "blog": "https://pault.ag/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/132447?v=3", 
-        "location": "Washington, DC", 
+        "contributions": 136, 
         "login": "paultag", 
-        "contributions": 136
+        "avatar_url": "https://avatars.githubusercontent.com/u/132447?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/paultag"
     }, 
     {
-        "name": "Philip Neustrom", 
-        "company": "LocalWiki", 
-        "repositories": 2, 
-        "html_url": "https://github.com/philipn", 
-        "blog": "https://localwiki.org", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/96469?v=3", 
-        "location": "San Francisco, CA", 
+        "contributions": 1040, 
         "login": "philipn", 
-        "contributions": 1040
+        "avatar_url": "https://avatars.githubusercontent.com/u/96469?v=3", 
+        "repositories": 2, 
+        "html_url": "https://github.com/philipn"
     }, 
     {
         "contributions": 3, 

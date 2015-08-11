@@ -389,13 +389,6 @@
                 "avatar_url": "https://avatars.githubusercontent.com/u/46313?v=3", 
                 "contributions": 2, 
                 "html_url": "https://github.com/JoeGermuska"
-            }, 
-            {
-                "owner": false, 
-                "login": "dwillis", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/2214?v=3", 
-                "contributions": 1, 
-                "html_url": "https://github.com/dwillis"
             }
         ], 
         "contributors_url": "https://api.github.com/repos/datamade/probablepeople/contributors", 
@@ -6978,7 +6971,7 @@
         "contributors_url": "https://api.github.com/repos/censusreporter/censusreporter/contributors", 
         "forks_count": 49, 
         "html_url": "https://github.com/censusreporter/censusreporter", 
-        "updated_at": "2015-08-08T15:01:41Z", 
+        "updated_at": "2015-08-11T04:13:35Z", 
         "project_needs": [], 
         "owner": {
             "login": "censusreporter", 
@@ -6991,7 +6984,7 @@
         "language": "HTML", 
         "created_at": "2013-05-20T22:46:00Z", 
         "pushed_at": "2015-07-29T22:35:12Z", 
-        "watchers_count": 107, 
+        "watchers_count": 108, 
         "open_issues": 64, 
         "homepage": "http://censusreporter.org", 
         "participation": [
@@ -11444,7 +11437,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/open-city/second-city-zoning/contributors", 
-        "forks_count": 8, 
+        "forks_count": 7, 
         "html_url": "https://github.com/open-city/second-city-zoning", 
         "updated_at": "2015-08-05T23:53:20Z", 
         "project_needs": [], 
@@ -12050,7 +12043,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
-        "forks_count": 1572, 
+        "forks_count": 1571, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
         "updated_at": "2015-08-10T17:14:06Z", 
         "project_needs": [], 

@@ -76,7 +76,7 @@
         "html_url": "https://github.com/censusreporter", 
         "blog": "http://censusreporter.org/", 
         "avatar_url": "https://avatars.githubusercontent.com/u/3924386?v=3", 
-        "location": "", 
+        "location": null, 
         "login": "censusreporter"
     }, 
     {
@@ -106,7 +106,7 @@
         "html_url": "https://github.com/codeforamerica", 
         "blog": "http://codeforamerica.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
-        "location": "", 
+        "location": null, 
         "login": "codeforamerica"
     }, 
     {

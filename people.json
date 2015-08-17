@@ -4214,12 +4214,12 @@
     }, 
     {
         "name": "Zeke Sikelianos", 
-        "company": "Available for Hire", 
+        "company": null, 
         "repositories": 1, 
         "html_url": "https://github.com/zeke", 
         "blog": "http://zeke.sikelianos.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/2289?v=3", 
-        "location": "Headed for New Orleans!", 
+        "location": "New Orleans", 
         "login": "zeke", 
         "contributions": 20
     }, 

@@ -1350,7 +1350,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/81055?v=3", 
         "location": "Brooklyn, New York", 
         "login": "dirkkelly", 
-        "contributions": 60
+        "contributions": 61
     }, 
     {
         "name": "John Malc", 
@@ -1472,6 +1472,17 @@
         "location": "Nairobi, Kenya", 
         "login": "ekala", 
         "contributions": 34
+    }, 
+    {
+        "name": "Elber Carneiro", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/elberdev", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12614956?v=3", 
+        "location": null, 
+        "login": "elberdev", 
+        "contributions": 1
     }, 
     {
         "name": "Andr\u00e9s Saraos Luna", 

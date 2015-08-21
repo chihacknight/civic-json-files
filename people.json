@@ -2332,11 +2332,15 @@
         "contributions": 11
     }, 
     {
-        "contributions": 4, 
-        "login": "klakar", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6375959?v=3", 
+        "name": "Klas Karlsson", 
+        "company": null, 
         "repositories": 1, 
-        "html_url": "https://github.com/klakar"
+        "html_url": "https://github.com/klakar", 
+        "blog": "http://geosupportsystem.wordpress.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6375959?v=3", 
+        "location": null, 
+        "login": "klakar", 
+        "contributions": 4
     }, 
     {
         "contributions": 2, 

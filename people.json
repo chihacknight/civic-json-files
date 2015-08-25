@@ -319,6 +319,17 @@
         "contributions": 1
     }, 
     {
+        "name": null, 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/MMenninger", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6894600?v=3", 
+        "location": null, 
+        "login": "MMenninger", 
+        "contributions": 1
+    }, 
+    {
         "name": "Rob Brackett", 
         "company": null, 
         "repositories": 2, 
@@ -1592,7 +1603,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1460
+        "contributions": 1461
     }, 
     {
         "name": "David Fawcett", 
@@ -3979,7 +3990,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
-        "contributions": 272
+        "contributions": 273
     }, 
     {
         "name": "Nick Bennett", 

@@ -778,7 +778,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/692678?v=3", 
         "location": "Chicago, IL", 
         "login": "benwilhelm", 
-        "contributions": 244
+        "contributions": 252
     }, 
     {
         "name": "Brian Everett Peterson", 
@@ -1603,7 +1603,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1461
+        "contributions": 1462
     }, 
     {
         "name": "David Fawcett", 
@@ -2190,12 +2190,12 @@
     }, 
     {
         "name": "James McKinney", 
-        "company": "@mckinneyjames", 
+        "company": null, 
         "repositories": 1, 
         "html_url": "https://github.com/jpmckinney", 
-        "blog": "http://www.opennorth.ca", 
+        "blog": "https://twitter.com/mckinneyjames", 
         "avatar_url": "https://avatars.githubusercontent.com/u/26463?v=3", 
-        "location": "Montreal, Quebec, Canada", 
+        "location": "Montreal, Quebec", 
         "login": "jpmckinney", 
         "contributions": 3
     }, 
@@ -2953,7 +2953,7 @@
         "html_url": "https://github.com/rebeccawilliams"
     }, 
     {
-        "contributions": 31, 
+        "contributions": 34, 
         "login": "renemarcelo", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1162669?v=3", 
         "repositories": 4, 
@@ -3261,7 +3261,7 @@
         "html_url": "https://github.com/stefanct"
     }, 
     {
-        "contributions": 140, 
+        "contributions": 142, 
         "login": "stevevance", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1330459?v=3", 
         "repositories": 5, 

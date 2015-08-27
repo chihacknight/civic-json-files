@@ -800,7 +800,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/310?v=3", 
         "location": "Charlotte, NC", 
         "login": "bigfleet", 
-        "contributions": 16
+        "contributions": 29
     }, 
     {
         "name": "Andy Martha", 
@@ -1361,7 +1361,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/81055?v=3", 
         "location": "Brooklyn, New York", 
         "login": "dirkkelly", 
-        "contributions": 61
+        "contributions": 65
     }, 
     {
         "name": "John Malc", 
@@ -1603,7 +1603,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1462
+        "contributions": 1463
     }, 
     {
         "name": "David Fawcett", 
@@ -1625,7 +1625,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2378
+        "contributions": 2380
     }, 
     {
         "name": "Adam Fishman", 
@@ -2651,6 +2651,17 @@
         "contributions": 6
     }, 
     {
+        "name": "Mason Packard", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/masonpackard", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5422830?v=3", 
+        "location": "Charlotte, NC", 
+        "login": "masonpackard", 
+        "contributions": 7
+    }, 
+    {
         "name": "Claire M.", 
         "company": null, 
         "repositories": 1, 
@@ -2946,6 +2957,17 @@
         "location": null, 
         "login": "nickstenning", 
         "contributions": 1
+    }, 
+    {
+        "name": "Nigel J. Terry", 
+        "company": "Sapphire Web Services / Terry Realty Group", 
+        "repositories": 1, 
+        "html_url": "https://github.com/nigelterry", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1019674?v=3", 
+        "location": "United States", 
+        "login": "nigelterry", 
+        "contributions": 2
     }, 
     {
         "name": "Nikit Saraf", 

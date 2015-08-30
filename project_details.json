@@ -1325,17 +1325,17 @@
             }, 
             {
                 "owner": false, 
+                "login": "theandrewbriggs", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/3439795?v=3", 
+                "contributions": 34, 
+                "html_url": "https://github.com/theandrewbriggs"
+            }, 
+            {
+                "owner": false, 
                 "login": "mapmeld", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/643918?v=3", 
                 "contributions": 29, 
                 "html_url": "https://github.com/mapmeld"
-            }, 
-            {
-                "owner": false, 
-                "login": "theandrewbriggs", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/3439795?v=3", 
-                "contributions": 27, 
-                "html_url": "https://github.com/theandrewbriggs"
             }, 
             {
                 "owner": false, 
@@ -1367,7 +1367,7 @@
         "name": "chicago-atlas", 
         "language": "PLpgSQL", 
         "created_at": "2013-02-07T16:57:22Z", 
-        "pushed_at": "2015-08-28T18:40:08Z", 
+        "pushed_at": "2015-08-29T23:33:25Z", 
         "watchers_count": 98, 
         "open_issues": 27, 
         "homepage": "http://www.chicagohealthatlas.org/", 
@@ -9661,7 +9661,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 81, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-08-28T09:24:08Z", 
+        "updated_at": "2015-08-30T01:51:42Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -9674,7 +9674,7 @@
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2015-08-29T20:59:51Z", 
-        "watchers_count": 637, 
+        "watchers_count": 638, 
         "open_issues": 5, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
@@ -12340,7 +12340,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
-        "forks_count": 1579, 
+        "forks_count": 1578, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
         "updated_at": "2015-08-29T15:13:50Z", 
         "project_needs": [], 

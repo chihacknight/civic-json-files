@@ -3786,13 +3786,13 @@
     {
         "name": null, 
         "company": null, 
-        "repositories": 1, 
+        "repositories": 2, 
         "html_url": "https://github.com/smarziano", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/5550969?v=3", 
         "location": null, 
         "login": "smarziano", 
-        "contributions": 2
+        "contributions": 3
     }, 
     {
         "name": "Taro Matsuzawa aka. btm", 

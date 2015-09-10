@@ -1339,7 +1339,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3367
+        "contributions": 3374
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -2228,6 +2228,13 @@
         "html_url": "https://github.com/jtwalsh0"
     }, 
     {
+        "contributions": 10, 
+        "login": "justinmanley", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1668487?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/justinmanley"
+    }, 
+    {
         "contributions": 576, 
         "login": "jywsn", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1178533?v=3", 
@@ -2457,13 +2464,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/353700?v=3", 
         "repositories": 1, 
         "html_url": "https://github.com/maning"
-    }, 
-    {
-        "contributions": 10, 
-        "login": "manleyjster", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1668487?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/manleyjster"
     }, 
     {
         "contributions": 132, 

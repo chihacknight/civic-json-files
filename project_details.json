@@ -359,7 +359,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/StoryMapJS/contributors", 
         "forks_count": 74, 
         "html_url": "https://github.com/NUKnightLab/StoryMapJS", 
-        "updated_at": "2015-09-14T20:26:47Z", 
+        "updated_at": "2015-09-15T01:27:23Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -372,7 +372,7 @@
         "language": "JavaScript", 
         "created_at": "2013-07-22T16:43:23Z", 
         "pushed_at": "2015-09-04T14:57:10Z", 
-        "watchers_count": 205, 
+        "watchers_count": 206, 
         "open_issues": 36, 
         "homepage": null, 
         "participation": [
@@ -11778,7 +11778,7 @@
         "created_at": "2012-08-14T22:32:35Z", 
         "pushed_at": "2015-06-12T19:31:25Z", 
         "watchers_count": 18, 
-        "open_issues": 5, 
+        "open_issues": 7, 
         "homepage": "http://secondcityzoning.org", 
         "participation": [
             0, 

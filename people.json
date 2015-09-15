@@ -276,7 +276,7 @@
     }, 
     {
         "name": "John Brock", 
-        "company": "Laboratory for Ubiquitous Computing and Interaction", 
+        "company": null, 
         "repositories": 1, 
         "html_url": "https://github.com/JohnHBrock", 
         "blog": null, 

@@ -15095,17 +15095,17 @@
             }, 
             {
                 "owner": false, 
+                "login": "evz", 
+                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
+                "contributions": 75, 
+                "html_url": "https://github.com/evz"
+            }, 
+            {
+                "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
                 "contributions": 74, 
                 "html_url": "https://github.com/derekeder"
-            }, 
-            {
-                "owner": false, 
-                "login": "evz", 
-                "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
-                "contributions": 74, 
-                "html_url": "https://github.com/evz"
             }, 
             {
                 "owner": false, 
@@ -15184,7 +15184,7 @@
         "name": "chicago-river-sewage", 
         "language": "HTML", 
         "created_at": "2013-12-04T04:37:27Z", 
-        "pushed_at": "2015-09-14T06:12:04Z", 
+        "pushed_at": "2015-09-15T06:12:07Z", 
         "watchers_count": 21, 
         "open_issues": 15, 
         "homepage": "http://istheresewageinthechicagoriver.com", 

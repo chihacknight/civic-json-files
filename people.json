@@ -1167,7 +1167,7 @@
     }, 
     {
         "name": "Cory Mollet", 
-        "company": null, 
+        "company": "PositivEnergy Practice", 
         "repositories": 1, 
         "html_url": "https://github.com/cmollet", 
         "blog": "http://corymollet.com", 
@@ -1614,7 +1614,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1497
+        "contributions": 1498
     }, 
     {
         "name": "David Fawcett", 
@@ -2156,114 +2156,74 @@
         "contributions": 43
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jolson7168", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4396515?v=3", 
-        "location": null, 
+        "contributions": 3, 
         "login": "jolson7168", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/4396515?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jolson7168"
     }, 
     {
-        "name": "Jon Mountjoy", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jonmountjoy", 
-        "blog": "http://www.jonmountjoy.com/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/545244?v=3", 
-        "location": null, 
+        "contributions": 3, 
         "login": "jonmountjoy", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/545244?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jonmountjoy"
     }, 
     {
-        "name": "Josh Marcus", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/joshmarcus", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/241093?v=3", 
-        "location": "Philadelphia, PA", 
+        "contributions": 13, 
         "login": "joshmarcus", 
-        "contributions": 13
+        "avatar_url": "https://avatars.githubusercontent.com/u/241093?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/joshmarcus"
     }, 
     {
-        "name": "John Fahrenbach", 
-        "company": "`", 
-        "repositories": 1, 
-        "html_url": "https://github.com/jpfahrenbach", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3661180?v=3", 
-        "location": null, 
+        "contributions": 7, 
         "login": "jpfahrenbach", 
-        "contributions": 7
+        "avatar_url": "https://avatars.githubusercontent.com/u/3661180?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jpfahrenbach"
     }, 
     {
-        "name": "James McKinney", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jpmckinney", 
-        "blog": "https://twitter.com/mckinneyjames", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/26463?v=3", 
-        "location": "Montreal, Quebec", 
+        "contributions": 3, 
         "login": "jpmckinney", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/26463?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jpmckinney"
     }, 
     {
-        "name": "Juan-Pablo Velez", 
-        "company": "Open City", 
-        "repositories": 18, 
-        "html_url": "https://github.com/jpvelez", 
-        "blog": "http://www.twitter.com/jpvelez", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/533641?v=3", 
-        "location": "Chicago", 
+        "contributions": 281, 
         "login": "jpvelez", 
-        "contributions": 281
+        "avatar_url": "https://avatars.githubusercontent.com/u/533641?v=3", 
+        "repositories": 18, 
+        "html_url": "https://github.com/jpvelez"
     }, 
     {
-        "name": "Jeremy Satterfield", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jsatt", 
-        "blog": "http://jsatt.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/498431?v=3", 
-        "location": "Tulsa, OK", 
+        "contributions": 3, 
         "login": "jsatt", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/498431?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jsatt"
     }, 
     {
-        "name": "Jim", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/jstoddart", 
-        "blog": "jstoddart.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3048733?v=3", 
-        "location": "NYC", 
+        "contributions": 1, 
         "login": "jstoddart", 
-        "contributions": 1
-    }, 
-    {
-        "name": "Joe Walsh", 
-        "company": null, 
-        "repositories": 2, 
-        "html_url": "https://github.com/jtwalsh0", 
-        "blog": "http://joestradam.us", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4280678?v=3", 
-        "location": null, 
-        "login": "jtwalsh0", 
-        "contributions": 162
-    }, 
-    {
-        "name": "Justin Manley", 
-        "company": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3048733?v=3", 
         "repositories": 1, 
-        "html_url": "https://github.com/justinmanley", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1668487?v=3", 
-        "location": "Chicago, IL", 
+        "html_url": "https://github.com/jstoddart"
+    }, 
+    {
+        "contributions": 162, 
+        "login": "jtwalsh0", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4280678?v=3", 
+        "repositories": 2, 
+        "html_url": "https://github.com/jtwalsh0"
+    }, 
+    {
+        "contributions": 10, 
         "login": "justinmanley", 
-        "contributions": 10
+        "avatar_url": "https://avatars.githubusercontent.com/u/1668487?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/justinmanley"
     }, 
     {
         "contributions": 576, 
@@ -3204,7 +3164,7 @@
         "html_url": "https://github.com/shoorick"
     }, 
     {
-        "contributions": 239, 
+        "contributions": 240, 
         "login": "shua123", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1593537?v=3", 
         "repositories": 6, 

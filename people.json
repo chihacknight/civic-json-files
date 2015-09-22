@@ -437,7 +437,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/6283143?v=3", 
         "location": "Chicago", 
         "login": "WillEngler", 
-        "contributions": 1
+        "contributions": 2
     }, 
     {
         "name": null, 
@@ -1695,7 +1695,7 @@
     }, 
     {
         "name": "Fureigh", 
-        "company": "Code for America / Fureigh Consulting", 
+        "company": "18F / Fureigh Consulting", 
         "repositories": 1, 
         "html_url": "https://github.com/fureigh", 
         "blog": "http://www.twitter.com/fureigh", 

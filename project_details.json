@@ -2245,7 +2245,7 @@
         "created_at": "2014-07-17T19:22:46Z", 
         "pushed_at": "2015-08-13T14:29:27Z", 
         "watchers_count": 363, 
-        "open_issues": 15, 
+        "open_issues": 16, 
         "homepage": "http://parserator.datamade.us/usaddress", 
         "participation": [
             0, 
@@ -3220,8 +3220,8 @@
             0, 
             0, 
             0, 
-            0, 
             1, 
+            0, 
             0, 
             0, 
             0, 
@@ -9675,7 +9675,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 82, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-09-22T08:24:55Z", 
+        "updated_at": "2015-09-23T03:35:16Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -9688,7 +9688,7 @@
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2015-09-19T12:29:13Z", 
-        "watchers_count": 648, 
+        "watchers_count": 649, 
         "open_issues": 4, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
@@ -12356,7 +12356,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1595, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-09-22T14:47:41Z", 
+        "updated_at": "2015-09-23T02:59:00Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -12369,7 +12369,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-09-02T20:08:04Z", 
-        "watchers_count": 7861, 
+        "watchers_count": 7860, 
         "open_issues": 175, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [

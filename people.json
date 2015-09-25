@@ -1636,7 +1636,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2403
+        "contributions": 2404
     }, 
     {
         "name": "Adam Fishman", 
@@ -1911,7 +1911,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?v=3", 
         "location": null, 
         "login": "iandees", 
-        "contributions": 650
+        "contributions": 651
     }, 
     {
         "name": "Idan Gazit", 
@@ -3164,7 +3164,7 @@
         "html_url": "https://github.com/shoorick"
     }, 
     {
-        "contributions": 248, 
+        "contributions": 252, 
         "login": "shua123", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1593537?v=3", 
         "repositories": 6, 

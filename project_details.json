@@ -9675,7 +9675,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 82, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-09-30T01:59:51Z", 
+        "updated_at": "2015-10-01T06:06:46Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -9688,7 +9688,7 @@
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2015-09-25T03:30:02Z", 
-        "watchers_count": 656, 
+        "watchers_count": 655, 
         "open_issues": 5, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [

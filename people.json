@@ -1009,7 +1009,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1406537?v=3", 
         "location": "Chicago", 
         "login": "cathydeng", 
-        "contributions": 892
+        "contributions": 894
     }, 
     {
         "name": "Charlie Catlett", 
@@ -1614,7 +1614,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/551491?v=3", 
         "location": "Chicago, IL", 
         "login": "evz", 
-        "contributions": 1504
+        "contributions": 1507
     }, 
     {
         "name": "David Fawcett", 
@@ -1636,7 +1636,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2406
+        "contributions": 2419
     }, 
     {
         "name": "Adam Fishman", 
@@ -2112,48 +2112,32 @@
         "contributions": 4
     }, 
     {
-        "name": "Jesse Kriss", 
-        "company": "jklabs", 
-        "repositories": 2, 
-        "html_url": "https://github.com/jkriss", 
-        "blog": "jklabs.net", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6276?v=3", 
-        "location": "Pasadena, CA", 
+        "contributions": 8, 
         "login": "jkriss", 
-        "contributions": 8
+        "avatar_url": "https://avatars.githubusercontent.com/u/6276?v=3", 
+        "repositories": 2, 
+        "html_url": "https://github.com/jkriss"
     }, 
     {
-        "name": "Joanne", 
-        "company": "keen.io", 
-        "repositories": 1, 
-        "html_url": "https://github.com/joannecheng", 
-        "blog": "http://joannecheng.me", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/638351?v=3", 
-        "location": "Denver, CO", 
+        "contributions": 1, 
         "login": "joannecheng", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/638351?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/joannecheng"
     }, 
     {
-        "name": "Joao Antunes", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/joao", 
-        "blog": "joaoantunes.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1041?v=3", 
-        "location": "Portugal", 
+        "contributions": 2, 
         "login": "joao", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/1041?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/joao"
     }, 
     {
-        "name": "Giorgio Cavaggion", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/johnbyron", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2515595?v=3", 
-        "location": null, 
+        "contributions": 43, 
         "login": "johnbyron", 
-        "contributions": 43
+        "avatar_url": "https://avatars.githubusercontent.com/u/2515595?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/johnbyron"
     }, 
     {
         "contributions": 3, 
@@ -2462,6 +2446,13 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/643918?v=3", 
         "repositories": 6, 
         "html_url": "https://github.com/mapmeld"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "markbaas", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1153495?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/markbaas"
     }, 
     {
         "contributions": 35, 

@@ -2252,7 +2252,7 @@
         "created_at": "2014-07-17T19:22:46Z", 
         "pushed_at": "2015-10-06T14:52:12Z", 
         "watchers_count": 372, 
-        "open_issues": 12, 
+        "open_issues": 13, 
         "homepage": "http://parserator.datamade.us/usaddress", 
         "participation": [
             32, 
@@ -9443,7 +9443,7 @@
                 "owner": false, 
                 "login": "derekeder", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
-                "contributions": 62, 
+                "contributions": 63, 
                 "html_url": "https://github.com/derekeder"
             }, 
             {
@@ -9471,7 +9471,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/cps-tiers/contributors", 
         "forks_count": 13, 
         "html_url": "https://github.com/open-city/cps-tiers", 
-        "updated_at": "2015-02-18T23:31:57Z", 
+        "updated_at": "2015-10-07T03:57:38Z", 
         "project_needs": [], 
         "owner": {
             "login": "open-city", 
@@ -9481,9 +9481,9 @@
         }, 
         "id": 3606806, 
         "name": "cps-tiers", 
-        "language": "JavaScript", 
+        "language": "HTML", 
         "created_at": "2012-03-02T22:37:21Z", 
-        "pushed_at": "2015-01-26T04:59:19Z", 
+        "pushed_at": "2015-10-07T03:57:39Z", 
         "watchers_count": 7, 
         "open_issues": 2, 
         "homepage": "http://cpstiers.opencityapps.org/", 
@@ -13451,7 +13451,7 @@
         "contributors_url": "https://api.github.com/repos/open-city/recycling/contributors", 
         "forks_count": 12, 
         "html_url": "https://github.com/open-city/recycling", 
-        "updated_at": "2015-09-29T20:31:29Z", 
+        "updated_at": "2015-10-07T01:27:16Z", 
         "project_needs": [], 
         "owner": {
             "login": "open-city", 
@@ -13464,7 +13464,7 @@
         "language": "JavaScript", 
         "created_at": "2014-07-16T01:30:22Z", 
         "pushed_at": "2015-10-01T20:23:47Z", 
-        "watchers_count": 9, 
+        "watchers_count": 10, 
         "open_issues": 9, 
         "homepage": null, 
         "participation": [
@@ -15349,7 +15349,7 @@
                 "owner": true, 
                 "login": "sbeslow", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/3475751?v=3", 
-                "contributions": 76, 
+                "contributions": 80, 
                 "html_url": "https://github.com/sbeslow"
             }
         ], 
@@ -15368,7 +15368,7 @@
         "name": "beach", 
         "language": "Java", 
         "created_at": "2015-03-15T02:17:27Z", 
-        "pushed_at": "2015-08-20T01:13:37Z", 
+        "pushed_at": "2015-10-07T01:15:29Z", 
         "watchers_count": 0, 
         "open_issues": 7, 
         "homepage": null, 

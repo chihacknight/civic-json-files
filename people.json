@@ -1350,7 +1350,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3384
+        "contributions": 3389
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1973,7 +1973,7 @@
         "company": "The Marshall Project", 
         "repositories": 1, 
         "html_url": "https://github.com/ivarvong", 
-        "blog": "http://twitter.com/ivarvong", 
+        "blog": "https://www.themarshallproject.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/183226?v=3", 
         "location": "NYC", 
         "login": "ivarvong", 
@@ -3158,7 +3158,7 @@
     }, 
     {
         "name": "Paul\u202eetnomailgaT\u202d", 
-        "company": null, 
+        "company": "United States Digital Service", 
         "repositories": 1, 
         "html_url": "https://github.com/paultag", 
         "blog": "https://pault.ag/", 

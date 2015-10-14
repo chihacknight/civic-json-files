@@ -547,7 +547,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4401271?v=3", 
         "location": "Chicago, IL, USA", 
         "login": "alexkahn", 
-        "contributions": 55
+        "contributions": 57
     }, 
     {
         "name": "Alex Mach", 
@@ -719,7 +719,7 @@
         "company": "Disney", 
         "repositories": 1, 
         "html_url": "https://github.com/atomantic", 
-        "blog": "http://bit.ly/beetleroyale", 
+        "blog": "http://adameivy.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/70015?v=3", 
         "location": "Seattle", 
         "login": "atomantic", 
@@ -822,7 +822,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/310?v=3", 
         "location": "Charlotte, NC", 
         "login": "bigfleet", 
-        "contributions": 36
+        "contributions": 40
     }, 
     {
         "name": "Andy Martha", 
@@ -1372,7 +1372,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3389
+        "contributions": 3391
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1493,7 +1493,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/428684?v=3", 
         "location": "San Francisco/Lexington/Nomad", 
         "login": "eeeschwartz", 
-        "contributions": 57
+        "contributions": 61
     }, 
     {
         "name": null, 
@@ -1647,7 +1647,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/344071?v=3", 
         "location": "New York", 
         "login": "excepttheweasel", 
-        "contributions": 1
+        "contributions": 2
     }, 
     {
         "name": "David Fawcett", 
@@ -1669,7 +1669,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2425
+        "contributions": 2430
     }, 
     {
         "name": "Adam Fishman", 
@@ -2099,6 +2099,17 @@
         "location": "United States", 
         "login": "jcourtois", 
         "contributions": 11
+    }, 
+    {
+        "name": "John Dungan", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/jdungan", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1707538?v=3", 
+        "location": "Tulsa, OK", 
+        "login": "jdungan", 
+        "contributions": 6
     }, 
     {
         "name": null, 
@@ -4001,7 +4012,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/3439795?v=3", 
         "location": "Chicago", 
         "login": "theandrewbriggs", 
-        "contributions": 27
+        "contributions": 76
     }, 
     {
         "name": null, 

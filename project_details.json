@@ -2540,7 +2540,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/derekeder/FusionTable-Map-Template/contributors", 
-        "forks_count": 211, 
+        "forks_count": 210, 
         "html_url": "https://github.com/derekeder/FusionTable-Map-Template", 
         "updated_at": "2015-10-13T21:04:24Z", 
         "project_needs": [], 
@@ -9682,7 +9682,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/dedupe/contributors", 
         "forks_count": 87, 
         "html_url": "https://github.com/datamade/dedupe", 
-        "updated_at": "2015-10-13T21:34:26Z", 
+        "updated_at": "2015-10-14T03:28:36Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -9695,7 +9695,7 @@
         "language": "Python", 
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2015-10-12T14:25:29Z", 
-        "watchers_count": 666, 
+        "watchers_count": 667, 
         "open_issues": 5, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
@@ -12384,7 +12384,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1597, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-10-11T09:26:13Z", 
+        "updated_at": "2015-10-14T00:40:49Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -12397,7 +12397,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-09-24T15:33:49Z", 
-        "watchers_count": 7878, 
+        "watchers_count": 7879, 
         "open_issues": 174, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [

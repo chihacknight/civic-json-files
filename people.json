@@ -1221,6 +1221,17 @@
         "contributions": 28
     }, 
     {
+        "name": "Cosmo Wolfe", 
+        "company": "Clever", 
+        "repositories": 1, 
+        "html_url": "https://github.com/cozmo", 
+        "blog": "templaedhel.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/696340?v=3", 
+        "location": "San Francisco", 
+        "login": "cozmo", 
+        "contributions": 16
+    }, 
+    {
         "name": "Christopher L Pulec", 
         "company": null, 
         "repositories": 1, 
@@ -3969,17 +3980,6 @@
         "location": "Chicago", 
         "login": "telegraham", 
         "contributions": 7
-    }, 
-    {
-        "name": "Cosmo Wolfe", 
-        "company": "Clever", 
-        "repositories": 1, 
-        "html_url": "https://github.com/templaedhel", 
-        "blog": "templaedhel.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/696340?v=3", 
-        "location": "San Francisco", 
-        "login": "templaedhel", 
-        "contributions": 16
     }, 
     {
         "name": "Tom Morris", 

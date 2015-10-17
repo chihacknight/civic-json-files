@@ -1936,81 +1936,125 @@
         "contributions": 249
     }, 
     {
-        "contributions": 651, 
-        "login": "iandees", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/261584?v=3", 
+        "name": "Ian Dees", 
+        "company": null, 
         "repositories": 8, 
-        "html_url": "https://github.com/iandees"
+        "html_url": "https://github.com/iandees", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/261584?v=3", 
+        "location": null, 
+        "login": "iandees", 
+        "contributions": 651
     }, 
     {
-        "contributions": 1, 
-        "login": "idan", 
+        "name": "Idan Gazit", 
+        "company": "Heroku", 
+        "repositories": 1, 
+        "html_url": "https://github.com/idan", 
+        "blog": "http://gazit.me", 
         "avatar_url": "https://avatars.githubusercontent.com/u/22723?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/idan"
+        "location": "Tel Aviv, Israel", 
+        "login": "idan", 
+        "contributions": 1
     }, 
     {
-        "contributions": 362, 
-        "login": "invisiblefunnel", 
+        "name": "Danny Whalen", 
+        "company": "Remix", 
+        "repositories": 1, 
+        "html_url": "https://github.com/invisiblefunnel", 
+        "blog": "http://getremix.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/331023?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/invisiblefunnel"
+        "location": "San Francisco, CA", 
+        "login": "invisiblefunnel", 
+        "contributions": 362
     }, 
     {
-        "contributions": 3, 
-        "login": "irwinwilliams", 
+        "name": "Irwin", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/irwinwilliams", 
+        "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/1428703?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/irwinwilliams"
+        "location": null, 
+        "login": "irwinwilliams", 
+        "contributions": 3
     }, 
     {
-        "contributions": 4, 
-        "login": "istvanp", 
+        "name": "Istvan Pusztai", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/istvanp", 
+        "blog": "istvan.co", 
         "avatar_url": "https://avatars.githubusercontent.com/u/179335?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/istvanp"
+        "location": "Montreal, Canada", 
+        "login": "istvanp", 
+        "contributions": 4
     }, 
     {
-        "contributions": 4, 
-        "login": "ivanov", 
+        "name": "Paul Ivanov", 
+        "company": "IPython", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ivanov", 
+        "blog": "http://pirsquared.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/118211?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/ivanov"
+        "location": null, 
+        "login": "ivanov", 
+        "contributions": 4
     }, 
     {
-        "contributions": 1, 
-        "login": "ivarvong", 
+        "name": "Ivar Vong", 
+        "company": "The Marshall Project", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ivarvong", 
+        "blog": "https://www.themarshallproject.org", 
         "avatar_url": "https://avatars.githubusercontent.com/u/183226?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/ivarvong"
+        "location": "NYC", 
+        "login": "ivarvong", 
+        "contributions": 1
     }, 
     {
-        "contributions": 4, 
-        "login": "j-po", 
+        "name": "Jonathan Polin", 
+        "company": "Level Money", 
+        "repositories": 1, 
+        "html_url": "https://github.com/j-po", 
+        "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/3677798?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/j-po"
+        "location": "Oakland, CA", 
+        "login": "j-po", 
+        "contributions": 4
     }, 
     {
-        "contributions": 3, 
-        "login": "jaakkoh", 
+        "name": "Jaakko Helleranta", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/jaakkoh", 
+        "blog": "http://about.me/jaakkoh", 
         "avatar_url": "https://avatars.githubusercontent.com/u/352079?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/jaakkoh"
+        "location": "Managua, NI", 
+        "login": "jaakkoh", 
+        "contributions": 3
     }, 
     {
-        "contributions": 24, 
-        "login": "jamesturk", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/8034?v=3", 
+        "name": "James Turk", 
+        "company": null, 
         "repositories": 2, 
-        "html_url": "https://github.com/jamesturk"
+        "html_url": "https://github.com/jamesturk", 
+        "blog": "https://jamesturk.net", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8034?v=3", 
+        "location": "Washington, DC", 
+        "login": "jamesturk", 
+        "contributions": 24
     }, 
     {
-        "contributions": 1, 
-        "login": "jasondavies", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/31223?v=3", 
+        "name": "Jason Davies", 
+        "company": "Jason Davies Ltd", 
         "repositories": 1, 
-        "html_url": "https://github.com/jasondavies"
+        "html_url": "https://github.com/jasondavies", 
+        "blog": "http://www.jasondavies.com/", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/31223?v=3", 
+        "location": "London, UK", 
+        "login": "jasondavies", 
+        "contributions": 1
     }, 
     {
         "contributions": 2, 

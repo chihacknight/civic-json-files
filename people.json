@@ -276,12 +276,12 @@
     }, 
     {
         "name": "John Brock", 
-        "company": null, 
+        "company": "Cylance, Inc.", 
         "repositories": 1, 
         "html_url": "https://github.com/JohnHBrock", 
         "blog": null, 
         "avatar_url": "https://avatars.githubusercontent.com/u/3038603?v=3", 
-        "location": "University of California, Irvine", 
+        "location": "Irvine, CA", 
         "login": "JohnHBrock", 
         "contributions": 79
     }, 

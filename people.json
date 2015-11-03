@@ -276,7 +276,7 @@
     }, 
     {
         "name": "John Brock", 
-        "company": "Cylance, Inc.", 
+        "company": "University of California, Irvine", 
         "repositories": 1, 
         "html_url": "https://github.com/JohnHBrock", 
         "blog": null, 
@@ -4423,10 +4423,10 @@
     }, 
     {
         "name": "Citizen", 
-        "company": "'murica", 
+        "company": null, 
         "repositories": 1, 
         "html_url": "https://github.com/zmaril", 
-        "blog": "twitter.com/zackmaril", 
+        "blog": "http://zacharymaril.com", 
         "avatar_url": "https://avatars.githubusercontent.com/u/539927?v=3", 
         "location": null, 
         "login": "zmaril", 

@@ -1672,125 +1672,81 @@
         "contributions": 1
     }, 
     {
-        "name": "Forest Gregg", 
-        "company": "University of Chicago, Department of Sociology", 
-        "repositories": 26, 
-        "html_url": "https://github.com/fgregg", 
-        "blog": "http://bunkum.us", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
-        "location": "Chicago, IL", 
+        "contributions": 2432, 
         "login": "fgregg", 
-        "contributions": 2432
+        "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
+        "repositories": 26, 
+        "html_url": "https://github.com/fgregg"
     }, 
     {
-        "name": "Adam Fishman", 
-        "company": null, 
-        "repositories": 3, 
-        "html_url": "https://github.com/fishmanadam", 
-        "blog": "http://www.fishmanadam.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1256533?v=3", 
-        "location": "Oakland, CA", 
+        "contributions": 113, 
         "login": "fishmanadam", 
-        "contributions": 113
+        "avatar_url": "https://avatars.githubusercontent.com/u/1256533?v=3", 
+        "repositories": 3, 
+        "html_url": "https://github.com/fishmanadam"
     }, 
     {
-        "name": "Mickael Allonneau", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/flawyte", 
-        "blog": "https://flawyte.github.io", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1585006?v=3", 
-        "location": "France", 
+        "contributions": 1, 
         "login": "flawyte", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/1585006?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/flawyte"
     }, 
     {
-        "name": "Farheen Malik", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/fma2", 
-        "blog": "http://farheen.nyc", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6879794?v=3", 
-        "location": "Brooklyn, NY", 
+        "contributions": 2, 
         "login": "fma2", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/6879794?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/fma2"
     }, 
     {
-        "name": "Liz", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/fosslien", 
-        "blog": "http://fosslien.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3111651?v=3", 
-        "location": null, 
+        "contributions": 2, 
         "login": "fosslien", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/3111651?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/fosslien"
     }, 
     {
-        "name": "Frank Wiles", 
-        "company": "Revolution Systems", 
-        "repositories": 1, 
-        "html_url": "https://github.com/frankwiles", 
-        "blog": "http://www.revsys.com/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/144159?v=3", 
-        "location": "Lawrence, KS", 
+        "contributions": 62, 
         "login": "frankwiles", 
-        "contributions": 62
+        "avatar_url": "https://avatars.githubusercontent.com/u/144159?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/frankwiles"
     }, 
     {
-        "name": "Jonathan Freeman", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/freethejazz", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1261421?v=3", 
-        "location": "Chicago, Il", 
+        "contributions": 11, 
         "login": "freethejazz", 
-        "contributions": 11
+        "avatar_url": "https://avatars.githubusercontent.com/u/1261421?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/freethejazz"
     }, 
     {
-        "name": "Fureigh", 
-        "company": "18F / Fureigh Consulting", 
-        "repositories": 1, 
-        "html_url": "https://github.com/fureigh", 
-        "blog": "http://www.twitter.com/fureigh", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1244599?v=3", 
-        "location": "Oakland, CA / Brooklyn, NY", 
+        "contributions": 3, 
         "login": "fureigh", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/1244599?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/fureigh"
     }, 
     {
-        "name": "Gaelle Sharma", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/gaelle2030", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4506159?v=3", 
-        "location": null, 
+        "contributions": 85, 
         "login": "gaelle2030", 
-        "contributions": 85
+        "avatar_url": "https://avatars.githubusercontent.com/u/4506159?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/gaelle2030"
     }, 
     {
-        "name": "Gaute Hvoslef Kvalnes", 
-        "company": "Sunnhordland", 
-        "repositories": 1, 
-        "html_url": "https://github.com/gaute", 
-        "blog": "http://www.sunnhordland.no/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/126962?v=3", 
-        "location": "Stord, Norway", 
+        "contributions": 2, 
         "login": "gaute", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/126962?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/gaute"
     }, 
     {
-        "name": "Gabriel Burt", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/gburt", 
-        "blog": "http://gabrielburt.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2048?v=3", 
-        "location": null, 
+        "contributions": 1, 
         "login": "gburt", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/2048?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/gburt"
     }, 
     {
         "contributions": 121, 

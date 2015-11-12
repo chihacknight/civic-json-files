@@ -2069,7 +2069,7 @@
     }, 
     {
         "name": "James Turk", 
-        "company": null, 
+        "company": "PBS Digital", 
         "repositories": 2, 
         "html_url": "https://github.com/jamesturk", 
         "blog": "https://jamesturk.net", 
@@ -4067,7 +4067,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/3439795?v=3", 
         "location": "Chicago", 
         "login": "theandrewbriggs", 
-        "contributions": 99
+        "contributions": 106
     }, 
     {
         "name": null, 

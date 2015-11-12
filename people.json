@@ -1680,7 +1680,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "location": "Chicago, IL", 
         "login": "fgregg", 
-        "contributions": 2432
+        "contributions": 2433
     }, 
     {
         "name": "Adam Fishman", 
@@ -4145,6 +4145,17 @@
         "location": "Chicago, IL", 
         "login": "tomschenkjr", 
         "contributions": 273
+    }, 
+    {
+        "name": "Tony Duan", 
+        "company": null, 
+        "repositories": 1, 
+        "html_url": "https://github.com/tonyduan", 
+        "blog": "www.tonyduan.com", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1163598?v=3", 
+        "location": "San Francisco", 
+        "login": "tonyduan", 
+        "contributions": 1
     }, 
     {
         "name": "Nick Bennett", 

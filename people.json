@@ -1383,7 +1383,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
         "location": "Chicago, IL", 
         "login": "derekeder", 
-        "contributions": 3413
+        "contributions": 3414
     }, 
     {
         "name": "Anatoly Bondarenko", 
@@ -1584,48 +1584,32 @@
         "contributions": 88
     }, 
     {
-        "name": null, 
-        "company": "ThoughtWorks", 
-        "repositories": 1, 
-        "html_url": "https://github.com/emirose", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/971283?v=3", 
-        "location": "Chicago, IL", 
+        "contributions": 9, 
         "login": "emirose", 
-        "contributions": 9
+        "avatar_url": "https://avatars.githubusercontent.com/u/971283?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/emirose"
     }, 
     {
-        "name": "Tharique Azeez", 
-        "company": "Niram Labs", 
-        "repositories": 1, 
-        "html_url": "https://github.com/enathu", 
-        "blog": "http://thariqueazeez.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/62147?v=3", 
-        "location": null, 
+        "contributions": 3, 
         "login": "enathu", 
-        "contributions": 3
+        "avatar_url": "https://avatars.githubusercontent.com/u/62147?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/enathu"
     }, 
     {
-        "name": "Eric Carty-Fickes", 
-        "company": "Northwestern University", 
-        "repositories": 1, 
-        "html_url": "https://github.com/ericcf", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/58693?v=3", 
-        "location": "Chicago, IL", 
+        "contributions": 1, 
         "login": "ericcf", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/58693?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/ericcf"
     }, 
     {
-        "name": "Emily Rowe Wiegand", 
-        "company": "Chapin Hall at the University of Chicago", 
-        "repositories": 1, 
-        "html_url": "https://github.com/erowewiegand", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3254445?v=3", 
-        "location": "Chicago, IL", 
+        "contributions": 126, 
         "login": "erowewiegand", 
-        "contributions": 126
+        "avatar_url": "https://avatars.githubusercontent.com/u/3254445?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/erowewiegand"
     }, 
     {
         "contributions": 4, 
@@ -1817,7 +1801,7 @@
         "html_url": "https://github.com/harperreed"
     }, 
     {
-        "contributions": 22, 
+        "contributions": 23, 
         "login": "hbillings", 
         "avatar_url": "https://avatars.githubusercontent.com/u/509309?v=3", 
         "repositories": 5, 
@@ -3175,7 +3159,7 @@
         "html_url": "https://github.com/tfmorris"
     }, 
     {
-        "contributions": 106, 
+        "contributions": 114, 
         "login": "theandrewbriggs", 
         "avatar_url": "https://avatars.githubusercontent.com/u/3439795?v=3", 
         "repositories": 2, 

@@ -1584,11 +1584,15 @@
         "contributions": 88
     }, 
     {
-        "contributions": 9, 
-        "login": "emirose", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/971283?v=3", 
+        "name": null, 
+        "company": "ThoughtWorks", 
         "repositories": 1, 
-        "html_url": "https://github.com/emirose"
+        "html_url": "https://github.com/emirose", 
+        "blog": null, 
+        "avatar_url": "https://avatars.githubusercontent.com/u/971283?v=3", 
+        "location": "Chicago, IL", 
+        "login": "emirose", 
+        "contributions": 9
     }, 
     {
         "contributions": 3, 
@@ -1640,7 +1644,7 @@
         "html_url": "https://github.com/fawcett"
     }, 
     {
-        "contributions": 2434, 
+        "contributions": 2437, 
         "login": "fgregg", 
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "repositories": 26, 

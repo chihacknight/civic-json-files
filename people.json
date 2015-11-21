@@ -1584,15 +1584,11 @@
         "contributions": 88
     }, 
     {
-        "name": null, 
-        "company": "ThoughtWorks", 
-        "repositories": 1, 
-        "html_url": "https://github.com/emirose", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/971283?v=3", 
-        "location": "Chicago, IL", 
+        "contributions": 9, 
         "login": "emirose", 
-        "contributions": 9
+        "avatar_url": "https://avatars.githubusercontent.com/u/971283?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/emirose"
     }, 
     {
         "contributions": 3, 

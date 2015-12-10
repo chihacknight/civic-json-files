@@ -1364,48 +1364,32 @@
         "contributions": 1
     }, 
     {
-        "name": null, 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/deltakam", 
-        "blog": null, 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1202681?v=3", 
-        "location": null, 
+        "contributions": 7, 
         "login": "deltakam", 
-        "contributions": 7
+        "avatar_url": "https://avatars.githubusercontent.com/u/1202681?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/deltakam"
     }, 
     {
-        "name": "Derek Eder", 
-        "company": "DataMade, Open City, Chi Hack Night", 
-        "repositories": 48, 
-        "html_url": "https://github.com/derekeder", 
-        "blog": "http://derekeder.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
-        "location": "Chicago, IL", 
+        "contributions": 3422, 
         "login": "derekeder", 
-        "contributions": 3421
+        "avatar_url": "https://avatars.githubusercontent.com/u/919583?v=3", 
+        "repositories": 48, 
+        "html_url": "https://github.com/derekeder"
     }, 
     {
-        "name": "Anatoly Bondarenko", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/devrand", 
-        "blog": "http://texty.org.ua", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/45061?v=3", 
-        "location": null, 
+        "contributions": 2, 
         "login": "devrand", 
-        "contributions": 2
+        "avatar_url": "https://avatars.githubusercontent.com/u/45061?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/devrand"
     }, 
     {
-        "name": "Dirk Kelly", 
-        "company": "InterExchange", 
-        "repositories": 1, 
-        "html_url": "https://github.com/dirkkelly", 
-        "blog": "http://www.dirkkelly.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/81055?v=3", 
-        "location": "Brooklyn, New York", 
+        "contributions": 70, 
         "login": "dirkkelly", 
-        "contributions": 70
+        "avatar_url": "https://avatars.githubusercontent.com/u/81055?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/dirkkelly"
     }, 
     {
         "contributions": 22, 
@@ -1569,7 +1553,7 @@
         "html_url": "https://github.com/fawcett"
     }, 
     {
-        "contributions": 2459, 
+        "contributions": 2460, 
         "login": "fgregg", 
         "avatar_url": "https://avatars.githubusercontent.com/u/536941?v=3", 
         "repositories": 26, 
@@ -2624,6 +2608,13 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/1166000?v=3", 
         "repositories": 1, 
         "html_url": "https://github.com/potash"
+    }, 
+    {
+        "contributions": 1, 
+        "login": "primoz-k", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4609507?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/primoz-k"
     }, 
     {
         "contributions": 8, 

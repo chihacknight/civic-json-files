@@ -1408,48 +1408,32 @@
         "contributions": 70
     }, 
     {
-        "name": "John Malc", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/dmpe", 
-        "blog": "https://indestat.wordpress.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1799661?v=3", 
-        "location": "The Web", 
+        "contributions": 22, 
         "login": "dmpe", 
-        "contributions": 22
+        "avatar_url": "https://avatars.githubusercontent.com/u/1799661?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/dmpe"
     }, 
     {
-        "name": "Dan Fehrenbach", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/dnfehren", 
-        "blog": "dnfehrenbach.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/206100?v=3", 
-        "location": "Chicago", 
+        "contributions": 5, 
         "login": "dnfehren", 
-        "contributions": 5
+        "avatar_url": "https://avatars.githubusercontent.com/u/206100?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/dnfehren"
     }, 
     {
-        "name": "Drew Dara-Abrams", 
-        "company": null, 
-        "repositories": 1, 
-        "html_url": "https://github.com/drewda", 
-        "blog": "http://drew.dara-abrams.com/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/212369?v=3", 
-        "location": "California", 
+        "contributions": 1, 
         "login": "drewda", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/212369?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/drewda"
     }, 
     {
-        "name": "Drew Freyling", 
-        "company": "Dingu Blue", 
-        "repositories": 1, 
-        "html_url": "https://github.com/drewfreyling", 
-        "blog": "http://decompile.it/blog/", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1145869?v=3", 
-        "location": "Brisbane, Australia", 
+        "contributions": 1, 
         "login": "drewfreyling", 
-        "contributions": 1
+        "avatar_url": "https://avatars.githubusercontent.com/u/1145869?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/drewfreyling"
     }, 
     {
         "contributions": 11, 
@@ -1781,7 +1765,7 @@
         "html_url": "https://github.com/hunterowens"
     }, 
     {
-        "contributions": 653, 
+        "contributions": 655, 
         "login": "iandees", 
         "avatar_url": "https://avatars.githubusercontent.com/u/261584?v=3", 
         "repositories": 8, 
@@ -1898,6 +1882,13 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/322468?v=3", 
         "repositories": 1, 
         "html_url": "https://github.com/jeffhaack"
+    }, 
+    {
+        "contributions": 11, 
+        "login": "jefw", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7562476?v=3", 
+        "repositories": 1, 
+        "html_url": "https://github.com/jefw"
     }, 
     {
         "contributions": 7, 
@@ -3181,7 +3172,7 @@
         "html_url": "https://github.com/tomca32"
     }, 
     {
-        "contributions": 274, 
+        "contributions": 276, 
         "login": "tomschenkjr", 
         "avatar_url": "https://avatars.githubusercontent.com/u/1639121?v=3", 
         "repositories": 10, 

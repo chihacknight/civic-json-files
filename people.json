@@ -558,7 +558,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/4401271?v=3", 
         "location": "Chicago, IL, USA", 
         "login": "alexkahn", 
-        "contributions": 58
+        "contributions": 60
     }, 
     {
         "name": "Alex Mach", 
@@ -944,17 +944,6 @@
         "location": null, 
         "login": "brentpayne", 
         "contributions": 11
-    }, 
-    {
-        "name": "Bret Walker", 
-        "company": "Salesforce", 
-        "repositories": 1, 
-        "html_url": "https://github.com/bretwalker", 
-        "blog": "https://www.louiewatch.com", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/181698?v=3", 
-        "location": "Louisville, KY", 
-        "login": "bretwalker", 
-        "contributions": 4
     }, 
     {
         "name": "Brian Kung", 
@@ -2681,7 +2670,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/11820006?v=3", 
         "location": "Chicago, IL", 
         "login": "lw334", 
-        "contributions": 3
+        "contributions": 7
     }, 
     {
         "name": "Lyzi Diamond", 

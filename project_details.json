@@ -1503,7 +1503,7 @@
                 "owner": false, 
                 "login": "theandrewbriggs", 
                 "avatar_url": "https://avatars.githubusercontent.com/u/3439795?v=3", 
-                "contributions": 49, 
+                "contributions": 52, 
                 "html_url": "https://github.com/theandrewbriggs"
             }, 
             {
@@ -1571,7 +1571,7 @@
         "name": "chicago-early-learning", 
         "language": "JavaScript", 
         "created_at": "2012-07-19T23:08:40Z", 
-        "pushed_at": "2015-12-22T21:17:38Z", 
+        "pushed_at": "2015-12-23T01:39:40Z", 
         "watchers_count": 12, 
         "open_issues": 34, 
         "homepage": "http://chicagoearlylearning.org/", 
@@ -6308,7 +6308,7 @@
         "name": "plenario", 
         "language": "JavaScript", 
         "created_at": "2013-12-04T21:12:31Z", 
-        "pushed_at": "2015-12-22T22:46:32Z", 
+        "pushed_at": "2015-12-23T02:19:17Z", 
         "watchers_count": 72, 
         "open_issues": 35, 
         "homepage": "http://plenar.io", 
@@ -9787,7 +9787,7 @@
         "created_at": "2012-04-20T14:57:36Z", 
         "pushed_at": "2015-12-15T15:10:00Z", 
         "watchers_count": 711, 
-        "open_issues": 7, 
+        "open_issues": 8, 
         "homepage": "https://github.com/datamade/dedupe", 
         "participation": [
             13, 
@@ -10237,7 +10237,7 @@
             }
         ], 
         "contributors_url": "https://api.github.com/repos/NYCComptroller/Checkbook/contributors", 
-        "forks_count": 14, 
+        "forks_count": 15, 
         "html_url": "https://github.com/NYCComptroller/Checkbook", 
         "updated_at": "2015-06-09T21:11:44Z", 
         "project_needs": [], 
@@ -10251,9 +10251,9 @@
         "name": "Checkbook", 
         "language": "HTML", 
         "created_at": "2013-04-16T19:01:11Z", 
-        "pushed_at": "2015-12-21T19:05:04Z", 
+        "pushed_at": "2015-12-23T05:13:09Z", 
         "watchers_count": 35, 
-        "open_issues": 21, 
+        "open_issues": 22, 
         "homepage": null, 
         "participation": [
             1, 
@@ -12496,7 +12496,7 @@
         "contributors_url": "https://api.github.com/repos/NUKnightLab/TimelineJS/contributors", 
         "forks_count": 1599, 
         "html_url": "https://github.com/NUKnightLab/TimelineJS", 
-        "updated_at": "2015-12-22T15:17:41Z", 
+        "updated_at": "2015-12-23T01:37:06Z", 
         "project_needs": [], 
         "owner": {
             "login": "NUKnightLab", 
@@ -12509,7 +12509,7 @@
         "language": "JavaScript", 
         "created_at": "2012-03-06T02:12:20Z", 
         "pushed_at": "2015-10-27T17:48:24Z", 
-        "watchers_count": 7978, 
+        "watchers_count": 7980, 
         "open_issues": 176, 
         "homepage": "http://timeline.knightlab.com", 
         "participation": [

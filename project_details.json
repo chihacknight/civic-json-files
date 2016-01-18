@@ -9081,7 +9081,7 @@
         "contributors_url": "https://api.github.com/repos/datamade/parserator/contributors", 
         "forks_count": 15, 
         "html_url": "https://github.com/datamade/parserator", 
-        "updated_at": "2016-01-18T02:59:45Z", 
+        "updated_at": "2016-01-18T06:03:55Z", 
         "project_needs": [], 
         "owner": {
             "login": "datamade", 
@@ -9094,7 +9094,7 @@
         "language": "Python", 
         "created_at": "2014-10-16T03:54:11Z", 
         "pushed_at": "2015-12-08T17:36:07Z", 
-        "watchers_count": 285, 
+        "watchers_count": 286, 
         "open_issues": 6, 
         "homepage": "http://parserator.datamade.us", 
         "participation": [

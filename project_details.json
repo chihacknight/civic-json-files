@@ -754,7 +754,7 @@
         "contributors_url": "https://api.github.com/repos/Chicago/open-data-etl-utility-kit/contributors", 
         "forks_count": 18, 
         "html_url": "https://github.com/Chicago/open-data-etl-utility-kit", 
-        "updated_at": "2016-01-10T20:08:40Z", 
+        "updated_at": "2016-01-20T12:02:41Z", 
         "project_needs": [], 
         "owner": {
             "login": "Chicago", 
@@ -767,7 +767,7 @@
         "language": "Shell", 
         "created_at": "2014-09-12T02:28:22Z", 
         "pushed_at": "2015-12-09T20:14:43Z", 
-        "watchers_count": 46, 
+        "watchers_count": 47, 
         "open_issues": 12, 
         "homepage": "", 
         "participation": [

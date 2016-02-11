@@ -1,116 +1,202 @@
 [
     {
-        "login": "AnalyticsMJ", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/5502544?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/AnalyticsMJ"
-    }, 
+        "blog": null,
+        "avatar_url": "https://avatars.githubusercontent.com/u/5502544?v=3",
+        "location": null,
+        "login": "AnalyticsMJ",
+        "repositories": 1,
+        "html_url": "https://github.com/AnalyticsMJ",
+        "name": null,
+        "company": null
+    },
     {
-        "login": "BetaNYC", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3756624?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/BetaNYC"
-    }, 
+        "blog": "http://beta.nyc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3756624?v=3",
+        "location": "New York City, NY",
+        "login": "BetaNYC",
+        "repositories": 1,
+        "html_url": "https://github.com/BetaNYC",
+        "name": "BetaNYC",
+        "company": null
+    },
     {
-        "login": "Chicago", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/838189?v=3", 
-        "repositories": 13, 
-        "html_url": "https://github.com/Chicago"
-    }, 
+        "blog": "http://dev.cityofchicago.org/",
+        "avatar_url": "https://avatars.githubusercontent.com/u/838189?v=3",
+        "location": "Chicago, IL",
+        "login": "Chicago",
+        "repositories": 13,
+        "html_url": "https://github.com/Chicago",
+        "name": "City of Chicago",
+        "company": null
+    },
     {
-        "login": "NUKnightLab", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1273909?v=3", 
-        "repositories": 4, 
-        "html_url": "https://github.com/NUKnightLab"
-    }, 
+        "blog": null,
+        "avatar_url": "https://avatars.githubusercontent.com/u/1273909?v=3",
+        "location": null,
+        "login": "NUKnightLab",
+        "repositories": 4,
+        "html_url": "https://github.com/NUKnightLab",
+        "name": null,
+        "company": null
+    },
     {
-        "login": "NYCComptroller", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3987867?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/NYCComptroller"
-    }, 
+        "blog": "http://comptroller.nyc.gov/",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3987867?v=3",
+        "location": "New York, NY, USA",
+        "login": "NYCComptroller",
+        "repositories": 1,
+        "html_url": "https://github.com/NYCComptroller",
+        "name": "Office of the Comptroller, City of New York",
+        "company": null
+    },
     {
-        "login": "UrbanCCD-UChicago", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6922503?v=3", 
-        "repositories": 2, 
-        "html_url": "https://github.com/UrbanCCD-UChicago"
-    }, 
+        "blog": null,
+        "avatar_url": "https://avatars.githubusercontent.com/u/6922503?v=3",
+        "location": null,
+        "login": "UrbanCCD-UChicago",
+        "repositories": 2,
+        "html_url": "https://github.com/UrbanCCD-UChicago",
+        "name": null,
+        "company": null
+    },
     {
-        "login": "associatedpress", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1165910?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/associatedpress"
-    }, 
+        "blog": "http://www.ap.org/",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1165910?v=3",
+        "location": "Tri-coastal!",
+        "login": "associatedpress",
+        "repositories": 1,
+        "html_url": "https://github.com/associatedpress",
+        "name": "Associated Press",
+        "company": null
+    },
     {
-        "login": "bnjy-opengov", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6101064?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/bnjy-opengov"
-    }, 
+        "blog": null,
+        "avatar_url": "https://avatars.githubusercontent.com/u/6101064?v=3",
+        "location": null,
+        "login": "bnjy-opengov",
+        "repositories": 1,
+        "html_url": "https://github.com/bnjy-opengov",
+        "name": null,
+        "company": null
+    },
     {
-        "login": "censusreporter", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3924386?v=3", 
-        "repositories": 3, 
-        "html_url": "https://github.com/censusreporter"
-    }, 
+        "blog": "http://censusreporter.org/",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3924386?v=3",
+        "location": null,
+        "login": "censusreporter",
+        "repositories": 3,
+        "html_url": "https://github.com/censusreporter",
+        "name": "Census Reporter",
+        "company": null
+    },
     {
-        "login": "cfachicago", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2198110?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/cfachicago"
-    }, 
+        "blog": "brigade.codeforamerica.org",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2198110?v=3",
+        "location": "Chicago, IL",
+        "login": "cfachicago",
+        "repositories": 1,
+        "html_url": "https://github.com/cfachicago",
+        "name": "Code for America Chicago Brigade",
+        "company": null
+    },
     {
-        "login": "chi-civic-hacking-howto", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/6590901?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/chi-civic-hacking-howto"
-    }, 
+        "blog": null,
+        "avatar_url": "https://avatars.githubusercontent.com/u/6590901?v=3",
+        "location": null,
+        "login": "chi-civic-hacking-howto",
+        "repositories": 1,
+        "html_url": "https://github.com/chi-civic-hacking-howto",
+        "name": null,
+        "company": null
+    },
     {
-        "login": "codeforamerica", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
-        "repositories": 3, 
-        "html_url": "https://github.com/codeforamerica"
-    }, 
+        "blog": "http://chihacknight.org/",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12619450?v=3",
+        "location": "Chicago",
+        "login": "chihacknight",
+        "repositories": 1,
+        "html_url": "https://github.com/chihacknight",
+        "name": "Chi Hack Night",
+        "company": null
+    },
     {
-        "login": "datamade", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3723931?v=3", 
-        "repositories": 20, 
-        "html_url": "https://github.com/datamade"
-    }, 
+        "blog": "http://codeforamerica.org",
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3",
+        "location": null,
+        "login": "codeforamerica",
+        "repositories": 3,
+        "html_url": "https://github.com/codeforamerica",
+        "name": "Code for America",
+        "company": null
+    },
     {
-        "login": "dssg", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/3827384?v=3", 
-        "repositories": 7, 
-        "html_url": "https://github.com/dssg"
-    }, 
+        "blog": "http://datamade.us",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3723931?v=3",
+        "location": "Chicago, IL",
+        "login": "datamade",
+        "repositories": 20,
+        "html_url": "https://github.com/datamade",
+        "name": "datamade",
+        "company": null
+    },
     {
-        "login": "newsapps", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/317822?v=3", 
-        "repositories": 4, 
-        "html_url": "https://github.com/newsapps"
-    }, 
+        "blog": "http://dssg.uchicago.edu",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3827384?v=3",
+        "location": "Chicago, IL",
+        "login": "dssg",
+        "repositories": 7,
+        "html_url": "https://github.com/dssg",
+        "name": "Data Science for Social Good",
+        "company": null
+    },
     {
-        "login": "open-city", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/1361807?v=3", 
-        "repositories": 14, 
-        "html_url": "https://github.com/open-city"
-    }, 
+        "blog": "http://apps.chicagotribune.com",
+        "avatar_url": "https://avatars.githubusercontent.com/u/317822?v=3",
+        "location": "Chicago, IL",
+        "login": "newsapps",
+        "repositories": 4,
+        "html_url": "https://github.com/newsapps",
+        "name": "Tribune News Applications Team",
+        "company": null
+    },
     {
-        "login": "sc3", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2393454?v=3", 
-        "repositories": 3, 
-        "html_url": "https://github.com/sc3"
-    }, 
+        "blog": "http://opencityapps.org/",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1361807?v=3",
+        "location": "Chicago, IL",
+        "login": "open-city",
+        "repositories": 13,
+        "html_url": "https://github.com/open-city",
+        "name": "Open City",
+        "company": null
+    },
     {
-        "login": "smartchicago", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/2008099?v=3", 
-        "repositories": 13, 
-        "html_url": "https://github.com/smartchicago"
-    }, 
+        "blog": null,
+        "avatar_url": "https://avatars.githubusercontent.com/u/2393454?v=3",
+        "location": null,
+        "login": "sc3",
+        "repositories": 3,
+        "html_url": "https://github.com/sc3",
+        "name": null,
+        "company": null
+    },
     {
-        "login": "vivelohoy", 
-        "avatar_url": "https://avatars.githubusercontent.com/u/4359684?v=3", 
-        "repositories": 1, 
-        "html_url": "https://github.com/vivelohoy"
+        "blog": "http://www.smartchicagocollaborative.org",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2008099?v=3",
+        "location": "Chicago, Illinois, USA",
+        "login": "smartchicago",
+        "repositories": 13,
+        "html_url": "https://github.com/smartchicago",
+        "name": "Smart Chicago Collaborative",
+        "company": null
+    },
+    {
+        "blog": "http://www.vivelohoy.com/",
+        "avatar_url": "https://avatars.githubusercontent.com/u/4359684?v=3",
+        "location": "435 N. Michigan Ave., 2nd floor, Chicago, IL 60611",
+        "login": "vivelohoy",
+        "repositories": 1,
+        "html_url": "https://github.com/vivelohoy",
+        "name": "Hoy",
+        "company": null
     }
 ]
